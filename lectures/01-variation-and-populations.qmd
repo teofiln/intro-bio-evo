@@ -1,0 +1,127 @@
+---
+title: "Variación biológica y pensamiento poblacional"
+subtitle: "Intro Bio I (B0160): Modulo Evolución"
+format:
+  revealjs:
+    slide-number: true
+---
+
+## Metas
+
+1. Establecer qué es evolución.
+2. Evitar el pensamiento teleológico (**no teológico**).
+3. Construir intuición sobre poblaciones, variación y aptitud.
+
+> Reformular nuestra forma de pensar sobre el cambio biológico
+
+## Ser capaces de
+
+- Definir evolución como cambio en poblaciones a lo largo de generaciones.
+- Distinguir cambios en individuos de cambios en poblaciones.
+- Explicar por qué la variación entre individuos es importante.
+- Reconocer que la aptitud depende del entorno.
+- Identificar errores comunes:
+  - los individuos no evolucionan.
+  - los organismos no evolucionan porque "necesitan" rasgos.
+  - la evolución no está dirigida hacia una meta.
+
+
+# Parte A - ¿Por qué los organismos son diferentes? {background-color="#E8F5E9"}
+
+---
+
+![](01-assets/human-height-histogram-2.jpg)
+
+---
+
+![](01-assets/cat-variation.jpg)
+
+---
+
+![](01-assets/cichlid-variation.avif)
+
+---
+
+![](01-assets/mushroom-variation.jpeg)
+
+---
+
+![](01-assets/seashell-variation.jpg)
+
+
+## Variacion adentro y entre especies
+
+- La variacion es lo normal en la biologia
+- No existen especies ni poblaciones perfectamente uniformes
+
+
+# Parte B - Que significa 'Evolucion' {background-color="#E8F5E9"}
+
+
+## Definicion
+
+> Evolucion = cambio en las características **hereditarias** de **poblaciones** a lo largo de **generaciones**
+
+---
+
+![](01-assets/hare-summer-winter.webp)
+
+Evolucion? Si o no?
+
+---
+
+![](01-assets/hare-summer-winter.webp)
+
+Evolucion? Si o no?
+
+> No. Cambio en un individuo entre estaciones.
+
+---
+
+![](01-assets/obama-grey.webp)
+
+Evolucion? Si o no?
+
+---
+
+![](01-assets/obama-grey.webp)
+
+Evolucion? Si o no?
+
+> No. Cambio en un individuo a lo largo de su vida.
+
+---
+
+![](01-assets/bacteria-resistance-evolution.png)
+
+Evolucion? Si o no?
+
+---
+
+![](01-assets/bacteria-resistance-evolution.png)
+
+Evolucion? Si o no?
+
+> Si. Cambio en la frecuencia de individuos resistentes a antibioticos entre generationes.
+
+---
+
+![](01-assets/wolf-dog.webp)
+
+Evolucion? Si o no?
+
+---
+
+![](01-assets/wolf-dog.webp)
+
+Evolucion? Si o no?
+
+> Si. Seleccion artificial para razgos deseables cambia las caracteristicas hereditarias en poblaciones domesticadas. 
+
+---
+
+moth
+
+
+
+
