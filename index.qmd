@@ -5,38 +5,63 @@ author: "Universidad de Costa Rica"
 date: "Mayo 2026"
 ---
 
-## Bienvenido
+## Resumen del modulo
 
-Este sitio contiene los materiales del modulo de **Evolucion** de **Intro Bio I (B0160)**.
+Este sitio resume el modulo de **Evolucion** de **Intro Bio I (B0160)**. El enfoque general es entender la evolucion como un proceso poblacional: las poblaciones cambian a lo largo de generaciones porque existe variacion entre individuos, parte de esa variacion es heredable, y distintos procesos pueden cambiar la frecuencia de variantes en la poblacion.
 
-- **Clases**: presentaciones interactivas del modulo.
-- **Materiales**: programa del modulo y mensajes clave de cierre.
+### Contexto y estructura
 
----
-
-## Idea central del modulo
-
-La evolucion se presenta aqui como un proceso poblacional: las poblaciones cambian a lo largo de generaciones porque existe variacion hereditaria entre individuos y esa variacion puede asociarse con diferencias de aptitud en distintos entornos.
+- Duracion del modulo: 7 semanas.
+- Ritmo esperado: 2 clases por semana, excepto la ultima semana.
+- Evaluacion formal: quizzes quincenales y examen final del modulo.
+- Actividades recurrentes de aprendizaje: worksheets grupales.
 
 ---
 
-## Navegacion del sitio
+## Enfoque conceptual
 
-Usa el menu superior para entrar a:
+El modulo se organiza alrededor de tres distinciones centrales:
 
-- **Clases** para ver las diapositivas del modulo.
-- **Materiales** para consultar el programa y el resumen de ideas principales.
+1. Cambio individual vs cambio poblacional.
+2. Plasticidad fenotipica vs adaptacion evolutiva.
+3. Seleccion natural vs otros procesos como azar, migracion o mutacion.
+
+La meta no es memorizar definiciones aisladas, sino construir razonamiento evolutivo para interpretar evidencia, comparar hipotesis y predecir cambio poblacional.
 
 ---
 
-## Estructura general del modulo
+## Metas principales
 
-| Bloque | Enfoque |
-|---|---|
-| Variacion y cambio poblacional | Diferenciar cambio individual de cambio poblacional |
-| Evidencia evolutiva | Comparar lineas de evidencia e inferencia |
-| Mecanismos evolutivos | Seleccion, deriva, flujo genico y mutacion |
-| Sintesis | Especiacion, filogenias y aplicaciones |
+::: {.incremental}
+- Entender evolucion como cambio en poblaciones a lo largo de generaciones.
+- Entender la variacion biologica como base de la evolucion.
+- Entender como el ambiente influye en fenotipos y aptitud.
+- Entender las principales lineas de evidencia evolutiva.
+- Entender como seleccion, deriva, flujo genico y mutacion cambian poblaciones.
+- Integrar estos conceptos en problemas biologicos actuales.
+:::
+
+---
+
+## Plan general por bloques
+
+| Semanas | Bloque | Enfoque |
+|---|---|---|
+| 1 | Variacion biologica y cambio poblacional | Individuos vs poblaciones; rasgos; distribuciones |
+| 2 | Evidencias de evolucion | Fosiles, homologias, biogeografia, evidencia directa |
+| 3 | Plasticidad y Hardy-Weinberg | Ambiente, normas de reaccion, modelo nulo |
+| 4 | Mutacion y seleccion natural | Variacion heredable, aptitud y cambio poblacional |
+| 5 | Deriva genetica y flujo genico | Cambio por azar y conectividad entre poblaciones |
+| 6 | Especiacion, extincion y filogenias | Divergencia, ancestro comun, lectura de arboles |
+| 7 | Aplicaciones y sintesis | Resistencia, conservacion, cambio ambiental |
+
+---
+
+## Evaluacion y aprendizaje activo
+
+- **Quizzes quincenales**: verificacion breve de comprension conceptual.
+- **Worksheets grupales**: herramienta de aprendizaje activo para aplicar conceptos en equipo (no calificada).
+- **Examen de cierre**: integracion de evidencia y mecanismos.
 
 ---
 

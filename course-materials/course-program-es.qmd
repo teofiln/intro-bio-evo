@@ -14,10 +14,10 @@ format:
 
 - Duracion del modulo: 7 semanas.
 - Carga semanal: 2 clases por semana, 2 horas por clase (4 horas/semana), excepto la ultima semana (1 clase).
-- Evaluacion del modulo: examen de cierre el 10 de julio.
+- Evaluacion formal del modulo: quizzes quincenales y examen de cierre el 10 de julio.
 - Ritmo de actividades del modulo:
   - Quiz corto cada dos semanas (10 minutos al inicio de clase).
-  - Hoja de trabajo semanal (30 minutos al final de la segunda clase), en grupos, con aplicacion de los temas de la semana.
+  - Hoja de trabajo semanal (30 minutos al final de la segunda clase), en grupos, como practica de aprendizaje activo.
 
 ## Enfoque general del modulo
 
@@ -45,7 +45,7 @@ El objetivo no es memorizar definiciones aisladas, sino desarrollar razonamiento
 
 ## Plan semanal
 
-| Semana | Tema | Clase 1 (2 h) | Clase 2 (2 h) | Quiz (10 min inicio) | Worksheet grupal (30 min final clase 2) |
+| Semana | Tema | Clase 1 (2 h) | Clase 2 (2 h) | Quiz (10 min inicio) | Actividad grupal de aprendizaje (30 min final clase 2) |
 |---|---|---|---|---|---|
 | 1 | Variacion biologica y cambio poblacional | Introduccion al modulo; que significa que una poblacion evoluciona; individuos vs poblaciones; rasgos y distribuciones de rasgos | Examen modulo Genetica | No | No |
 | 2 | Evidencias de evolucion y metodos evolutivos | Fosiles, homologias, biogeografia y evidencia directa contemporanea | Como estudiamos la evolucion: evidencia, inferencia, comparacion de hipotesis y limites | Quiz 1 (Semanas 1-2) | W2: Identificar lineas de evidencia y construir una explicacion evolutiva basada en datos |
@@ -55,7 +55,7 @@ El objetivo no es memorizar definiciones aisladas, sino desarrollar razonamiento
 | 6 | Especiacion, extincion y filogenias | Especiacion y extincion: aislamiento reproductivo, divergencia, extincion de fondo vs masiva e impacto humano | Filogenias: lectura de arboles, nodos, clados, grupo hermano, ancestro comun y evolucion de rasgos | Quiz 3 (Semanas 5-6) | W6: Interpretar filogenias y evitar errores comunes de lectura de arboles |
 | 7 | Aplicaciones y sintesis | Aplicar evolucion a problemas actuales: resistencia, conservacion, cambio ambiental y salud humana | Examen modulo Evolucion | No | No |
 
-## Instrumentos de evaluacion del modulo
+## Evaluacion y aprendizaje activo del modulo
 
 ### Quizzes quincenales
 
@@ -64,11 +64,11 @@ El objetivo no es memorizar definiciones aisladas, sino desarrollar razonamiento
 - Proposito: verificacion rapida de comprension de conceptos clave de las dos semanas previas.
 - Enfoque: preguntas cortas de interpretacion conceptual, prediccion o identificacion de mecanismos evolutivos.
 
-### Worksheets semanales (grupales)
+### Worksheets semanales (grupales, no calificados)
 
 - Duracion: 30 minutos al final de la segunda clase de cada semana.
 - Frecuencia: semanal, excepto semanas con examen u otra actividad que lo impida.
-- Proposito: aplicar conceptos de la semana en problemas autenticos y discutir razonamiento.
+- Proposito: aplicar conceptos de la semana en problemas autenticos, practicar razonamiento y discutir en grupo.
 - Enfoque general:
   - interpretar datos, graficos o escenarios biologicos;
   - distinguir entre mecanismos evolutivos alternativos;
