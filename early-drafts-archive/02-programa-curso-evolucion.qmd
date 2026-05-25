@@ -1,0 +1,67 @@
+---
+title: "Programa del modulo: Evolucion"
+subtitle: "Intro Bio I (B0160)"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+## Contexto y estructura
+
+- Duracion del modulo: 7 semanas
+- Carga semanal: 2 clases por semana, 2 horas por clase (4 horas/semana), excepto la ultima semana (1 clase).
+- Evaluacion del modulo: examen de cierre el 10 de julio.
+- Ritmo de actividades del modulo:
+  - Quiz corto cada dos semanas (10 minutos al inicio de clase).
+  - Hoja de trabajo semanal (30 minutos al final de la segunda clase), en grupos, con aplicacion de los temas de la semana.
+
+## Metas principales de aprendizaje
+
+1. Entender evolucion como cambio en poblaciones a lo largo de generaciones, y distinguir cambio individual vs cambio poblacional.
+2. Entender las lineas de evidencia de la evolucion: registro fosil, homologias, biogeografia y cambios evolutivos observables.
+3. Entender Hardy-Weinberg como modelo nulo (equilibrio) y usarlo para razonar como las fuerzas evolutivas rompen ese equilibrio.
+4. Entender como mutacion y seleccion natural producen adaptacion.
+5. Entender como deriva genetica y flujo genico cambian la composicion genetica de poblaciones.
+6. Entender especiacion y patrones de extincion (fondo y masiva), e interpretar filogenias para inferir ancestro comun, parentesco relativo y evolucion de rasgos.
+7. Aplicar evolucion a problemas actuales (resistencia a antibioticos, conservacion, cambio ambiental) e integrar conceptos del modulo.
+
+## Plan semanal (1 meta por semana)
+
+| Semana | Tema | Clase 1 (2 h) | Clase 2 (2 h) | Quiz (10 min inicio) | Worksheet grupal (30 min final clase 2) |
+|---|---|---|---|---|---|
+| 1 | Cambio evolutivo en poblaciones | Introduccion al modulo; conceptos base de evolucion poblacional | Examen modulo Genetica | No | |
+| 2 | Evidencias de evolucion, metodos evolutivos | Fosiles, homologias, biogeografia, evidencia directa contemporanea | Como estudiamos la evolucion: metodos, evidencia y limites | Quiz 1 (Semanas 1-2) | W2: estudios de caso para identificar tipo de evidencia y metodos |
+| 3 | Hardy-Weinberg como modelo nulo | Equilibrio HW como referencia, supuestos y significado biologico | Fuerzas evolutivas como desviaciones del equilibrio | No | W3: Practica Hardy-Weinberg |
+| 4 | Mutacion y seleccion natural | Mutacion y variacion heredable: origen de nuevos alelos, tipos basicos y errores frecuentes | Seleccion natural y aptitud | Quiz 2 (Semanas 3-4) | W4: estudio de casos para predecir cambio poblacional |
+| 5 | Deriva genetica y flujo genico | Deriva genetica, efecto fundador, cuello de botella | Migracion (flujo genico) | No | W5: estudio de casos para distinguir cambio por azar vs cambio por migracion |
+| 6 | Especiacion, extincion y filogenias | Especiacion y extincion: concepto de especie, aislamiento reproductivo, extincion de fondo vs masiva e impacto humano | Filogenias: lectura de arboles (nodos, clados, grupo hermano, ancestro comun) | Quiz 3 (Semanas 5-6) | W6: inferencia de filogenias |
+| 7 | Aplicaciones y sintesis | Aplicar evolucion a problemas actuales (resistencia, conservacion, cambio ambiental)  | Examen modulo Evolucion | No | No |
+
+## Instrumentos de evaluacion del modulo
+
+### Quizzes quincenales
+
+- Duracion: 10 minutos al inicio de clase.
+- Frecuencia: semanas 2, 4 y 6.
+- Proposito: verificacion rapida de comprension de conceptos clave de las dos semanas previas.
+
+### Hojas de trabajo semanales (grupales)
+
+- Duracion: 30 minutos al final de la segunda clase de cada semana (en la semana final, al cierre de la clase unica).
+- Frecuencia: semanal (W2-W6).
+- Proposito: aplicar conceptos de la semana en problemas autenticos y discutir razonamiento.
+
+### Examen de cierre (10 de julio)
+
+- Cobertura: metas 1-7, con enfasis en integracion de evidencia + mecanismos.
+
+## Criterios de logro por meta (version breve)
+
+1. Define evolucion poblacional correctamente.
+2. Argumenta una conclusion evolutiva usando al menos dos lineas de evidencia.
+3. Usa Hardy-Weinberg como linea base y reconoce como seleccion, deriva, flujo genico y mutacion alteran el equilibrio.
+4. Explica como la mutacion genera variacion heredable y como la seleccion natural opera sobre esa variacion.
+5. Diferencia cambios por azar (deriva) vs cambios por intercambio poblacional (flujo).
+6. Explica rutas basicas de especiacion, diferencia extincion de fondo de extincion masiva e interpreta filogenias sin confundir cercania en la punta con parentesco.
+7. Aplica evidencia y mecanismos evolutivos para analizar problemas biologicos actuales y construir una explicacion integrada.
