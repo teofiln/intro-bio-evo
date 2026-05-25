@@ -1,0 +1,47 @@
+---
+title: "Modulo Evolucion"
+subtitle: "Intro Bio I (B0160)"
+author: "Universidad de Costa Rica"
+date: "Mayo 2026"
+---
+
+## Bienvenido
+
+Este sitio contiene los materiales del modulo de **Evolucion** de **Intro Bio I (B0160)**.
+
+- **Clases**: presentaciones interactivas del modulo.
+- **Materiales**: programa del modulo y mensajes clave de cierre.
+
+---
+
+## Idea central del modulo
+
+La evolucion se presenta aqui como un proceso poblacional: las poblaciones cambian a lo largo de generaciones porque existe variacion hereditaria entre individuos y esa variacion puede asociarse con diferencias de aptitud en distintos entornos.
+
+---
+
+## Navegacion del sitio
+
+Usa el menu superior para entrar a:
+
+- **Clases** para ver las diapositivas del modulo.
+- **Materiales** para consultar el programa y el resumen de ideas principales.
+
+---
+
+## Estructura general del modulo
+
+| Bloque | Enfoque |
+|---|---|
+| Variacion y cambio poblacional | Diferenciar cambio individual de cambio poblacional |
+| Evidencia evolutiva | Comparar lineas de evidencia e inferencia |
+| Mecanismos evolutivos | Seleccion, deriva, flujo genico y mutacion |
+| Sintesis | Especiacion, filogenias y aplicaciones |
+
+---
+
+## Accesos rapidos
+
+- [Programa del modulo](course-materials/course-program-es.qmd)
+- [Mensajes clave](course-materials/take-home-messages.qmd)
+- [Listado de clases](lectures/index.qmd)

@@ -1,0 +1,33 @@
+# Build outputs
+# Allow HTML and PDF files for serving
+# *.html
+# *.pdf
+
+# Quarto/R temporary files
+_files/
+_cache/
+.Rproj.user/
+.Rhistory
+.RData
+.Rda
+_site/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+/.quarto/

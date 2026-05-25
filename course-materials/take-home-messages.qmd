@@ -1,0 +1,15 @@
+---
+title: "Mensajes clave del modulo"
+subtitle: "Intro Bio I (B0160)"
+---
+
+- Semana 1: los individuos cambian ≠ las poblaciones evolucionan
+- Semana 2: distintas lineas de evidencia apoyan la ascendencia comun
+- Semana 3a: plasticidad ≠ evolucion
+- Semana 3b: HW = lo que esperamos si las frecuencias alelicas no cambian
+- Semana 4a: la mutacion genera variacion ≠ adaptacion por si sola
+- Semana 4b: la seleccion es supervivencia/reproduccion no aleatoria, no cambio intencional
+- Semana 5a: la deriva = cambio aleatorio, mas fuerte en poblaciones pequenas
+- Semana 5b: el flujo genico conecta poblaciones
+- Semana 6a: especiacion = reduccion del flujo genico + divergencia
+- Semana 6b: los arboles muestran ascendencia comun, no organismos "superiores/inferiores"

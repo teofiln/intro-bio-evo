@@ -1,0 +1,11 @@
+---
+title: "Clases"
+listing:
+  contents: "*.qmd"
+  type: table
+  fields: [title, subtitle]
+  sort: "title"
+  filter-ui: false
+---
+
+## Presentaciones del modulo

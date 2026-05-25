@@ -1,0 +1,8 @@
+---
+title: "Materiales del modulo"
+---
+
+## Materiales disponibles
+
+- [Programa del modulo](course-program-es.qmd)
+- [Mensajes clave](take-home-messages.qmd)
