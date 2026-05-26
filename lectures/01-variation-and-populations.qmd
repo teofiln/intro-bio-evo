@@ -202,6 +202,37 @@ Ver mas: https://www.youtube.com/watch?v=y4BHYYBif3Q
 > Piensen asi: Es un cambio en la distribucion poblacional de un rasgo, no en el rasgo de un individuo.
 
 
+# Aclimatacion {background-color="#E8F5E9"}
+
+## Cambio fenotipico rapido — sin cambio heredable
+
+> **Aclimatacion**: cambio reversible en el fenotipo de un individuo en respuesta a un cambio ambiental. Ocurre dentro de la vida del organismo y **no se hereda**.
+
+::: {.incremental}
+- Escala de tiempo: horas, dias, semanas — no generaciones.
+- Ejemplos:
+  - Produccion de globulos rojos a mayor altitud (dias a semanas).
+  - Pigmentacion de la piel por exposicion solar (horas a dias).
+  - Respuesta al calor: produccion de proteinas de choque termico (minutos a horas).
+  - Cambio de pelaje estacional en mamiferos (semanas).
+:::
+
+---
+
+## Aclimatacion vs Evolucion
+
+| | Aclimatacion | Evolucion |
+|---|---|---|
+| ¿Quien cambia? | Un individuo | Una poblacion |
+| ¿Se hereda? | No | Si |
+| ¿Cuanto tarda? | Horas a semanas | Generaciones |
+| ¿Es reversible? | Generalmente si | No (es acumulativo) |
+
+::: {.fragment}
+> La liebre que vimos antes cambia de pelaje cada estacion: **aclimatacion**, no evolucion. Si en el futuro naciesen mas liebres con pelaje blanco permanente por seleccion en entornos nevados, **eso si seria evolucion**.
+:::
+
+
 # Entorno y Aptitud {background-color="#E8F5E9"}
 
 ## Definicion

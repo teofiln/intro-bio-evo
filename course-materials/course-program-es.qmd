@@ -45,22 +45,22 @@ El objetivo no es memorizar definiciones aisladas, sino desarrollar razonamiento
 
 ## Plan por clase
 
-| Clase | Semana | Contenido | Quiz (15 min inicio) | Hoja de trabajo grupal |
-|---|---|---|---|---|
-| 1 | 1 | Introduccion; individuos vs poblaciones; rasgos y distribuciones de rasgos, definicion de evolucion; | No | No |
-| 2 | 1 | Fosiles, homologias, biogeografia y evidencia directa contemporanea | No | W1: Distinguir plasticidad vs evolucion, Identificar lineas de evidencia |
-| 3 | 2 | Examen modulo Genetica (2 de junio) | No | No |
-| 4 | 2 | Como estudiamos la evolucion: evidencia, inferencia, comparacion de hipotesis y limites | Quiz 1 (Semanas 1-2) | W2: Interpretar datos evolutivos, Construir una explicacion evolutiva |
-| 5 | 3 | Hardy-Weinberg como expectativa nula: que pasaria si no actuaran fuerzas evolutivas | No | W3: Usar Hardy-Weinberg como linea base conceptual |
-| 6 | 3 | Mutacion y variacion heredable: origen de nuevos alelos, tipos basicos y errores frecuentes | Quiz 2 (Semanas 3-4) | No |
-| 7 | 4 | Seleccion natural, aptitud, adaptacion, tradeoffs y limites de la seleccion | No | W4: Predecir cambio poblacional bajo seleccion y justificar el razonamiento con evidencia |
-| 8 | 4 | Deriva genetica, efecto fundador, cuello de botella y cambio por azar | No | No |
-| 9 | 5 | Migracion (flujo genico), conectividad poblacional y homogenizacion/diferenciacion genetica | No | W5: Distinguir seleccion, deriva y flujo genico en estudios de caso |
-| 10 | 5 | Especiacion: aislamiento reproductivo y divergencia, poblaciones, lineages, y especies, unidades de conservacion | No | No |
-| 11 | 6 | Macroevolucion: vincular cambio en poblaciones con diversificacion y extincion masiva a lo largo del tiempo | Quiz 3 (Semanas 5-6) | No |
-| 12 | 6 | Filogenias: lectura de arboles, nodos, clados, grupo hermano, ancestro comun y evolucion de rasgos | No | W6: Interpretar filogenias y evitar errores comunes de lectura de arboles |
-| 13 | 7 | Aplicar evolucion a problemas actuales: resistencia, conservacion, cambio ambiental y salud humana | No | No |
-| 14 | 7 | Examen modulo Evolucion | No | No |
+| Clase | Contenido | Quiz (15 min inicio) | Hoja de trabajo grupal |
+|---|---|---|---|
+| 1 | Introduccion; individuos vs poblaciones; rasgos y distribuciones de rasgos, definicion de evolucion; | No | No |
+| 2 | Fosiles, homologias, biogeografia y evidencia directa contemporanea | No | W1: Distinguir plasticidad vs evolucion, Identificar lineas de evidencia |
+| 3 | Examen modulo Genetica (2 de junio) | No | No |
+| 4 | Como estudiamos la evolucion: evidencia, inferencia, comparacion de hipotesis y limites | Quiz 1 (Clases 1-4) | W2: Interpretar datos evolutivos, Construir una explicacion evolutiva |
+| 5 | Hardy-Weinberg como expectativa nula: que pasaria si no actuaran fuerzas evolutivas | No | W3: Usar Hardy-Weinberg como linea base conceptual |
+| 6 | Mutacion y variacion heredable: origen de nuevos alelos, tipos basicos y errores frecuentes | No | No |
+| 7 | Seleccion natural, aptitud, adaptacion, tradeoffs y limites de la seleccion | No | W4: Predecir cambio poblacional bajo seleccion y justificar el razonamiento con evidencia |
+| 8 | Deriva genetica, efecto fundador, cuello de botella y cambio por azar | Quiz 2 (Clases 5-8) | No |
+| 9 | Migracion (flujo genico), conectividad poblacional y homogenizacion/diferenciacion genetica | No | W5: Distinguir seleccion, deriva y flujo genico en estudios de caso |
+| 10 | Especiacion: aislamiento reproductivo y divergencia, poblaciones, lineages, y especies, unidades de conservacion | No | No |
+| 11 | Macroevolucion: vincular cambio en poblaciones con diversificacion y extincion masiva a lo largo del tiempo | No | No |
+| 12 | Filogenias: lectura de arboles, nodos, clados, grupo hermano, ancestro comun y evolucion de rasgos | Quiz 3 (Clases 9-12) | W6: Interpretar filogenias y evitar errores comunes de lectura de arboles |
+| 13 | Aplicar evolucion a problemas actuales: resistencia, conservacion, cambio ambiental y salud humana | No | No |
+| 14 | Examen modulo Evolucion | No | No |
 
 ## Evaluacion y aprendizaje activo del modulo
 

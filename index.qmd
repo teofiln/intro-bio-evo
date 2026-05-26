@@ -20,32 +20,35 @@ Este sitio resume el modulo de **Evolucion** de **Intro Bio I (B0160)**. El enfo
 
 ## Metas principales
 
-- Entender evolucion como cambio en poblaciones a lo largo de generaciones.
+- Entender evolucion como cambio en poblaciones a lo largo de generaciones; individuo vs poblacion.
 - Entender la variacion biologica como base de la evolucion.
-- Entender como el ambiente influye en fenotipos y aptitud.
+- Entender como el ambiente influye en fenotipos mediante plasticidad y aclimatacion, y diferenciarlas de adaptacion evolutiva.
 - Entender las principales lineas de evidencia evolutiva.
-- Entender como seleccion, deriva, flujo genico y mutacion cambian poblaciones.
+- Entender Hardy-Weinberg como modelo nulo y razonar sobre las fuerzas que rompen ese equilibrio.
+- Entender como mutacion y seleccion natural cambian la frecuencia de variantes en poblaciones.
+- Entender como deriva genetica y flujo genico cambian la composicion genetica de poblaciones.
+- Entender especiacion, patrones de extincion e interpretar filogenias.
 - Integrar estos conceptos en problemas biologicos actuales.
 
 ---
 
 ## Plan general por bloques
 
-| Semanas | Bloque | Enfoque |
-|---|---|---|
-| 1 | Variacion biologica y cambio poblacional | Individuos vs poblaciones; rasgos; distribuciones |
-| 2 | Evidencias de evolucion | Fosiles, homologias, biogeografia, evidencia directa |
-| 3 | Hardy-Weinberg | Expectativas de equilibrio, fuerzas evolutivas |
-| 4 | Mutacion y seleccion natural | Variacion heredable, aptitud y cambio poblacional |
-| 5 | Deriva genetica y flujo genico | Cambio por azar y conectividad entre poblaciones |
-| 6 | Especiacion, extincion y filogenias | Divergencia, ancestro comun, lectura de arboles |
-| 7 | Aplicaciones y sintesis | Resistencia, conservacion, cambio ambiental |
+| Semana | Enfoque |
+|---|---|
+| 1 | Variacion biologica, definicion de evolucion; fosiles, homologias, biogeografia y evidencia directa |
+| 2 | Como estudiamos la evolucion: evidencia, inferencia y comparacion de hipotesis |
+| 3 | Hardy-Weinberg como modelo nulo; mutacion y variacion heredable |
+| 4 | Seleccion natural, aptitud y adaptacion; deriva genetica y cambio por azar |
+| 5 | Flujo genico y conectividad poblacional; especiacion y aislamiento reproductivo |
+| 6 | Macroevolucion y extincion masiva; filogenias y lectura de arboles |
+| 7 | Aplicaciones y sintesis; examen de cierre |
 
 ---
 
 ## Evaluacion y aprendizaje activo
 
-- **Quizzes quincenales**: verificacion breve de comprension conceptual.
+- **Quizzes**: tres a lo largo del modulo (cada ~4 clases), verificacion breve de comprension conceptual.
 - **Worksheets grupales**: herramienta de aprendizaje activo para aplicar conceptos en equipo (no calificada).
 - **Examen de cierre**: integracion de evidencia y mecanismos.
 
