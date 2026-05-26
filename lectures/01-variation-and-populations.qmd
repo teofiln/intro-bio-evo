@@ -208,6 +208,10 @@ Ver mas: https://www.youtube.com/watch?v=y4BHYYBif3Q
 
 > **Aclimatacion**: cambio reversible en el fenotipo de un individuo en respuesta a un cambio ambiental. Ocurre dentro de la vida del organismo y **no se hereda**.
 
+## Ejemplos
+
+![](01-assets/hare-summer-winter.webp)
+
 ::: {.incremental}
 - Escala de tiempo: horas, dias, semanas — no generaciones.
 - Ejemplos:
