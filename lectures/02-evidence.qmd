@@ -1,0 +1,233 @@
+---
+title: "Evidencia de la evolución"
+subtitle: "Intro Bio I (B0160): Modulo Evolución"
+format:
+  revealjs:
+    slide-number: true
+---
+
+## Metas
+
+1. Introducir las varias líneas de evidencia que apoyan la teoría de la evolución.
+
+2. Construir una comprensión de cómo múltiples formas de evidencias complementarias fortalecen la teoría de la evolución.
+
+3. Aclarar errores comunes asociados con la interpretación de la evidencia evolutiva.
+
+4. Reforzar la idea de que la ciencia funciona mediante la convergencia de evidencias.
+
+## Ser capaces de {.smaller}
+
+
+::: {.incremental}
+
+
+
+
+
+:::
+
+
+
+# Registro fósil {background-color="#E8F5E9"}
+
+![](02-assets/rock-face-with-layers.webp)
+
+---
+
+## El registro fósil nos permite establecer
+
+
+::: {.columns}
+::: {.column}
+* tiempo profundo,
+* secuencias temporales,
+* descendencia con modificación,
+* extinciones,
+* cambios transicionales.
+
+:::
+::: {.column}
+
+![](02-assets/horse-fossil-sequence.jpg){width=90%}
+
+:::
+
+:::
+
+---
+
+
+
+## ¿Qué esperaríamos encontrar si las especies cambian a lo largo del tiempo?
+
+::: {.incremental}
+
+* ¿Deberían los fósiles aparecer al azar?
+
+* ¿Deberían las rocas antiguas contener organismos recientes?
+
+* ¿Deberían los organismos extintos parecerse a los vivos?
+
+:::
+
+---
+
+![](02-assets/Grand_Canyon_Layers_Geology.jpg)
+
+
+## El registro fósil muestra una secuencia temporal
+
+::: {.columns}
+::: {.column}
+
+::: {.fragment fragment-index=1}
+* las capas más profundas son generalmente más antiguas,
+:::
+
+::: {.fragment fragment-index=2}
+* los organismos aparecen/desaparecen a lo largo del tiempo,
+:::
+
+::: {.fragment fragment-index=3}
+* las comunidades antiguas se diferencian de las modernas.
+:::
+
+:::
+::: {.column}
+
+::: {.r-stack}
+![](02-assets/grand-canyon-striatigraphy.jpg){.fragment .fade-in-then-out fragment-index=1 width=90%}
+
+![](02-assets/striat-comic.png){.fragment .fade-in-then-out fragment-index=2 width=90%}
+
+![](02-assets/cambrian_and_ordovician_animals_by_mickeyrayrex_dbf9btz-fullview.jpg){.fragment fragment-index=3 width=90%}
+:::
+
+:::
+:::
+
+---
+
+## La mayoría de las especies que han existido están extintas
+
+::: {.columns}
+
+::: {.column}
+
+* la extinción es normal,
+
+* la biodiversidad cambia,
+
+* las comunidades son dinámicas.
+
+:::
+::: {.column}
+
+![](02-assets/ammonite-trilobite-rates.gif){width=70%}
+
+:::
+:::
+
+::: {.fragment}
+> Si las especies desaparecen y aparecen nuevas, ¿están parecidas las nuevas a las antiguas?
+:::
+
+---
+
+## Formas transicionales
+
+> "Transicional" no significa "a medio formar"
+
+::: {.incremental}
+* los organismos transicionales tienen combinaciones de rasgos ancestrales y derivados,
+* conectan grupos mayores a través del tiempo,
+* *Tiktaalik*, *Archaeopteryx*, y los ancestros de las ballenas son ejemplos clásicos.
+:::
+
+## Tiktaalik
+
+*Tiktaalik* -- fósil de 375 millones de años -- es un pez con rasgos de tetrápodo.
+
+![](02-assets/tiktaalik-fossil.jpg)
+
+---
+
+Vivia en ambientes de agua dulce y somera.
+
+![](02-assets/Tiktaalik_model_at_the_Harvard_Museum_of_Natural_History.jpg)
+
+---
+
+Tenía aletas con huesos que se asemejan a los de los miembros de los tetrápodos.
+
+![](02-assets/Fins_to_hands.png)
+
+---
+
+Un cuello móvil y costillas que podrían haber ayudado a sostener su cuerpo en tierra.
+
+![](02-assets/fish-tetra-phylo.jpg)
+
+---
+
+## *Tiktaalik*: entre peces y tetrápodos
+
+::: {.columns}
+
+::: {.column}
+
+Rasgos de pez:
+
+* escamas, aletas, branquias.
+
+Rasgos de tetrápodo:
+
+* cuello móvil, aletas con estructura de miembro, costillas.
+
+:::
+
+::: {.column}
+:::
+:::
+
+---
+
+## El registro fósil es consistente con descendencia con modificación
+
+::: {.incremental}
+* los organismos aparecen en orden temporal,
+* los grupos relacionados aparecen cerca entre sí en el tiempo,
+* las formas transicionales conectan los grandes grupos,
+* la extinción y la diversificación ocurren repetidamente.
+:::
+
+> El registro fósil no es aleatorio.
+
+---
+
+## El registro fósil es incompleto
+
+::: {.columns}
+::: {.column}
+
+* la fosilización es rara,
+* la preservación está sesgada hacia organismos con partes duras y ambientes específicos,
+* la erosión y la destrucción eliminan evidencia.
+
+:::
+::: {.column}
+:::
+:::
+
+> Incompletitud ≠ ausencia de evidencia.
+
+---
+
+## Errores comunes sobre el registro fósil
+
+::: {.incremental}
+* no se espera que los fósiles formen una cadena continua perfecta,
+* la evolución no predice que las especies modernas se conviertan directamente en otras especies modernas,
+* las formas transicionales son una predicción esperada — y se encuentran.
+:::
