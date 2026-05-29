@@ -4,8 +4,19 @@ listing:
   contents: "*.qmd"
   type: table
   fields: [title, subtitle]
-  sort: "title"
+  sort: "filename"
   filter-ui: false
 ---
 
 ## Presentaciones del modulo
+
+```{=html}
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".quarto-listing a").forEach(function (a) {
+    a.setAttribute("target", "_blank");
+    a.setAttribute("rel", "noopener noreferrer");
+  });
+});
+</script>
+```
