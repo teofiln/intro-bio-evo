@@ -5,5 +5,23 @@
       "/lectures/01-variation-and-populations.html",
       "/lectures/02-evidence.html"
     ]
+  },
+  {
+    "listing": "/worksheets/index.html",
+    "items": [
+      "/worksheets/worksheet_evidencia_evolucion.html"
+    ]
+  },
+  {
+    "listing": "/worksheets/index.pdf",
+    "items": [
+      "/worksheets/worksheet_evidencia_evolucion.html"
+    ]
+  },
+  {
+    "listing": "/worksheets/index.docx",
+    "items": [
+      "/worksheets/worksheet_evidencia_evolucion.html"
+    ]
   }
 ]

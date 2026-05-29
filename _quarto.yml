@@ -5,6 +5,7 @@ project:
     - "index.qmd"
     - "course-materials/*.qmd"
     - "lectures/*.qmd"
+    - "worksheets/*.qmd"
     - "!early-drafts-archive/**"
 
 quarto-required: ">=1.4.0"
@@ -19,3 +20,5 @@ website:
         href: lectures/index.qmd
       - text: "Materiales"
         href: course-materials/index.qmd
+      - text: "Hojas de trabajo"
+        href: worksheets/index.qmd

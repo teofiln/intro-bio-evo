@@ -378,6 +378,7 @@ La biogeografía estudia por qué las especies viven donde viven.
 
 ::: {.column}
 ![](02-assets/lemur.jpeg)
+![](02-assets/baobab.jpg)
 :::
 :::
 
@@ -422,7 +423,7 @@ Regiones diferentes contienen linajes evolutivos distintos.
 
 ---
 
-## Definiciones clave
+## Definiciones
 
 ::: {.incremental}
 * **Dispersión**: una población coloniza una nueva región al cruzar una barrera geográfica.
@@ -527,8 +528,6 @@ Si las especies comparten un ancestro común y las poblaciones se aíslan, deber
 ::: {.fragment}
 > **Y eso es exactamente lo que observamos.**
 :::
-
----
 
 # Evidencia molecular {background-color="#E8F5E9"}
 

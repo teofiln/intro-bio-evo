@@ -1,0 +1,22 @@
+---
+title: "Hojas de trabajo"
+listing:
+  contents: "*.qmd"
+  type: table
+  fields: [title, subtitle]
+  sort: "filename"
+  filter-ui: false
+---
+
+## Actividades
+
+```{=html}
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".quarto-listing a").forEach(function (a) {
+    a.setAttribute("target", "_blank");
+    a.setAttribute("rel", "noopener noreferrer");
+  });
+});
+</script>
+```

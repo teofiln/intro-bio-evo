@@ -12,6 +12,16 @@ else
 fi
 
 echo ""
+echo "Rendering worksheets to PDF and DOCX..."
+for qmd in worksheets/worksheet_*.qmd; do
+  echo "  $qmd → pdf"
+  quarto render "$qmd" --to pdf --no-execute
+  echo "  $qmd → docx"
+  quarto render "$qmd" --to docx --no-execute
+done
+echo "Worksheets done."
+
+echo ""
 echo "Done! Now you can:"
 echo "  git add ."
 echo "  git commit -m 'Update content'"

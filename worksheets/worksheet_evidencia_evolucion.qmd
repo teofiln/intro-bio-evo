@@ -1,0 +1,140 @@
+---
+title: "Hoja de trabajo: Evidencia de la evolución"
+subtitle: "Intro Bio I (B0160) — Módulo de Evolución"
+format:
+  html:
+    toc: true
+    number-sections: true
+  docx: default
+  pdf: default
+lang: es
+---
+
+## Objetivo de la actividad
+
+Al finalizar esta actividad, el grupo debería ser capaz de **usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica**.
+
+## Instrucciones generales
+
+Trabajen en grupos de 4–6 personas. Lean el escenario y discutan cada pregunta antes de escribir la respuesta. No se espera una respuesta larga, pero sí una justificación clara.
+
+---
+
+## Escenario: Isla Verde
+
+Un equipo de biólogos estudia una isla oceánica llamada **Isla Verde**. La isla está a unos 800 km del continente más cercano y tiene varios ambientes: bosque seco, bosque húmedo, costa rocosa y zonas abiertas.
+
+En la isla se encuentran cuatro especies animales que parecen muy diferentes entre sí:
+
+| Especie | Descripción breve |
+|---|---|
+| Especie A | Mamífero pequeño, terrestre, nocturno, con patas cortas |
+| Especie B | Mamífero grande, terrestre, diurno, con patas largas |
+| Especie C | Animal volador con alas membranosas |
+| Especie D | Animal volador con alas rígidas cubiertas de plumas |
+
+El objetivo del grupo es usar la evidencia disponible para responder:
+
+> ¿Qué especies parecen estar más cercanamente relacionadas y qué tipo de evidencia apoya esa conclusión?
+
+---
+
+## Parte 1. Evidencias disponibles
+
+Lean las siguientes evidencias. Para cada una, identifiquen qué tipo de evidencia representa.
+
+Tipos posibles de evidencia:
+
+- Registro fósil
+- Anatomía comparada
+- Biogeografía
+- Biología molecular
+- Embriología comparada
+- Evolución observada directamente
+
+| Evidencia | Tipo de evidencia | ¿Qué sugiere? |
+|---|---|---|
+| 1. La Especie A y la Especie B tienen una estructura ósea muy similar en las patas delanteras, aunque las usan de manera diferente. |  |  |
+| 2. La Especie C y la Especie D vuelan, pero sus alas tienen estructuras internas muy distintas. |  |  |
+| 3. El ADN de la Especie A y la Especie B es mucho más similar entre sí que al ADN de las especies C y D. |  |  |
+| 4. En rocas antiguas de la isla se encontraron fósiles de un mamífero pequeño con rasgos intermedios entre la Especie A y la Especie B. |  |  |
+| 5. Las especies A y B solo viven en Isla Verde, pero sus parientes más cercanos conocidos viven en el continente cercano. |  |  |
+| 6. En los últimos 20 años, una población de insectos de la isla se volvió resistente a un pesticida usado en cultivos locales. |  |  |
+
+---
+
+## Parte 2. Homología, analogía y ancestro común
+
+Las especies A y B tienen patas delanteras con una estructura ósea similar, pero las usan de forma diferente.
+
+¿Esta similitud es más probablemente una **homología** o una **analogía**? Justifiquen.
+
+\vspace{3cm}
+
+Las especies C y D tienen alas y pueden volar, pero sus alas tienen estructuras internas muy diferentes.
+
+¿Esta similitud es más probablemente una **homología** o una **analogía**? Justifiquen.
+
+\vspace{3cm}
+
+¿Qué diferencia hay entre decir que dos especies son similares por **ancestro común** y decir que son similares por **adaptación a una función parecida**?
+
+\vspace{3cm}
+
+---
+
+## Parte 3. Inferencia evolutiva
+
+Con base en todas las evidencias, respondan:
+
+¿Cuáles dos especies parecen estar más cercanamente relacionadas?
+
+\vspace{2cm}
+
+¿Cuáles son las dos evidencias más fuertes que apoyan esa conclusión?
+
+\vspace{3cm}
+
+Construyan un esquema simple de relaciones evolutivas entre las cuatro especies. No tiene que ser un árbol formal; puede ser un diagrama sencillo.
+
+\vspace{5cm}
+
+---
+
+## Parte 4. Variación y evolución observada
+
+Recuerden el mapa conceptual básico:
+
+> Variación heredable → diferencias en aptitud → cambio en la composición de la población entre generaciones
+
+En el caso de los insectos resistentes al pesticida, ¿cuál podría ser la variación heredable inicial?
+
+\vspace{2.5cm}
+
+¿Por qué el pesticida no “crea” directamente la resistencia, sino que cambia la frecuencia de individuos resistentes en la población?
+
+\vspace{3cm}
+
+¿Este ejemplo representa cambio individual o cambio poblacional? Expliquen.
+
+\vspace{2.5cm}
+
+---
+
+## Parte 5. Síntesis
+
+¿Por qué es más fuerte una explicación evolutiva cuando diferentes tipos de evidencia apoyan la misma conclusión?
+
+\vspace{4cm}
+
+---
+
+## Cierre para discusión en clase
+
+Cada grupo debe estar preparado para compartir brevemente:
+
+1. Qué especies consideran más cercanamente relacionadas.
+2. Qué evidencia usaron para justificarlo.
+3. Un ejemplo de homología y uno de analogía en el escenario.
+4. Por qué la evolución observada directamente es evidencia importante.
+
