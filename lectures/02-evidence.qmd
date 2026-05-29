@@ -18,58 +18,18 @@ format:
 
 ## Ser capaces de {.smaller}
 
-
 ::: {.incremental}
-
-
-
-
-
+- Explicar cómo el registro fósil documenta cambios en la biodiversidad a lo largo del tiempo y constituye evidencia de descendencia con modificación.
+- Interpretar similitudes y diferencias anatómicas entre organismos como evidencia de ancestro común y adaptación a distintas funciones.
+- Explicar cómo la distribución geográfica de los organismos refleja procesos evolutivos, historia geológica y aislamiento poblacional.
+- Interpretar similitudes en ADN y proteínas como evidencia de parentesco evolutivo y ancestro común.
+- Explicar cómo la evolución puede observarse y medirse en poblaciones contemporáneas.
+- Integrar múltiples líneas independientes de evidencia para sustentar la teoría evolutiva como explicación científica de la diversidad biológica.
 :::
-
-
 
 # Registro fósil {background-color="#E8F5E9"}
 
 ![](02-assets/rock-face-with-layers.webp)
-
----
-
-## El registro fósil nos permite establecer
-
-
-::: {.columns}
-::: {.column}
-* tiempo profundo,
-* secuencias temporales,
-* descendencia con modificación,
-* extinciones,
-* cambios transicionales.
-
-:::
-::: {.column}
-
-![](02-assets/horse-fossil-sequence.jpg){width=90%}
-
-:::
-
-:::
-
----
-
-
-
-## ¿Qué esperaríamos encontrar si las especies cambian a lo largo del tiempo?
-
-::: {.incremental}
-
-* ¿Deberían los fósiles aparecer al azar?
-
-* ¿Deberían las rocas antiguas contener organismos recientes?
-
-* ¿Deberían los organismos extintos parecerse a los vivos?
-
-:::
 
 ---
 
@@ -135,12 +95,12 @@ format:
 
 ---
 
-## Formas transicionales
+## Características transicionales
 
 > "Transicional" no significa "a medio formar"
 
 ::: {.incremental}
-* los organismos transicionales tienen combinaciones de rasgos ancestrales y derivados,
+* combinaciones de rasgos ancestrales y derivados,
 * conectan grupos mayores a través del tiempo,
 * *Tiktaalik*, *Archaeopteryx*, y los ancestros de las ballenas son ejemplos clásicos.
 :::
@@ -149,29 +109,29 @@ format:
 
 *Tiktaalik* -- fósil de 375 millones de años -- es un pez con rasgos de tetrápodo.
 
-![](02-assets/tiktaalik-fossil.jpg)
+![](02-assets/tiktaalik-fossil.jpg){width="90%"}
 
 ---
 
 Vivia en ambientes de agua dulce y somera.
 
-![](02-assets/Tiktaalik_model_at_the_Harvard_Museum_of_Natural_History.jpg)
+![](02-assets/Tiktaalik_model_at_the_Harvard_Museum_of_Natural_History.jpg){width="90%"}
 
 ---
 
 Tenía aletas con huesos que se asemejan a los de los miembros de los tetrápodos.
 
-![](02-assets/Fins_to_hands.png)
+![](02-assets/Fins_to_hands.png){width="90%"}
 
 ---
 
 Un cuello móvil y costillas que podrían haber ayudado a sostener su cuerpo en tierra.
 
-![](02-assets/fish-tetra-phylo.jpg)
+![](02-assets/fish-tetra-phylo.jpg){width="90%"}
 
 ---
 
-## *Tiktaalik*: entre peces y tetrápodos
+## *Tiktaalik*: características de peces y tetrápodos
 
 ::: {.columns}
 
@@ -188,6 +148,7 @@ Rasgos de tetrápodo:
 :::
 
 ::: {.column}
+![](02-assets/fish-tetra-phylo.jpg){width="90%"}
 :::
 :::
 
@@ -198,11 +159,9 @@ Rasgos de tetrápodo:
 ::: {.incremental}
 * los organismos aparecen en orden temporal,
 * los grupos relacionados aparecen cerca entre sí en el tiempo,
-* las formas transicionales conectan los grandes grupos,
+* las características transicionales conectan los grandes grupos,
 * la extinción y la diversificación ocurren repetidamente.
 :::
-
-> El registro fósil no es aleatorio.
 
 ---
 
@@ -220,14 +179,513 @@ Rasgos de tetrápodo:
 :::
 :::
 
-> Incompletitud ≠ ausencia de evidencia.
 
 ---
 
-## Errores comunes sobre el registro fósil
+## Mitos sobre el registro fósil
 
 ::: {.incremental}
-* no se espera que los fósiles formen una cadena continua perfecta,
-* la evolución no predice que las especies modernas se conviertan directamente en otras especies modernas,
-* las formas transicionales son una predicción esperada — y se encuentran.
+
+* Los fósiles son solo huesos y conchas
+* Los "missing links" en el registro fósil desmienten la evolución
+* Cada fósil encontrado es un ancestro directo de una especie moderna
+* La evolución es lineal y en forma de escalera
+* Los fósiles más antiguos son inherentemente "menos evolucionados" o primitivos
 :::
+
+## Resumen
+
+El registro fósil nos permite establecer:
+
+::: {.columns}
+::: {.column}
+* tiempo profundo,
+* secuencias temporales,
+* descendencia con modificación,
+* extinciones,
+* características transicionales.
+
+:::
+::: {.column}
+![](02-assets/horse-fossil-sequence.jpg){width=90%}
+:::
+:::
+
+# Anatomía comparativa {background-color="#E8F5E9"}
+
+> ¿Por qué organismos tan diferentes comparten el mismo plan estructural?
+
+---
+
+![](02-assets/limb-collage.jpg)
+
+> ¿Cuál de estas estructuras es más parecida?
+
+---
+
+## Estructuras homólogas
+
+Misma estructura básica, funciones distintas.
+
+![](02-assets/homologous_forelimbs_bones.jpg)
+
+> Homología = similitud debida a ancestro común.
+
+## Descendencia con modificación
+
+La evolución modifica estructuras existentes.
+
+::: {.columns}
+::: {.column}
+No: 
+
+> "diseñar un ala"
+
+pero sí:
+
+> "modificar una característica existente."
+
+:::
+::: {.column}
+
+![](02-assets/Fins_to_hands.png){width=90%}
+:::
+:::
+
+---
+
+## Función vs Ancestro
+
+::: {.columns widths="60% 40%"}
+
+::: {.column}
+![](02-assets/bird-bat-insect-wing.jpg)
+
+:::
+
+::: {.column}
+
+::: {.fragment}
+> ¿Todas son homólogas? Si o no, ¿por qué?
+:::
+
+::: {.fragment}
+> Función similar. Origen evolutivo diferente.
+:::
+
+:::
+:::
+
+---
+
+## Estructuras análogas
+
+> Analogia = similitud debida a función, no a ancestro común.
+
+![](02-assets/bat_bird_wings.png){width=90%}
+
+> Selección similar puede producir soluciones similares. (Evolución convergente)
+
+---
+
+## Homología vs Analogía
+
+| Homología                            | Analogía                               |
+| ------------------------------------ | -------------------------------------- |
+| Similaridad por ancestro común       | Similaridad por función                |
+| Indica parentesco                    | No necesariamente indica parentesco    |
+| Ej: brazo humano y ala de murciélago | Ej: ala de murciélago y ala de insecto |
+
+---
+
+## Estructuras vestigiales
+
+::: {.fragment}
+Ejemplo: hueso pélvico en ballenas, apéndice humano, alas de avestruz, piernas de serpientes, etc.
+:::
+
+::: {.fragment}
+> ¿Por qué un organismo tendría estructuras aparentemente inútiles?
+:::
+
+::: {.fragment}
+> **Porque esas estructuras eran funcionales en ancestros pasados.**
+:::
+
+---
+
+## Resumen: ¿Qué predice la evolución?
+
+Si las especies comparten un ancestro común, debemos observar:
+
+::: {.incremental}
+- similitudes anidadas
+- estructuras homólogas
+- estructuras vestigiales
+- evolución convergente bajo ambientes similares
+:::
+
+::: {.fragment}
+> **Y eso es exactamente lo que observamos.**
+:::
+
+# Biogeografía {background-color="#E8F5E9"}
+
+La biogeografía estudia por qué las especies viven donde viven.
+
+## La historia geológica
+
+![](02-assets/Continental-drift-967x1030.png)
+
+
+---
+
+::: {.columns widths="70% 30%"}
+
+::: {.column}
+![](02-assets/Marsupial_world_distribution_map.svg.png){width=90%}
+:::
+
+::: {.column}
+![](02-assets/Marsupialia.jpg){width=90%}
+:::
+:::
+
+> Los marsupiales se concentran sobre todo en Australia: la distribución refleja historia geológica y aislamiento.
+
+---
+
+::: {.columns widths="70% 30%"}
+
+::: {.column}
+![](02-assets/range-of-birch-trees.webp){width=90%}
+:::
+
+::: {.column}
+![](02-assets/birch.webp){width=60%}
+:::
+:::
+
+> Las especies emparentadas suelen agruparse geográficamente.
+
+---
+
+::: {.columns widths="70% 30%"}
+
+::: {.column}
+![](02-assets/Global-primate-distribution-Martin-2012.jpg){width=90%}
+:::
+
+::: {.column}
+![](02-assets/lemur.jpeg)
+:::
+:::
+
+
+> Madagascar tiene un conjunto distintivo de primates: el aislamiento deja huellas evolutivas.
+
+---
+
+## Los organismos no están distribuidos al azar
+
+
+::: {.columns}
+
+::: {.column}
+
+![](02-assets/continents-fossils.webp){width=90%}
+
+:::
+
+::: {.column}
+
+
+Regiones diferentes contienen linajes evolutivos distintos.
+
+::: {.fragment}
+> ¿Por qué?
+:::
+
+::: {.fragment}
+> **Historia y aislamiento**
+:::
+
+::: {.fragment}
+> Dos procesos clave: vicariancia y dispersión.
+:::
+
+
+:::
+
+:::
+
+
+---
+
+## Definiciones clave
+
+::: {.incremental}
+* **Dispersión**: una población coloniza una nueva región al cruzar una barrera geográfica.
+* **Aislamiento**: el flujo génico entre poblaciones se reduce o se corta, permitiendo divergencia evolutiva.
+* **Vicariancia**: una barrera geográfica divide una población ancestral y separa sus descendientes.
+:::
+
+---
+
+## Las islas son laboratorios evolutivos
+
+
+::: {.columns}
+::: {.column}
+
+Características:
+
+::: {.incremental}
+* aisladas
+* pequeñas poblaciones fundadoras
+* flujo génico limitado
+* nuevas oportunidades ecológicas
+:::
+
+:::
+
+::: {.column}
+
+::: {.fragment}
+Ejemplos:
+
+* Galápagos
+* Hawaii
+* Madagascar
+:::
+
+:::
+:::
+
+::: {.fragment}
+> **El aislamiento promueve la divergencia.**
+:::
+
+---
+
+## Galápagos
+
+Los pinzones de Galápagos ilustran radiación adaptativa tras colonización y aislamiento.
+
+![](02-assets/finches-collage.jpg)
+
+---
+
+## Convergencia
+
+::: {.columns}
+
+::: {.column}
+
+
+![](02-assets/suculent-euphorbia.webp){width="60%"}
+
+:::
+
+::: {.column}
+
+::: {.fragment}
+![](02-assets/cactus.jpg){width="50%"}
+:::
+
+:::
+:::
+::: {.fragment}
+> ¿Por qué las especies no emparentadas se parecen tanto?
+:::
+
+::: {.fragment}
+> **Presiones ecológicas similares en regiones distintas pueden producir formas parecidas.**
+:::
+
+---
+
+
+> La biogeografía suele reflejar historia y aislamiento; la convergencia nos recuerda que la similitud morfológica por sí sola no siempre refleja parentesco.
+
+![](02-assets/convergence-dolphin-shark-ichthyosaur.webp)
+
+---
+
+## Resumen: ¿Qué predice la evolución?
+
+Si las especies comparten un ancestro común y las poblaciones se aíslan, deberíamos observar:
+
+::: {.incremental}
+- parientes geográficamente agrupados
+- floras y faunas insulares únicas
+- radiaciones adaptativas 
+- efectos de la historia geológica
+- evolución convergente en ambientes similares
+:::
+
+::: {.fragment}
+> **Y eso es exactamente lo que observamos.**
+:::
+
+---
+
+# Evidencia molecular {background-color="#E8F5E9"}
+
+## Pregunta central
+
+> ¿Qué esperaríamos encontrar en el ADN si los organismos comparten ancestros comunes?
+
+---
+
+## Meta de la sección
+
+Al finalizar esta sección, el estudiante debería ser capaz de interpretar similitudes en ADN y proteínas como evidencia de parentesco evolutivo y ancestro común.
+
+---
+
+## Patrón inicial
+
+::: {.columns widths="55% 45%"}
+::: {.column}
+
+| Organismos            | Similitud de ADN |
+| --------------------- | ---------------- |
+| Humano - chimpancé    | alta             |
+| Humano - ratón        | menor            |
+| Humano - pez          | menor            |
+| Humano - levadura     | mucho menor      |
+
+> ¿Es coincidencia?
+
+:::
+::: {.column}
+
+<!-- Espacio para imagen -->
+
+:::
+:::
+
+---
+
+## El ADN guarda historia evolutiva
+
+::: {.columns widths="50% 50%"}
+::: {.column}
+
+* el ADN se hereda entre generaciones,
+* las mutaciones se acumulan,
+* los linajes divergen.
+
+> Predicción: parientes cercanos comparten más ADN.
+
+:::
+::: {.column}
+
+<!-- Espacio para diagrama ancestro -> linajes -->
+
+:::
+:::
+
+---
+
+## Predicciones de ancestro común
+
+::: {.incremental}
+* especies cercanas comparten más ADN,
+* especies lejanas comparten menos,
+* el patrón genético debe coincidir con fósiles, anatomía y biogeografía.
+:::
+
+---
+
+## Código genético universal
+
+::: {.columns widths="55% 45%"}
+::: {.column}
+
+* mismo sistema molecular básico en toda la vida:
+  * ADN
+  * ARN
+  * proteínas
+  * código genético
+
+> ¿Por qué organismos tan distintos usan el mismo sistema?
+
+:::
+::: {.column}
+
+<!-- Espacio para imagen -->
+
+:::
+:::
+
+---
+
+## Genes compartidos
+
+::: {.columns widths="55% 45%"}
+::: {.column}
+
+* genes de metabolismo, división celular y desarrollo aparecen en linajes muy distintos.
+
+> Los genes también pueden ser homólogos.
+
+:::
+::: {.column}
+
+<!-- Espacio para imagen -->
+
+:::
+:::
+
+---
+
+## Árboles moleculares
+
+::: {.columns widths="50% 50%"}
+::: {.column}
+
+* el ADN permite reconstruir parentescos,
+* especies con ADN más similar se agrupan.
+
+:::
+::: {.column}
+
+<!-- Espacio para filogenia simple -->
+
+:::
+:::
+
+---
+
+## Predicción potente
+
+> Si construimos un árbol con fósiles, otro con anatomía y otro con ADN, ¿deberían coincidir?
+
+::: {.fragment}
+**Predicción evolutiva:** sí, en gran medida.
+:::
+
+---
+
+## Resumen: ¿Qué nos dice el ADN?
+
+::: {.incremental}
+- todos los organismos usan maquinaria molecular compartida,
+- especies más cercanas comparten más información genética,
+- el ADN conserva huellas de historia evolutiva,
+- la evidencia molecular respalda de forma independiente el ancestro común.
+:::
+
+::: {.fragment}
+> El patrón importa más que un porcentaje exacto.
+:::
+
+---
+
+El registro fósil, la anatomía, la biogeografía y el ADN cuentan la misma historia desde perspectivas independientes.
+
+---
+
+La evolución no se apoya en una sola observación, sino en múltiples líneas independientes de evidencia que convergen sobre la misma explicación: la descendencia con modificación a partir de ancestros comunes.
