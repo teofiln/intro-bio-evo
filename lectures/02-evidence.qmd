@@ -532,19 +532,9 @@ Si las especies comparten un ancestro común y las poblaciones se aíslan, deber
 
 # Evidencia molecular {background-color="#E8F5E9"}
 
-## Pregunta central
-
 > ¿Qué esperaríamos encontrar en el ADN si los organismos comparten ancestros comunes?
 
 ---
-
-## Meta de la sección
-
-Al finalizar esta sección, el estudiante debería ser capaz de interpretar similitudes en ADN y proteínas como evidencia de parentesco evolutivo y ancestro común.
-
----
-
-## Patrón inicial
 
 ::: {.columns widths="55% 45%"}
 ::: {.column}
@@ -561,7 +551,8 @@ Al finalizar esta sección, el estudiante debería ser capaz de interpretar simi
 :::
 ::: {.column}
 
-<!-- Espacio para imagen -->
+
+![](02-assets/shared-genes.png){width=90%}
 
 :::
 :::
@@ -582,7 +573,7 @@ Al finalizar esta sección, el estudiante debería ser capaz de interpretar simi
 :::
 ::: {.column}
 
-<!-- Espacio para diagrama ancestro -> linajes -->
+![](02-assets/whale-evolution-phylo.jpg){width=70%}
 
 :::
 :::
@@ -615,7 +606,7 @@ Al finalizar esta sección, el estudiante debería ser capaz de interpretar simi
 :::
 ::: {.column}
 
-<!-- Espacio para imagen -->
+![](02-assets/universal-genetic-code.jpg){width=90%}
 
 :::
 :::
@@ -634,7 +625,7 @@ Al finalizar esta sección, el estudiante debería ser capaz de interpretar simi
 :::
 ::: {.column}
 
-<!-- Espacio para imagen -->
+![](02-assets/HemoglobinHomology.jpg){width=90%}
 
 :::
 :::
@@ -652,7 +643,7 @@ Al finalizar esta sección, el estudiante debería ser capaz de interpretar simi
 :::
 ::: {.column}
 
-<!-- Espacio para filogenia simple -->
+![](02-assets/green-lineage-phylo.webp){width=90%}
 
 :::
 :::
@@ -684,8 +675,90 @@ Al finalizar esta sección, el estudiante debería ser capaz de interpretar simi
 
 ---
 
-El registro fósil, la anatomía, la biogeografía y el ADN cuentan la misma historia desde perspectivas independientes.
+# Evolución observada directamente {background-color="#E8F5E9"}
+
+> ¿Podemos observar la evolución directamente?
 
 ---
 
-La evolución no se apoya en una sola observación, sino en múltiples líneas independientes de evidencia que convergen sobre la misma explicación: la descendencia con modificación a partir de ancestros comunes.
+> Si la evolución es real, ¿deberíamos poder observarla ocurriendo hoy?
+
+::: {.fragment}
+Si, pero en organismos con ciclos de vida cortos o en condiciones de selección fuerte.
+:::
+
+## ¿Qué tendríamos a observar?
+
+> Evolución = cambio en poblaciones a través de generaciones.
+
+::: {.columns}
+::: {.column}
+
+- cambio en las frecuencias de rasgos
+- cambio en las frecuencias de alelos
+- cambio medible en la población a lo largo de generaciones
+:::
+
+::: {.column}
+
+❌ individuos cambiando
+
+✅ poblaciones cambiando
+
+:::
+
+:::
+
+
+## Resistencia a antibióticos
+
+![](01-assets/bacteria-resistance-evolution.png){width="100%"}
+
+::: {.incremental}
+- el antibiotico no causa resistencia
+- las variantes resistentes ya existen en la población
+- el antibiótico selecciona a los resistentes, que sobreviven y se reproducen mas
+- resulando en cambio en la población a lo largo de generaciones
+:::
+
+## Pinzones de nuevo
+
+![](01-assets/finch-beak-time-series.avif)
+
+::: {.incremental}
+- cambios en el ambiente (sequía) cambiaron la disponibilidad de alimentos
+- los pinzones con picos más grandes tenían ventaja
+- los picos más grandes se volvieron más comunes en la población
+:::
+
+
+## Experimentos evolutivos
+
+![](02-assets/lenski-experiment.jpeg){width=80%}
+
+::: {.incremental}
+- Adaptacion predicible y repetida
+- Evolucion de nuevas funciones (ej: metabolizar citrato)
+:::
+
+---
+
+| Evidencia           | Qué demuestra              |
+| ------------------- | -------------------------- |
+| Fósiles             | Cambio a través del tiempo |
+| Anatomía            | Ancestro común             |
+| Embriología         | Desarrollo compartido      |
+| Biogeografía        | Historia y aislamiento     |
+| ADN                 | Parentesco evolutivo       |
+| Observación directa | Evolución ocurriendo hoy   |
+
+---
+
+> El registro fósil, la anatomía, la biogeografía, el ADN , observaciones directas (y embriología, etc.) cuentan la misma historia desde perspectivas independientes.
+
+---
+
+![](01-assets/map-variation-fitness-evolution-2.png){width=90%}
+
+---
+
