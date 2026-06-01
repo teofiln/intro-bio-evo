@@ -1,0 +1,405 @@
+---
+title: "Como estudiamos la evolución"
+subtitle: "Intro Bio I (B0160): Modulo Evolución"
+format:
+  revealjs:
+    slide-number: true
+---
+
+## Metas
+
+1. Entender como los biólogos evolutivos estudian la evolución a través de evidencia, inferencia, comparación de hipótesis y reconocimiento de límites.
+2. Desarrollar razonamiento evolutivo (científico): entender suposiciones, interpretar datos, comparar hipótesis
+
+## Ser capaces de
+
+::: {.incremental}
+
+- entender suposiciones de estudios evolutivos
+- interpretar evidencia evolutiva
+- comparar hipótesis evolutivas
+- aplicar conceptos evolutivos a problemas biológicos actuales
+
+:::
+
+# ¿Cómo sabemos cuál explicación evolutiva es correcta? {background-color="#E8F5E9"}
+
+---
+
+## Observación vs explicación
+
+Observación:
+
+* Los pinzones de Galápagos tienen picos diferentes que hace unos años.
+
+::: {.fragment}
+¿Por qué?
+:::
+
+::: {.fragment}
+Posibles explicaciones:
+
+* azar
+* adaptación a la dieta
+
+:::
+
+::: {.fragment}
+> La evidencia por sí sola no proporciona automáticamente la explicación.
+:::
+
+## Observación vs explicación
+
+Observación:
+
+* Los pinzones de Galápagos tienen picos diferentes que hace unos años.
+
+::: {.fragment}
+Necesitamos:
+
+* hipótesis alternativas
+* predicciones
+* comparación de hipótesis
+:::
+
+## Explicación 1: Azar {.smaller}
+
+Hipótesis:
+
+* El cambio se debe a procesos aleatorios que modificaron la frecuencia de variantes en la población.
+
+::: {.fragment}
+
+Predicción:
+
+::: {.incremental}
+* No debería existir una relación consistente entre tamaño del pico y tamaño de las semillas. (Ecología, Recursos)
+* No debería existir una relación consistente entre tamaño del pico y supervivencia. (Aptitud, Selección Natural)
+* El cambio podría ocurrir incluso sin cambios en los recursos disponibles. (Ecología, Recursos)
+:::
+:::
+
+## Explicación 2: Adaptación a la dieta {.smaller}
+
+Hipótesis:
+
+* El cambio se debe a que individuos con picos más grandes sobrevivieron y se reprodujeron más durante la sequía.
+
+::: {.fragment}
+Predicción:
+
+::: {.incremental}
+* Debería existir una relación entre tamaño del pico y tamaño de las semillas disponibles. (Ecología, Recursos)
+* Debería existir una relación consistente entre el tamaño del pico y la dieta. (Ecología, Recursos)
+* Parte de la variación en el tamaño del pico debería ser heredable. (Genética)
+* El tamaño promedio del pico debería aumentar generación tras generación. (Aptitud, Selección Natural)
+* Los individuos con picos más grandes deberían sobrevivir más frecuentemente. (Aptitud, Selección Natural)
+:::
+:::
+
+## Comparación de hipótesis
+
+¿Qué datos serían útiles para distinguir entre estas explicaciones?
+
+::: {.incremental}
+* Tamaño de pico
+* Tamaño de semillas
+* Dieta
+* Supervivencia
+* Número de hijos
+* Herencia padres–hijos
+* Cambios en la población a través del tiempo
+:::
+
+## Picos y semillas
+
+```{r}
+set.seed(123)
+years <- 2000:2020
+seed_size <- seq(2, 6, length.out = length(years)) + rnorm(length(years), 0, 0.5)
+beak_size <- rnorm(length(years), 3, 0.7)
+plot(years, seed_size, type = "b", col = "brown", pch = 16, ylim = c(0, 7), ylab = "Tamaño (mm)", xlab = "Año")
+points(years, beak_size, type = "b", col = "blue", pch = 16)
+legend("topleft", legend = c("Tamaño de semilla", "Tamaño de pico"), col = c("brown", "blue"), pch = 16)
+```
+
+::: {.fragment}
+> Que hipótesis apoya esta evidencia? Y por qué?
+:::
+::: {.fragment}
+> **Cambio por azar.** 
+:::
+
+## Picos y semillas
+```{r}
+set.seed(123)
+years <- 2000:2020
+seed_size <- seq(2, 6, length.out = length(years)) + rnorm(length(years), 0, 0.5)
+beak_size <- seed_size + rnorm(length(years), 0, 0.7)
+plot(years, seed_size, type = "b", col = "brown", pch = 16, ylim = c(0, 7), ylab = "Tamaño (mm)", xlab = "Año")
+points(years, beak_size, type = "b", col = "blue", pch = 16)
+legend("topleft", legend = c("Tamaño de semilla", "Tamaño de pico"), col = c("brown", "blue"), pch = 16)
+```
+
+::: {.fragment}
+> Que hipótesis apoya esta evidencia? Y por qué?
+:::
+
+::: {.fragment}
+> **Apoya la hipótesis de adaptación, pero una sola línea de evidencia no basta.**
+:::
+
+## Padres e hijos
+```{r, fig.width=6}
+set.seed(123)
+parent_beak_size <- rnorm(20, 3, 0.5)
+offspring_beak_size <- parent_beak_size + rnorm(20, 0, 0.5)
+plot(parent_beak_size, offspring_beak_size, xlab = "Tamaño de pico de los padres", ylab = "Tamaño de pico de los hijos", pch = 16)
+abline(lm(offspring_beak_size ~ parent_beak_size), col = "red")
+```
+
+::: {.fragment}
+> Que hipótesis apoya esta evidencia? Y por qué?
+:::
+
+::: {.fragment}
+> **Apoya una condición necesaria para selección, pero no demuestra adaptación por sí sola.**
+:::
+
+## Picos y número de hijos
+
+```{r, fig.width=6}
+set.seed(123)
+beak_size <- rnorm(100, 3, 0.5)
+num_offspring <- rpois(100, lambda = exp(beak_size - 3))
+plot(beak_size, num_offspring, xlab = "Tamaño de pico", ylab = "Número de hijos", pch = 16)
+abline(lm(num_offspring ~ beak_size), col = "red")
+```
+
+::: {.fragment}
+> Que hipótesis apoya esta evidencia? Y por qué?
+:::
+
+::: {.fragment}
+> **Adaptación a la dieta.**
+:::
+
+
+---
+
+```{r}
+# Case where there is
+# a positive relationship between seed size and beak size,
+# but no relationship between beak size and fitness.
+layout(matrix(1:2, nrow = 1))
+years <- 2000:2020
+seed_size1 <- seq(2, 6, length.out = length(years)) + rnorm(length(years), 0, 0.5)
+beak_size1 <- seed_size1 + rnorm(length(years), 0, 0.7)
+plot(years, seed_size1, type = "b", col = "brown", pch = 16, ylim = c(0, 7), ylab = "Tamaño (mm)", xlab = "Año")
+points(years, beak_size1, type = "b", col = "blue", pch = 16)
+legend("topleft", legend = c("Tamaño de semilla", "Tamaño de pico"), col = c("brown", "blue"), pch = 16)
+
+beak_size <- seed_size + rnorm(length(years), 0, 0.5)
+num_offspring <- rpois(length(years), lambda = 5) # No relationship with beak size
+plot(beak_size, num_offspring, xlab = "Tamaño de pico", ylab = "Número de hijos", pch = 16)
+abline(lm(num_offspring ~ beak_size), col = "red")
+```
+
+
+::: {.fragment}
+> Que hipótesis apoya esta evidencia? Y por qué?
+:::
+
+::: {.fragment}
+> **No hay suficiente evidencia para adaptación por selección natural.**
+:::
+
+---
+
+```{r}
+# Case where there is
+# a positive relationship between seed size and beak size,
+# but no heritability.
+layout(matrix(1:2, nrow = 1))
+years <- 2000:2020
+seed_size1 <- seq(2, 6, length.out = length(years)) + rnorm(length(years), 0, 0.5)
+beak_size1 <- seed_size1 + rnorm(length(years), 0, 0.7)
+plot(years, seed_size1, type = "b", col = "brown", pch = 16, ylim = c(0, 7), ylab = "Tamaño (mm)", xlab = "Año")
+points(years, beak_size1, type = "b", col = "blue", pch = 16)
+legend("topleft", legend = c("Tamaño de semilla", "Tamaño de pico"), col = c("brown", "blue"), pch = 16)
+
+parent_beak_size <- rnorm(20, 3, 0.5)
+offspring_beak_size <- rnorm(20, 3, 0.5) # No heritability
+plot(parent_beak_size, offspring_beak_size, xlab = "Tamaño de pico de los padres", ylab = "Tamaño de pico de los hijos", pch = 16)
+abline(lm(offspring_beak_size ~ parent_beak_size), col = "red")
+```
+
+::: {.fragment}
+> Que hipótesis apoya esta evidencia? Y por qué?
+:::
+
+::: {.fragment}
+> **No hay suficiente evidencia para adaptación por selección natural.**
+:::
+
+---
+
+```{r}
+# Case where all three conditions are met:
+# positive seed-beak correlation, heritability, and fitness relationship.
+layout(matrix(1:3, nrow = 1))
+set.seed(42)
+years <- 2000:2020
+seed_size_full <- seq(2, 6, length.out = length(years)) + rnorm(length(years), 0, 0.5)
+beak_size_full <- seed_size_full + rnorm(length(years), 0, 0.7)
+plot(years, seed_size_full,
+  type = "b", col = "brown", pch = 16, ylim = c(0, 7),
+  ylab = "Tamaño (mm)", xlab = "Año"
+)
+points(years, beak_size_full, type = "b", col = "blue", pch = 16)
+legend("topleft", legend = c("Tamaño de semilla", "Tamaño de pico"), col = c("brown", "blue"), pch = 16)
+
+parent_beak <- rnorm(40, 3, 0.5)
+offspring_beak <- parent_beak + rnorm(40, 0, 0.4) # Heritability
+plot(parent_beak, offspring_beak, xlab = "Tamaño de pico — padres", ylab = "Tamaño de pico — hijos", pch = 16)
+abline(lm(offspring_beak ~ parent_beak), col = "red")
+
+beak_size_fit <- rnorm(80, 3, 0.5)
+num_offspring_fit <- rpois(80, lambda = exp(0.8 * (beak_size_fit - 3) + 1.5)) # Positive fitness effect
+plot(beak_size_fit, num_offspring_fit, xlab = "Tamaño de pico", ylab = "Número de hijos", pch = 16)
+abline(lm(num_offspring_fit ~ beak_size_fit), col = "red")
+```
+
+::: {.fragment}
+> Que hipótesis apoya esta evidencia? Y por qué?
+:::
+
+::: {.fragment}
+> **Las tres piezas juntas — correlación con recurso, variación heredable y relación con aptitud — apoyan adaptación por selección natural.**
+:::
+
+## Resumen
+
+1. La evidencia por sí sola no proporciona automáticamente la explicación.
+2. Necesitamos hipótesis alternativas, predicciones y comparación de hipótesis.
+3. Necesitamos evaluar varios tipos de evidencia junto (recursos, dieta, herencia, supervivencia, cambios poblacionales) para distinguir entre explicaciones evolutivas.
+4. Adaptación por selección requiere varias piezas juntas: relación con ambiente/recurso, variación heredable y relación con aptitud.
+
+
+<!-- 
+
+### Part 2: Historical Science
+
+Students often implicitly think:
+
+> Science = laboratory experiments.
+
+Evolution is a great opportunity to discuss historical sciences.
+
+Examples:
+
+* evolution
+* geology
+* astronomy
+
+Question:
+
+> Can we study things that happened in the past?
+
+Answer:
+
+Yes, through evidence and inference.
+
+This connects beautifully to the fossil lecture.
+
+---
+
+---
+
+### Part 4: Correlation vs Causation
+
+This is useful far beyond evolution.
+
+Examples:
+
+Species on islands differ from mainland species.
+
+Question:
+
+> Is isolation responsible?
+
+How would we know?
+
+Introduce:
+
+* predictions
+* alternative hypotheses
+* controls
+* comparisons
+
+---
+
+### Part 6: Limits and Uncertainty
+
+I would definitely include this.
+
+Science rarely proves things with absolute certainty.
+
+Examples:
+
+* incomplete fossil record
+* extinct populations
+* uncertainty in reconstructions
+
+Yet:
+
+Some explanations become overwhelmingly supported.
+
+This is a valuable scientific literacy lesson.
+
+---
+
+## Worksheet Idea
+
+Your current description:
+
+> W2: Interpretar datos evolutivos, Construir una explicacion evolutiva
+
+is actually excellent.
+
+I would make it something like:
+
+### Scenario 1
+
+Island birds have larger beaks after a drought.
+
+Questions:
+
+1. What changed?
+2. What explanations are possible?
+3. What additional data would you collect?
+4. Which hypothesis is currently best supported?
+
+---
+
+### Scenario 2
+
+A cave fish species lacks eyes.
+
+Same questions.
+
+---
+
+### Scenario 3
+
+Antibiotic resistance increased over ten years.
+
+Same questions.
+
+---
+
+The goal is not to get the "correct answer."
+
+The goal is:
+
+> distinguish observation, hypothesis, evidence, and inference. -->
