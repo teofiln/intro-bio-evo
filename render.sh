@@ -3,7 +3,7 @@
 set -euo pipefail
 
 echo "Rendering Quarto site..."
-render_output="$(quarto render . --no-execute 2>&1)"
+render_output="$(quarto render . 2>&1)"
 
 if [[ -n "$render_output" ]]; then
   echo "$render_output"
@@ -15,9 +15,9 @@ echo ""
 echo "Rendering worksheets to PDF and DOCX..."
 for qmd in worksheets/worksheet_*.qmd; do
   echo "  $qmd → pdf"
-  quarto render "$qmd" --to pdf --no-execute
+  quarto render "$qmd" --to pdf
   echo "  $qmd → docx"
-  quarto render "$qmd" --to docx --no-execute
+  quarto render "$qmd" --to docx
 done
 echo "Worksheets done."
 
