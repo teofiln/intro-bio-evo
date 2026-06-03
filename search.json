@@ -70,279 +70,6 @@
     "text": "9 Cierre para discusión en clase\nCada grupo debe estar preparado para compartir brevemente:\n\nQué especies consideran más cercanamente relacionadas.\nQué evidencia usaron para justificarlo.\nUn ejemplo de homología y uno de analogía en el escenario.\nPor qué la evolución observada directamente es evidencia importante."
   },
   {
-    "objectID": "lectures/01-variation-and-populations.html#metas",
-    "href": "lectures/01-variation-and-populations.html#metas",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Metas",
-    "text": "Metas\n\nEstablecer qué es evolución.\nConstruir intuición sobre poblaciones, variación y aptitud.\nEvitar el pensamiento teleológico (no teológico)."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#ser-capaces-de",
-    "href": "lectures/01-variation-and-populations.html#ser-capaces-de",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Ser capaces de",
-    "text": "Ser capaces de\n\nDefinir evolución como cambio en poblaciones a lo largo de generaciones.\nDistinguir cambios en individuos de cambios en poblaciones.\nExplicar por qué la variación entre individuos es importante.\nReconocer que la aptitud depende del entorno.\nIdentificar errores comunes:\n\nlos individuos no evolucionan.\nlos organismos no evolucionan porque “necesitan” rasgos.\nla evolución no está dirigida hacia una meta."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#variacion-adentro-y-entre-especies",
-    "href": "lectures/01-variation-and-populations.html#variacion-adentro-y-entre-especies",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Variacion adentro y entre especies",
-    "text": "Variacion adentro y entre especies\n\nLa variacion es lo normal en la biologia\nNo existen especies ni poblaciones perfectamente uniformes\nLa variacion es la materia prima (raw material?) para la evolucion\nPero no toda variacion es hereditaria (genetica)\nLa variacion no hereditaria no contribuye a la evolucion"
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#que-es-lo-que-varia",
-    "href": "lectures/01-variation-and-populations.html#que-es-lo-que-varia",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Que es lo que varia?",
-    "text": "Que es lo que varia?\n\nFenotipo - el conjunto de características observables de un organismo\n\n\nGenotipo - la información genética de un organismo\n\n\nRasgo - una característica del fenotipo especifica que puede variar entre individuos"
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#ejemplos",
-    "href": "lectures/01-variation-and-populations.html#ejemplos",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Ejemplos",
-    "text": "Ejemplos\n\nCualquier rasgo puede variar entre individuos, incluyendo:\n\nRasgos físicos (altura, color, forma)\nRasgos fisiológicos (metabolismo, resistencia a enfermedades)\nRasgos de comportamiento (agresividad, cuidado parental)"
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#por-qué-los-organismos-son-diferentes",
-    "href": "lectures/01-variation-and-populations.html#por-qué-los-organismos-son-diferentes",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "¿Por qué los organismos son diferentes?",
-    "text": "¿Por qué los organismos son diferentes?\nGenetica: Diferentes combinaciones de alelos (genotipos) entre individuos."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#por-qué-los-organismos-son-diferentes-1",
-    "href": "lectures/01-variation-and-populations.html#por-qué-los-organismos-son-diferentes-1",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "¿Por qué los organismos son diferentes?",
-    "text": "¿Por qué los organismos son diferentes?\n\nAmbiente: Diferentes condiciones ambientales pueden afectar el desarrollo y apariencia de los organismos."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#por-qué-los-organismos-son-diferentes-2",
-    "href": "lectures/01-variation-and-populations.html#por-qué-los-organismos-son-diferentes-2",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "¿Por qué los organismos son diferentes?",
-    "text": "¿Por qué los organismos son diferentes?\n\nInteraccion genetica-ambiente: La expresion de los genes puede depender del ambiente."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#relacion-entre-genotipo-fenotipo-y-ambiente",
-    "href": "lectures/01-variation-and-populations.html#relacion-entre-genotipo-fenotipo-y-ambiente",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Relacion entre genotipo, fenotipo y ambiente",
-    "text": "Relacion entre genotipo, fenotipo y ambiente\n\\[\n\\begin{aligned}\n\\text{Fenotipo} &= \\text{Genotipo} \\\\\n                &\\quad + \\text{Ambiente} \\\\\n                &\\quad + \\text{Interacción genotipo-ambiente}\n\\end{aligned}\n\\]"
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#resumen-variacion-biologica",
-    "href": "lectures/01-variation-and-populations.html#resumen-variacion-biologica",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Resumen variacion biologica",
-    "text": "Resumen variacion biologica\n\nLa variacion es ubicua en la biologia, incluso dentro de especies.\nLos fuentes de variacion incluyen genetica, ambiente e interaccion genetica-ambiente.\nLa variacion hereditaria es necesaria para la evolucion, pero no toda variacion es hereditaria.\n\nVer mas: https://www.bbc.co.uk/bitesize/articles/z6s26yc#zm33f82"
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#definicion",
-    "href": "lectures/01-variation-and-populations.html#definicion",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Definicion",
-    "text": "Definicion\n\nEvolucion = cambio en las características hereditarias de poblaciones a lo largo de generaciones"
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#resumen",
-    "href": "lectures/01-variation-and-populations.html#resumen",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Resumen",
-    "text": "Resumen\n\nEvolucion es cambio en las características hereditarias de poblaciones a lo largo de generaciones\nNo es cambio en individuos a lo largo de su vida, ni entre estaciones."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#resumen-definicion-de-evolucion",
-    "href": "lectures/01-variation-and-populations.html#resumen-definicion-de-evolucion",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Resumen definicion de evolucion",
-    "text": "Resumen definicion de evolucion\n\n\nPiensen asi: Es un cambio en la distribucion poblacional de un rasgo, no en el rasgo de un individuo."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#cambio-fenotipico-rapido-sin-cambio-heredable",
-    "href": "lectures/01-variation-and-populations.html#cambio-fenotipico-rapido-sin-cambio-heredable",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Cambio fenotipico rapido — sin cambio heredable",
-    "text": "Cambio fenotipico rapido — sin cambio heredable\n\nAclimatacion: cambio reversible en el fenotipo de un individuo en respuesta a un cambio ambiental. Ocurre dentro de la vida del organismo y no se hereda."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#ejemplos-1",
-    "href": "lectures/01-variation-and-populations.html#ejemplos-1",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Ejemplos",
-    "text": "Ejemplos\n\n\nEscala de tiempo: horas, dias, semanas — no generaciones.\nEjemplos:\n\nProduccion de globulos rojos a mayor altitud (dias a semanas).\nPigmentacion de la piel por exposicion solar (horas a dias).\nRespuesta al calor: produccion de proteinas de choque termico (minutos a horas).\nCambio de pelaje estacional en mamiferos (semanas)."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#aclimatacion-vs-evolucion",
-    "href": "lectures/01-variation-and-populations.html#aclimatacion-vs-evolucion",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Aclimatacion vs Evolucion",
-    "text": "Aclimatacion vs Evolucion\n\n\n\n\nAclimatacion\nEvolucion\n\n\n\n\n¿Quien cambia?\nUn individuo\nUna poblacion\n\n\n¿Se hereda?\nNo\nSi\n\n\n¿Cuanto tarda?\nHoras a semanas\nGeneraciones\n\n\n¿Es reversible?\nGeneralmente si\nNo (es acumulativo)\n\n\n\n\n\nLa liebre que vimos antes cambia de pelaje cada estacion: aclimatacion, no evolucion. Si en el futuro naciesen mas liebres con pelaje blanco permanente por seleccion en entornos nevados, eso si seria evolucion."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#definicion-1",
-    "href": "lectures/01-variation-and-populations.html#definicion-1",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Definicion",
-    "text": "Definicion\n\nAptitud - la capacidad de un organismo para sobrevivir y reproducirse en su entorno"
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#un-marco-para-pensar-sobre-fenotipos-aptitud-y-entorno",
-    "href": "lectures/01-variation-and-populations.html#un-marco-para-pensar-sobre-fenotipos-aptitud-y-entorno",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Un marco para pensar sobre fenotipos, aptitud, y entorno",
-    "text": "Un marco para pensar sobre fenotipos, aptitud, y entorno\n\n\n\nNorma de Reaccion: Patrón de fenotipos que un genotipo puede producir bajo diferentes condiciones ambientales."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#plasticidad-y-canalizacion",
-    "href": "lectures/01-variation-and-populations.html#plasticidad-y-canalizacion",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Plasticidad y canalizacion",
-    "text": "Plasticidad y canalizacion\n\n\n\nPlasticidad fenotípica: Capacidad de un genotipo para producir diferentes fenotipos en respuesta a diferentes condiciones ambientales.\n\n\n\nCanalizacion: La capacidad de un genotipo para producir el mismo fenotipo independientemente de las condiciones ambientales."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#ejemplo-aptitud-segun-el-entorno",
-    "href": "lectures/01-variation-and-populations.html#ejemplo-aptitud-segun-el-entorno",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Ejemplo: aptitud segun el entorno",
-    "text": "Ejemplo: aptitud segun el entorno\n\nEl mismo rasgo puede favorecer la supervivencia y reproduccion en un entorno, pero no en otro."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#resumen-aptitud-y-entorno",
-    "href": "lectures/01-variation-and-populations.html#resumen-aptitud-y-entorno",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Resumen aptitud y entorno",
-    "text": "Resumen aptitud y entorno\n\nLa aptitud depende del entorno y es relativa a otros organismos en la misma población.\nUn rasgo que aumenta la aptitud en un entorno puede disminuirla en otro entorno.\nLa plasticidad y la canalización son patrones de interacción con el ambiente que producen diferentes fenotipos.\nEste tipo de contraste entre entornos prepara el terreno para la seleccion natural que veremos en las próximas clases."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#teleologia-definicion",
-    "href": "lectures/01-variation-and-populations.html#teleologia-definicion",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Teleologia: definicion",
-    "text": "Teleologia: definicion\n\nTeleologia: explicar un rasgo biologico por su proposito o meta final (por ejemplo, “evoluciono para…”)."
-  },
-  {
-    "objectID": "lectures/01-variation-and-populations.html#cierre",
-    "href": "lectures/01-variation-and-populations.html#cierre",
-    "title": "Variación biológica y pensamiento poblacional",
-    "section": "Cierre",
-    "text": "Cierre"
-  },
-  {
-    "objectID": "course-materials/index.html",
-    "href": "course-materials/index.html",
-    "title": "Materiales del modulo",
-    "section": "",
-    "text": "Programa del modulo\nMensajes clave"
-  },
-  {
-    "objectID": "course-materials/index.html#materiales-disponibles",
-    "href": "course-materials/index.html#materiales-disponibles",
-    "title": "Materiales del modulo",
-    "section": "",
-    "text": "Programa del modulo\nMensajes clave"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Modulo Evolucion",
-    "section": "",
-    "text": "Este sitio resume el modulo de Evolucion de Intro Bio I (B0160). El enfoque general es entender la evolucion como un proceso poblacional: las poblaciones cambian a lo largo de generaciones porque existe variacion entre individuos, parte de esa variacion es heredable, y distintos procesos pueden cambiar la frecuencia de variantes en la poblacion.\n\n\n\nDuracion del modulo: 7 semanas.\nRitmo: 2 clases por semana.\nEvaluacion formal: quizzes quincenales y examen final del modulo.\nActividades recurrentes de aprendizaje: worksheets grupales."
-  },
-  {
-    "objectID": "index.html#resumen-del-modulo",
-    "href": "index.html#resumen-del-modulo",
-    "title": "Modulo Evolucion",
-    "section": "",
-    "text": "Este sitio resume el modulo de Evolucion de Intro Bio I (B0160). El enfoque general es entender la evolucion como un proceso poblacional: las poblaciones cambian a lo largo de generaciones porque existe variacion entre individuos, parte de esa variacion es heredable, y distintos procesos pueden cambiar la frecuencia de variantes en la poblacion.\n\n\n\nDuracion del modulo: 7 semanas.\nRitmo: 2 clases por semana.\nEvaluacion formal: quizzes quincenales y examen final del modulo.\nActividades recurrentes de aprendizaje: worksheets grupales."
-  },
-  {
-    "objectID": "index.html#metas-principales",
-    "href": "index.html#metas-principales",
-    "title": "Modulo Evolucion",
-    "section": "Metas principales",
-    "text": "Metas principales\n\nEntender evolucion como cambio en poblaciones a lo largo de generaciones; individuo vs poblacion.\nEntender la variacion biologica como base de la evolucion.\nEntender como el ambiente influye en fenotipos mediante plasticidad y aclimatacion, y diferenciarlas de adaptacion evolutiva.\nEntender las principales lineas de evidencia evolutiva.\nEntender Hardy-Weinberg como modelo nulo y razonar sobre las fuerzas que rompen ese equilibrio.\nEntender como mutacion y seleccion natural cambian la frecuencia de variantes en poblaciones.\nEntender como deriva genetica y flujo genico cambian la composicion genetica de poblaciones.\nEntender especiacion, patrones de extincion e interpretar filogenias.\nIntegrar estos conceptos en problemas biologicos actuales."
-  },
-  {
-    "objectID": "index.html#plan-general-por-bloques",
-    "href": "index.html#plan-general-por-bloques",
-    "title": "Modulo Evolucion",
-    "section": "Plan general por bloques",
-    "text": "Plan general por bloques\n\n\n\n\n\n\n\nSemana\nEnfoque\n\n\n\n\n1\nVariacion biologica, definicion de evolucion; fosiles, homologias, biogeografia y evidencia directa\n\n\n2\nComo estudiamos la evolucion: evidencia, inferencia y comparacion de hipotesis\n\n\n3\nHardy-Weinberg como modelo nulo; mutacion y variacion heredable\n\n\n4\nSeleccion natural, aptitud y adaptacion; deriva genetica y cambio por azar\n\n\n5\nFlujo genico y conectividad poblacional; especiacion y aislamiento reproductivo\n\n\n6\nMacroevolucion y extincion masiva; filogenias y lectura de arboles\n\n\n7\nAplicaciones y sintesis; examen de cierre"
-  },
-  {
-    "objectID": "index.html#evaluacion-y-aprendizaje-activo",
-    "href": "index.html#evaluacion-y-aprendizaje-activo",
-    "title": "Modulo Evolucion",
-    "section": "Evaluacion y aprendizaje activo",
-    "text": "Evaluacion y aprendizaje activo\n\nQuizzes: tres a lo largo del modulo (cada ~4 clases), verificacion breve de comprension conceptual.\nWorksheets grupales: herramienta de aprendizaje activo para aplicar conceptos en equipo (no calificada).\nExamen de cierre: integracion de evidencia y mecanismos."
-  },
-  {
-    "objectID": "index.html#accesos-rapidos",
-    "href": "index.html#accesos-rapidos",
-    "title": "Modulo Evolucion",
-    "section": "Accesos rapidos",
-    "text": "Accesos rapidos\n\nPrograma del modulo\nMensajes clave\nListado de clases"
-  },
-  {
-    "objectID": "course-materials/course-program-es.html",
-    "href": "course-materials/course-program-es.html",
-    "title": "Programa del modulo: Evolucion",
-    "section": "",
-    "text": "Duracion del modulo: 7 semanas.\nCarga semanal: 2 clases por semana, 2 horas por clase (4 horas/semana).\nEvaluacion formal del modulo: quizzes quincenales y examen de cierre el 10 de julio.\nRitmo de actividades del modulo:\n\nQuiz corto cada dos semanas (10 minutos al inicio de clase).\nHoja de trabajo semanal (30 minutos al final de la segunda clase), en grupos, como practica de aprendizaje activo."
-  },
-  {
-    "objectID": "course-materials/course-program-es.html#contexto-y-estructura",
-    "href": "course-materials/course-program-es.html#contexto-y-estructura",
-    "title": "Programa del modulo: Evolucion",
-    "section": "",
-    "text": "Duracion del modulo: 7 semanas.\nCarga semanal: 2 clases por semana, 2 horas por clase (4 horas/semana).\nEvaluacion formal del modulo: quizzes quincenales y examen de cierre el 10 de julio.\nRitmo de actividades del modulo:\n\nQuiz corto cada dos semanas (10 minutos al inicio de clase).\nHoja de trabajo semanal (30 minutos al final de la segunda clase), en grupos, como practica de aprendizaje activo."
-  },
-  {
-    "objectID": "course-materials/course-program-es.html#enfoque-general-del-modulo",
-    "href": "course-materials/course-program-es.html#enfoque-general-del-modulo",
-    "title": "Programa del modulo: Evolucion",
-    "section": "2 Enfoque general del modulo",
-    "text": "2 Enfoque general del modulo\nEste modulo presenta la evolucion como un proceso poblacional: las poblaciones cambian a lo largo de generaciones porque existen diferencias entre individuos, algunas de esas diferencias son heredables y distintos procesos pueden cambiar la frecuencia de variantes en la poblacion.\nEl modulo enfatiza tres distinciones fundamentales:\n\nCambio individual vs cambio poblacional.\nPlasticidad fenotipica vs adaptacion evolutiva.\nExplicaciones por seleccion natural vs explicaciones por azar, migracion o mutacion.\n\nEl objetivo no es memorizar definiciones aisladas, sino desarrollar razonamiento evolutivo: interpretar evidencia, comparar hipotesis, predecir cambios poblacionales y aplicar conceptos evolutivos a problemas biologicos actuales."
-  },
-  {
-    "objectID": "course-materials/course-program-es.html#metas-principales-de-aprendizaje",
-    "href": "course-materials/course-program-es.html#metas-principales-de-aprendizaje",
-    "title": "Programa del modulo: Evolucion",
-    "section": "3 Metas principales de aprendizaje",
-    "text": "3 Metas principales de aprendizaje\n\nEntender evolucion como cambio en poblaciones a lo largo de generaciones, y distinguir cambio individual vs cambio poblacional.\nEntender la variacion biologica como base de la evolucion: variacion fenotipica, variacion heredable, distribuciones de rasgos y diferencias entre individuos.\nEntender como el ambiente influye sobre los fenotipos mediante plasticidad fenotipica, y diferenciar plasticidad, aclimatacion y adaptacion evolutiva.\nEntender las lineas de evidencia de la evolucion: registro fosil, homologias, biogeografia y cambios evolutivos observables.\nEntender Hardy-Weinberg como modelo nulo (equilibrio) y usarlo para razonar como las fuerzas evolutivas rompen ese equilibrio.\nEntender como mutacion genera variacion heredable y como la seleccion natural puede cambiar la frecuencia de variantes en una poblacion.\nEntender como deriva genetica y flujo genico cambian la composicion genetica de poblaciones.\nEntender especiacion y patrones de extincion (fondo y masiva), e interpretar filogenias para inferir ancestro comun, parentesco relativo y evolucion de rasgos.\nAplicar evolucion a problemas actuales (resistencia a antibioticos, conservacion, cambio ambiental) e integrar conceptos del modulo."
-  },
-  {
-    "objectID": "course-materials/course-program-es.html#plan-por-clase",
-    "href": "course-materials/course-program-es.html#plan-por-clase",
-    "title": "Programa del modulo: Evolucion",
-    "section": "4 Plan por clase",
-    "text": "4 Plan por clase\n\n\n\n\n\n\n\n\n\n\nClase\nFecha\nContenido\nQuiz\nHoja de trabajo grupal\n\n\n\n\n1\nMar 26 may\nIntroduccion; individuos vs poblaciones; rasgos y distribuciones de rasgos, definicion de evolucion;\nNo\nNo\n\n\n2\nVie 29 may\nFosiles, homologias, biogeografia y evidencia directa contemporanea\nNo\nW1: Distinguir plasticidad vs evolucion, Identificar lineas de evidencia\n\n\n3\nMar 2 jun\nExamen modulo Genetica\nNo\nNo\n\n\n4\nVie 5 jun\nComo estudiamos la evolucion: evidencia, inferencia, comparacion de hipotesis y limites\nQuiz 1 (Clases 1-3)\nW2: Interpretar datos evolutivos, Construir una explicacion evolutiva\n\n\n5\nMar 9 jun\nHardy-Weinberg como expectativa nula: que pasaria si no actuaran fuerzas evolutivas\nNo\nW3: Usar Hardy-Weinberg como linea base conceptual\n\n\n6\nVie 12 jun\nMutacion y variacion heredable: origen de nuevos alelos, tipos basicos y errores frecuentes\nNo\nNo\n\n\n7\nMar 16 jun\nSeleccion natural, aptitud, adaptacion, tradeoffs y limites de la seleccion\nNo\nW4: Predecir cambio poblacional bajo seleccion y justificar el razonamiento con evidencia\n\n\n8\nVie 19 jun\nDeriva genetica, efecto fundador, cuello de botella y cambio por azar\nQuiz 2 (Clases 4-7)\nNo\n\n\n9\nMar 23 jun\nMigracion (flujo genico), conectividad poblacional y homogenizacion/diferenciacion genetica\nNo\nW5: Distinguir seleccion, deriva y flujo genico en estudios de caso\n\n\n10\nVie 26 jun\nEspeciacion: aislamiento reproductivo y divergencia, poblaciones, lineages, y especies, unidades de conservacion\nNo\nNo\n\n\n11\nMar 30 jun\nMacroevolucion: vincular cambio en poblaciones con diversificacion y extincion masiva a lo largo del tiempo\nNo\nNo\n\n\n12\nVie 3 jul\nFilogenias: lectura de arboles, nodos, clados, grupo hermano, ancestro comun y evolucion de rasgos\nQuiz 3 (Clases 8-11)\nW6: Interpretar filogenias y evitar errores comunes de lectura de arboles\n\n\n13\nMar 7 jul\nAplicar evolucion a problemas actuales: resistencia, conservacion, cambio ambiental y salud humana\nNo\nNo\n\n\n14\nVie 10 jul\nExamen modulo Evolucion\nNo\nNo"
-  },
-  {
-    "objectID": "course-materials/course-program-es.html#evaluacion-y-aprendizaje-activo-del-modulo",
-    "href": "course-materials/course-program-es.html#evaluacion-y-aprendizaje-activo-del-modulo",
-    "title": "Programa del modulo: Evolucion",
-    "section": "5 Evaluacion y aprendizaje activo del modulo",
-    "text": "5 Evaluacion y aprendizaje activo del modulo\n\n5.1 Quizzes quincenales\n\nDuracion: 10 minutos al inicio de clase.\nFrecuencia: semanas 2, 4 y 6.\nProposito: verificacion rapida de comprension de conceptos clave de las dos semanas previas.\nEnfoque: preguntas cortas de interpretacion conceptual, prediccion o identificacion de mecanismos evolutivos.\n\n\n\n5.2 Worksheets semanales (grupales, no calificados)\n\nDuracion: 30 minutos al final de la segunda clase de cada semana.\nFrecuencia: semanal, excepto semanas con examen u otra actividad que lo impida.\nProposito: aplicar conceptos de la semana en problemas autenticos, practicar razonamiento y discutir en grupo.\nEnfoque general:\n\ninterpretar datos, graficos o escenarios biologicos;\ndistinguir entre mecanismos evolutivos alternativos;\njustificar conclusiones usando evidencia;\nidentificar supuestos y limites de una explicacion;\nconstruir respuestas breves pero razonadas en grupo.\n\n\n\n\n5.3 Examen de cierre (10 de julio)\n\nCobertura: metas 1-9, con enfasis en integracion de evidencia + mecanismos.\nEnfoque: interpretacion de escenarios, comparacion de mecanismos evolutivos, aplicacion de conceptos y lectura de evidencia."
-  },
-  {
-    "objectID": "course-materials/course-program-es.html#criterios-de-logro-por-meta",
-    "href": "course-materials/course-program-es.html#criterios-de-logro-por-meta",
-    "title": "Programa del modulo: Evolucion",
-    "section": "6 Criterios de logro por meta",
-    "text": "6 Criterios de logro por meta\n\nDefine evolucion poblacional correctamente y distingue cambios dentro de un individuo de cambios entre generaciones en una poblacion.\nExplica por que la variacion entre individuos es necesaria para que ocurra evolucion y reconoce que los rasgos pueden analizarse como distribuciones poblacionales.\nDiferencia plasticidad fenotipica, aclimatacion y adaptacion evolutiva usando ejemplos concretos.\nArgumenta una conclusion evolutiva usando al menos dos lineas de evidencia, por ejemplo fosiles, homologias, biogeografia o cambios observables.\nUsa Hardy-Weinberg como linea base conceptual y reconoce como seleccion, deriva, flujo genico y mutacion pueden alterar el equilibrio.\nExplica como la mutacion genera variacion heredable y como la seleccion natural puede cambiar la frecuencia de variantes en una poblacion.\nDiferencia cambios por azar (deriva genetica) de cambios por intercambio entre poblaciones (flujo genico).\nExplica rutas basicas de especiacion, diferencia extincion de fondo de extincion masiva e interpreta filogenias sin confundir cercania en la punta con parentesco.\nAplica evidencia y mecanismos evolutivos para analizar problemas biologicos actuales y construir una explicacion integrada."
-  },
-  {
-    "objectID": "course-materials/take-home-messages.html",
-    "href": "course-materials/take-home-messages.html",
-    "title": "Mensajes clave del modulo",
-    "section": "",
-    "text": "Semana 1: los individuos cambian ≠ las poblaciones evolucionan\nSemana 2: distintas lineas de evidencia apoyan la ascendencia comun\nSemana 3a: plasticidad ≠ evolucion\nSemana 3b: HW = lo que esperamos si las frecuencias alelicas no cambian\nSemana 4a: la mutacion genera variacion ≠ adaptacion por si sola\nSemana 4b: la seleccion es supervivencia/reproduccion no aleatoria, no cambio intencional\nSemana 5a: la deriva = cambio aleatorio, mas fuerte en poblaciones pequenas\nSemana 5b: el flujo genico conecta poblaciones\nSemana 6a: especiacion = reduccion del flujo genico + divergencia\nSemana 6b: los arboles muestran ascendencia comun, no organismos “superiores/inferiores”"
-  },
-  {
     "objectID": "lectures/02-evidence.html#metas",
     "href": "lectures/02-evidence.html#metas",
     "title": "Evidencia de la evolución",
@@ -595,6 +322,279 @@
     "text": "Experimentos evolutivos\n\n\nAdaptacion predicible y repetida\nEvolucion de nuevas funciones (ej: metabolizar citrato)"
   },
   {
+    "objectID": "course-materials/take-home-messages.html",
+    "href": "course-materials/take-home-messages.html",
+    "title": "Mensajes clave del modulo",
+    "section": "",
+    "text": "Semana 1: los individuos cambian ≠ las poblaciones evolucionan\nSemana 2: distintas lineas de evidencia apoyan la ascendencia comun\nSemana 3a: plasticidad ≠ evolucion\nSemana 3b: HW = lo que esperamos si las frecuencias alelicas no cambian\nSemana 4a: la mutacion genera variacion ≠ adaptacion por si sola\nSemana 4b: la seleccion es supervivencia/reproduccion no aleatoria, no cambio intencional\nSemana 5a: la deriva = cambio aleatorio, mas fuerte en poblaciones pequenas\nSemana 5b: el flujo genico conecta poblaciones\nSemana 6a: especiacion = reduccion del flujo genico + divergencia\nSemana 6b: los arboles muestran ascendencia comun, no organismos “superiores/inferiores”"
+  },
+  {
+    "objectID": "course-materials/course-program-es.html",
+    "href": "course-materials/course-program-es.html",
+    "title": "Programa del modulo: Evolucion",
+    "section": "",
+    "text": "Duracion del modulo: 7 semanas.\nCarga semanal: 2 clases por semana, 2 horas por clase (4 horas/semana).\nEvaluacion formal del modulo: quizzes quincenales y examen de cierre el 10 de julio.\nRitmo de actividades del modulo:\n\nQuiz corto cada dos semanas (10 minutos al inicio de clase).\nHoja de trabajo semanal (30 minutos al final de la segunda clase), en grupos, como practica de aprendizaje activo."
+  },
+  {
+    "objectID": "course-materials/course-program-es.html#contexto-y-estructura",
+    "href": "course-materials/course-program-es.html#contexto-y-estructura",
+    "title": "Programa del modulo: Evolucion",
+    "section": "",
+    "text": "Duracion del modulo: 7 semanas.\nCarga semanal: 2 clases por semana, 2 horas por clase (4 horas/semana).\nEvaluacion formal del modulo: quizzes quincenales y examen de cierre el 10 de julio.\nRitmo de actividades del modulo:\n\nQuiz corto cada dos semanas (10 minutos al inicio de clase).\nHoja de trabajo semanal (30 minutos al final de la segunda clase), en grupos, como practica de aprendizaje activo."
+  },
+  {
+    "objectID": "course-materials/course-program-es.html#enfoque-general-del-modulo",
+    "href": "course-materials/course-program-es.html#enfoque-general-del-modulo",
+    "title": "Programa del modulo: Evolucion",
+    "section": "2 Enfoque general del modulo",
+    "text": "2 Enfoque general del modulo\nEste modulo presenta la evolucion como un proceso poblacional: las poblaciones cambian a lo largo de generaciones porque existen diferencias entre individuos, algunas de esas diferencias son heredables y distintos procesos pueden cambiar la frecuencia de variantes en la poblacion.\nEl modulo enfatiza tres distinciones fundamentales:\n\nCambio individual vs cambio poblacional.\nPlasticidad fenotipica vs adaptacion evolutiva.\nExplicaciones por seleccion natural vs explicaciones por azar, migracion o mutacion.\n\nEl objetivo no es memorizar definiciones aisladas, sino desarrollar razonamiento evolutivo: interpretar evidencia, comparar hipotesis, predecir cambios poblacionales y aplicar conceptos evolutivos a problemas biologicos actuales."
+  },
+  {
+    "objectID": "course-materials/course-program-es.html#metas-principales-de-aprendizaje",
+    "href": "course-materials/course-program-es.html#metas-principales-de-aprendizaje",
+    "title": "Programa del modulo: Evolucion",
+    "section": "3 Metas principales de aprendizaje",
+    "text": "3 Metas principales de aprendizaje\n\nEntender evolucion como cambio en poblaciones a lo largo de generaciones, y distinguir cambio individual vs cambio poblacional.\nEntender la variacion biologica como base de la evolucion: variacion fenotipica, variacion heredable, distribuciones de rasgos y diferencias entre individuos.\nEntender como el ambiente influye sobre los fenotipos mediante plasticidad fenotipica, y diferenciar plasticidad, aclimatacion y adaptacion evolutiva.\nEntender las lineas de evidencia de la evolucion: registro fosil, homologias, biogeografia y cambios evolutivos observables.\nEntender Hardy-Weinberg como modelo nulo (equilibrio) y usarlo para razonar como las fuerzas evolutivas rompen ese equilibrio.\nEntender como mutacion genera variacion heredable y como la seleccion natural puede cambiar la frecuencia de variantes en una poblacion.\nEntender como deriva genetica y flujo genico cambian la composicion genetica de poblaciones.\nEntender especiacion y patrones de extincion (fondo y masiva), e interpretar filogenias para inferir ancestro comun, parentesco relativo y evolucion de rasgos.\nAplicar evolucion a problemas actuales (resistencia a antibioticos, conservacion, cambio ambiental) e integrar conceptos del modulo."
+  },
+  {
+    "objectID": "course-materials/course-program-es.html#plan-por-clase",
+    "href": "course-materials/course-program-es.html#plan-por-clase",
+    "title": "Programa del modulo: Evolucion",
+    "section": "4 Plan por clase",
+    "text": "4 Plan por clase\n\n\n\n\n\n\n\n\n\n\nClase\nFecha\nContenido\nQuiz\nHoja de trabajo grupal\n\n\n\n\n1\nMar 26 may\nIntroduccion; individuos vs poblaciones; rasgos y distribuciones de rasgos, definicion de evolucion;\nNo\nNo\n\n\n2\nVie 29 may\nFosiles, homologias, biogeografia y evidencia directa contemporanea\nNo\nW1: Distinguir plasticidad vs evolucion, Identificar lineas de evidencia\n\n\n3\nMar 2 jun\nExamen modulo Genetica\nNo\nNo\n\n\n4\nVie 5 jun\nComo estudiamos la evolucion: evidencia, inferencia, comparacion de hipotesis y limites\nQuiz 1 (Clases 1-3)\nW2: Interpretar datos evolutivos, Construir una explicacion evolutiva\n\n\n5\nMar 9 jun\nHardy-Weinberg como expectativa nula: que pasaria si no actuaran fuerzas evolutivas\nNo\nW3: Usar Hardy-Weinberg como linea base conceptual\n\n\n6\nVie 12 jun\nMutacion y variacion heredable: origen de nuevos alelos, tipos basicos y errores frecuentes\nNo\nNo\n\n\n7\nMar 16 jun\nSeleccion natural, aptitud, adaptacion, tradeoffs y limites de la seleccion\nNo\nW4: Predecir cambio poblacional bajo seleccion y justificar el razonamiento con evidencia\n\n\n8\nVie 19 jun\nDeriva genetica, efecto fundador, cuello de botella y cambio por azar\nQuiz 2 (Clases 4-7)\nNo\n\n\n9\nMar 23 jun\nMigracion (flujo genico), conectividad poblacional y homogenizacion/diferenciacion genetica\nNo\nW5: Distinguir seleccion, deriva y flujo genico en estudios de caso\n\n\n10\nVie 26 jun\nEspeciacion: aislamiento reproductivo y divergencia, poblaciones, lineages, y especies, unidades de conservacion\nNo\nNo\n\n\n11\nMar 30 jun\nMacroevolucion: vincular cambio en poblaciones con diversificacion y extincion masiva a lo largo del tiempo\nNo\nNo\n\n\n12\nVie 3 jul\nFilogenias: lectura de arboles, nodos, clados, grupo hermano, ancestro comun y evolucion de rasgos\nQuiz 3 (Clases 8-11)\nW6: Interpretar filogenias y evitar errores comunes de lectura de arboles\n\n\n13\nMar 7 jul\nAplicar evolucion a problemas actuales: resistencia, conservacion, cambio ambiental y salud humana\nNo\nNo\n\n\n14\nVie 10 jul\nExamen modulo Evolucion\nNo\nNo"
+  },
+  {
+    "objectID": "course-materials/course-program-es.html#evaluacion-y-aprendizaje-activo-del-modulo",
+    "href": "course-materials/course-program-es.html#evaluacion-y-aprendizaje-activo-del-modulo",
+    "title": "Programa del modulo: Evolucion",
+    "section": "5 Evaluacion y aprendizaje activo del modulo",
+    "text": "5 Evaluacion y aprendizaje activo del modulo\n\n5.1 Quizzes quincenales\n\nDuracion: 10 minutos al inicio de clase.\nFrecuencia: semanas 2, 4 y 6.\nProposito: verificacion rapida de comprension de conceptos clave de las dos semanas previas.\nEnfoque: preguntas cortas de interpretacion conceptual, prediccion o identificacion de mecanismos evolutivos.\n\n\n\n5.2 Worksheets semanales (grupales, no calificados)\n\nDuracion: 30 minutos al final de la segunda clase de cada semana.\nFrecuencia: semanal, excepto semanas con examen u otra actividad que lo impida.\nProposito: aplicar conceptos de la semana en problemas autenticos, practicar razonamiento y discutir en grupo.\nEnfoque general:\n\ninterpretar datos, graficos o escenarios biologicos;\ndistinguir entre mecanismos evolutivos alternativos;\njustificar conclusiones usando evidencia;\nidentificar supuestos y limites de una explicacion;\nconstruir respuestas breves pero razonadas en grupo.\n\n\n\n\n5.3 Examen de cierre (10 de julio)\n\nCobertura: metas 1-9, con enfasis en integracion de evidencia + mecanismos.\nEnfoque: interpretacion de escenarios, comparacion de mecanismos evolutivos, aplicacion de conceptos y lectura de evidencia."
+  },
+  {
+    "objectID": "course-materials/course-program-es.html#criterios-de-logro-por-meta",
+    "href": "course-materials/course-program-es.html#criterios-de-logro-por-meta",
+    "title": "Programa del modulo: Evolucion",
+    "section": "6 Criterios de logro por meta",
+    "text": "6 Criterios de logro por meta\n\nDefine evolucion poblacional correctamente y distingue cambios dentro de un individuo de cambios entre generaciones en una poblacion.\nExplica por que la variacion entre individuos es necesaria para que ocurra evolucion y reconoce que los rasgos pueden analizarse como distribuciones poblacionales.\nDiferencia plasticidad fenotipica, aclimatacion y adaptacion evolutiva usando ejemplos concretos.\nArgumenta una conclusion evolutiva usando al menos dos lineas de evidencia, por ejemplo fosiles, homologias, biogeografia o cambios observables.\nUsa Hardy-Weinberg como linea base conceptual y reconoce como seleccion, deriva, flujo genico y mutacion pueden alterar el equilibrio.\nExplica como la mutacion genera variacion heredable y como la seleccion natural puede cambiar la frecuencia de variantes en una poblacion.\nDiferencia cambios por azar (deriva genetica) de cambios por intercambio entre poblaciones (flujo genico).\nExplica rutas basicas de especiacion, diferencia extincion de fondo de extincion masiva e interpreta filogenias sin confundir cercania en la punta con parentesco.\nAplica evidencia y mecanismos evolutivos para analizar problemas biologicos actuales y construir una explicacion integrada."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Modulo Evolucion",
+    "section": "",
+    "text": "Este sitio resume el modulo de Evolucion de Intro Bio I (B0160). El enfoque general es entender la evolucion como un proceso poblacional: las poblaciones cambian a lo largo de generaciones porque existe variacion entre individuos, parte de esa variacion es heredable, y distintos procesos pueden cambiar la frecuencia de variantes en la poblacion.\n\n\n\nDuracion del modulo: 7 semanas.\nRitmo: 2 clases por semana.\nEvaluacion formal: quizzes quincenales y examen final del modulo.\nActividades recurrentes de aprendizaje: worksheets grupales."
+  },
+  {
+    "objectID": "index.html#resumen-del-modulo",
+    "href": "index.html#resumen-del-modulo",
+    "title": "Modulo Evolucion",
+    "section": "",
+    "text": "Este sitio resume el modulo de Evolucion de Intro Bio I (B0160). El enfoque general es entender la evolucion como un proceso poblacional: las poblaciones cambian a lo largo de generaciones porque existe variacion entre individuos, parte de esa variacion es heredable, y distintos procesos pueden cambiar la frecuencia de variantes en la poblacion.\n\n\n\nDuracion del modulo: 7 semanas.\nRitmo: 2 clases por semana.\nEvaluacion formal: quizzes quincenales y examen final del modulo.\nActividades recurrentes de aprendizaje: worksheets grupales."
+  },
+  {
+    "objectID": "index.html#metas-principales",
+    "href": "index.html#metas-principales",
+    "title": "Modulo Evolucion",
+    "section": "Metas principales",
+    "text": "Metas principales\n\nEntender evolucion como cambio en poblaciones a lo largo de generaciones; individuo vs poblacion.\nEntender la variacion biologica como base de la evolucion.\nEntender como el ambiente influye en fenotipos mediante plasticidad y aclimatacion, y diferenciarlas de adaptacion evolutiva.\nEntender las principales lineas de evidencia evolutiva.\nEntender Hardy-Weinberg como modelo nulo y razonar sobre las fuerzas que rompen ese equilibrio.\nEntender como mutacion y seleccion natural cambian la frecuencia de variantes en poblaciones.\nEntender como deriva genetica y flujo genico cambian la composicion genetica de poblaciones.\nEntender especiacion, patrones de extincion e interpretar filogenias.\nIntegrar estos conceptos en problemas biologicos actuales."
+  },
+  {
+    "objectID": "index.html#plan-general-por-bloques",
+    "href": "index.html#plan-general-por-bloques",
+    "title": "Modulo Evolucion",
+    "section": "Plan general por bloques",
+    "text": "Plan general por bloques\n\n\n\n\n\n\n\nSemana\nEnfoque\n\n\n\n\n1\nVariacion biologica, definicion de evolucion; fosiles, homologias, biogeografia y evidencia directa\n\n\n2\nComo estudiamos la evolucion: evidencia, inferencia y comparacion de hipotesis\n\n\n3\nHardy-Weinberg como modelo nulo; mutacion y variacion heredable\n\n\n4\nSeleccion natural, aptitud y adaptacion; deriva genetica y cambio por azar\n\n\n5\nFlujo genico y conectividad poblacional; especiacion y aislamiento reproductivo\n\n\n6\nMacroevolucion y extincion masiva; filogenias y lectura de arboles\n\n\n7\nAplicaciones y sintesis; examen de cierre"
+  },
+  {
+    "objectID": "index.html#evaluacion-y-aprendizaje-activo",
+    "href": "index.html#evaluacion-y-aprendizaje-activo",
+    "title": "Modulo Evolucion",
+    "section": "Evaluacion y aprendizaje activo",
+    "text": "Evaluacion y aprendizaje activo\n\nQuizzes: tres a lo largo del modulo (cada ~4 clases), verificacion breve de comprension conceptual.\nWorksheets grupales: herramienta de aprendizaje activo para aplicar conceptos en equipo (no calificada).\nExamen de cierre: integracion de evidencia y mecanismos."
+  },
+  {
+    "objectID": "index.html#accesos-rapidos",
+    "href": "index.html#accesos-rapidos",
+    "title": "Modulo Evolucion",
+    "section": "Accesos rapidos",
+    "text": "Accesos rapidos\n\nPrograma del modulo\nMensajes clave\nListado de clases"
+  },
+  {
+    "objectID": "course-materials/index.html",
+    "href": "course-materials/index.html",
+    "title": "Materiales del modulo",
+    "section": "",
+    "text": "Programa del modulo\nMensajes clave"
+  },
+  {
+    "objectID": "course-materials/index.html#materiales-disponibles",
+    "href": "course-materials/index.html#materiales-disponibles",
+    "title": "Materiales del modulo",
+    "section": "",
+    "text": "Programa del modulo\nMensajes clave"
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#metas",
+    "href": "lectures/01-variation-and-populations.html#metas",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Metas",
+    "text": "Metas\n\nEstablecer qué es evolución.\nConstruir intuición sobre poblaciones, variación y aptitud.\nEvitar el pensamiento teleológico (no teológico)."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#ser-capaces-de",
+    "href": "lectures/01-variation-and-populations.html#ser-capaces-de",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Ser capaces de",
+    "text": "Ser capaces de\n\nDefinir evolución como cambio en poblaciones a lo largo de generaciones.\nDistinguir cambios en individuos de cambios en poblaciones.\nExplicar por qué la variación entre individuos es importante.\nReconocer que la aptitud depende del entorno.\nIdentificar errores comunes:\n\nlos individuos no evolucionan.\nlos organismos no evolucionan porque “necesitan” rasgos.\nla evolución no está dirigida hacia una meta."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#variacion-adentro-y-entre-especies",
+    "href": "lectures/01-variation-and-populations.html#variacion-adentro-y-entre-especies",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Variacion adentro y entre especies",
+    "text": "Variacion adentro y entre especies\n\nLa variacion es lo normal en la biologia\nNo existen especies ni poblaciones perfectamente uniformes\nLa variacion es la materia prima (raw material?) para la evolucion\nPero no toda variacion es hereditaria (genetica)\nLa variacion no hereditaria no contribuye a la evolucion"
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#que-es-lo-que-varia",
+    "href": "lectures/01-variation-and-populations.html#que-es-lo-que-varia",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Que es lo que varia?",
+    "text": "Que es lo que varia?\n\nFenotipo - el conjunto de características observables de un organismo\n\n\nGenotipo - la información genética de un organismo\n\n\nRasgo - una característica del fenotipo especifica que puede variar entre individuos"
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#ejemplos",
+    "href": "lectures/01-variation-and-populations.html#ejemplos",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Ejemplos",
+    "text": "Ejemplos\n\nCualquier rasgo puede variar entre individuos, incluyendo:\n\nRasgos físicos (altura, color, forma)\nRasgos fisiológicos (metabolismo, resistencia a enfermedades)\nRasgos de comportamiento (agresividad, cuidado parental)"
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#por-qué-los-organismos-son-diferentes",
+    "href": "lectures/01-variation-and-populations.html#por-qué-los-organismos-son-diferentes",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "¿Por qué los organismos son diferentes?",
+    "text": "¿Por qué los organismos son diferentes?\nGenetica: Diferentes combinaciones de alelos (genotipos) entre individuos."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#por-qué-los-organismos-son-diferentes-1",
+    "href": "lectures/01-variation-and-populations.html#por-qué-los-organismos-son-diferentes-1",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "¿Por qué los organismos son diferentes?",
+    "text": "¿Por qué los organismos son diferentes?\n\nAmbiente: Diferentes condiciones ambientales pueden afectar el desarrollo y apariencia de los organismos."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#por-qué-los-organismos-son-diferentes-2",
+    "href": "lectures/01-variation-and-populations.html#por-qué-los-organismos-son-diferentes-2",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "¿Por qué los organismos son diferentes?",
+    "text": "¿Por qué los organismos son diferentes?\n\nInteraccion genetica-ambiente: La expresion de los genes puede depender del ambiente."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#relacion-entre-genotipo-fenotipo-y-ambiente",
+    "href": "lectures/01-variation-and-populations.html#relacion-entre-genotipo-fenotipo-y-ambiente",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Relacion entre genotipo, fenotipo y ambiente",
+    "text": "Relacion entre genotipo, fenotipo y ambiente\n\\[\n\\begin{aligned}\n\\text{Fenotipo} &= \\text{Genotipo} \\\\\n                &\\quad + \\text{Ambiente} \\\\\n                &\\quad + \\text{Interacción genotipo-ambiente}\n\\end{aligned}\n\\]"
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#resumen-variacion-biologica",
+    "href": "lectures/01-variation-and-populations.html#resumen-variacion-biologica",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Resumen variacion biologica",
+    "text": "Resumen variacion biologica\n\nLa variacion es ubicua en la biologia, incluso dentro de especies.\nLos fuentes de variacion incluyen genetica, ambiente e interaccion genetica-ambiente.\nLa variacion hereditaria es necesaria para la evolucion, pero no toda variacion es hereditaria.\n\nVer mas: https://www.bbc.co.uk/bitesize/articles/z6s26yc#zm33f82"
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#definicion",
+    "href": "lectures/01-variation-and-populations.html#definicion",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Definicion",
+    "text": "Definicion\n\nEvolucion = cambio en las características hereditarias de poblaciones a lo largo de generaciones"
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#resumen",
+    "href": "lectures/01-variation-and-populations.html#resumen",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Resumen",
+    "text": "Resumen\n\nEvolucion es cambio en las características hereditarias de poblaciones a lo largo de generaciones\nNo es cambio en individuos a lo largo de su vida, ni entre estaciones."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#resumen-definicion-de-evolucion",
+    "href": "lectures/01-variation-and-populations.html#resumen-definicion-de-evolucion",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Resumen definicion de evolucion",
+    "text": "Resumen definicion de evolucion\n\n\nPiensen asi: Es un cambio en la distribucion poblacional de un rasgo, no en el rasgo de un individuo."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#cambio-fenotipico-rapido-sin-cambio-heredable",
+    "href": "lectures/01-variation-and-populations.html#cambio-fenotipico-rapido-sin-cambio-heredable",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Cambio fenotipico rapido — sin cambio heredable",
+    "text": "Cambio fenotipico rapido — sin cambio heredable\n\nAclimatacion: cambio reversible en el fenotipo de un individuo en respuesta a un cambio ambiental. Ocurre dentro de la vida del organismo y no se hereda."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#ejemplos-1",
+    "href": "lectures/01-variation-and-populations.html#ejemplos-1",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Ejemplos",
+    "text": "Ejemplos\n\n\nEscala de tiempo: horas, dias, semanas — no generaciones.\nEjemplos:\n\nProduccion de globulos rojos a mayor altitud (dias a semanas).\nPigmentacion de la piel por exposicion solar (horas a dias).\nRespuesta al calor: produccion de proteinas de choque termico (minutos a horas).\nCambio de pelaje estacional en mamiferos (semanas)."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#aclimatacion-vs-evolucion",
+    "href": "lectures/01-variation-and-populations.html#aclimatacion-vs-evolucion",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Aclimatacion vs Evolucion",
+    "text": "Aclimatacion vs Evolucion\n\n\n\n\nAclimatacion\nEvolucion\n\n\n\n\n¿Quien cambia?\nUn individuo\nUna poblacion\n\n\n¿Se hereda?\nNo\nSi\n\n\n¿Cuanto tarda?\nHoras a semanas\nGeneraciones\n\n\n¿Es reversible?\nGeneralmente si\nNo (es acumulativo)\n\n\n\n\n\nLa liebre que vimos antes cambia de pelaje cada estacion: aclimatacion, no evolucion. Si en el futuro naciesen mas liebres con pelaje blanco permanente por seleccion en entornos nevados, eso si seria evolucion."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#definicion-1",
+    "href": "lectures/01-variation-and-populations.html#definicion-1",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Definicion",
+    "text": "Definicion\n\nAptitud - la capacidad de un organismo para sobrevivir y reproducirse en su entorno"
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#un-marco-para-pensar-sobre-fenotipos-aptitud-y-entorno",
+    "href": "lectures/01-variation-and-populations.html#un-marco-para-pensar-sobre-fenotipos-aptitud-y-entorno",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Un marco para pensar sobre fenotipos, aptitud, y entorno",
+    "text": "Un marco para pensar sobre fenotipos, aptitud, y entorno\n\n\n\nNorma de Reaccion: Patrón de fenotipos que un genotipo puede producir bajo diferentes condiciones ambientales."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#plasticidad-y-canalizacion",
+    "href": "lectures/01-variation-and-populations.html#plasticidad-y-canalizacion",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Plasticidad y canalizacion",
+    "text": "Plasticidad y canalizacion\n\n\n\nPlasticidad fenotípica: Capacidad de un genotipo para producir diferentes fenotipos en respuesta a diferentes condiciones ambientales.\n\n\n\nCanalizacion: La capacidad de un genotipo para producir el mismo fenotipo independientemente de las condiciones ambientales."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#ejemplo-aptitud-segun-el-entorno",
+    "href": "lectures/01-variation-and-populations.html#ejemplo-aptitud-segun-el-entorno",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Ejemplo: aptitud segun el entorno",
+    "text": "Ejemplo: aptitud segun el entorno\n\nEl mismo rasgo puede favorecer la supervivencia y reproduccion en un entorno, pero no en otro."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#resumen-aptitud-y-entorno",
+    "href": "lectures/01-variation-and-populations.html#resumen-aptitud-y-entorno",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Resumen aptitud y entorno",
+    "text": "Resumen aptitud y entorno\n\nLa aptitud depende del entorno y es relativa a otros organismos en la misma población.\nUn rasgo que aumenta la aptitud en un entorno puede disminuirla en otro entorno.\nLa plasticidad y la canalización son patrones de interacción con el ambiente que producen diferentes fenotipos.\nEste tipo de contraste entre entornos prepara el terreno para la seleccion natural que veremos en las próximas clases."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#teleologia-definicion",
+    "href": "lectures/01-variation-and-populations.html#teleologia-definicion",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Teleologia: definicion",
+    "text": "Teleologia: definicion\n\nTeleologia: explicar un rasgo biologico por su proposito o meta final (por ejemplo, “evoluciono para…”)."
+  },
+  {
+    "objectID": "lectures/01-variation-and-populations.html#cierre",
+    "href": "lectures/01-variation-and-populations.html#cierre",
+    "title": "Variación biológica y pensamiento poblacional",
+    "section": "Cierre",
+    "text": "Cierre"
+  },
+  {
     "objectID": "lectures/03-methods.html#metas",
     "href": "lectures/03-methods.html#metas",
     "title": "Como estudiamos la evolución",
@@ -623,18 +623,18 @@
     "text": "Observación vs explicación\nObservación:\n\nLos pinzones de Galápagos tienen picos diferentes que hace unos años.\n\n\nNecesitamos:\n\nhipótesis alternativas\npredicciones\ncomparación de hipótesis"
   },
   {
-    "objectID": "lectures/03-methods.html#explicacion-1-azar",
-    "href": "lectures/03-methods.html#explicacion-1-azar",
+    "objectID": "lectures/03-methods.html#explicación-1-azar",
+    "href": "lectures/03-methods.html#explicación-1-azar",
     "title": "Como estudiamos la evolución",
-    "section": "Explicacion 1: Azar",
-    "text": "Explicacion 1: Azar\nHipótesis:\n\nEl cambio se debe a procesos aleatorios que modificaron la frecuencia de variantes en la población.\n\n\nPredicción:\n\nNo debería existir una relación consistente entre tamaño del pico y tamaño de las semillas. (Ecología, Recursos)\nNo debería existir una relación consistente entre tamaño del pico y supervivencia. (Aptitud, Selección Natural)\nEl cambio podría ocurrir incluso sin cambios en los recursos disponibles. (Ecología, Recursos)\nEl tamano del pico de hijos no debería estar relacionado con el tamaño del pico de los padres. (Genética)"
+    "section": "Explicación 1: Azar",
+    "text": "Explicación 1: Azar\nHipótesis:\n\nEl cambio se debe a procesos aleatorios que modificaron la frecuencia de variantes en la población.\n\n\nPredicción:\n\nNo debería existir una relación consistente entre tamaño del pico y tamaño de las semillas. (Ecología, Recursos)\nNo debería existir una relación consistente entre tamaño del pico y supervivencia. (Aptitud, Selección Natural)\nEl cambio podría ocurrir incluso sin cambios en los recursos disponibles. (Ecología, Recursos)"
   },
   {
-    "objectID": "lectures/03-methods.html#explicacion-2-adaptación-a-la-dieta",
-    "href": "lectures/03-methods.html#explicacion-2-adaptación-a-la-dieta",
+    "objectID": "lectures/03-methods.html#explicación-2-adaptación-a-la-dieta",
+    "href": "lectures/03-methods.html#explicación-2-adaptación-a-la-dieta",
     "title": "Como estudiamos la evolución",
-    "section": "Explicacion 2: Adaptación a la dieta",
-    "text": "Explicacion 2: Adaptación a la dieta\nHipótesis:\n\nEl cambio se debe a que individuos con picos más grandes sobrevivieron y se reprodujeron más durante la sequía.\n\n\nPredicción:\n\nDebería existir una relación entre tamaño del pico y tamaño de las semillas disponibles. (Ecologia, Recursos)\nDebería existir una relación consistente entre el tamaño del pico y la dieta. (Ecologia, Recursos)\nParte de la variación en el tamano del pico debería ser heredable. (Genetica)\nEl tamaño promedio del pico debería aumentar generación tras generación. (Aptitud, Selección Natural)\nLos individuos con picos más grandes deberían sobrevivir más frecuentemente. (Aptitud, Selección Natural)"
+    "section": "Explicación 2: Adaptación a la dieta",
+    "text": "Explicación 2: Adaptación a la dieta\nHipótesis:\n\nEl cambio se debe a que individuos con picos más grandes sobrevivieron y se reprodujeron más durante la sequía.\n\n\nPredicción:\n\nDebería existir una relación entre tamaño del pico y tamaño de las semillas disponibles. (Ecología, Recursos)\nDebería existir una relación consistente entre el tamaño del pico y la dieta. (Ecología, Recursos)\nParte de la variación en el tamaño del pico debería ser heredable. (Genética)\nEl tamaño promedio del pico debería aumentar generación tras generación. (Aptitud, Selección Natural)\nLos individuos con picos más grandes deberían sobrevivir más frecuentemente. (Aptitud, Selección Natural)"
   },
   {
     "objectID": "lectures/03-methods.html#comparación-de-hipótesis",
@@ -642,34 +642,6 @@
     "title": "Como estudiamos la evolución",
     "section": "Comparación de hipótesis",
     "text": "Comparación de hipótesis\n¿Qué datos serían útiles para distinguir entre estas explicaciones?\n\n\nTamaño de pico\nTamaño de semillas\nDieta\nSupervivencia\nNúmero de hijos\nHerencia padres–hijos\nCambios en la población a través del tiempo"
-  },
-  {
-    "objectID": "lectures/03-methods.html#relacion-entre-picos-y-semillas",
-    "href": "lectures/03-methods.html#relacion-entre-picos-y-semillas",
-    "title": "Como estudiamos la evolución",
-    "section": "Relacion entre picos y semillas",
-    "text": "Relacion entre picos y semillas\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nCambio por azar."
-  },
-  {
-    "objectID": "lectures/03-methods.html#relacion-entre-picos-y-semillas-1",
-    "href": "lectures/03-methods.html#relacion-entre-picos-y-semillas-1",
-    "title": "Como estudiamos la evolución",
-    "section": "Relacion entre picos y semillas",
-    "text": "Relacion entre picos y semillas\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nAdaptación a la dieta."
-  },
-  {
-    "objectID": "lectures/03-methods.html#relacion-entre-padres-e-hijos",
-    "href": "lectures/03-methods.html#relacion-entre-padres-e-hijos",
-    "title": "Como estudiamos la evolución",
-    "section": "Relacion entre padres e hijos",
-    "text": "Relacion entre padres e hijos\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nAdaptación a la dieta."
-  },
-  {
-    "objectID": "lectures/03-methods.html#relacion-entre-picos-y-numero-de-hijos",
-    "href": "lectures/03-methods.html#relacion-entre-picos-y-numero-de-hijos",
-    "title": "Como estudiamos la evolución",
-    "section": "Relacion entre picos y numero de hijos",
-    "text": "Relacion entre picos y numero de hijos\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nAdaptación a la dieta."
   },
   {
     "objectID": "lectures/03-methods.html#picos-y-semillas",
@@ -700,24 +672,122 @@
     "text": "Picos y número de hijos\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nAdaptación a la dieta."
   },
   {
-    "objectID": "lectures/03-methods.html#explicación-1-azar",
-    "href": "lectures/03-methods.html#explicación-1-azar",
+    "objectID": "lectures/03-methods.html#evidencia-combinada-sin-aptitud",
+    "href": "lectures/03-methods.html#evidencia-combinada-sin-aptitud",
     "title": "Como estudiamos la evolución",
-    "section": "Explicación 1: Azar",
-    "text": "Explicación 1: Azar\nHipótesis:\n\nEl cambio se debe a procesos aleatorios que modificaron la frecuencia de variantes en la población.\n\n\nPredicción:\n\n\nNo debería existir una relación consistente entre tamaño del pico y tamaño de las semillas. (Ecología, Recursos)\nNo debería existir una relación consistente entre tamaño del pico y supervivencia. (Aptitud, Selección Natural)\nEl cambio podría ocurrir incluso sin cambios en los recursos disponibles. (Ecología, Recursos)"
+    "section": "Evidencia combinada: sin aptitud",
+    "text": "Evidencia combinada: sin aptitud\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nNo hay suficiente evidencia para adaptación por selección natural."
   },
   {
-    "objectID": "lectures/03-methods.html#explicación-2-adaptación-a-la-dieta",
-    "href": "lectures/03-methods.html#explicación-2-adaptación-a-la-dieta",
+    "objectID": "lectures/03-methods.html#evidencia-combinada-sin-heredabilidad",
+    "href": "lectures/03-methods.html#evidencia-combinada-sin-heredabilidad",
     "title": "Como estudiamos la evolución",
-    "section": "Explicación 2: Adaptación a la dieta",
-    "text": "Explicación 2: Adaptación a la dieta\nHipótesis:\n\nEl cambio se debe a que individuos con picos más grandes sobrevivieron y se reprodujeron más durante la sequía.\n\n\nPredicción:\n\n\nDebería existir una relación entre tamaño del pico y tamaño de las semillas disponibles. (Ecología, Recursos)\nDebería existir una relación consistente entre el tamaño del pico y la dieta. (Ecología, Recursos)\nParte de la variación en el tamaño del pico debería ser heredable. (Genética)\nEl tamaño promedio del pico debería aumentar generación tras generación. (Aptitud, Selección Natural)\nLos individuos con picos más grandes deberían sobrevivir más frecuentemente. (Aptitud, Selección Natural)"
+    "section": "Evidencia combinada: sin heredabilidad",
+    "text": "Evidencia combinada: sin heredabilidad\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nNo hay suficiente evidencia para adaptación por selección natural."
+  },
+  {
+    "objectID": "lectures/03-methods.html#evidencia-combinada-las-tres-condiciones",
+    "href": "lectures/03-methods.html#evidencia-combinada-las-tres-condiciones",
+    "title": "Como estudiamos la evolución",
+    "section": "Evidencia combinada: las tres condiciones",
+    "text": "Evidencia combinada: las tres condiciones\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nLas tres piezas juntas — correlación con recurso, variación heredable y relación con aptitud — apoyan adaptación por selección natural."
   },
   {
     "objectID": "lectures/03-methods.html#resumen",
     "href": "lectures/03-methods.html#resumen",
     "title": "Como estudiamos la evolución",
     "section": "Resumen",
-    "text": "Resumen\n\nLa evidencia por sí sola no proporciona automáticamente la explicación.\nNecesitamos hipótesis alternativas, predicciones y comparación de hipótesis.\nNecesitamos evaluar varios tipos de evidencia junto (recursos, dieta, herencia, supervivencia, cambios poblacionales) para distinguir entre explicaciones evolutivas.\nAdaptación por selección requiere varias piezas juntas: relación con ambiente/recurso, variación heredable y relación con aptitud."
+    "text": "Resumen\n\nLa evidencia por sí sola no proporciona automáticamente la explicación.\nLa evidencia no demuestra que una hipótesis sea absolutamente verdadera; permite evaluar cuál explicación es más consistente con los datos disponibles.\nNecesitamos evaluar varios tipos de evidencia junto (recursos, dieta, herencia, supervivencia, cambios poblacionales) para distinguir entre explicaciones evolutivas.\nAdaptación por selección requiere varias piezas juntas: relación con ambiente/recurso, variación heredable y relación con aptitud."
+  },
+  {
+    "objectID": "lectures/03-methods.html#más-allá-de-los-pinzones",
+    "href": "lectures/03-methods.html#más-allá-de-los-pinzones",
+    "title": "Como estudiamos la evolución",
+    "section": "Más allá de los pinzones",
+    "text": "Más allá de los pinzones\nEste ejemplo usa pinzones, pero la lógica aplica a cualquier rasgo en cualquier población:\n\nResistencia a antibióticos en bacterias → variación en el rasgo (tolerancia), heredable (mutación), relación con sobrevivencia (antibiótico como agente selectivo)\nCamuflaje en polillas → color del ala, heredable, depredadores como agente selectivo\nTolerancia a metales en plantas → plantas en suelos contaminados, variación heredable en tolerancia, metales como filtro selectivo\nCualquier rasgo morfológico, fisiológico o de comportamiento en cualquier especie\n\n\n\nLa pregunta siempre es la misma: ¿hay variación heredable en el rasgo, y esa variación afecta la reproducción o sobrevivencia?"
+  },
+  {
+    "objectID": "lectures/03-methods.html#se-puede-estudiar-el-pasado",
+    "href": "lectures/03-methods.html#se-puede-estudiar-el-pasado",
+    "title": "Como estudiamos la evolución",
+    "section": "¿Se puede estudiar el pasado?",
+    "text": "¿Se puede estudiar el pasado?\n\nAstronomía: ¿cómo se formaron las galaxias?\nGeología: ¿cómo se formaron las montañas?\nBiología evolutiva: ¿cuándo divergieron estas especies?\n\n\n\nNo podemos repetir el pasado en el laboratorio.\nPero podemos inferirlo a partir de evidencia presente."
+  },
+  {
+    "objectID": "lectures/03-methods.html#la-ciencia-histórica-también-usa-hipótesis",
+    "href": "lectures/03-methods.html#la-ciencia-histórica-también-usa-hipótesis",
+    "title": "Como estudiamos la evolución",
+    "section": "La ciencia histórica también usa hipótesis",
+    "text": "La ciencia histórica también usa hipótesis\nEl método es el mismo:\n\nFormular una pregunta sobre el pasado\nProponer hipótesis alternativas\nDerivar predicciones de cada hipótesis\nReunir evidencia\nComparar qué hipótesis es más consistente\nFormular una conclusión provisional"
+  },
+  {
+    "objectID": "lectures/03-methods.html#caso-de-estudio-clado-o-lago-quién-es-más-antiguo",
+    "href": "lectures/03-methods.html#caso-de-estudio-clado-o-lago-quién-es-más-antiguo",
+    "title": "Como estudiamos la evolución",
+    "section": "Caso de estudio: ¿clado o lago, quién es más antiguo?",
+    "text": "Caso de estudio: ¿clado o lago, quién es más antiguo?\nPregunta científica:\n\n¿El clado X (grupo de especies) se originó antes o después de la formación del Lago Y?\n\n\nEsta pregunta importa porque:\n\nSi el clado es más antiguo → sus ancestros vivían antes del lago; el clado no diversificó en el lago.\nSi el clado es más joven → las poblaciones lacustres podrían haber estado aisladas; la diversificación podría haber ocurrido dentro del lago;"
+  },
+  {
+    "objectID": "lectures/03-methods.html#hipótesis-alternativas",
+    "href": "lectures/03-methods.html#hipótesis-alternativas",
+    "title": "Como estudiamos la evolución",
+    "section": "Hipótesis alternativas",
+    "text": "Hipótesis alternativas\nH₁: El clado X es más antiguo que el Lago Y\nEl origen del clado, estimado con incertidumbre, precede a la formación del lago, también estimado con incertidumbre.\nH₂: El clado X es más joven que el Lago Y\nEl origen del clado, estimado con incertidumbre, es posterior a la formación del lago, también estimado con incertidumbre."
+  },
+  {
+    "objectID": "lectures/03-methods.html#predicciones-de-cada-hipótesis",
+    "href": "lectures/03-methods.html#predicciones-de-cada-hipótesis",
+    "title": "Como estudiamos la evolución",
+    "section": "Predicciones de cada hipótesis",
+    "text": "Predicciones de cada hipótesis\n\n\n\n\n\n\n\n\n\nSi H₁ es correcta\nSi H₂ es correcta\n\n\n\n\nFósiles\nLos fósiles más antiguos del clado son anteriores a la formación del lago\nLos fósiles más antiguos del clado son posteriores a la formación del lago\n\n\nFilogenia\nEl origen estimado del clado precede al lago\nEl origen estimado del clado es posterior al lago\n\n\n\n\nCada prediccion incluye incertidumbre"
+  },
+  {
+    "objectID": "lectures/03-methods.html#evidencia-tres-fuentes-independientes",
+    "href": "lectures/03-methods.html#evidencia-tres-fuentes-independientes",
+    "title": "Como estudiamos la evolución",
+    "section": "Evidencia: tres fuentes independientes",
+    "text": "Evidencia: tres fuentes independientes\n\n\n\nFósil clave del clado X datado por C¹⁴:\n12 650 ± 150 años AP (rango: 12 500–12 800)\nSedimentos del Lago Y datados por C¹⁴:\n12 250 ± 150 años AP (rango: 12 100–12 400)\nFilogenia molecular de varios loci:\nEdad estimada del clado: 12 500 años AP (rango: 11 800–13 200)"
+  },
+  {
+    "objectID": "lectures/03-methods.html#suposiciones-de-cada-método",
+    "href": "lectures/03-methods.html#suposiciones-de-cada-método",
+    "title": "Como estudiamos la evolución",
+    "section": "Suposiciones de cada método",
+    "text": "Suposiciones de cada método\nCada método descansa en suposiciones que pueden no cumplirse perfectamente:\n\nDatación C¹⁴ asume:\n\nla tasa de desintegración del carbono-14 es constante\nel sistema estuvo cerrado después de la muerte (sin intercambio de carbono)\n\nFilogenia molecular asume:\n\nlas tasas de sustitución de ADN son relativamente constantes a lo largo del tiempo (reloj molecular)\nel modelo de evolución molecular elegido es correcto\n\nRegistro fósil asume:\n\nlos fósiles encontrados son representativos de los organismos que existieron\nla ausencia de fósiles más antiguos no implica que no existieran\n\n\n\n\nSi las suposiciones no se cumplen, las estimaciones pueden estar sesgadas.\nPor eso integramos múltiples métodos independientes."
+  },
+  {
+    "objectID": "lectures/03-methods.html#límites-e-incertidumbre",
+    "href": "lectures/03-methods.html#límites-e-incertidumbre",
+    "title": "Como estudiamos la evolución",
+    "section": "Límites e incertidumbre",
+    "text": "Límites e incertidumbre\n\n\nCada fuente de evidencia tiene límites:\n\nEl registro fósil es incompleto → el fósil más antiguo conocido no es necesariamente el primero que existió.\nLas dataciones tienen error → ±150 años en este caso; no son valores exactos.\nLas reconstrucciones filogenéticas son estimaciones → reflejan incertidumbre estadística.\n\n\n\n\nPor eso los científicos reportan intervalos, no valores puntuales.\nTrabajamos con incertidumbre cuantificada, no la ignoramos."
+  },
+  {
+    "objectID": "lectures/03-methods.html#comparación-de-hipótesis-1",
+    "href": "lectures/03-methods.html#comparación-de-hipótesis-1",
+    "title": "Como estudiamos la evolución",
+    "section": "Comparación de hipótesis",
+    "text": "Comparación de hipótesis\n\n\nConsistencia con H₁ (clado más antiguo)\n\nEl fósil (12 500–12 800) es anterior al rango del lago (12 100–12 400)\nEl origen filogenético (11 800–13 200) incluye edades anteriores al lago\n\n\nConsistencia con H₂ (clado más joven)\n\nEl fósil no es posterior al lago\nEl origen filogenético no está claramente después del lago\n\n\n\n\nLos datos son más consistentes con H₁.\nLa evidencia favorece una hipótesis, pero rara vez la prueba de forma absoluta."
+  },
+  {
+    "objectID": "lectures/03-methods.html#inferencia-y-conclusión-provisional",
+    "href": "lectures/03-methods.html#inferencia-y-conclusión-provisional",
+    "title": "Como estudiamos la evolución",
+    "section": "Inferencia y conclusión provisional",
+    "text": "Inferencia y conclusión provisional\n\nConclusión provisional:\n\nLa evidencia actual apoya que el clado X es más antiguo que el Lago Y, aunque existe incertidumbre en todas las fuentes de datos.\n\n\n\n¿Es definitivo?\nNo. Nuevos datos pueden cambiar la conclusión:\n\nMás fósiles → límites del registro más precisos\nMás loci genéticos → intervalos filogenéticos más estrechos\nMejores dataciones → menor error en edades\n\nLa ciencia es un proceso iterativo."
+  },
+  {
+    "objectID": "lectures/03-methods.html#resumen-inferencia-histórica-con-incertidumbre",
+    "href": "lectures/03-methods.html#resumen-inferencia-histórica-con-incertidumbre",
+    "title": "Como estudiamos la evolución",
+    "section": "Resumen: inferencia histórica con incertidumbre",
+    "text": "Resumen: inferencia histórica con incertidumbre\n\nLos biólogos evolutivos estudian el pasado mediante inferencia, no experimentos directos.\nUsamos el mismo marco lógico: pregunta → hipótesis → predicciones → evidencia → comparación.\nToda evidencia histórica tiene límites cuantificables: registro incompleto, error en dataciones, incertidumbre estadística.\nReportamos intervalos, no certezas.\nAun con incertidumbre, podemos hacer inferencias bien fundamentadas integrando múltiples líneas de evidencia."
+  },
+  {
+    "objectID": "lectures/03-methods.html#más-allá-del-clado-y-el-lago",
+    "href": "lectures/03-methods.html#más-allá-del-clado-y-el-lago",
+    "title": "Como estudiamos la evolución",
+    "section": "Más allá del clado y el lago",
+    "text": "Más allá del clado y el lago\nEste ejemplo usa un grupo de especies y un lago, pero la misma lógica aplica a muchos contextos:\n\nBiogeografía de islas → ¿el grupo colonizó la isla antes o después del aislamiento geográfico?\nVirus en un nuevo huésped → ¿el linaje viral es anterior o posterior al primer contacto con esa especie?\nDiversificación en montañas → ¿el clado se originó antes o después del levantamiento de la cordillera?\nOrigen de una enfermedad → ¿cuándo divergió el patógeno de su ancestro común con una cepa conocida?\n\n\n\nEn todos los casos: usamos fósiles, filogenias y dataciones para inferir el pasado, reconociendo las suposiciones y los límites de cada método."
   }
 ]
