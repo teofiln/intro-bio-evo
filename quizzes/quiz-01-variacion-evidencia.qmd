@@ -1,0 +1,117 @@
+---
+title: "Quiz 1: Variación, Poblaciones y Evidencia de la Evolución"
+subtitle: "Intro Bio I (B0160) — Módulo de Evolución"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+lang: es
+---
+
+**Nombre:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ &emsp; **Fecha:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+---
+
+*Instrucciones: Elige la única respuesta correcta para cada pregunta.*
+
+---
+
+**1.** ¿Cuál de las siguientes definiciones describe mejor la evolución biológica?
+
+a) El cambio en el fenotipo de un individuo a lo largo de su vida.
+b) El cambio en las características hereditarias de una población a lo largo de generaciones.
+c) El cambio estacional en el pelaje o la coloración de los individuos.
+d) El proceso por el cual aparecen y desaparecen especies.
+e) a, b y c son correctas.
+
+---
+
+**2.** Una población de frijoles cultivada en un invernadero mide en promedio 70 cm de altura. Se toman esquejes (clones genéticamente idénticos) de estas plantas y se cultivan en un campo abierto. Las plantas cultivadas en el campo alcanzan una altura promedio de 50 cm. Este patrón es un ejemplo de:
+
+a) Evolución, porque la altura promedio de la población cambió.
+b) Adaptación evolutiva, porque las plantas desarrollaron una altura más adecuada para el nuevo ambiente.
+c) Plasticidad fenotípica, porque el mismo genotipo produce fenotipos distintos según el ambiente.
+d) a y b son correctas.
+e) a, b y c son correctas.
+
+---
+
+**3.** ¿Qué es la aclimatación?
+
+a) Un cambio hereditario en una población causado por selección natural.
+b) Un cambio reversible en el fenotipo de un individuo en respuesta al ambiente que no altera su ADN.
+c) Una respuesta fisiológica o morfológica que permite a un organismo mantener su funcionamiento bajo nuevas condiciones ambientales.
+d) b y c son correctas.
+e) a y c son correctas.
+
+---
+
+**4.** En un cultivo bacteriano conviven dos tipos de colonias: las amarillas, que portan un gen de resistencia a un antibiótico, y las blancas, que no lo portan. Antes de agregar el antibiótico, las colonias blancas son mayoría. Después de varios ciclos de reproducción en presencia del antibiótico, casi todas las colonias son amarillas. ¿Cuál es la explicación más probable?
+
+a) El antibiótico tiñó de amarillo a las colonias blancas.
+b) Las bacterias blancas se dieron cuenta del peligro y cambiaron de color para sobrevivir.
+c) Las colonias amarillas, al ser resistentes, sobrevivieron y se reprodujeron más que aumentó la frecuencia del rasgo amarillo (y del gen de resistencia) en la población.
+d) El antibiótico indujo mutaciones en todas las bacterias que las hicieron amarillas.
+e) Las colonias amarillas aparecieron porque las bacterias necesitaban resistencia.
+
+---
+
+**5.** Cual de las siguentes afirmaciones sobre homología es correcta?
+
+a) Cuando algunos razgos en differentes especies tienen función parecida pero diferente origen evolutivo.
+b) Cuando rasgos en diferentes especies comparten un origen evolutivo común, aunque desempeñen funciones diferentes.
+c) La homologia se puede inferir solo a partir de la anatomía comparada, no a partir de datos geneticos.
+d) Si dos estructuras cumplen la misma función, entonces necesariamente son homólogas.
+e) Homologia se refiere a la similitud en función, no a la similitud en origen evolutivo.
+
+---
+
+**6.** El ala de un murciélago y el ala de un insecto permiten el vuelo, pero tienen estructuras internas completamente distintas. ¿Cómo se llama este tipo de similitud?
+
+a) Homología, porque ambas sirven para volar.
+b) Analogía, porque la similitud se debe a la función, no al ancestro común.
+c) Vestigialidad, porque los ancestros de ambos perdieron los miembros originales.
+d) Homología, porque todos los animales comparten un ancestro único.
+e) Todas las anteriores.
+
+---
+
+**7.** *Tiktaalik* es un fósil de 375 millones de años con características de pez y de tetrápodo: escamas y branquias, pero también cuello móvil y aletas con estructura de miembro. Cual de las siguientes afirmaciones es correcta y usa lenguage científico apropiado?
+
+a) La evolución es un proceso lineal, donde cada especie es un paso hacia la siguiente.
+b) Los *Tiktaalik* estaban evolucionando hacia los tetrápodos, pero no lo lograron y quedaron extintos.
+c) Los fósiles como *Tiktaalik* muestran rasgos transicionales entre grandes grupos, consistentes con descendencia con modificación.
+d) Los *Tiktaalik* son una rama de peces que no estaban bien adaptados a la vida acuática, y por eso se extinguieron.
+e) Los *Tiktaalik* son un ejemplo de evolución dirigida, donde los organismos evolucionan con un propósito específico.
+
+---
+
+**8.** Un investigador toma un único cultivo de levaduras y lo divide en dos frascos idénticos. Durante 1000 generaciones, un frasco se mantiene con alta concentración de nutrientes y el otro con baja concentración. Al final del experimento, ambas poblaciones se cultivan de nuevo en las condiciones originales (concentración media de nutrientes). Las dos poblaciones ahora crecen a tasas distintas entre sí y distintas a la del cultivo ancestral original. ¿Qué explica mejor este resultado?
+
+a) Las levaduras se aclimataron a sus condiciones durante el experimento y volvieron a su estado original al cambiar el medio.
+b) Las dos poblaciones acumularon cambios hereditarios distintos bajo diferentes presiones de selección y evolucionaron de manera divergente.
+c) El resultado se debe al azar: como los frascos eran distintos, las levaduras crecieron diferente sin ningún cambio genético.
+d) Las levaduras necesitaban adaptarse y lo hicieron intencionalmente para sobrevivir mejor.
+e) Ninguna de las anteriores.
+
+---
+
+**9.** La aptitud biológica de un organismo:
+
+a) Es una propiedad fija que no cambia sin importar el entorno.
+b) Depende del entorno; un rasgo ventajoso en un entorno puede ser desventajoso en otro.
+c) Se refiere al éxito relativo de supervivencia y reproducción de los individuos de una población en un entorno específico.
+d) Es la misma para los individuos de una misma especie.
+e) b y c son correctas.
+
+---
+
+**10.** Completa el siguiente enunciado eligiendo la combinación correcta para **(I)**, **(II)** y **(III)**:
+
+> "A diferencia de la aclimatación, la evolución **(I)** se hereda, ocurre a lo largo de **(II)**, y sus efectos son **(III)**."
+
+a) (I) no — (II) horas a semanas — (III) generalmente reversibles
+b) (I) sí — (II) la vida del individuo — (III) acumulativos e irreversibles
+c) (I) sí — (II) generaciones — (III) generalmente reversibles
+d) (I) sí — (II) generaciones — (III) acumulativos e irreversibles
+e) (I) no — (II) generaciones — (III) acumulativos e irreversibles
