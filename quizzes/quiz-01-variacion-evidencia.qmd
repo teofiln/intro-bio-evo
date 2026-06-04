@@ -56,13 +56,13 @@ e) Las colonias amarillas aparecieron porque las bacterias necesitaban resistenc
 
 ---
 
-**5.** Cual de las siguentes afirmaciones sobre homología es correcta?
+**5.** ¿Cuál de las siguientes afirmaciones sobre homología es correcta?
 
-a) Cuando algunos razgos en differentes especies tienen función parecida pero diferente origen evolutivo.
+a) Cuando algunos rasgos en diferentes especies tienen función parecida pero diferente origen evolutivo.
 b) Cuando rasgos en diferentes especies comparten un origen evolutivo común, aunque desempeñen funciones diferentes.
-c) La homologia se puede inferir solo a partir de la anatomía comparada, no a partir de datos geneticos.
+c) La homología se puede inferir solo a partir de la anatomía comparada, no a partir de datos genéticos.
 d) Si dos estructuras cumplen la misma función, entonces necesariamente son homólogas.
-e) Homologia se refiere a la similitud en función, no a la similitud en origen evolutivo.
+e) Homología se refiere a la similitud en función, no a la similitud en origen evolutivo.
 
 ---
 
@@ -76,7 +76,7 @@ e) Todas las anteriores.
 
 ---
 
-**7.** *Tiktaalik* es un fósil de 375 millones de años con características de pez y de tetrápodo: escamas y branquias, pero también cuello móvil y aletas con estructura de miembro. Cual de las siguientes afirmaciones es correcta y usa lenguage científico apropiado?
+**7.** *Tiktaalik* es un fósil de 375 millones de años con características de pez y de tetrápodo: escamas y branquias, pero también cuello móvil y aletas con estructura de miembro. ¿Cuál de las siguientes afirmaciones es correcta y usa lenguaje científico apropiado?
 
 a) La evolución es un proceso lineal, donde cada especie es un paso hacia la siguiente.
 b) Los *Tiktaalik* estaban evolucionando hacia los tetrápodos, pero no lo lograron y quedaron extintos.
