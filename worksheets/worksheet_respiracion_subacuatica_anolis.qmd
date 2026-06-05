@@ -38,6 +38,8 @@ Su grupo es un equipo de investigadores que quiere resolver esta pregunta, y han
 
 ![Anolis sumergido con burbuja de aire](w03-assets/re-breathing-anolis.png){fig-align="center" width="50%"}
 
+Detalles en el articulo original: https://www.sciencedirect.com/science/article/pii/S0960982221005753
+
 ## Evidencia 1: observacion del comportamiento
 
 Ensayo de comportamiento:
