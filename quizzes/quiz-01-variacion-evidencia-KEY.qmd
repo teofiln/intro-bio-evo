@@ -1,0 +1,35 @@
+---
+title: "Quiz 1 — CLAVE DE RESPUESTAS"
+subtitle: "Variación, Poblaciones y Evidencia de la Evolución · Intro Bio I (B0160)"
+format:
+  html:
+    toc: false
+    number-sections: false
+lang: es
+---
+
+| Pregunta | Respuesta correcta | Concepto clave |
+|:---:|:---:|---|
+| 1 | **b** | Definición de evolución: cambio hereditario en poblaciones a lo largo de generaciones |
+| 2 | **c** | Plasticidad fenotípica: mismo genotipo, distinto fenotipo según ambiente — no es evolución ni aclimatación individual |
+| 3 | **d** | Aclimatación: tanto (b) cambio reversible no hereditario como (c) respuesta fisiológica/morfológica para mantener funcionamiento son correctas |
+| 4 | **c** | Selección natural actúa sobre variación preexistente (color = proxy del gen de resistencia); el antibiótico filtra, no crea el rasgo |
+| 5 | **b** | Homología: misma estructura, diferente función → ancestro común |
+| 6 | **b** | Analogía: función similar, origen evolutivo diferente → evolución convergente |
+| 7 | **c** | Rasgos transicionales son consistentes con descendencia con modificación |
+| 8 | **b** | Evolución experimental: 1000 generaciones bajo selección divergente producen cambios hereditarios distintos en cada población; la diferencia persiste en condiciones idénticas → no es aclimatación |
+| 9 | **e** | Aptitud: tanto (b) dependencia del entorno como (c) éxito relativo de supervivencia y reproducción son correctas |
+| 10 | **b** | Tabla aclimatación vs evolución: (I) No se hereda — (II) tarda generaciones — (III) no es reversible, es acumulativa |
+
+---
+
+## Notas para el docente
+
+- **Preguntas 1–3** evalúan la distinción entre plasticidad fenotípica, aclimatación y evolución (Clase 1). Q2 usa frijoles en invernadero vs. campo abierto para ilustrar norma de reacción: mismo genotipo, distinto fenotipo — distractor (a) apunta a confundir cambio fenotípico con evolución; distractor (b) apunta a confundir plasticidad poblacional con aclimatación individual.
+- **Pregunta 4** conecta variación hereditaria → selección → cambio poblacional; es también el ejemplo de evolución observada de la Hoja de trabajo.
+- **Preguntas 5–7** evalúan conceptos de anatomía comparada y registro fósil (Clase 2).
+- **Pregunta 8** usa evolución experimental (cultivo de levaduras, 1000 generaciones bajo distinta presión de selección) para ilustrar evolución divergente hereditaria vs. aclimatación reversible.
+- **Pregunta 9** evalúa la definición relativa de aptitud (Clase 1).
+- **Pregunta 10** evalúa la lógica de convergencia de evidencias (Clase 2 + Hoja de trabajo, Parte 5).
+
+Los distractores con "Todas las anteriores" y "Ninguna de las anteriores" apuntan a errores comunes: confundir plasticidad con evolución, o creer que el ambiente crea directamente adaptaciones.
