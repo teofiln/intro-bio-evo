@@ -4,14 +4,14 @@
     "href": "worksheets/worksheet_respiracion_subacuatica_anolis.html",
     "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
     "section": "",
-    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de interpretar evidencia observacional, fisiologica y filogenetica, y decidir que hipotesis recibe mayor apoyo relativo."
+    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de interpretar evidencia en el contexto de las hipotesis, y decidir que hipotesis recibe mayor apoyo relativo."
   },
   {
     "objectID": "worksheets/worksheet_respiracion_subacuatica_anolis.html#objetivo-de-la-actividad",
     "href": "worksheets/worksheet_respiracion_subacuatica_anolis.html#objetivo-de-la-actividad",
     "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
     "section": "",
-    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de interpretar evidencia observacional, fisiologica y filogenetica, y decidir que hipotesis recibe mayor apoyo relativo."
+    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de interpretar evidencia en el contexto de las hipotesis, y decidir que hipotesis recibe mayor apoyo relativo."
   },
   {
     "objectID": "worksheets/worksheet_respiracion_subacuatica_anolis.html#instrucciones-generales",
@@ -32,14 +32,14 @@
     "href": "worksheets/worksheet_respiracion_subacuatica_anolis.html#contexto-biologico",
     "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
     "section": "4 Contexto biologico",
-    "text": "4 Contexto biologico\nAlgunas especies de Anolis pueden permanecer sumergidas y volver a inspirar aire desde una burbuja alrededor del hocico.\n\n\n\nAnolis sumergido con burbuja de aire"
+    "text": "4 Contexto biologico\nAlgunas especies de Anolis pueden permanecer sumergidas y volver a inspirar aire debajo del agua desde una burbuja alrededor del hocico. Eso comportamiento da una ventaja para permanecer sumergidos por mas tiempo, y evitar depredadores. Pero no es claro si se trata de un comportamiento ancestral que se ha mantenido en unos linajes, o si se ha originado varias veces de forma independiente.\nSu grupo es un equipo de investigadores que quiere resolver esta pregunta, y han recolectado tres tipos de evidencia: comportamiento, fisiologia, y distribucion filogenetica. Analicen cada bloque de evidencia y decidan que hipotesis recibe mas apoyo.\n\n\n\nAnolis sumergido con burbuja de aire"
   },
   {
     "objectID": "worksheets/worksheet_respiracion_subacuatica_anolis.html#evidencia-1-observacion-del-comportamiento",
     "href": "worksheets/worksheet_respiracion_subacuatica_anolis.html#evidencia-1-observacion-del-comportamiento",
     "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
     "section": "5 Evidencia 1: observacion del comportamiento",
-    "text": "5 Evidencia 1: observacion del comportamiento\nEnsayo de comportamiento:\n\nSe realizaron pruebas de submersion en 32 especies de Anolis y 4 lagartijas no anolis.\nLas especies semi-acuaticas mostraron re-inspiracion con mayor frecuencia que las especies no acuaticas.\nLas especies semi-acuaticas tambien mostraron re-inspiracion sostenida en mas ensayos.\n\n\n5.1 Interpretacion del comportamiento\n\nQue te permite inferir esta observacion sobre la funcion del comportamiento?\n\n\nCon solo esta evidencia, cual hipotesis recibe mas apoyo: A, B, o aun no se puede decidir? Expliquen brevemente."
+    "text": "5 Evidencia 1: observacion del comportamiento\nEnsayo de comportamiento:\n\nSe realizaron pruebas de submersion en 32 especies de Anolis y 4 lagartijas no anolis.\nLas especies semi-acuaticas mostraron re-inspiracion, por lo menos una vez, con mayor frecuencia que las especies no acuaticas.\nLas especies semi-acuaticas tambien mostraron re-inspiracion sostenida en mas ensayos. La re-inspiracion sostenida se define como la capacidad de mantener la burbuja de aire para hacer varias respiraciones consecutivas.\n\n\n5.1 Interpretacion del comportamiento\n\nQue te permite inferir esta observacion sobre la funcion y distribucion del comportamiento a lo largo de las especies?\n\n\nCon solo esta evidencia, cual hipotesis recibe mas apoyo: A, B, o aun no se puede decidir? Expliquen brevemente."
   },
   {
     "objectID": "worksheets/worksheet_respiracion_subacuatica_anolis.html#evidencia-2-dinamica-del-oxigeno-en-la-burbuja",
@@ -130,49 +130,49 @@
     "href": "lectures/03-methods.html#picos-y-semillas",
     "title": "Como estudiamos la evolución",
     "section": "Picos y semillas",
-    "text": "Picos y semillas\n\nset.seed(123)\nyears &lt;- 2000:2020\nseed_size &lt;- seq(2, 6, length.out = length(years)) +\n  rnorm(length(years), 0, 0.5)\nbeak_size &lt;- rnorm(length(years), 3, 0.7)\nplot(\n  years,\n  seed_size,\n  type = \"b\",\n  col = \"brown\",\n  pch = 16,\n  ylim = c(0, 7),\n  ylab = \"Tamaño (mm)\",\n  xlab = \"Año\"\n)\npoints(years, beak_size, type = \"b\", col = \"blue\", pch = 16)\nlegend(\n  \"topleft\",\n  legend = c(\"Tamaño de semilla\", \"Tamaño de pico\"),\n  col = c(\"brown\", \"blue\"),\n  pch = 16\n)\n\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nCambio por azar."
+    "text": "Picos y semillas\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nCambio por azar."
   },
   {
     "objectID": "lectures/03-methods.html#picos-y-semillas-1",
     "href": "lectures/03-methods.html#picos-y-semillas-1",
     "title": "Como estudiamos la evolución",
     "section": "Picos y semillas",
-    "text": "Picos y semillas\n\nset.seed(123)\nyears &lt;- 2000:2020\nseed_size &lt;- seq(2, 6, length.out = length(years)) +\n  rnorm(length(years), 0, 0.5)\nbeak_size &lt;- seed_size + rnorm(length(years), 0, 0.7)\nplot(\n  years,\n  seed_size,\n  type = \"b\",\n  col = \"brown\",\n  pch = 16,\n  ylim = c(0, 7),\n  ylab = \"Tamaño (mm)\",\n  xlab = \"Año\"\n)\npoints(years, beak_size, type = \"b\", col = \"blue\", pch = 16)\nlegend(\n  \"topleft\",\n  legend = c(\"Tamaño de semilla\", \"Tamaño de pico\"),\n  col = c(\"brown\", \"blue\"),\n  pch = 16\n)\n\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nApoya la hipótesis de adaptación, pero una sola línea de evidencia no basta."
+    "text": "Picos y semillas\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nApoya la hipótesis de adaptación, pero una sola línea de evidencia no basta."
   },
   {
     "objectID": "lectures/03-methods.html#padres-e-hijos",
     "href": "lectures/03-methods.html#padres-e-hijos",
     "title": "Como estudiamos la evolución",
     "section": "Padres e hijos",
-    "text": "Padres e hijos\n\nset.seed(123)\nparent_beak_size &lt;- rnorm(20, 3, 0.5)\noffspring_beak_size &lt;- parent_beak_size + rnorm(20, 0, 0.5)\nplot(\n  parent_beak_size,\n  offspring_beak_size,\n  xlab = \"Tamaño de pico de los padres\",\n  ylab = \"Tamaño de pico de los hijos\",\n  pch = 16\n)\nabline(lm(offspring_beak_size ~ parent_beak_size), col = \"red\")\n\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nApoya una condición necesaria para selección, pero no demuestra adaptación por sí sola."
+    "text": "Padres e hijos\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nApoya una condición necesaria para selección, pero no demuestra adaptación por sí sola."
   },
   {
     "objectID": "lectures/03-methods.html#picos-y-número-de-hijos",
     "href": "lectures/03-methods.html#picos-y-número-de-hijos",
     "title": "Como estudiamos la evolución",
     "section": "Picos y número de hijos",
-    "text": "Picos y número de hijos\n\nset.seed(123)\nbeak_size &lt;- rnorm(100, 3, 0.5)\nnum_offspring &lt;- rpois(100, lambda = exp(beak_size - 3))\nplot(\n  beak_size,\n  num_offspring,\n  xlab = \"Tamaño de pico\",\n  ylab = \"Número de hijos\",\n  pch = 16\n)\nabline(lm(num_offspring ~ beak_size), col = \"red\")\n\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nAdaptación a la dieta."
+    "text": "Picos y número de hijos\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nAdaptación a la dieta."
   },
   {
     "objectID": "lectures/03-methods.html#evidencia-combinada-sin-aptitud",
     "href": "lectures/03-methods.html#evidencia-combinada-sin-aptitud",
     "title": "Como estudiamos la evolución",
     "section": "Evidencia combinada: sin aptitud",
-    "text": "Evidencia combinada: sin aptitud\n\n# Case where there is\n# a positive relationship between seed size and beak size,\n# but no relationship between beak size and fitness.\nlayout(matrix(1:2, nrow = 1))\nyears &lt;- 2000:2020\nseed_size1 &lt;- seq(2, 6, length.out = length(years)) +\n  rnorm(length(years), 0, 0.5)\nbeak_size1 &lt;- seed_size1 + rnorm(length(years), 0, 0.7)\nplot(\n  years,\n  seed_size1,\n  type = \"b\",\n  col = \"brown\",\n  pch = 16,\n  ylim = c(0, 7),\n  ylab = \"Tamaño (mm)\",\n  xlab = \"Año\"\n)\npoints(years, beak_size1, type = \"b\", col = \"blue\", pch = 16)\nlegend(\n  \"topleft\",\n  legend = c(\"Tamaño de semilla\", \"Tamaño de pico\"),\n  col = c(\"brown\", \"blue\"),\n  pch = 16\n)\n\nbeak_size &lt;- seed_size + rnorm(length(years), 0, 0.5)\nnum_offspring &lt;- rpois(length(years), lambda = 5) # No relationship with beak size\nplot(\n  beak_size,\n  num_offspring,\n  xlab = \"Tamaño de pico\",\n  ylab = \"Número de hijos\",\n  pch = 16\n)\nabline(lm(num_offspring ~ beak_size), col = \"red\")\n\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nNo hay suficiente evidencia para adaptación por selección natural."
+    "text": "Evidencia combinada: sin aptitud\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nNo hay suficiente evidencia para adaptación por selección natural."
   },
   {
     "objectID": "lectures/03-methods.html#evidencia-combinada-sin-heredabilidad",
     "href": "lectures/03-methods.html#evidencia-combinada-sin-heredabilidad",
     "title": "Como estudiamos la evolución",
     "section": "Evidencia combinada: sin heredabilidad",
-    "text": "Evidencia combinada: sin heredabilidad\n\n# Case where there is\n# a positive relationship between seed size and beak size,\n# but no heritability.\nlayout(matrix(1:2, nrow = 1))\nyears &lt;- 2000:2020\nseed_size1 &lt;- seq(2, 6, length.out = length(years)) +\n  rnorm(length(years), 0, 0.5)\nbeak_size1 &lt;- seed_size1 + rnorm(length(years), 0, 0.7)\nplot(\n  years,\n  seed_size1,\n  type = \"b\",\n  col = \"brown\",\n  pch = 16,\n  ylim = c(0, 7),\n  ylab = \"Tamaño (mm)\",\n  xlab = \"Año\"\n)\npoints(years, beak_size1, type = \"b\", col = \"blue\", pch = 16)\nlegend(\n  \"topleft\",\n  legend = c(\"Tamaño de semilla\", \"Tamaño de pico\"),\n  col = c(\"brown\", \"blue\"),\n  pch = 16\n)\n\nparent_beak_size &lt;- rnorm(20, 3, 0.5)\noffspring_beak_size &lt;- rnorm(20, 3, 0.5) # No heritability\nplot(\n  parent_beak_size,\n  offspring_beak_size,\n  xlab = \"Tamaño de pico de los padres\",\n  ylab = \"Tamaño de pico de los hijos\",\n  pch = 16\n)\nabline(lm(offspring_beak_size ~ parent_beak_size), col = \"red\")\n\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nNo hay suficiente evidencia para adaptación por selección natural."
+    "text": "Evidencia combinada: sin heredabilidad\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nNo hay suficiente evidencia para adaptación por selección natural."
   },
   {
     "objectID": "lectures/03-methods.html#evidencia-combinada-las-tres-condiciones",
     "href": "lectures/03-methods.html#evidencia-combinada-las-tres-condiciones",
     "title": "Como estudiamos la evolución",
     "section": "Evidencia combinada: las tres condiciones",
-    "text": "Evidencia combinada: las tres condiciones\n\n# Case where all three conditions are met:\n# positive seed-beak correlation, heritability, and fitness relationship.\nlayout(matrix(1:3, nrow = 1))\nset.seed(42)\nyears &lt;- 2000:2020\nseed_size_full &lt;- seq(2, 6, length.out = length(years)) +\n  rnorm(length(years), 0, 0.5)\nbeak_size_full &lt;- seed_size_full + rnorm(length(years), 0, 0.7)\nplot(\n  years,\n  seed_size_full,\n  type = \"b\",\n  col = \"brown\",\n  pch = 16,\n  ylim = c(0, 7),\n  ylab = \"Tamaño (mm)\",\n  xlab = \"Año\"\n)\npoints(years, beak_size_full, type = \"b\", col = \"blue\", pch = 16)\nlegend(\n  \"topleft\",\n  legend = c(\"Tamaño de semilla\", \"Tamaño de pico\"),\n  col = c(\"brown\", \"blue\"),\n  pch = 16\n)\n\nparent_beak &lt;- rnorm(40, 3, 0.5)\noffspring_beak &lt;- parent_beak + rnorm(40, 0, 0.4) # Heritability\nplot(\n  parent_beak,\n  offspring_beak,\n  xlab = \"Tamaño de pico — padres\",\n  ylab = \"Tamaño de pico — hijos\",\n  pch = 16\n)\nabline(lm(offspring_beak ~ parent_beak), col = \"red\")\n\nbeak_size_fit &lt;- rnorm(80, 3, 0.5)\nnum_offspring_fit &lt;- rpois(80, lambda = exp(0.8 * (beak_size_fit - 3) + 1.5)) # Positive fitness effect\nplot(\n  beak_size_fit,\n  num_offspring_fit,\n  xlab = \"Tamaño de pico\",\n  ylab = \"Número de hijos\",\n  pch = 16\n)\nabline(lm(num_offspring_fit ~ beak_size_fit), col = \"red\")\n\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nLas tres piezas juntas — correlación con recurso, variación heredable y relación con aptitud — apoyan adaptación por selección natural."
+    "text": "Evidencia combinada: las tres condiciones\n\n\n\nQue hipótesis apoya esta evidencia? Y por qué?\n\n\n\n\nLas tres piezas juntas — correlación con recurso, variación heredable y relación con aptitud — apoyan adaptación por selección natural."
   },
   {
     "objectID": "lectures/03-methods.html#resumen",
@@ -228,7 +228,7 @@
     "href": "lectures/03-methods.html#evidencia-tres-fuentes-independientes",
     "title": "Como estudiamos la evolución",
     "section": "Evidencia: tres fuentes independientes",
-    "text": "Evidencia: tres fuentes independientes\n\n\n\n\nFósil clave del clado X datado por C¹⁴:\n12 650 ± 150 años AP (rango: 12 500–12 800)\nSedimentos del Lago Y datados por C¹⁴:\n12 250 ± 150 años AP (rango: 12 100–12 400)\nFilogenia molecular de varios loci:\nEdad estimada del clado: 12 500 años AP (rango: 11 800–13 200)\n\n\n\n\n\n# Intervalos de datación\nlabels  &lt;- c(\"Fósil\", \"Lago\", \"Filogenia\")\nmedians &lt;- c(12650, 12250, 12500)\nmins    &lt;- c(12500, 12100, 11800)\nmaxs    &lt;- c(12800, 12400, 13200)\ncols    &lt;- c(\"#2d7ac7\", \"#d86715\", \"#2a9f4d\")\ny       &lt;- 1:3\n\npar(mar = c(5, 6, 3, 2))\nplot(\n  NA,\n  xlim = c(13500, 11500),\n  ylim = c(0.5, 3.8),\n  xlab = \"Años antes del presente\",\n  ylab = \"\",\n  yaxt = \"n\",\n  bty = \"l\"\n)\naxis(2, at = y, labels = labels, las = 1)\nsegments(mins, y, maxs, y, col = cols, lwd = 4)\npoints(medians, y, pch = 21, bg = \"white\", col = cols, cex = 1.8, lwd = 2)\n# Range labels above each segment\nrange_labels &lt;- paste0(format(mins, big.mark = \" \"), \"–\", format(maxs, big.mark = \" \"), \" AP\")\ntext(\n  x = (mins + maxs) / 2, y = y + 0.22,\n  labels = range_labels,\n  col = cols, cex = 0.65\n)\n# Median labels below each point\ntext(\n  x = medians, y = y - 0.22,\n  labels = paste0(\"med: \", format(medians, big.mark = \" \")),\n  col = cols, cex = 0.6\n)"
+    "text": "Evidencia: tres fuentes independientes\n\n\n\n\nFósil clave del clado X datado por C¹⁴:\n12 650 ± 150 años AP (rango: 12 500–12 800)\nSedimentos del Lago Y datados por C¹⁴:\n12 250 ± 150 años AP (rango: 12 100–12 400)\nFilogenia molecular de varios loci:\nEdad estimada del clado: 12 500 años AP (rango: 11 800–13 200)"
   },
   {
     "objectID": "lectures/03-methods.html#suposiciones-de-cada-método",

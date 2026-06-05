@@ -12,7 +12,7 @@ lang: es
 
 ## Objetivo de la actividad
 
-Al finalizar esta actividad, el grupo deberia ser capaz de **interpretar evidencia observacional, fisiologica y filogenetica, y decidir que hipotesis recibe mayor apoyo relativo**.
+Al finalizar esta actividad, el grupo deberia ser capaz de **interpretar evidencia en el contexto de las hipotesis, y decidir que hipotesis recibe mayor apoyo relativo**.
 
 ## Instrucciones generales
 
@@ -32,7 +32,9 @@ Usen respuestas breves pero justificadas con datos.
 
 ## Contexto biologico
 
-Algunas especies de *Anolis* pueden permanecer sumergidas y volver a inspirar aire desde una burbuja alrededor del hocico.
+Algunas especies de *Anolis* pueden permanecer sumergidas y volver a inspirar aire debajo del agua desde una burbuja alrededor del hocico. Eso comportamiento da una ventaja para permanecer sumergidos por mas tiempo, y evitar depredadores. Pero no es claro si se trata de un comportamiento ancestral que se ha mantenido en unos linajes, o si se ha originado varias veces de forma independiente.
+
+Su grupo es un equipo de investigadores que quiere resolver esta pregunta, y han recolectado tres tipos de evidencia: comportamiento, fisiologia, y distribucion filogenetica. Analicen cada bloque de evidencia y decidan que hipotesis recibe mas apoyo.
 
 ![Anolis sumergido con burbuja de aire](w03-assets/re-breathing-anolis.png){fig-align="center" width="50%"}
 
@@ -41,12 +43,12 @@ Algunas especies de *Anolis* pueden permanecer sumergidas y volver a inspirar ai
 Ensayo de comportamiento:
 
 - Se realizaron pruebas de submersion en 32 especies de *Anolis* y 4 lagartijas no anolis.
-- Las especies semi-acuaticas mostraron re-inspiracion con mayor frecuencia que las especies no acuaticas.
-- Las especies semi-acuaticas tambien mostraron re-inspiracion sostenida en mas ensayos.
+- Las especies semi-acuaticas mostraron re-inspiracion, por lo menos una vez, con mayor frecuencia que las especies no acuaticas.
+- Las especies semi-acuaticas tambien mostraron re-inspiracion sostenida en mas ensayos. La re-inspiracion sostenida se define como la capacidad de mantener la burbuja de aire para hacer varias respiraciones consecutivas.
 
 ### Interpretacion del comportamiento
 
-1. Que te permite inferir esta observacion sobre la funcion del comportamiento?
+1. Que te permite inferir esta observacion sobre la funcion y distribucion del comportamiento a lo largo de las especies?
 
 \vspace{3cm}
 

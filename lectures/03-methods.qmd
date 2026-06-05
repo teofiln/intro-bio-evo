@@ -4,6 +4,8 @@ subtitle: "Intro Bio I (B0160): Modulo Evolución"
 format:
   revealjs:
     slide-number: true
+execute:
+  echo: false
 ---
 
 ## Metas
