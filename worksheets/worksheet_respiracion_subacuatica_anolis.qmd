@@ -12,73 +12,57 @@ lang: es
 
 ## Objetivo de la actividad
 
-Al finalizar esta actividad, el grupo deberia ser capaz de **interpretar evidencia comparativa y evaluar que explicacion recibe mayor apoyo relativo**.
+Al finalizar esta actividad, el grupo deberia ser capaz de **interpretar evidencia observacional, fisiologica y filogenetica, y decidir que hipotesis recibe mayor apoyo relativo**.
 
 ## Instrucciones generales
 
 1. Lean cada bloque de evidencia.
-2. Identifiquen el patron principal.
-3. Evalen que tan bien cada evidencia apoya explicaciones alternativas.
+2. Identifiquen el patron principal en cada caso.
+3. Evalen que tan bien cada evidencia apoya las dos hipotesis.
 
 Usen respuestas breves pero justificadas con datos.
+
+## Hipotesis 
+
+- Hipotesis A: la capacidad de re-inspirar aire surgio una sola vez y luego se heredo en el linaje correspondiente.
+- Hipotesis B: la capacidad de re-inspirar aire surgio varias veces de forma independiente en distintos linajes.
+
 
 ---
 
 ## Contexto biologico
 
-Algunas especies de *Anolis* pueden permanecer sumergidas y re-inspirar aire desde una burbuja alrededor del hocico.
+Algunas especies de *Anolis* pueden permanecer sumergidas y volver a inspirar aire desde una burbuja alrededor del hocico.
 
-```{=html}
-<div style="text-align:center; margin: 1rem 0;">
-  <img src="w03-assets/1-s2.0-S0960982221005753-fx1_lrg.jpg" alt="Anolis sumergido con burbuja de aire" style="max-width: 80%; height: auto; border-radius: 8px;" />
-</div>
-```
+![Anolis sumergido con burbuja de aire](w03-assets/re-breathing-anolis.png){fig-align="center" width="50%"}
 
-## Que tipo de evidencia se necesita para entender la evolucion de este comportamiento? 
+## Evidencia 1: observacion del comportamiento
 
-1. Cuales datos son necesarios para evaluar la distribucion del comportamiento entre especies?
-
-\vspace{3cm}
-
-2. Cuales datos son necesarios para entender la funcion fisiologica de la burbuja de aire?
-
-\vspace{3cm}
-
-3. Que tipo de evidencia seria mas util para entender el origen evolutivo del comportamiento? Si el comportamiento se origino una vez o varias veces? 
-
-
-
-Pregunta guia:
-
-> Que patron evolutivo sugiere la distribucion de este comportamiento entre especies?
-
----
-
-## Evidencia 1: Distribucion del comportamiento entre especies
-
-Version simplificada del estudio experimental:
+Ensayo de comportamiento:
 
 - Se realizaron pruebas de submersion en 32 especies de *Anolis* y 4 lagartijas no anolis.
-- Las especies semi-acuaticas mostraron mayor frecuencia de re-inspiracion.
-- Las especies semi-acuaticas mostraron mayor frecuencia de re-inspiracion sostenida (5 o mas re-inspiraciones por prueba).
+- Las especies semi-acuaticas mostraron re-inspiracion con mayor frecuencia que las especies no acuaticas.
+- Las especies semi-acuaticas tambien mostraron re-inspiracion sostenida en mas ensayos.
 
-### Interpretacion inicial
+### Interpretacion del comportamiento
 
-1. 
+1. Que te permite inferir esta observacion sobre la funcion del comportamiento?
 
 \vspace{3cm}
 
-2. Cual es el patron mas importante respecto a las especies semi-acuaticas?
+2. Con solo esta evidencia, cual hipotesis recibe mas apoyo: A, B, o aun no se puede decidir? Expliquen brevemente.
 
 \vspace{3cm}
 
 ---
 
-## Evidencia 2: Dinamica del oxigeno en la burbuja
+## Evidencia 2: dinamica del oxigeno en la burbuja
 
-Version simplificada del resultado fisiologico:
+Resultado fisiologico:
 
-> El pO2 de la burbuja de re-inspiracion inicia parecido al aire ambiente y disminuye de forma monotona durante la prueba.
+- El pO2 de la burbuja de re-inspiracion inicia parecido al aire ambiente y disminuye de forma monotona durante la prueba.
+
+![Disminucion del pO2 en la burbuja de re-inspiracion](w03-assets/anolis-oxygen.png){fig-align="center" width="55%"}
 
 ### Interpretacion fisiologica
 
@@ -86,49 +70,52 @@ Version simplificada del resultado fisiologico:
 
 \vspace{3cm}
 
-2. Si el pO2 disminuye con el tiempo, que limite biologico esperarian para la duracion del buceo?
+2. Esta evidencia favorece mas a la hipotesis A, a la B, o no distingue bien entre ambas? Justifiquen.
 
 \vspace{3cm}
 
 ---
 
-## Parte de razonamiento: construir y evaluar explicaciones
+## Evidencia 3: distribucion filogenetica del comportamiento
 
-Sin usar todavia terminos tecnicos (por ejemplo, "origen unico" o "convergencia"), formulen dos explicaciones alternativas en sus propias palabras:
+Patron evolutivo:
 
-- Explicacion A:
+![Arbol filogenetico con re-inspiracion en anolis semi-acuaticos](w03-assets/anolis-rebreathing-tree.png){fig-align="center" width="30%"}
 
-\vspace{2cm}
+### Interpretacion evolutiva
 
-- Explicacion B:
+1. Que patron observan en la distribucion de las especies con re-inspiracion sostenida?
 
-\vspace{2cm}
+\vspace{3cm}
 
-Ahora evalen apoyo relativo de cada evidencia.
+2. Cual hipotesis recibe mas apoyo con esta evidencia, A o B? Expliquen por que.
 
-Escala sugerida: ++ (apoyo fuerte), + (apoyo moderado), 0 (neutral), - (debilita).
+\vspace{3cm}
 
-| Evidencia | Explicacion A | Explicacion B | Justificacion corta |
-|---|---|---|---|
-| Distribucion entre especies (Evidencia 1) |  |  |  |
-| Frecuencia en semi-acuaticas (Evidencia 1) |  |  |  |
-| pO2 disminuye durante la prueba (Evidencia 2) |  |  |  |
+3. Esta evidencia sugiere un origen unico, varios origenes independientes, o aun falta informacion? Justifiquen.
+
+\vspace{3cm}
 
 ---
 
-## Cierre: conclusion cientifica provisional
+## Sintesis
 
-1. Cual explicacion recibe mayor apoyo global con la evidencia disponible?
+Completen la tabla con un juicio breve para cada evidencia.
+
+Escala: ++ (apoyo fuerte), + (apoyo moderado), 0 (neutral), - (debilita).
+
+| Evidencia | Hipotesis A | Hipotesis B | Justificacion corta |
+|---|---|---|---|
+| Observacion del comportamiento |  |  |  |
+| Disminucion del pO2 en la burbuja |  |  |  |
+| Distribucion en el arbol filogenetico |  |  |  |
+
+
+
+1. Cual hipotesis recibe mayor apoyo global con la evidencia disponible?
 
 \vspace{2.5cm}
 
-2. Que dato adicional seria mas util para aumentar confianza en la conclusion?
-
-\vspace{2.5cm}
-
-3. Escriban una conclusion breve (2-3 oraciones), incluyendo una nota de incertidumbre.
+2. Escriban una conclusion breve (2-3 oraciones), incluyendo una nota de incertidumbre.
 
 \vspace{4cm}
-
----
-## 

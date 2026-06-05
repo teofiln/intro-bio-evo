@@ -27,6 +27,71 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
+    /* CSS for syntax highlighting */
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      { color: #003b4f; background-color: #f1f3f5; }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span { color: #003b4f; } /* Normal */
+    code span.al { color: #ad0000; } /* Alert */
+    code span.an { color: #5e5e5e; } /* Annotation */
+    code span.at { color: #657422; } /* Attribute */
+    code span.bn { color: #ad0000; } /* BaseN */
+    code span.bu { } /* BuiltIn */
+    code span.cf { color: #003b4f; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #20794d; } /* Char */
+    code span.cn { color: #8f5902; } /* Constant */
+    code span.co { color: #5e5e5e; } /* Comment */
+    code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
+    code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
+    code span.dt { color: #ad0000; } /* DataType */
+    code span.dv { color: #ad0000; } /* DecVal */
+    code span.er { color: #ad0000; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #ad0000; } /* Float */
+    code span.fu { color: #4758ab; } /* Function */
+    code span.im { color: #00769e; } /* Import */
+    code span.in { color: #5e5e5e; } /* Information */
+    code span.kw { color: #003b4f; font-weight: bold; } /* Keyword */
+    code span.op { color: #5e5e5e; } /* Operator */
+    code span.ot { color: #003b4f; } /* Other */
+    code span.pp { color: #ad0000; } /* Preprocessor */
+    code span.sc { color: #5e5e5e; } /* SpecialChar */
+    code span.ss { color: #20794d; } /* SpecialString */
+    code span.st { color: #20794d; } /* String */
+    code span.va { color: #111111; } /* Variable */
+    code span.vs { color: #20794d; } /* VerbatimString */
+    code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
   <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-bbe7401fe57d4b791b917637bb662036.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -202,7 +267,15 @@
 <h2>Explicación 1: Azar</h2>
 <p>Hipótesis:</p>
 <ul>
-<li>El cambio se debe a procesos aleatorios que modificaron la frecuencia de variantes en la población.</li>
+<li>El cambio se debe a procesos aleatorios que resultan en un cambio en la frecuencia de variantes en la población.</li>
+</ul>
+<p>Predicciónes?</p>
+</section>
+<section id="explicación-1-azar-1" class="slide level2 smaller">
+<h2>Explicación 1: Azar</h2>
+<p>Hipótesis:</p>
+<ul>
+<li>El cambio se debe a procesos aleatorios que resultan en un cambio en la frecuencia de variantes en la población.</li>
 </ul>
 <div class="fragment">
 <p>Predicción:</p>
@@ -216,6 +289,14 @@
 </div>
 </section>
 <section id="explicación-2-adaptación-a-la-dieta" class="slide level2 smaller">
+<h2>Explicación 2: Adaptación a la dieta</h2>
+<p>Hipótesis:</p>
+<ul>
+<li>El cambio se debe a que individuos con picos más grandes sobrevivieron y se reprodujeron más durante la sequía.</li>
+</ul>
+<p>Predicciónes?</p>
+</section>
+<section id="explicación-2-adaptación-a-la-dieta-1" class="slide level2 smaller">
 <h2>Explicación 2: Adaptación a la dieta</h2>
 <p>Hipótesis:</p>
 <ul>
@@ -251,8 +332,32 @@
 </section>
 <section id="picos-y-semillas" class="slide level2">
 <h2>Picos y semillas</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a></a><span class="fu">set.seed</span>(<span class="dv">123</span>)</span>
+<span id="cb1-2"><a></a>years <span class="ot">&lt;-</span> <span class="dv">2000</span><span class="sc">:</span><span class="dv">2020</span></span>
+<span id="cb1-3"><a></a>seed_size <span class="ot">&lt;-</span> <span class="fu">seq</span>(<span class="dv">2</span>, <span class="dv">6</span>, <span class="at">length.out =</span> <span class="fu">length</span>(years)) <span class="sc">+</span></span>
+<span id="cb1-4"><a></a>  <span class="fu">rnorm</span>(<span class="fu">length</span>(years), <span class="dv">0</span>, <span class="fl">0.5</span>)</span>
+<span id="cb1-5"><a></a>beak_size <span class="ot">&lt;-</span> <span class="fu">rnorm</span>(<span class="fu">length</span>(years), <span class="dv">3</span>, <span class="fl">0.7</span>)</span>
+<span id="cb1-6"><a></a><span class="fu">plot</span>(</span>
+<span id="cb1-7"><a></a>  years,</span>
+<span id="cb1-8"><a></a>  seed_size,</span>
+<span id="cb1-9"><a></a>  <span class="at">type =</span> <span class="st">"b"</span>,</span>
+<span id="cb1-10"><a></a>  <span class="at">col =</span> <span class="st">"brown"</span>,</span>
+<span id="cb1-11"><a></a>  <span class="at">pch =</span> <span class="dv">16</span>,</span>
+<span id="cb1-12"><a></a>  <span class="at">ylim =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">7</span>),</span>
+<span id="cb1-13"><a></a>  <span class="at">ylab =</span> <span class="st">"Tamaño (mm)"</span>,</span>
+<span id="cb1-14"><a></a>  <span class="at">xlab =</span> <span class="st">"Año"</span></span>
+<span id="cb1-15"><a></a>)</span>
+<span id="cb1-16"><a></a><span class="fu">points</span>(years, beak_size, <span class="at">type =</span> <span class="st">"b"</span>, <span class="at">col =</span> <span class="st">"blue"</span>, <span class="at">pch =</span> <span class="dv">16</span>)</span>
+<span id="cb1-17"><a></a><span class="fu">legend</span>(</span>
+<span id="cb1-18"><a></a>  <span class="st">"topleft"</span>,</span>
+<span id="cb1-19"><a></a>  <span class="at">legend =</span> <span class="fu">c</span>(<span class="st">"Tamaño de semilla"</span>, <span class="st">"Tamaño de pico"</span>),</span>
+<span id="cb1-20"><a></a>  <span class="at">col =</span> <span class="fu">c</span>(<span class="st">"brown"</span>, <span class="st">"blue"</span>),</span>
+<span id="cb1-21"><a></a>  <span class="at">pch =</span> <span class="dv">16</span></span>
+<span id="cb1-22"><a></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
-<img data-src="03-methods_files/figure-revealjs/unnamed-chunk-1-1.png" width="960" class="r-stretch"><div class="fragment">
+</div>
+<img data-src="03-methods_files/figure-html/unnamed-chunk-1-1.png" width="672" class="r-stretch"><div class="fragment">
 <blockquote>
 <p>Que hipótesis apoya esta evidencia? Y por qué?</p>
 </blockquote>
@@ -265,8 +370,32 @@
 </section>
 <section id="picos-y-semillas-1" class="slide level2">
 <h2>Picos y semillas</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a></a><span class="fu">set.seed</span>(<span class="dv">123</span>)</span>
+<span id="cb2-2"><a></a>years <span class="ot">&lt;-</span> <span class="dv">2000</span><span class="sc">:</span><span class="dv">2020</span></span>
+<span id="cb2-3"><a></a>seed_size <span class="ot">&lt;-</span> <span class="fu">seq</span>(<span class="dv">2</span>, <span class="dv">6</span>, <span class="at">length.out =</span> <span class="fu">length</span>(years)) <span class="sc">+</span></span>
+<span id="cb2-4"><a></a>  <span class="fu">rnorm</span>(<span class="fu">length</span>(years), <span class="dv">0</span>, <span class="fl">0.5</span>)</span>
+<span id="cb2-5"><a></a>beak_size <span class="ot">&lt;-</span> seed_size <span class="sc">+</span> <span class="fu">rnorm</span>(<span class="fu">length</span>(years), <span class="dv">0</span>, <span class="fl">0.7</span>)</span>
+<span id="cb2-6"><a></a><span class="fu">plot</span>(</span>
+<span id="cb2-7"><a></a>  years,</span>
+<span id="cb2-8"><a></a>  seed_size,</span>
+<span id="cb2-9"><a></a>  <span class="at">type =</span> <span class="st">"b"</span>,</span>
+<span id="cb2-10"><a></a>  <span class="at">col =</span> <span class="st">"brown"</span>,</span>
+<span id="cb2-11"><a></a>  <span class="at">pch =</span> <span class="dv">16</span>,</span>
+<span id="cb2-12"><a></a>  <span class="at">ylim =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">7</span>),</span>
+<span id="cb2-13"><a></a>  <span class="at">ylab =</span> <span class="st">"Tamaño (mm)"</span>,</span>
+<span id="cb2-14"><a></a>  <span class="at">xlab =</span> <span class="st">"Año"</span></span>
+<span id="cb2-15"><a></a>)</span>
+<span id="cb2-16"><a></a><span class="fu">points</span>(years, beak_size, <span class="at">type =</span> <span class="st">"b"</span>, <span class="at">col =</span> <span class="st">"blue"</span>, <span class="at">pch =</span> <span class="dv">16</span>)</span>
+<span id="cb2-17"><a></a><span class="fu">legend</span>(</span>
+<span id="cb2-18"><a></a>  <span class="st">"topleft"</span>,</span>
+<span id="cb2-19"><a></a>  <span class="at">legend =</span> <span class="fu">c</span>(<span class="st">"Tamaño de semilla"</span>, <span class="st">"Tamaño de pico"</span>),</span>
+<span id="cb2-20"><a></a>  <span class="at">col =</span> <span class="fu">c</span>(<span class="st">"brown"</span>, <span class="st">"blue"</span>),</span>
+<span id="cb2-21"><a></a>  <span class="at">pch =</span> <span class="dv">16</span></span>
+<span id="cb2-22"><a></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
-<img data-src="03-methods_files/figure-revealjs/unnamed-chunk-2-1.png" width="960" class="r-stretch"><div class="fragment">
+</div>
+<img data-src="03-methods_files/figure-html/unnamed-chunk-2-1.png" width="672" class="r-stretch"><div class="fragment">
 <blockquote>
 <p>Que hipótesis apoya esta evidencia? Y por qué?</p>
 </blockquote>
@@ -279,8 +408,21 @@
 </section>
 <section id="padres-e-hijos" class="slide level2">
 <h2>Padres e hijos</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a></a><span class="fu">set.seed</span>(<span class="dv">123</span>)</span>
+<span id="cb3-2"><a></a>parent_beak_size <span class="ot">&lt;-</span> <span class="fu">rnorm</span>(<span class="dv">20</span>, <span class="dv">3</span>, <span class="fl">0.5</span>)</span>
+<span id="cb3-3"><a></a>offspring_beak_size <span class="ot">&lt;-</span> parent_beak_size <span class="sc">+</span> <span class="fu">rnorm</span>(<span class="dv">20</span>, <span class="dv">0</span>, <span class="fl">0.5</span>)</span>
+<span id="cb3-4"><a></a><span class="fu">plot</span>(</span>
+<span id="cb3-5"><a></a>  parent_beak_size,</span>
+<span id="cb3-6"><a></a>  offspring_beak_size,</span>
+<span id="cb3-7"><a></a>  <span class="at">xlab =</span> <span class="st">"Tamaño de pico de los padres"</span>,</span>
+<span id="cb3-8"><a></a>  <span class="at">ylab =</span> <span class="st">"Tamaño de pico de los hijos"</span>,</span>
+<span id="cb3-9"><a></a>  <span class="at">pch =</span> <span class="dv">16</span></span>
+<span id="cb3-10"><a></a>)</span>
+<span id="cb3-11"><a></a><span class="fu">abline</span>(<span class="fu">lm</span>(offspring_beak_size <span class="sc">~</span> parent_beak_size), <span class="at">col =</span> <span class="st">"red"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
-<img data-src="03-methods_files/figure-revealjs/unnamed-chunk-3-1.png" width="576" class="r-stretch"><div class="fragment">
+</div>
+<img data-src="03-methods_files/figure-html/unnamed-chunk-3-1.png" width="576" class="r-stretch"><div class="fragment">
 <blockquote>
 <p>Que hipótesis apoya esta evidencia? Y por qué?</p>
 </blockquote>
@@ -293,8 +435,21 @@
 </section>
 <section id="picos-y-número-de-hijos" class="slide level2">
 <h2>Picos y número de hijos</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a></a><span class="fu">set.seed</span>(<span class="dv">123</span>)</span>
+<span id="cb4-2"><a></a>beak_size <span class="ot">&lt;-</span> <span class="fu">rnorm</span>(<span class="dv">100</span>, <span class="dv">3</span>, <span class="fl">0.5</span>)</span>
+<span id="cb4-3"><a></a>num_offspring <span class="ot">&lt;-</span> <span class="fu">rpois</span>(<span class="dv">100</span>, <span class="at">lambda =</span> <span class="fu">exp</span>(beak_size <span class="sc">-</span> <span class="dv">3</span>))</span>
+<span id="cb4-4"><a></a><span class="fu">plot</span>(</span>
+<span id="cb4-5"><a></a>  beak_size,</span>
+<span id="cb4-6"><a></a>  num_offspring,</span>
+<span id="cb4-7"><a></a>  <span class="at">xlab =</span> <span class="st">"Tamaño de pico"</span>,</span>
+<span id="cb4-8"><a></a>  <span class="at">ylab =</span> <span class="st">"Número de hijos"</span>,</span>
+<span id="cb4-9"><a></a>  <span class="at">pch =</span> <span class="dv">16</span></span>
+<span id="cb4-10"><a></a>)</span>
+<span id="cb4-11"><a></a><span class="fu">abline</span>(<span class="fu">lm</span>(num_offspring <span class="sc">~</span> beak_size), <span class="at">col =</span> <span class="st">"red"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
-<img data-src="03-methods_files/figure-revealjs/unnamed-chunk-4-1.png" width="576" class="r-stretch"><div class="fragment">
+</div>
+<img data-src="03-methods_files/figure-html/unnamed-chunk-4-1.png" width="576" class="r-stretch"><div class="fragment">
 <blockquote>
 <p>Que hipótesis apoya esta evidencia? Y por qué?</p>
 </blockquote>
@@ -307,8 +462,46 @@
 </section>
 <section id="evidencia-combinada-sin-aptitud" class="slide level2 smaller">
 <h2>Evidencia combinada: sin aptitud</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a></a><span class="co"># Case where there is</span></span>
+<span id="cb5-2"><a></a><span class="co"># a positive relationship between seed size and beak size,</span></span>
+<span id="cb5-3"><a></a><span class="co"># but no relationship between beak size and fitness.</span></span>
+<span id="cb5-4"><a></a><span class="fu">layout</span>(<span class="fu">matrix</span>(<span class="dv">1</span><span class="sc">:</span><span class="dv">2</span>, <span class="at">nrow =</span> <span class="dv">1</span>))</span>
+<span id="cb5-5"><a></a>years <span class="ot">&lt;-</span> <span class="dv">2000</span><span class="sc">:</span><span class="dv">2020</span></span>
+<span id="cb5-6"><a></a>seed_size1 <span class="ot">&lt;-</span> <span class="fu">seq</span>(<span class="dv">2</span>, <span class="dv">6</span>, <span class="at">length.out =</span> <span class="fu">length</span>(years)) <span class="sc">+</span></span>
+<span id="cb5-7"><a></a>  <span class="fu">rnorm</span>(<span class="fu">length</span>(years), <span class="dv">0</span>, <span class="fl">0.5</span>)</span>
+<span id="cb5-8"><a></a>beak_size1 <span class="ot">&lt;-</span> seed_size1 <span class="sc">+</span> <span class="fu">rnorm</span>(<span class="fu">length</span>(years), <span class="dv">0</span>, <span class="fl">0.7</span>)</span>
+<span id="cb5-9"><a></a><span class="fu">plot</span>(</span>
+<span id="cb5-10"><a></a>  years,</span>
+<span id="cb5-11"><a></a>  seed_size1,</span>
+<span id="cb5-12"><a></a>  <span class="at">type =</span> <span class="st">"b"</span>,</span>
+<span id="cb5-13"><a></a>  <span class="at">col =</span> <span class="st">"brown"</span>,</span>
+<span id="cb5-14"><a></a>  <span class="at">pch =</span> <span class="dv">16</span>,</span>
+<span id="cb5-15"><a></a>  <span class="at">ylim =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">7</span>),</span>
+<span id="cb5-16"><a></a>  <span class="at">ylab =</span> <span class="st">"Tamaño (mm)"</span>,</span>
+<span id="cb5-17"><a></a>  <span class="at">xlab =</span> <span class="st">"Año"</span></span>
+<span id="cb5-18"><a></a>)</span>
+<span id="cb5-19"><a></a><span class="fu">points</span>(years, beak_size1, <span class="at">type =</span> <span class="st">"b"</span>, <span class="at">col =</span> <span class="st">"blue"</span>, <span class="at">pch =</span> <span class="dv">16</span>)</span>
+<span id="cb5-20"><a></a><span class="fu">legend</span>(</span>
+<span id="cb5-21"><a></a>  <span class="st">"topleft"</span>,</span>
+<span id="cb5-22"><a></a>  <span class="at">legend =</span> <span class="fu">c</span>(<span class="st">"Tamaño de semilla"</span>, <span class="st">"Tamaño de pico"</span>),</span>
+<span id="cb5-23"><a></a>  <span class="at">col =</span> <span class="fu">c</span>(<span class="st">"brown"</span>, <span class="st">"blue"</span>),</span>
+<span id="cb5-24"><a></a>  <span class="at">pch =</span> <span class="dv">16</span></span>
+<span id="cb5-25"><a></a>)</span>
+<span id="cb5-26"><a></a></span>
+<span id="cb5-27"><a></a>beak_size <span class="ot">&lt;-</span> seed_size <span class="sc">+</span> <span class="fu">rnorm</span>(<span class="fu">length</span>(years), <span class="dv">0</span>, <span class="fl">0.5</span>)</span>
+<span id="cb5-28"><a></a>num_offspring <span class="ot">&lt;-</span> <span class="fu">rpois</span>(<span class="fu">length</span>(years), <span class="at">lambda =</span> <span class="dv">5</span>) <span class="co"># No relationship with beak size</span></span>
+<span id="cb5-29"><a></a><span class="fu">plot</span>(</span>
+<span id="cb5-30"><a></a>  beak_size,</span>
+<span id="cb5-31"><a></a>  num_offspring,</span>
+<span id="cb5-32"><a></a>  <span class="at">xlab =</span> <span class="st">"Tamaño de pico"</span>,</span>
+<span id="cb5-33"><a></a>  <span class="at">ylab =</span> <span class="st">"Número de hijos"</span>,</span>
+<span id="cb5-34"><a></a>  <span class="at">pch =</span> <span class="dv">16</span></span>
+<span id="cb5-35"><a></a>)</span>
+<span id="cb5-36"><a></a><span class="fu">abline</span>(<span class="fu">lm</span>(num_offspring <span class="sc">~</span> beak_size), <span class="at">col =</span> <span class="st">"red"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
-<img data-src="03-methods_files/figure-revealjs/unnamed-chunk-5-1.png" width="960" class="r-stretch"><div class="fragment">
+</div>
+<img data-src="03-methods_files/figure-html/unnamed-chunk-5-1.png" width="672" class="r-stretch"><div class="fragment">
 <blockquote>
 <p>Que hipótesis apoya esta evidencia? Y por qué?</p>
 </blockquote>
@@ -321,8 +514,46 @@
 </section>
 <section id="evidencia-combinada-sin-heredabilidad" class="slide level2 smaller">
 <h2>Evidencia combinada: sin heredabilidad</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a></a><span class="co"># Case where there is</span></span>
+<span id="cb6-2"><a></a><span class="co"># a positive relationship between seed size and beak size,</span></span>
+<span id="cb6-3"><a></a><span class="co"># but no heritability.</span></span>
+<span id="cb6-4"><a></a><span class="fu">layout</span>(<span class="fu">matrix</span>(<span class="dv">1</span><span class="sc">:</span><span class="dv">2</span>, <span class="at">nrow =</span> <span class="dv">1</span>))</span>
+<span id="cb6-5"><a></a>years <span class="ot">&lt;-</span> <span class="dv">2000</span><span class="sc">:</span><span class="dv">2020</span></span>
+<span id="cb6-6"><a></a>seed_size1 <span class="ot">&lt;-</span> <span class="fu">seq</span>(<span class="dv">2</span>, <span class="dv">6</span>, <span class="at">length.out =</span> <span class="fu">length</span>(years)) <span class="sc">+</span></span>
+<span id="cb6-7"><a></a>  <span class="fu">rnorm</span>(<span class="fu">length</span>(years), <span class="dv">0</span>, <span class="fl">0.5</span>)</span>
+<span id="cb6-8"><a></a>beak_size1 <span class="ot">&lt;-</span> seed_size1 <span class="sc">+</span> <span class="fu">rnorm</span>(<span class="fu">length</span>(years), <span class="dv">0</span>, <span class="fl">0.7</span>)</span>
+<span id="cb6-9"><a></a><span class="fu">plot</span>(</span>
+<span id="cb6-10"><a></a>  years,</span>
+<span id="cb6-11"><a></a>  seed_size1,</span>
+<span id="cb6-12"><a></a>  <span class="at">type =</span> <span class="st">"b"</span>,</span>
+<span id="cb6-13"><a></a>  <span class="at">col =</span> <span class="st">"brown"</span>,</span>
+<span id="cb6-14"><a></a>  <span class="at">pch =</span> <span class="dv">16</span>,</span>
+<span id="cb6-15"><a></a>  <span class="at">ylim =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">7</span>),</span>
+<span id="cb6-16"><a></a>  <span class="at">ylab =</span> <span class="st">"Tamaño (mm)"</span>,</span>
+<span id="cb6-17"><a></a>  <span class="at">xlab =</span> <span class="st">"Año"</span></span>
+<span id="cb6-18"><a></a>)</span>
+<span id="cb6-19"><a></a><span class="fu">points</span>(years, beak_size1, <span class="at">type =</span> <span class="st">"b"</span>, <span class="at">col =</span> <span class="st">"blue"</span>, <span class="at">pch =</span> <span class="dv">16</span>)</span>
+<span id="cb6-20"><a></a><span class="fu">legend</span>(</span>
+<span id="cb6-21"><a></a>  <span class="st">"topleft"</span>,</span>
+<span id="cb6-22"><a></a>  <span class="at">legend =</span> <span class="fu">c</span>(<span class="st">"Tamaño de semilla"</span>, <span class="st">"Tamaño de pico"</span>),</span>
+<span id="cb6-23"><a></a>  <span class="at">col =</span> <span class="fu">c</span>(<span class="st">"brown"</span>, <span class="st">"blue"</span>),</span>
+<span id="cb6-24"><a></a>  <span class="at">pch =</span> <span class="dv">16</span></span>
+<span id="cb6-25"><a></a>)</span>
+<span id="cb6-26"><a></a></span>
+<span id="cb6-27"><a></a>parent_beak_size <span class="ot">&lt;-</span> <span class="fu">rnorm</span>(<span class="dv">20</span>, <span class="dv">3</span>, <span class="fl">0.5</span>)</span>
+<span id="cb6-28"><a></a>offspring_beak_size <span class="ot">&lt;-</span> <span class="fu">rnorm</span>(<span class="dv">20</span>, <span class="dv">3</span>, <span class="fl">0.5</span>) <span class="co"># No heritability</span></span>
+<span id="cb6-29"><a></a><span class="fu">plot</span>(</span>
+<span id="cb6-30"><a></a>  parent_beak_size,</span>
+<span id="cb6-31"><a></a>  offspring_beak_size,</span>
+<span id="cb6-32"><a></a>  <span class="at">xlab =</span> <span class="st">"Tamaño de pico de los padres"</span>,</span>
+<span id="cb6-33"><a></a>  <span class="at">ylab =</span> <span class="st">"Tamaño de pico de los hijos"</span>,</span>
+<span id="cb6-34"><a></a>  <span class="at">pch =</span> <span class="dv">16</span></span>
+<span id="cb6-35"><a></a>)</span>
+<span id="cb6-36"><a></a><span class="fu">abline</span>(<span class="fu">lm</span>(offspring_beak_size <span class="sc">~</span> parent_beak_size), <span class="at">col =</span> <span class="st">"red"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
-<img data-src="03-methods_files/figure-revealjs/unnamed-chunk-6-1.png" width="960" class="r-stretch"><div class="fragment">
+</div>
+<img data-src="03-methods_files/figure-html/unnamed-chunk-6-1.png" width="672" class="r-stretch"><div class="fragment">
 <blockquote>
 <p>Que hipótesis apoya esta evidencia? Y por qué?</p>
 </blockquote>
@@ -335,8 +566,57 @@
 </section>
 <section id="evidencia-combinada-las-tres-condiciones" class="slide level2 smaller">
 <h2>Evidencia combinada: las tres condiciones</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a></a><span class="co"># Case where all three conditions are met:</span></span>
+<span id="cb7-2"><a></a><span class="co"># positive seed-beak correlation, heritability, and fitness relationship.</span></span>
+<span id="cb7-3"><a></a><span class="fu">layout</span>(<span class="fu">matrix</span>(<span class="dv">1</span><span class="sc">:</span><span class="dv">3</span>, <span class="at">nrow =</span> <span class="dv">1</span>))</span>
+<span id="cb7-4"><a></a><span class="fu">set.seed</span>(<span class="dv">42</span>)</span>
+<span id="cb7-5"><a></a>years <span class="ot">&lt;-</span> <span class="dv">2000</span><span class="sc">:</span><span class="dv">2020</span></span>
+<span id="cb7-6"><a></a>seed_size_full <span class="ot">&lt;-</span> <span class="fu">seq</span>(<span class="dv">2</span>, <span class="dv">6</span>, <span class="at">length.out =</span> <span class="fu">length</span>(years)) <span class="sc">+</span></span>
+<span id="cb7-7"><a></a>  <span class="fu">rnorm</span>(<span class="fu">length</span>(years), <span class="dv">0</span>, <span class="fl">0.5</span>)</span>
+<span id="cb7-8"><a></a>beak_size_full <span class="ot">&lt;-</span> seed_size_full <span class="sc">+</span> <span class="fu">rnorm</span>(<span class="fu">length</span>(years), <span class="dv">0</span>, <span class="fl">0.7</span>)</span>
+<span id="cb7-9"><a></a><span class="fu">plot</span>(</span>
+<span id="cb7-10"><a></a>  years,</span>
+<span id="cb7-11"><a></a>  seed_size_full,</span>
+<span id="cb7-12"><a></a>  <span class="at">type =</span> <span class="st">"b"</span>,</span>
+<span id="cb7-13"><a></a>  <span class="at">col =</span> <span class="st">"brown"</span>,</span>
+<span id="cb7-14"><a></a>  <span class="at">pch =</span> <span class="dv">16</span>,</span>
+<span id="cb7-15"><a></a>  <span class="at">ylim =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">7</span>),</span>
+<span id="cb7-16"><a></a>  <span class="at">ylab =</span> <span class="st">"Tamaño (mm)"</span>,</span>
+<span id="cb7-17"><a></a>  <span class="at">xlab =</span> <span class="st">"Año"</span></span>
+<span id="cb7-18"><a></a>)</span>
+<span id="cb7-19"><a></a><span class="fu">points</span>(years, beak_size_full, <span class="at">type =</span> <span class="st">"b"</span>, <span class="at">col =</span> <span class="st">"blue"</span>, <span class="at">pch =</span> <span class="dv">16</span>)</span>
+<span id="cb7-20"><a></a><span class="fu">legend</span>(</span>
+<span id="cb7-21"><a></a>  <span class="st">"topleft"</span>,</span>
+<span id="cb7-22"><a></a>  <span class="at">legend =</span> <span class="fu">c</span>(<span class="st">"Tamaño de semilla"</span>, <span class="st">"Tamaño de pico"</span>),</span>
+<span id="cb7-23"><a></a>  <span class="at">col =</span> <span class="fu">c</span>(<span class="st">"brown"</span>, <span class="st">"blue"</span>),</span>
+<span id="cb7-24"><a></a>  <span class="at">pch =</span> <span class="dv">16</span></span>
+<span id="cb7-25"><a></a>)</span>
+<span id="cb7-26"><a></a></span>
+<span id="cb7-27"><a></a>parent_beak <span class="ot">&lt;-</span> <span class="fu">rnorm</span>(<span class="dv">40</span>, <span class="dv">3</span>, <span class="fl">0.5</span>)</span>
+<span id="cb7-28"><a></a>offspring_beak <span class="ot">&lt;-</span> parent_beak <span class="sc">+</span> <span class="fu">rnorm</span>(<span class="dv">40</span>, <span class="dv">0</span>, <span class="fl">0.4</span>) <span class="co"># Heritability</span></span>
+<span id="cb7-29"><a></a><span class="fu">plot</span>(</span>
+<span id="cb7-30"><a></a>  parent_beak,</span>
+<span id="cb7-31"><a></a>  offspring_beak,</span>
+<span id="cb7-32"><a></a>  <span class="at">xlab =</span> <span class="st">"Tamaño de pico — padres"</span>,</span>
+<span id="cb7-33"><a></a>  <span class="at">ylab =</span> <span class="st">"Tamaño de pico — hijos"</span>,</span>
+<span id="cb7-34"><a></a>  <span class="at">pch =</span> <span class="dv">16</span></span>
+<span id="cb7-35"><a></a>)</span>
+<span id="cb7-36"><a></a><span class="fu">abline</span>(<span class="fu">lm</span>(offspring_beak <span class="sc">~</span> parent_beak), <span class="at">col =</span> <span class="st">"red"</span>)</span>
+<span id="cb7-37"><a></a></span>
+<span id="cb7-38"><a></a>beak_size_fit <span class="ot">&lt;-</span> <span class="fu">rnorm</span>(<span class="dv">80</span>, <span class="dv">3</span>, <span class="fl">0.5</span>)</span>
+<span id="cb7-39"><a></a>num_offspring_fit <span class="ot">&lt;-</span> <span class="fu">rpois</span>(<span class="dv">80</span>, <span class="at">lambda =</span> <span class="fu">exp</span>(<span class="fl">0.8</span> <span class="sc">*</span> (beak_size_fit <span class="sc">-</span> <span class="dv">3</span>) <span class="sc">+</span> <span class="fl">1.5</span>)) <span class="co"># Positive fitness effect</span></span>
+<span id="cb7-40"><a></a><span class="fu">plot</span>(</span>
+<span id="cb7-41"><a></a>  beak_size_fit,</span>
+<span id="cb7-42"><a></a>  num_offspring_fit,</span>
+<span id="cb7-43"><a></a>  <span class="at">xlab =</span> <span class="st">"Tamaño de pico"</span>,</span>
+<span id="cb7-44"><a></a>  <span class="at">ylab =</span> <span class="st">"Número de hijos"</span>,</span>
+<span id="cb7-45"><a></a>  <span class="at">pch =</span> <span class="dv">16</span></span>
+<span id="cb7-46"><a></a>)</span>
+<span id="cb7-47"><a></a><span class="fu">abline</span>(<span class="fu">lm</span>(num_offspring_fit <span class="sc">~</span> beak_size_fit), <span class="at">col =</span> <span class="st">"red"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
-<img data-src="03-methods_files/figure-revealjs/unnamed-chunk-7-1.png" width="960" class="r-stretch"><div class="fragment">
+</div>
+<img data-src="03-methods_files/figure-html/unnamed-chunk-7-1.png" width="672" class="r-stretch"><div class="fragment">
 <blockquote>
 <p>Que hipótesis apoya esta evidencia? Y por qué?</p>
 </blockquote>
@@ -482,10 +762,44 @@ Edad estimada del clado: <strong>12 500 años AP</strong> (rango: 11 800–13 20
 </div><div class="column">
 <div class="fragment">
 <div class="cell">
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a></a><span class="co"># Intervalos de datación</span></span>
+<span id="cb8-2"><a></a>labels  <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="st">"Fósil"</span>, <span class="st">"Lago"</span>, <span class="st">"Filogenia"</span>)</span>
+<span id="cb8-3"><a></a>medians <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">12650</span>, <span class="dv">12250</span>, <span class="dv">12500</span>)</span>
+<span id="cb8-4"><a></a>mins    <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">12500</span>, <span class="dv">12100</span>, <span class="dv">11800</span>)</span>
+<span id="cb8-5"><a></a>maxs    <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">12800</span>, <span class="dv">12400</span>, <span class="dv">13200</span>)</span>
+<span id="cb8-6"><a></a>cols    <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="st">"#2d7ac7"</span>, <span class="st">"#d86715"</span>, <span class="st">"#2a9f4d"</span>)</span>
+<span id="cb8-7"><a></a>y       <span class="ot">&lt;-</span> <span class="dv">1</span><span class="sc">:</span><span class="dv">3</span></span>
+<span id="cb8-8"><a></a></span>
+<span id="cb8-9"><a></a><span class="fu">par</span>(<span class="at">mar =</span> <span class="fu">c</span>(<span class="dv">5</span>, <span class="dv">6</span>, <span class="dv">3</span>, <span class="dv">2</span>))</span>
+<span id="cb8-10"><a></a><span class="fu">plot</span>(</span>
+<span id="cb8-11"><a></a>  <span class="cn">NA</span>,</span>
+<span id="cb8-12"><a></a>  <span class="at">xlim =</span> <span class="fu">c</span>(<span class="dv">13500</span>, <span class="dv">11500</span>),</span>
+<span id="cb8-13"><a></a>  <span class="at">ylim =</span> <span class="fu">c</span>(<span class="fl">0.5</span>, <span class="fl">3.8</span>),</span>
+<span id="cb8-14"><a></a>  <span class="at">xlab =</span> <span class="st">"Años antes del presente"</span>,</span>
+<span id="cb8-15"><a></a>  <span class="at">ylab =</span> <span class="st">""</span>,</span>
+<span id="cb8-16"><a></a>  <span class="at">yaxt =</span> <span class="st">"n"</span>,</span>
+<span id="cb8-17"><a></a>  <span class="at">bty =</span> <span class="st">"l"</span></span>
+<span id="cb8-18"><a></a>)</span>
+<span id="cb8-19"><a></a><span class="fu">axis</span>(<span class="dv">2</span>, <span class="at">at =</span> y, <span class="at">labels =</span> labels, <span class="at">las =</span> <span class="dv">1</span>)</span>
+<span id="cb8-20"><a></a><span class="fu">segments</span>(mins, y, maxs, y, <span class="at">col =</span> cols, <span class="at">lwd =</span> <span class="dv">4</span>)</span>
+<span id="cb8-21"><a></a><span class="fu">points</span>(medians, y, <span class="at">pch =</span> <span class="dv">21</span>, <span class="at">bg =</span> <span class="st">"white"</span>, <span class="at">col =</span> cols, <span class="at">cex =</span> <span class="fl">1.8</span>, <span class="at">lwd =</span> <span class="dv">2</span>)</span>
+<span id="cb8-22"><a></a><span class="co"># Range labels above each segment</span></span>
+<span id="cb8-23"><a></a>range_labels <span class="ot">&lt;-</span> <span class="fu">paste0</span>(<span class="fu">format</span>(mins, <span class="at">big.mark =</span> <span class="st">" "</span>), <span class="st">"–"</span>, <span class="fu">format</span>(maxs, <span class="at">big.mark =</span> <span class="st">" "</span>), <span class="st">" AP"</span>)</span>
+<span id="cb8-24"><a></a><span class="fu">text</span>(</span>
+<span id="cb8-25"><a></a>  <span class="at">x =</span> (mins <span class="sc">+</span> maxs) <span class="sc">/</span> <span class="dv">2</span>, <span class="at">y =</span> y <span class="sc">+</span> <span class="fl">0.22</span>,</span>
+<span id="cb8-26"><a></a>  <span class="at">labels =</span> range_labels,</span>
+<span id="cb8-27"><a></a>  <span class="at">col =</span> cols, <span class="at">cex =</span> <span class="fl">0.65</span></span>
+<span id="cb8-28"><a></a>)</span>
+<span id="cb8-29"><a></a><span class="co"># Median labels below each point</span></span>
+<span id="cb8-30"><a></a><span class="fu">text</span>(</span>
+<span id="cb8-31"><a></a>  <span class="at">x =</span> medians, <span class="at">y =</span> y <span class="sc">-</span> <span class="fl">0.22</span>,</span>
+<span id="cb8-32"><a></a>  <span class="at">labels =</span> <span class="fu">paste0</span>(<span class="st">"med: "</span>, <span class="fu">format</span>(medians, <span class="at">big.mark =</span> <span class="st">" "</span>)),</span>
+<span id="cb8-33"><a></a>  <span class="at">col =</span> cols, <span class="at">cex =</span> <span class="fl">0.6</span></span>
+<span id="cb8-34"><a></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
 <div>
 <figure>
-<p><img data-src="03-methods_files/figure-revealjs/unnamed-chunk-8-1.png" width="960"></p>
+<p><img data-src="03-methods_files/figure-html/unnamed-chunk-8-1.png" width="672"></p>
 </figure>
 </div>
 </div>
@@ -839,44 +1153,6 @@ La evidencia <em>favorece</em> una hipótesis, pero rara vez la <em>prueba</em> 
         ]
       });
     </script>
-    
-    <script>
-      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-      // slide changes (different for each slide format).
-      (function () {
-        // dispatch for htmlwidgets
-        function fireSlideEnter() {
-          const event = window.document.createEvent("Event");
-          event.initEvent("slideenter", true, true);
-          window.document.dispatchEvent(event);
-        }
-
-        function fireSlideChanged(previousSlide, currentSlide) {
-          fireSlideEnter();
-
-          // dispatch for shiny
-          if (window.jQuery) {
-            if (previousSlide) {
-              window.jQuery(previousSlide).trigger("hidden");
-            }
-            if (currentSlide) {
-              window.jQuery(currentSlide).trigger("shown");
-            }
-          }
-        }
-
-        // hookup for slidy
-        if (window.w3c_slidy) {
-          window.w3c_slidy.add_observer(function (slide_num) {
-            // slide_num starts at position 1
-            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-          });
-        }
-
-      })();
-    </script>
-
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {
