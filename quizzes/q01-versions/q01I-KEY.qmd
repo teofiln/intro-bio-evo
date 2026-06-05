@@ -1,0 +1,38 @@
+---
+title: "Quiz 1I — CLAVE DE RESPUESTAS"
+subtitle: "Variación, Poblaciones y Evidencia de la Evolución · Intro Bio I (B0160)"
+format:
+  html:
+    toc: false
+    number-sections: false
+lang: es
+---
+
+| Pregunta | Resp. correcta | Concepto clave |
+|:---:|:---:|---|
+| 1 | **e** | Aptitud: (b) dependencia del entorno y (c) éxito relativo de supervivencia y reproducción |
+| 2 | **c** | Rasgos transicionales consistentes con descendencia con modificación |
+| 3 | **b** | Definición de evolución: cambio hereditario en poblaciones a lo largo de generaciones |
+| 4 | **d** | Aclimatación: (b) cambio reversible no hereditario y (c) respuesta fisiológica/morfológica |
+| 5 | **c** | Selección natural actúa sobre variación preexistente; el antibiótico filtra, no crea el rasgo |
+| 6 | **c** | Plasticidad fenotípica: mismo genotipo, distinto fenotipo según ambiente |
+| 7 | **d** | Tabla aclimatación vs evolución: (I) sí — (II) generaciones — (III) acumulativos e irreversibles |
+| 8 | **b** | Analogía: función similar, origen evolutivo diferente → evolución convergente |
+| 9 | **b** | Homología: misma estructura, diferente función → ancestro común |
+| 10 | **b** | Evolución experimental: cambios hereditarios distintos bajo selección divergente |
+---
+
+*Orden original de las preguntas en esta versión (I):*
+
+| Nº en versión I | Nº en versión original |
+|:---:|:---:|
+| 1 | 9 |
+| 2 | 7 |
+| 3 | 1 |
+| 4 | 3 |
+| 5 | 4 |
+| 6 | 2 |
+| 7 | 10 |
+| 8 | 6 |
+| 9 | 5 |
+| 10 | 8 |
