@@ -10,15 +10,21 @@ format:
 
 1. Entender como los biólogos evolutivos estudian la evolución a través de evidencia, inferencia, comparación de hipótesis y reconocimiento de límites.
 2. Desarrollar razonamiento evolutivo (científico): entender suposiciones, interpretar datos, comparar hipótesis
+3. Entender que la ciencia evolutiva es un proceso iterativo de inferencia con incertidumbre, no una colección de hechos absolutos.
+4. Entender los fundamentos del metodo científico.
 
 ## Ser capaces de
 
 ::: {.incremental}
 
+- formular preguntas evolutivas
+- proponer hipótesis evolutivas alternativas
+- derivar predicciones de hipótesis
 - entender suposiciones de estudios evolutivos
 - interpretar evidencia evolutiva
 - comparar hipótesis evolutivas
-- aplicar conceptos evolutivos a problemas biológicos actuales
+- reconocer límites de evidencia evolutiva
+
 
 :::
 
@@ -66,7 +72,15 @@ Necesitamos:
 
 Hipótesis:
 
-* El cambio se debe a procesos aleatorios que modificaron la frecuencia de variantes en la población.
+* El cambio se debe a procesos aleatorios que resultan en un cambio en la frecuencia de variantes en la población.
+
+Predicciónes?
+
+## Explicación 1: Azar {.smaller}
+
+Hipótesis:
+
+* El cambio se debe a procesos aleatorios que resultan en un cambio en la frecuencia de variantes en la población.
 
 ::: {.fragment}
 
@@ -78,6 +92,15 @@ Predicción:
 * El cambio podría ocurrir incluso sin cambios en los recursos disponibles. (Ecología, Recursos)
 :::
 :::
+
+
+## Explicación 2: Adaptación a la dieta {.smaller}
+
+Hipótesis:
+
+* El cambio se debe a que individuos con picos más grandes sobrevivieron y se reprodujeron más durante la sequía.
+
+Predicciónes?
 
 ## Explicación 2: Adaptación a la dieta {.smaller}
 
