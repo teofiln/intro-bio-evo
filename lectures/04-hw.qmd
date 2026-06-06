@@ -1,0 +1,256 @@
+---
+title: "Equilibrio de Hardy-Weinberg"
+subtitle: "Intro Bio I (B0160): Modulo Evolucion"
+format:
+  revealjs:
+    slide-number: true
+execute:
+  echo: false
+---
+
+## Metas
+
+1. Entender por que la teoria de evolucion por seleccion natural necesitaba una explicacion genetica de la herencia.
+2. Usar Hardy-Weinberg como modelo nulo para poblaciones.
+3. Interpretar cuando los datos se ajustan o no se ajustan al la expectativa de Hardy-Weinberg.
+
+## Ser capaces de
+
+::: {.incremental}
+- Definir frecuencia alelica y frecuencia genotipica.
+- Aplicar $p + q = 1$ y $p^2 + 2pq + q^2 = 1$.
+- Calcular genotipos esperados bajo Hardy-Weinberg.
+- Identificar casos cuando hay desviaciones de Hardy-Weinberg.
+:::
+
+# Del problema historico al modelo nulo {background-color="#E8F5E9"}
+
+## El problema en el siglo XIX
+
+::: {.incremental}
+- Darwin y Wallace propusieron seleccion natural.
+- La seleccion requiere variacion heredable.
+- Sin una buena teoria de herencia, la explicacion quedaba incompleta.
+:::
+
+## Herencia por mezcla: una dificultad
+
+::: {.incremental}
+- Si los rasgos se mezclan de forma permanente,
+- la variacion se diluye,
+- y la seleccion pierde "materia prima".
+:::
+
+::: {.fragment}
+> Pregunta clave: como se mantiene la variacion entre generaciones?
+:::
+
+## Mendel cambia el panorama
+
+::: {.incremental}
+- La herencia es particulada (alelos).
+- Los alelos no se "mezclan" para siempre.
+- Se segregan y recombinan en cada generacion.
+:::
+
+## Ley 1: segregacion equitativa
+
+::: {.incremental}
+- Cada individuo diploide tiene dos alelos por locus.
+- En meiosis, los dos alelos se separan.
+- Cada gameto recibe solo uno, con probabilidad aproximada 1/2.
+:::
+
+::: {.fragment}
+Importancia: explica por que las frecuencias alelicas pueden modelarse con probabilidades.
+:::
+
+## Ley 2: surtido independiente
+
+::: {.incremental}
+- Alelos de loci distintos se distribuyen de forma independiente en los gametos.
+- Esto ocurre cuando los loci no estan ligados (o estan muy separados).
+- Se generan combinaciones nuevas de alelos en cada generacion.
+:::
+
+::: {.fragment}
+Importancia: aumenta la variacion genotipica sobre la que puede actuar la seleccion.
+:::
+
+## De leyes mendelianas a pensamiento poblacional
+
+::: {.incremental}
+- En una familia: vemos cruces.
+- En una poblacion: vemos frecuencias.
+- Segregacion + surtido permiten predecir proporciones esperadas.
+:::
+
+## Por que esto importa para evolucion
+
+::: {.incremental}
+- La seleccion cambia frecuencias alelicas, no "tipos fijos".
+- La variacion se conserva y se reorganiza cada generacion.
+- Por eso Hardy-Weinberg funciona como linea base evolutiva.
+:::
+
+## Espacio visual: puente historico
+
+**Espacio para imagen:** linea de tiempo Darwin/Wallace -> Mendel -> genetica de poblaciones.
+
+
+## De individuos a poblaciones
+
+::: {.incremental}
+- Evolucion = cambio en frecuencias en poblaciones.
+- Ahora importan las frecuencias de alelos y genotipos.
+- Hardy-Weinberg conecta genetica mendeliana con evolucion.
+:::
+
+## Hardy-Weinberg como modelo nulo
+
+> Que esperamos observar si no actua ninguna fuerza evolutiva?
+
+::: {.fragment}
+Frecuencias alelicas y genotipicas predecibles de una generacion a otra.
+:::
+
+## Supuestos de Hardy-Weinberg
+
+::: {.incremental}
+- Apareamiento aleatorio.
+- Poblacion muy grande.
+- Sin seleccion natural.
+- Sin mutacion.
+- Sin migracion (flujo genico).
+:::
+
+::: {.fragment}
+Si los datos no ajustan, al menos un supuesto puede estar fallando.
+:::
+
+## Espacio visual: supuestos
+
+**Espacio para imagen:** esquema de los cinco supuestos con iconos simples.
+
+
+# Ejemplo rapido {background-color="#E8F5E9"}
+
+## Datos iniciales
+
+Poblacion de plantas con dos alelos:
+
+- $A$ (morado)
+- $a$ (blanco)
+
+Frecuencias:
+
+- $p = 0.7$
+- $q = 0.3$
+
+## Recordatorio matematico
+
+$$
+p + q = 1
+$$
+
+$$
+p^2 + 2pq + q^2 = 1
+$$
+
+## Genotipos esperados
+
+::: {.incremental}
+- $AA = p^2 = 0.49$
+- $Aa = 2pq = 0.42$
+- $aa = q^2 = 0.09$
+:::
+
+## En una muestra de 100 individuos
+
+::: {.incremental}
+- $AA$: 49
+- $Aa$: 42
+- $aa$: 9
+:::
+
+## Espacio visual: cuadro de Punnett
+
+**Espacio para imagen:** cuadro de Punnett con gametos $A$ y $a$.
+
+
+# Comparar esperado vs observado {background-color="#E8F5E9"}
+
+## Caso 1: ajuste aproximado
+
+Esperado (100): 49, 42, 9
+
+Observado: 48, 43, 9
+
+::: {.fragment}
+Interpretacion: compatible con Hardy-Weinberg (a primera vista).
+:::
+
+## Caso 2: desviacion clara
+
+Esperado (100): 49, 42, 9
+
+Observado: 65, 10, 25
+
+::: {.fragment}
+Hay deficit fuerte de heterocigotos.
+:::
+
+## Que podria explicar la desviacion?
+
+::: {.incremental}
+- Apareamiento no aleatorio.
+- Estructura poblacional.
+- Seleccion natural.
+- Tamano poblacional pequeno (deriva).
+- Error de muestreo.
+:::
+
+## Espacio visual: diagnostico
+
+**Espacio para imagen:** diagrama de decision "si no ajusta HW, evaluar fuerzas evolutivas".
+
+
+## Y si la especie es poliploide?
+
+::: {.incremental}
+- Muchas especies de plantas no son diploides.
+- Ejemplo: papa cultivada (*Solanum tuberosum*), frecuentemente tetraploide.
+- En tetraploides, para dos alelos se expande $(p+q)^4$.
+:::
+
+## Hardy-Weinberg en tetraploides (papa)
+
+$$
+(p + q)^4 = p^4 + 4p^3q + 6p^2q^2 + 4pq^3 + q^4
+$$
+
+::: {.fragment}
+Cada termino representa clases genotipicas con 4 copias alelicas (por ejemplo, AAAa, AAaa, Aaaa).
+:::
+
+::: {.fragment}
+Mensaje clave: en sistemas no modelo, estimar frecuencias alelicas/genotipicas puede volverse rapidamente complejo.
+:::
+
+
+# Cierre {background-color="#E8F5E9"}
+
+## Idea central
+
+Hardy-Weinberg no dice que las poblaciones reales "no evolucionan".
+
+::: {.fragment}
+Nos da una referencia para detectar cuando y como pueden estar evolucionando.
+:::
+
+## Take-home messages
+
+1. Seleccion natural necesita variacion heredable persistente.
+2. Mendel explico como se conserva la variacion.
+3. Hardy-Weinberg ofrece una linea base cuantitativa.
+4. Las desviaciones guian preguntas evolutivas.

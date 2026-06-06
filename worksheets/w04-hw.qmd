@@ -1,0 +1,189 @@
+---
+title: "Hoja de trabajo: Simulacion de Hardy-Weinberg"
+subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
+format:
+  html:
+    toc: true
+    number-sections: true
+  docx: default
+  pdf: default
+lang: es
+---
+
+## Objetivo de la actividad
+
+Al finalizar esta actividad, el grupo deberia ser capaz de **simular apareamiento aleatorio con granos/beans, estimar frecuencias alelicas y usar la simulacion para evaluar si una poblacion ajusta al equilibrio de Hardy-Weinberg**.
+
+## Instrucciones generales
+
+1. Lean el misterio biologico.
+2. Completen los conteos y la simulacion paso a paso.
+3. Registren los resultados en la tabla.
+4. Respondan las preguntas con una justificacion breve.
+
+Trabajen en parejas.
+
+---
+
+## Materiales por pareja de estudiantes
+
+* 1 bolsa de papel marron
+* 140 frijoles negros, que representan el alelo dominante $A$
+* 60 garbanzos, que representan el alelo recesivo $a$
+
+---
+
+## Paso 0. El misterio biologico
+
+Antes de tocar los materiales, analicen los datos de una poblacion observada en el campo:
+
+| Genotipo | Numero observado |
+|---|---:|
+| AA | 60 |
+| Aa | 20 |
+| aa | 20 |
+| Total | 100 |
+
+La observacion biologica es que hay un **deficit grande de heterocigotos**. La pregunta es:
+
+> ¿Se debe esto a fuerzas evolutivas activas o podria explicarse por azar?
+
+Para averiguarlo, van a simular apareamiento aleatorio bajo condiciones ideales.
+
+---
+
+## Paso 1. Extraer el fondo genetico
+
+Usen aritmetica basica para convertir los genotipos observados en alelos.
+
+### 1.1 Total de alelos
+
+1. ¿Cuantos alelos hay en total en una poblacion de 100 individuos diploides?
+
+\vspace{2cm}
+
+### 1.2 Conteo del alelo $A$
+
+1. ¿Cuantos alelos $A$ aporta cada genotipo?
+2. ¿Cuantos alelos $A$ hay en total?
+3. ¿Cual es su frecuencia alélica $p$?
+
+\vspace{4cm}
+
+### 1.3 Conteo del alelo $a$
+
+1. ¿Cuantos alelos $a$ aporta cada genotipo?
+2. ¿Cuantos alelos $a$ hay en total?
+3. ¿Cual es su frecuencia alélica $q$?
+
+\vspace{4cm}
+
+### 1.4 Resumen
+
+Escriban sus valores finales:
+
+- $p = $
+- $q = $
+
+Comprueben que $p + q = 1$.
+
+\vspace{2cm}
+
+### 1.5 Preparar la bolsa
+
+Coloquen exactamente 140 frijoles negros y 60 garbanzos en la bolsa.
+
+Esta bolsa representa ahora el fondo genetico de la poblacion.
+
+---
+
+## Paso 2. Simular la siguiente generacion
+
+Para simular apareamiento aleatorio bajo condiciones ideales, trabajen en parejas y repitan el siguiente procedimiento 100 veces:
+
+1. Agiten la bolsa cerrada.
+2. Sin mirar, un integrante de la pareja extrae 1 grano de la bolsa.
+3. Ese integrante observa el grano, pero no le dice a su pareja si fue frijol o garbanzo.
+4. La pareja hace lo mismo y extrae 1 grano.
+5. Cuando ambos ya tienen su grano, lo muestran al mismo tiempo.
+6. Registren el genotipo del descendiente.
+7. Devuelvan ambos granos a la bolsa.
+8. Repitan hasta completar los 100 nacimientos.
+
+### Como clasificar cada cruce
+
+- 2 frijoles negros = $AA$
+- 1 frijol negro + 1 garbanzo = $Aa$
+- 2 garbanzos = $aa$
+
+---
+
+## Paso 3. Tabla de registro de datos
+
+Completen la tabla con sus resultados.
+
+| Genotipo | Tanteo (palitos) | Total obtenido |
+|---|---|---:|
+| AA |  |  |
+| Aa |  |  |
+| aa |  |  |
+| TOTAL | Debe sumar 100 | 100 |
+
+\vspace{2cm}
+
+---
+
+## Paso 4. Recuento colectivo de heterocigotos
+
+Cuando terminen, un integrante de la pareja compartira su resultado con la clase.
+
+El profesor o la profesora habra dibujado una linea horizontal que representa la cantidad de heterocigotos ($Aa$) obtenidos por simulacion.
+
+### Instruccion
+
+1. Dibujen una X sobre el numero exacto de heterocigotos que genero su bolsa.
+
+\vspace{4cm}
+
+---
+
+## Paso 5. Representacion grafica e interpretacion
+
+El docente proyectara o dibujara la acumulacion de las X de la clase.
+
+La distribucion mostrara lo que produce el azar puro bajo apareamiento aleatorio.
+
+\vspace{2cm}
+
+### Frecuencia de resultados en la clase
+
+\vspace{4cm}
+
+## Preguntas de analisis
+
+1. ¿Alrededor de que numero de heterocigotos se agrupo la mayoria de las respuestas de la clase?
+
+\vspace{2.5cm}
+
+2. La poblacion observada en la naturaleza tenia solo 20 heterocigotos. Al mirar la distribucion de la clase, ¿algun grupo obtuvo un numero tan bajo como 20 por pura suerte?
+
+\vspace{3cm}
+
+3. Si el cruce aleatorio casi nunca produce un valor tan bajo como 20 heterocigotos, ¿que significa esto sobre la poblacion real?
+
+\vspace{3cm}
+
+4. ¿La poblacion esta en equilibrio de Hardy-Weinberg o esta evolucionando? Propongan un mecanismo biologico posible.
+
+\vspace{4cm}
+
+---
+
+## Cierre para discusion en clase
+
+Cada grupo debe estar preparado para compartir:
+
+1. Sus valores de $p$ y $q$.
+2. El numero de heterocigotos observado en la simulacion.
+3. Si la poblacion real parece ajustarse al equilibrio de Hardy-Weinberg.
+4. Una explicacion biologica para el deficit de heterocigotos.

@@ -2,8 +2,9 @@
   {
     "listing": "/worksheets/index.html",
     "items": [
-      "/worksheets/worksheet_evidencia_evolucion.html",
-      "/worksheets/worksheet_respiracion_subacuatica_anolis.html"
+      "/worksheets/w02-evidence.html",
+      "/worksheets/w03-methods.html",
+      "/worksheets/w04-hw.html"
     ]
   },
   {
@@ -11,7 +12,8 @@
     "items": [
       "/lectures/01-variation-and-populations.html",
       "/lectures/02-evidence.html",
-      "/lectures/03-methods.html"
+      "/lectures/03-methods.html",
+      "/lectures/04-hw.html"
     ]
   },
   {

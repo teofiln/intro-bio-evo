@@ -866,5 +866,460 @@
     "title": "Hoja de trabajo: Evidencia de la evolución",
     "section": "9 Cierre para discusión en clase",
     "text": "9 Cierre para discusión en clase\nCada grupo debe estar preparado para compartir brevemente:\n\nQué especies consideran más cercanamente relacionadas.\nQué evidencia usaron para justificarlo.\nUn ejemplo de homología y uno de analogía en el escenario.\nPor qué la evolución observada directamente es evidencia importante."
+  },
+  {
+    "objectID": "lectures/04-hw.html#metas",
+    "href": "lectures/04-hw.html#metas",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "",
+    "text": "Entender por que la teoria de evolucion por seleccion natural necesitaba una explicacion genetica de la herencia.\nUsar Hardy-Weinberg como modelo nulo para poblaciones.\nInterpretar cuando los datos se ajustan o no se ajustan al la expectativa de Hardy-Weinberg."
+  },
+  {
+    "objectID": "lectures/04-hw.html#ser-capaces-de",
+    "href": "lectures/04-hw.html#ser-capaces-de",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Ser capaces de",
+    "text": "Ser capaces de\n\n\nDefinir frecuencia alelica y frecuencia genotipica.\nAplicar \\(p + q = 1\\) y \\(p^2 + 2pq + q^2 = 1\\).\nCalcular genotipos esperados bajo Hardy-Weinberg.\nIdentificar casos cuando hay desviaciones de Hardy-Weinberg."
+  },
+  {
+    "objectID": "lectures/04-hw.html#el-problema-en-el-siglo-xix",
+    "href": "lectures/04-hw.html#el-problema-en-el-siglo-xix",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "El problema en el siglo XIX",
+    "text": "El problema en el siglo XIX\n\n\nDarwin y Wallace propusieron seleccion natural.\nLa seleccion requiere variacion heredable.\nSin una buena teoria de herencia, la explicacion quedaba incompleta."
+  },
+  {
+    "objectID": "lectures/04-hw.html#herencia-por-mezcla-una-dificultad",
+    "href": "lectures/04-hw.html#herencia-por-mezcla-una-dificultad",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Herencia por mezcla: una dificultad",
+    "text": "Herencia por mezcla: una dificultad\n\n\nSi los rasgos se mezclan de forma permanente,\nla variacion se diluye,\ny la seleccion pierde “materia prima”.\n\n\n\n\nPregunta clave: como se mantiene la variacion entre generaciones?"
+  },
+  {
+    "objectID": "lectures/04-hw.html#mendel-cambia-el-panorama",
+    "href": "lectures/04-hw.html#mendel-cambia-el-panorama",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Mendel cambia el panorama",
+    "text": "Mendel cambia el panorama\n\n\nLa herencia es particulada (alelos).\nLos alelos no se “mezclan” para siempre.\nSe segregan y recombinan en cada generacion."
+  },
+  {
+    "objectID": "lectures/04-hw.html#ley-1-segregacion-equitativa",
+    "href": "lectures/04-hw.html#ley-1-segregacion-equitativa",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Ley 1: segregacion equitativa",
+    "text": "Ley 1: segregacion equitativa\n\n\nCada individuo diploide tiene dos alelos por locus.\nEn meiosis, los dos alelos se separan.\nCada gameto recibe solo uno, con probabilidad aproximada 1/2.\n\n\n\nImportancia: explica por que las frecuencias alelicas pueden modelarse con probabilidades."
+  },
+  {
+    "objectID": "lectures/04-hw.html#ley-2-surtido-independiente",
+    "href": "lectures/04-hw.html#ley-2-surtido-independiente",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Ley 2: surtido independiente",
+    "text": "Ley 2: surtido independiente\n\n\nAlelos de loci distintos se distribuyen de forma independiente en los gametos.\nEsto ocurre cuando los loci no estan ligados (o estan muy separados).\nSe generan combinaciones nuevas de alelos en cada generacion.\n\n\n\nImportancia: aumenta la variacion genotipica sobre la que puede actuar la seleccion."
+  },
+  {
+    "objectID": "lectures/04-hw.html#de-leyes-mendelianas-a-pensamiento-poblacional",
+    "href": "lectures/04-hw.html#de-leyes-mendelianas-a-pensamiento-poblacional",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "De leyes mendelianas a pensamiento poblacional",
+    "text": "De leyes mendelianas a pensamiento poblacional\n\n\nEn una familia: vemos cruces.\nEn una poblacion: vemos frecuencias.\nSegregacion + surtido permiten predecir proporciones esperadas."
+  },
+  {
+    "objectID": "lectures/04-hw.html#por-que-esto-importa-para-evolucion",
+    "href": "lectures/04-hw.html#por-que-esto-importa-para-evolucion",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Por que esto importa para evolucion",
+    "text": "Por que esto importa para evolucion\n\n\nLa seleccion cambia frecuencias alelicas, no “tipos fijos”.\nLa variacion se conserva y se reorganiza cada generacion.\nPor eso Hardy-Weinberg funciona como linea base evolutiva."
+  },
+  {
+    "objectID": "lectures/04-hw.html#espacio-visual-puente-historico",
+    "href": "lectures/04-hw.html#espacio-visual-puente-historico",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Espacio visual: puente historico",
+    "text": "Espacio visual: puente historico\nEspacio para imagen: linea de tiempo Darwin/Wallace -&gt; Mendel -&gt; genetica de poblaciones."
+  },
+  {
+    "objectID": "lectures/04-hw.html#de-individuos-a-poblaciones",
+    "href": "lectures/04-hw.html#de-individuos-a-poblaciones",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "De individuos a poblaciones",
+    "text": "De individuos a poblaciones\n\n\nEvolucion = cambio en frecuencias en poblaciones.\nAhora importan las frecuencias de alelos y genotipos.\nHardy-Weinberg conecta genetica mendeliana con evolucion."
+  },
+  {
+    "objectID": "lectures/04-hw.html#hardy-weinberg-como-modelo-nulo",
+    "href": "lectures/04-hw.html#hardy-weinberg-como-modelo-nulo",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Hardy-Weinberg como modelo nulo",
+    "text": "Hardy-Weinberg como modelo nulo\n\nQue esperamos observar si no actua ninguna fuerza evolutiva?\n\n\nFrecuencias alelicas y genotipicas predecibles de una generacion a otra."
+  },
+  {
+    "objectID": "lectures/04-hw.html#supuestos-de-hardy-weinberg",
+    "href": "lectures/04-hw.html#supuestos-de-hardy-weinberg",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Supuestos de Hardy-Weinberg",
+    "text": "Supuestos de Hardy-Weinberg\n\n\nApareamiento aleatorio.\nPoblacion muy grande.\nSin seleccion natural.\nSin mutacion.\nSin migracion (flujo genico).\n\n\n\nSi los datos no ajustan, al menos un supuesto puede estar fallando."
+  },
+  {
+    "objectID": "lectures/04-hw.html#espacio-visual-supuestos",
+    "href": "lectures/04-hw.html#espacio-visual-supuestos",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Espacio visual: supuestos",
+    "text": "Espacio visual: supuestos\nEspacio para imagen: esquema de los cinco supuestos con iconos simples."
+  },
+  {
+    "objectID": "lectures/04-hw.html#datos-iniciales",
+    "href": "lectures/04-hw.html#datos-iniciales",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Datos iniciales",
+    "text": "Datos iniciales\nPoblacion de plantas con dos alelos:\n\n\\(A\\) (morado)\n\\(a\\) (blanco)\n\nFrecuencias:\n\n\\(p = 0.7\\)\n\\(q = 0.3\\)"
+  },
+  {
+    "objectID": "lectures/04-hw.html#recordatorio-matematico",
+    "href": "lectures/04-hw.html#recordatorio-matematico",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Recordatorio matematico",
+    "text": "Recordatorio matematico\n\\[\np + q = 1\n\\]\n\\[\np^2 + 2pq + q^2 = 1\n\\]"
+  },
+  {
+    "objectID": "lectures/04-hw.html#genotipos-esperados",
+    "href": "lectures/04-hw.html#genotipos-esperados",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Genotipos esperados",
+    "text": "Genotipos esperados\n\n\n\\(AA = p^2 = 0.49\\)\n\\(Aa = 2pq = 0.42\\)\n\\(aa = q^2 = 0.09\\)"
+  },
+  {
+    "objectID": "lectures/04-hw.html#en-una-muestra-de-100-individuos",
+    "href": "lectures/04-hw.html#en-una-muestra-de-100-individuos",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "En una muestra de 100 individuos",
+    "text": "En una muestra de 100 individuos\n\n\n\\(AA\\): 49\n\\(Aa\\): 42\n\\(aa\\): 9"
+  },
+  {
+    "objectID": "lectures/04-hw.html#espacio-visual-cuadro-de-punnett",
+    "href": "lectures/04-hw.html#espacio-visual-cuadro-de-punnett",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Espacio visual: cuadro de Punnett",
+    "text": "Espacio visual: cuadro de Punnett\nEspacio para imagen: cuadro de Punnett con gametos \\(A\\) y \\(a\\)."
+  },
+  {
+    "objectID": "lectures/04-hw.html#caso-1-ajuste-aproximado",
+    "href": "lectures/04-hw.html#caso-1-ajuste-aproximado",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Caso 1: ajuste aproximado",
+    "text": "Caso 1: ajuste aproximado\nEsperado (100): 49, 42, 9\nObservado: 48, 43, 9\n\nInterpretacion: compatible con Hardy-Weinberg (a primera vista)."
+  },
+  {
+    "objectID": "lectures/04-hw.html#caso-2-desviacion-clara",
+    "href": "lectures/04-hw.html#caso-2-desviacion-clara",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Caso 2: desviacion clara",
+    "text": "Caso 2: desviacion clara\nEsperado (100): 49, 42, 9\nObservado: 65, 10, 25\n\nHay deficit fuerte de heterocigotos."
+  },
+  {
+    "objectID": "lectures/04-hw.html#que-podria-explicar-la-desviacion",
+    "href": "lectures/04-hw.html#que-podria-explicar-la-desviacion",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Que podria explicar la desviacion?",
+    "text": "Que podria explicar la desviacion?\n\n\nApareamiento no aleatorio.\nEstructura poblacional.\nSeleccion natural.\nTamano poblacional pequeno (deriva).\nError de muestreo."
+  },
+  {
+    "objectID": "lectures/04-hw.html#espacio-visual-diagnostico",
+    "href": "lectures/04-hw.html#espacio-visual-diagnostico",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Espacio visual: diagnostico",
+    "text": "Espacio visual: diagnostico\nEspacio para imagen: diagrama de decision “si no ajusta HW, evaluar fuerzas evolutivas”."
+  },
+  {
+    "objectID": "lectures/04-hw.html#y-si-la-especie-es-poliploide",
+    "href": "lectures/04-hw.html#y-si-la-especie-es-poliploide",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Y si la especie es poliploide?",
+    "text": "Y si la especie es poliploide?\n\n\nMuchas especies de plantas no son diploides.\nEjemplo: papa cultivada (Solanum tuberosum), frecuentemente tetraploide.\nEn tetraploides, para dos alelos se expande \\((p+q)^4\\)."
+  },
+  {
+    "objectID": "lectures/04-hw.html#hardy-weinberg-en-tetraploides-papa",
+    "href": "lectures/04-hw.html#hardy-weinberg-en-tetraploides-papa",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Hardy-Weinberg en tetraploides (papa)",
+    "text": "Hardy-Weinberg en tetraploides (papa)\n\\[\n(p + q)^4 = p^4 + 4p^3q + 6p^2q^2 + 4pq^3 + q^4\n\\]\n\nCada termino representa clases genotipicas con 4 copias alelicas (por ejemplo, AAAa, AAaa, Aaaa).\n\n\nMensaje clave: en sistemas no modelo, estimar frecuencias alelicas/genotipicas puede volverse rapidamente complejo."
+  },
+  {
+    "objectID": "lectures/04-hw.html#idea-central",
+    "href": "lectures/04-hw.html#idea-central",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Idea central",
+    "text": "Idea central\nHardy-Weinberg no dice que las poblaciones reales “no evolucionan”.\n\nNos da una referencia para detectar cuando y como pueden estar evolucionando."
+  },
+  {
+    "objectID": "lectures/04-hw.html#take-home-messages",
+    "href": "lectures/04-hw.html#take-home-messages",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Take-home messages",
+    "text": "Take-home messages\n\nSeleccion natural necesita variacion heredable persistente.\nMendel explico como se conserva la variacion.\nHardy-Weinberg ofrece una linea base cuantitativa.\nLas desviaciones guian preguntas evolutivas."
+  },
+  {
+    "objectID": "worksheets/w02-evidence.html",
+    "href": "worksheets/w02-evidence.html",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "",
+    "text": "Al finalizar esta actividad, el grupo debería ser capaz de usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica."
+  },
+  {
+    "objectID": "worksheets/w02-evidence.html#objetivo-de-la-actividad",
+    "href": "worksheets/w02-evidence.html#objetivo-de-la-actividad",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "",
+    "text": "Al finalizar esta actividad, el grupo debería ser capaz de usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica."
+  },
+  {
+    "objectID": "worksheets/w02-evidence.html#instrucciones-generales",
+    "href": "worksheets/w02-evidence.html#instrucciones-generales",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "2 Instrucciones generales",
+    "text": "2 Instrucciones generales\nTrabajen en grupos de 4–6 personas. Lean el escenario y discutan cada pregunta antes de escribir la respuesta. No se espera una respuesta larga, pero sí una justificación clara."
+  },
+  {
+    "objectID": "worksheets/w02-evidence.html#escenario-isla-verde",
+    "href": "worksheets/w02-evidence.html#escenario-isla-verde",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "3 Escenario: Isla Verde",
+    "text": "3 Escenario: Isla Verde\nUn equipo de biólogos estudia una isla oceánica llamada Isla Verde. La isla está a unos 800 km del continente más cercano y tiene varios ambientes: bosque seco, bosque húmedo, costa rocosa y zonas abiertas.\nEn la isla se encuentran cuatro especies animales que parecen muy diferentes entre sí:\n\n\n\nEspecie\nDescripción breve\n\n\n\n\nEspecie A\nMamífero pequeño, terrestre, nocturno, con patas cortas\n\n\nEspecie B\nMamífero grande, terrestre, diurno, con patas largas\n\n\nEspecie C\nAnimal volador con alas membranosas\n\n\nEspecie D\nAnimal volador con alas rígidas cubiertas de plumas\n\n\n\nEl objetivo del grupo es usar la evidencia disponible para responder:\n\n¿Qué especies parecen estar más cercanamente relacionadas y qué tipo de evidencia apoya esa conclusión?"
+  },
+  {
+    "objectID": "worksheets/w02-evidence.html#parte-1.-evidencias-disponibles",
+    "href": "worksheets/w02-evidence.html#parte-1.-evidencias-disponibles",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "4 Parte 1. Evidencias disponibles",
+    "text": "4 Parte 1. Evidencias disponibles\nLean las siguientes evidencias. Para cada una, identifiquen qué tipo de evidencia representa.\nTipos posibles de evidencia:\n\nRegistro fósil\nAnatomía comparada\nBiogeografía\nBiología molecular\nEmbriología comparada\nEvolución observada directamente\n\n\n\n\n\n\n\n\n\nEvidencia\nTipo de evidencia\n¿Qué sugiere?\n\n\n\n\n1. La Especie A y la Especie B tienen una estructura ósea muy similar en las patas delanteras, aunque las usan de manera diferente.\n\n\n\n\n2. La Especie C y la Especie D vuelan, pero sus alas tienen estructuras internas muy distintas.\n\n\n\n\n3. El ADN de la Especie A y la Especie B es mucho más similar entre sí que al ADN de las especies C y D.\n\n\n\n\n4. En rocas antiguas de la isla se encontraron fósiles de un mamífero pequeño con rasgos intermedios entre la Especie A y la Especie B.\n\n\n\n\n5. Las especies A y B solo viven en Isla Verde, pero sus parientes más cercanos conocidos viven en el continente cercano.\n\n\n\n\n6. En los últimos 20 años, una población de insectos de la isla se volvió resistente a un pesticida usado en cultivos locales."
+  },
+  {
+    "objectID": "worksheets/w02-evidence.html#parte-2.-homología-analogía-y-ancestro-común",
+    "href": "worksheets/w02-evidence.html#parte-2.-homología-analogía-y-ancestro-común",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "5 Parte 2. Homología, analogía y ancestro común",
+    "text": "5 Parte 2. Homología, analogía y ancestro común\nLas especies A y B tienen patas delanteras con una estructura ósea similar, pero las usan de forma diferente.\n¿Esta similitud es más probablemente una homología o una analogía? Justifiquen.\nLas especies C y D tienen alas y pueden volar, pero sus alas tienen estructuras internas muy diferentes.\n¿Esta similitud es más probablemente una homología o una analogía? Justifiquen.\n¿Qué diferencia hay entre decir que dos especies son similares por ancestro común y decir que son similares por adaptación a una función parecida?"
+  },
+  {
+    "objectID": "worksheets/w02-evidence.html#parte-3.-inferencia-evolutiva",
+    "href": "worksheets/w02-evidence.html#parte-3.-inferencia-evolutiva",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "6 Parte 3. Inferencia evolutiva",
+    "text": "6 Parte 3. Inferencia evolutiva\nCon base en todas las evidencias, respondan:\n¿Cuáles dos especies parecen estar más cercanamente relacionadas?\n¿Cuáles son las dos evidencias más fuertes que apoyan esa conclusión?\nConstruyan un esquema simple de relaciones evolutivas entre las cuatro especies. No tiene que ser un árbol formal; puede ser un diagrama sencillo."
+  },
+  {
+    "objectID": "worksheets/w02-evidence.html#parte-4.-variación-y-evolución-observada",
+    "href": "worksheets/w02-evidence.html#parte-4.-variación-y-evolución-observada",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "7 Parte 4. Variación y evolución observada",
+    "text": "7 Parte 4. Variación y evolución observada\nRecuerden el mapa conceptual básico:\n\nVariación heredable → diferencias en aptitud → cambio en la composición de la población entre generaciones\n\nEn el caso de los insectos resistentes al pesticida, ¿cuál podría ser la variación heredable inicial?\n¿Por qué el pesticida no “crea” directamente la resistencia, sino que cambia la frecuencia de individuos resistentes en la población?\n¿Este ejemplo representa cambio individual o cambio poblacional? Expliquen."
+  },
+  {
+    "objectID": "worksheets/w02-evidence.html#parte-5.-síntesis",
+    "href": "worksheets/w02-evidence.html#parte-5.-síntesis",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "8 Parte 5. Síntesis",
+    "text": "8 Parte 5. Síntesis\n¿Por qué es más fuerte una explicación evolutiva cuando diferentes tipos de evidencia apoyan la misma conclusión?"
+  },
+  {
+    "objectID": "worksheets/w02-evidence.html#cierre-para-discusión-en-clase",
+    "href": "worksheets/w02-evidence.html#cierre-para-discusión-en-clase",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "9 Cierre para discusión en clase",
+    "text": "9 Cierre para discusión en clase\nCada grupo debe estar preparado para compartir brevemente:\n\nQué especies consideran más cercanamente relacionadas.\nQué evidencia usaron para justificarlo.\nUn ejemplo de homología y uno de analogía en el escenario.\nPor qué la evolución observada directamente es evidencia importante."
+  },
+  {
+    "objectID": "worksheets/w03-methods.html",
+    "href": "worksheets/w03-methods.html",
+    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "section": "",
+    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de interpretar evidencia en el contexto de las hipotesis, y decidir que hipotesis recibe mayor apoyo relativo."
+  },
+  {
+    "objectID": "worksheets/w03-methods.html#objetivo-de-la-actividad",
+    "href": "worksheets/w03-methods.html#objetivo-de-la-actividad",
+    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "section": "",
+    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de interpretar evidencia en el contexto de las hipotesis, y decidir que hipotesis recibe mayor apoyo relativo."
+  },
+  {
+    "objectID": "worksheets/w03-methods.html#instrucciones-generales",
+    "href": "worksheets/w03-methods.html#instrucciones-generales",
+    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "section": "2 Instrucciones generales",
+    "text": "2 Instrucciones generales\n\nLean cada bloque de evidencia.\nIdentifiquen el patron principal en cada caso.\nEvalen que tan bien cada evidencia apoya las dos hipotesis.\n\nUsen respuestas breves pero justificadas con datos."
+  },
+  {
+    "objectID": "worksheets/w03-methods.html#hipotesis",
+    "href": "worksheets/w03-methods.html#hipotesis",
+    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "section": "3 Hipotesis",
+    "text": "3 Hipotesis\n\nHipotesis A: la capacidad de re-inspirar aire surgio una sola vez y luego se heredo en el linaje correspondiente.\nHipotesis B: la capacidad de re-inspirar aire surgio varias veces de forma independiente en distintos linajes."
+  },
+  {
+    "objectID": "worksheets/w03-methods.html#contexto-biologico",
+    "href": "worksheets/w03-methods.html#contexto-biologico",
+    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "section": "4 Contexto biologico",
+    "text": "4 Contexto biologico\nAlgunas especies de Anolis pueden permanecer sumergidas y volver a inspirar aire debajo del agua desde una burbuja alrededor del hocico. Eso comportamiento da una ventaja para permanecer sumergidos por mas tiempo, y evitar depredadores. Pero no es claro si se trata de un comportamiento ancestral que se ha mantenido en unos linajes, o si se ha originado varias veces de forma independiente.\nSu grupo es un equipo de investigadores que quiere resolver esta pregunta, y han recolectado tres tipos de evidencia: comportamiento, fisiologia, y distribucion filogenetica. Analicen cada bloque de evidencia y decidan que hipotesis recibe mas apoyo.\n\n\n\nAnolis sumergido con burbuja de aire\n\n\nDetalles en el articulo original: https://www.sciencedirect.com/science/article/pii/S0960982221005753"
+  },
+  {
+    "objectID": "worksheets/w03-methods.html#evidencia-1-observacion-del-comportamiento",
+    "href": "worksheets/w03-methods.html#evidencia-1-observacion-del-comportamiento",
+    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "section": "5 Evidencia 1: observacion del comportamiento",
+    "text": "5 Evidencia 1: observacion del comportamiento\nEnsayo de comportamiento:\n\nSe realizaron pruebas de submersion en 32 especies de Anolis y 4 lagartijas no anolis.\nLas especies semi-acuaticas mostraron re-inspiracion, por lo menos una vez, con mayor frecuencia que las especies no acuaticas.\nLas especies semi-acuaticas tambien mostraron re-inspiracion sostenida en mas ensayos. La re-inspiracion sostenida se define como la capacidad de mantener la burbuja de aire para hacer varias respiraciones consecutivas.\n\n\n5.1 Interpretacion del comportamiento\n\nQue te permite inferir esta observacion sobre la funcion y distribucion del comportamiento a lo largo de las especies?\n\n\nCon solo esta evidencia, cual hipotesis recibe mas apoyo: A, B, o aun no se puede decidir? Expliquen brevemente."
+  },
+  {
+    "objectID": "worksheets/w03-methods.html#evidencia-2-dinamica-del-oxigeno-en-la-burbuja",
+    "href": "worksheets/w03-methods.html#evidencia-2-dinamica-del-oxigeno-en-la-burbuja",
+    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "section": "6 Evidencia 2: dinamica del oxigeno en la burbuja",
+    "text": "6 Evidencia 2: dinamica del oxigeno en la burbuja\nResultado fisiologico:\n\nEl pO2 de la burbuja de re-inspiracion inicia parecido al aire ambiente y disminuye de forma monotona durante la prueba.\n\n\n\n\nDisminucion del pO2 en la burbuja de re-inspiracion\n\n\n\n6.1 Interpretacion fisiologica\n\nQue sugiere este patron sobre la funcion respiratoria de la burbuja?\n\n\nEsta evidencia favorece mas a la hipotesis A, a la B, o no distingue bien entre ambas? Justifiquen."
+  },
+  {
+    "objectID": "worksheets/w03-methods.html#evidencia-3-distribucion-filogenetica-del-comportamiento",
+    "href": "worksheets/w03-methods.html#evidencia-3-distribucion-filogenetica-del-comportamiento",
+    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "section": "7 Evidencia 3: distribucion filogenetica del comportamiento",
+    "text": "7 Evidencia 3: distribucion filogenetica del comportamiento\nPatron evolutivo:\n\n\n\nArbol filogenetico con re-inspiracion en anolis semi-acuaticos\n\n\n\n7.1 Interpretacion evolutiva\n\nQue patron observan en la distribucion de las especies con re-inspiracion sostenida?\n\n\nCual hipotesis recibe mas apoyo con esta evidencia, A o B? Expliquen por que.\n\n\nEsta evidencia sugiere un origen unico, varios origenes independientes, o aun falta informacion? Justifiquen."
+  },
+  {
+    "objectID": "worksheets/w03-methods.html#sintesis",
+    "href": "worksheets/w03-methods.html#sintesis",
+    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "section": "8 Sintesis",
+    "text": "8 Sintesis\nCompleten la tabla con un juicio breve para cada evidencia.\nEscala: ++ (apoyo fuerte), + (apoyo moderado), 0 (neutral), - (debilita).\n\n\n\nEvidencia\nHipotesis A\nHipotesis B\nJustificacion corta\n\n\n\n\nObservacion del comportamiento\n\n\n\n\n\nDisminucion del pO2 en la burbuja\n\n\n\n\n\nDistribucion en el arbol filogenetico\n\n\n\n\n\n\n\nCual hipotesis recibe mayor apoyo global con la evidencia disponible?\n\n\nEscriban una conclusion breve (2-3 oraciones), incluyendo una nota de incertidumbre."
+  },
+  {
+    "objectID": "worksheets/w04-hw.html",
+    "href": "worksheets/w04-hw.html",
+    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
+    "section": "",
+    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de simular apareamiento aleatorio con granos/beans, estimar frecuencias alelicas y usar la simulacion para evaluar si una poblacion ajusta al equilibrio de Hardy-Weinberg."
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#objetivo-de-la-actividad",
+    "href": "worksheets/w04-hw.html#objetivo-de-la-actividad",
+    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
+    "section": "",
+    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de simular apareamiento aleatorio con granos/beans, estimar frecuencias alelicas y usar la simulacion para evaluar si una poblacion ajusta al equilibrio de Hardy-Weinberg."
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#instrucciones-generales",
+    "href": "worksheets/w04-hw.html#instrucciones-generales",
+    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
+    "section": "2 Instrucciones generales",
+    "text": "2 Instrucciones generales\n\nLean el misterio biologico.\nCompleten los conteos y la simulacion paso a paso.\nRegistren los resultados en la tabla.\nRespondan las preguntas con una justificacion breve.\n\nTrabajen en parejas."
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#escenario-una-poblacion-con-pocos-heterocigotos",
+    "href": "worksheets/w04-hw.html#escenario-una-poblacion-con-pocos-heterocigotos",
+    "title": "Hoja de trabajo: Equilibrio de Hardy-Weinberg",
+    "section": "3 Escenario: una poblacion con pocos heterocigotos",
+    "text": "3 Escenario: una poblacion con pocos heterocigotos\nUn grupo de estudiantes muestrea una poblacion de plantas con dos alelos para un gen de color de flor:\n\n\\(A\\) = alelo para flores moradas\n\\(a\\) = alelo para flores blancas\n\nEn la poblacion observan los siguientes genotipos:\n\n\n\nGenotipo\nNumero observado\n\n\n\n\nAA\n60\n\n\nAa\n20\n\n\naa\n20\n\n\nTotal\n100\n\n\n\nLa observacion llamativa es que hay menos heterocigotos de lo que uno podria esperar bajo apareamiento aleatorio."
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#parte-1.-pasar-de-genotipos-a-alelos",
+    "href": "worksheets/w04-hw.html#parte-1.-pasar-de-genotipos-a-alelos",
+    "title": "Hoja de trabajo: Equilibrio de Hardy-Weinberg",
+    "section": "4 Parte 1. Pasar de genotipos a alelos",
+    "text": "4 Parte 1. Pasar de genotipos a alelos\nAntes de aplicar Hardy-Weinberg, conviertan la poblacion observada en frecuencias alelicas.\n\n4.1 1.1 Conteo total de alelos\n\n¿Cuantos alelos totales hay en la poblacion?\n\n\n\n4.2 1.2 Conteo del alelo \\(A\\)\n\n¿Cuantos alelos \\(A\\) aporta cada genotipo?\n¿Cuantos alelos \\(A\\) hay en total?\n¿Cual es la frecuencia de \\(A\\) (\\(p\\))?\n\n\n\n4.3 1.3 Conteo del alelo \\(a\\)\n\n¿Cuantos alelos \\(a\\) aporta cada genotipo?\n¿Cuantos alelos \\(a\\) hay en total?\n¿Cual es la frecuencia de \\(a\\) (\\(q\\))?\n\n\n\n4.4 1.4 Resumen\nEscriban sus valores finales:\n\n$p = $\n$q = $\n\nComprueben que \\(p + q = 1\\)."
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#parte-2.-frecuencias-esperadas-bajo-hardy-weinberg",
+    "href": "worksheets/w04-hw.html#parte-2.-frecuencias-esperadas-bajo-hardy-weinberg",
+    "title": "Hoja de trabajo: Equilibrio de Hardy-Weinberg",
+    "section": "5 Parte 2. Frecuencias esperadas bajo Hardy-Weinberg",
+    "text": "5 Parte 2. Frecuencias esperadas bajo Hardy-Weinberg\nRecuerden que para una poblacion diploide con apareamiento aleatorio:\n\\[\np^2 + 2pq + q^2 = 1\n\\]\n\n5.1 2.1 Genotipos esperados\nCompleten la tabla usando sus valores de \\(p\\) y \\(q\\).\n\n\n\nGenotipo\nFormula\nFrecuencia esperada\n\n\n\n\nAA\n\\(p^2\\)\n\n\n\nAa\n\\(2pq\\)\n\n\n\naa\n\\(q^2\\)\n\n\n\n\n\n\n5.2 2.2 Numero esperado de individuos\nSi la poblacion tiene 100 individuos, conviertan esas frecuencias en numeros esperados.\n\n\n\nGenotipo\nFrecuencia esperada\nNumero esperado\n\n\n\n\nAA\n\n\n\n\nAa\n\n\n\n\naa"
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#parte-3.-comparar-esperado-vs-observado",
+    "href": "worksheets/w04-hw.html#parte-3.-comparar-esperado-vs-observado",
+    "title": "Hoja de trabajo: Equilibrio de Hardy-Weinberg",
+    "section": "6 Parte 3. Comparar esperado vs observado",
+    "text": "6 Parte 3. Comparar esperado vs observado\n\n6.1 3.1 Comparacion directa\nCompleten la tabla:\n\n\n\nGenotipo\nEsperado bajo HW\nObservado\n\n\n\n\nAA\n\n60\n\n\nAa\n\n20\n\n\naa\n\n20\n\n\n\n\n\n6.2 3.2 Interpretacion\n\n¿La poblacion parece ajustarse a Hardy-Weinberg?\n\n\n¿Que parte de la tabla les llama mas la atencion?\n\n\nSi no hay ajuste, ¿que podria estar pasando biologicamente?"
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#parte-4.-pensamiento-poblacional",
+    "href": "worksheets/w04-hw.html#parte-4.-pensamiento-poblacional",
+    "title": "Hoja de trabajo: Equilibrio de Hardy-Weinberg",
+    "section": "7 Parte 4. Pensamiento poblacional",
+    "text": "7 Parte 4. Pensamiento poblacional\nHardy-Weinberg no describe a un individuo, sino a una poblacion.\n\n7.1 Preguntas\n\n¿Por que no tiene sentido decir que un individuo “esta en equilibrio de Hardy-Weinberg”?\n\n\n¿Que tipo de pregunta evolutiva permite responder este modelo?\n\n\n¿Por que es util como modelo nulo?"
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#parte-5.-extension-poliploidia",
+    "href": "worksheets/w04-hw.html#parte-5.-extension-poliploidia",
+    "title": "Hoja de trabajo: Equilibrio de Hardy-Weinberg",
+    "section": "8 Parte 5. Extension: poliploidia",
+    "text": "8 Parte 5. Extension: poliploidia\nAlgunas especies no son diploides. Por ejemplo, la papa cultivada suele ser tetraploide.\nSi hay dos alelos, la expansion para un tetraploide es:\n\\[\n(p + q)^4 = p^4 + 4p^3q + 6p^2q^2 + 4pq^3 + q^4\n\\]\n\n8.1 Preguntas\n\n¿Que cambia al pasar de diploides a tetraploides?\n\n\n¿Por que el calculo de frecuencias puede volverse mas complicado en casos reales no modelo?"
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#cierre-para-discusion-en-clase",
+    "href": "worksheets/w04-hw.html#cierre-para-discusion-en-clase",
+    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
+    "section": "11 Cierre para discusion en clase",
+    "text": "11 Cierre para discusion en clase\nCada grupo debe estar preparado para compartir:\n\nSus valores de \\(p\\) y \\(q\\).\nEl numero de heterocigotos observado en la simulacion.\nSi la poblacion real parece ajustarse al equilibrio de Hardy-Weinberg.\nUna explicacion biologica para el deficit de heterocigotos."
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#materiales-por-pareja-de-estudiantes",
+    "href": "worksheets/w04-hw.html#materiales-por-pareja-de-estudiantes",
+    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
+    "section": "3 Materiales por pareja de estudiantes",
+    "text": "3 Materiales por pareja de estudiantes\n\n1 bolsa de papel marron\n140 frijoles negros, que representan el alelo dominante \\(A\\)\n60 garbanzos, que representan el alelo recesivo \\(a\\)"
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#paso-0.-el-misterio-biologico",
+    "href": "worksheets/w04-hw.html#paso-0.-el-misterio-biologico",
+    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
+    "section": "4 Paso 0. El misterio biologico",
+    "text": "4 Paso 0. El misterio biologico\nAntes de tocar los materiales, analicen los datos de una poblacion observada en el campo:\n\n\n\nGenotipo\nNumero observado\n\n\n\n\nAA\n60\n\n\nAa\n20\n\n\naa\n20\n\n\nTotal\n100\n\n\n\nLa observacion biologica es que hay un deficit grande de heterocigotos. La pregunta es:\n\n¿Se debe esto a fuerzas evolutivas activas o podria explicarse por azar?\n\nPara averiguarlo, van a simular apareamiento aleatorio bajo condiciones ideales."
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#paso-1.-extraer-el-fondo-genetico",
+    "href": "worksheets/w04-hw.html#paso-1.-extraer-el-fondo-genetico",
+    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
+    "section": "5 Paso 1. Extraer el fondo genetico",
+    "text": "5 Paso 1. Extraer el fondo genetico\nUsen aritmetica basica para convertir los genotipos observados en alelos.\n\n5.1 1.1 Total de alelos\n\n¿Cuantos alelos hay en total en una poblacion de 100 individuos diploides?\n\n\n\n5.2 1.2 Conteo del alelo \\(A\\)\n\n¿Cuantos alelos \\(A\\) aporta cada genotipo?\n¿Cuantos alelos \\(A\\) hay en total?\n¿Cual es su frecuencia alélica \\(p\\)?\n\n\n\n5.3 1.3 Conteo del alelo \\(a\\)\n\n¿Cuantos alelos \\(a\\) aporta cada genotipo?\n¿Cuantos alelos \\(a\\) hay en total?\n¿Cual es su frecuencia alélica \\(q\\)?\n\n\n\n5.4 1.4 Resumen\nEscriban sus valores finales:\n\n$p = $\n$q = $\n\nComprueben que \\(p + q = 1\\).\n\n\n5.5 1.5 Preparar la bolsa\nColoquen exactamente 140 frijoles negros y 60 garbanzos en la bolsa.\nEsta bolsa representa ahora el fondo genetico de la poblacion."
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#paso-2.-simular-la-siguiente-generacion",
+    "href": "worksheets/w04-hw.html#paso-2.-simular-la-siguiente-generacion",
+    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
+    "section": "6 Paso 2. Simular la siguiente generacion",
+    "text": "6 Paso 2. Simular la siguiente generacion\nPara simular apareamiento aleatorio bajo condiciones ideales, repitan el siguiente procedimiento 100 veces:\n\nAgiten la bolsa cerrada.\nSin mirar, extraigan dos granos a la vez.\nRegistren el genotipo del descendiente.\nDevuelvan ambos granos a la bolsa.\nRepitan hasta completar los 100 nacimientos.\n\n\n6.1 Como clasificar cada cruce\n\n2 frijoles negros = \\(AA\\)\n1 frijol negro + 1 garbanzo = \\(Aa\\)\n2 garbanzos = \\(aa\\)"
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#paso-3.-tabla-de-registro-de-datos",
+    "href": "worksheets/w04-hw.html#paso-3.-tabla-de-registro-de-datos",
+    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
+    "section": "7 Paso 3. Tabla de registro de datos",
+    "text": "7 Paso 3. Tabla de registro de datos\nCompleten la tabla con sus resultados.\n\n\n\nGenotipo\nTanteo (palitos)\nTotal obtenido\n\n\n\n\nAA\n\n\n\n\nAa\n\n\n\n\naa\n\n\n\n\nTOTAL\nDebe sumar 100\n100"
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#paso-4.-recuento-colectivo-de-heterocigotos",
+    "href": "worksheets/w04-hw.html#paso-4.-recuento-colectivo-de-heterocigotos",
+    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
+    "section": "8 Paso 4. Recuento colectivo de heterocigotos",
+    "text": "8 Paso 4. Recuento colectivo de heterocigotos\nCuando terminen, un integrante de la pareja compartira su resultado con la clase.\nEl profesor o la profesora habra dibujado una linea horizontal que representa la cantidad de heterocigotos (\\(Aa\\)) obtenidos por simulacion.\n\n8.1 Instruccion\n\nDibujen una X sobre el numero exacto de heterocigotos que genero su bolsa."
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#paso-5.-representacion-grafica-e-interpretacion",
+    "href": "worksheets/w04-hw.html#paso-5.-representacion-grafica-e-interpretacion",
+    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
+    "section": "9 Paso 5. Representacion grafica e interpretacion",
+    "text": "9 Paso 5. Representacion grafica e interpretacion\nEl docente proyectara o dibujara la acumulacion de las X de la clase.\nLa distribucion mostrara lo que produce el azar puro bajo apareamiento aleatorio.\n\n9.1 Frecuencia de resultados en la clase"
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#preguntas-de-analisis",
+    "href": "worksheets/w04-hw.html#preguntas-de-analisis",
+    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
+    "section": "10 Preguntas de analisis",
+    "text": "10 Preguntas de analisis\n\n¿Alrededor de que numero de heterocigotos se agrupo la mayoria de las respuestas de la clase?\n\n\nLa poblacion observada en la naturaleza tenia solo 20 heterocigotos. Al mirar la distribucion de la clase, ¿algun grupo obtuvo un numero tan bajo como 20 por pura suerte?\n\n\nSi el cruce aleatorio casi nunca produce un valor tan bajo como 20 heterocigotos, ¿que significa esto sobre la poblacion real?\n\n\n¿La poblacion esta en equilibrio de Hardy-Weinberg o esta evolucionando? Propongan un mecanismo biologico posible."
+  },
+  {
+    "objectID": "lectures/04-hw.html",
+    "href": "lectures/04-hw.html",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "",
+    "text": "Entender por que la teoria de evolucion por seleccion natural necesitaba una explicacion genetica de la herencia.\nUsar Hardy-Weinberg como modelo nulo para poblaciones.\nInterpretar cuando los datos se ajustan o no se ajustan al la expectativa de Hardy-Weinberg."
   }
 ]

@@ -13,7 +13,7 @@ fi
 
 echo ""
 echo "Rendering worksheets to PDF and DOCX..."
-for qmd in worksheets/worksheet_*.qmd; do
+for qmd in worksheets/w*-*.qmd; do
   echo "  $qmd → pdf"
   quarto render "$qmd" --to pdf
   echo "  $qmd → docx"

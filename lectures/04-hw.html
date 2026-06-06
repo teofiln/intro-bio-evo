@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Clases – Evolucion Intro Bio</title>
+<title>Equilibrio de Hardy-Weinberg – Evolucion Intro Bio</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,35 +66,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -130,7 +99,7 @@ window.Quarto = {
 
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -152,7 +121,7 @@ window.Quarto = {
 <span class="menu-text">Inicio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../lectures/index.html" aria-current="page"> 
+    <a class="nav-link" href="../lectures/index.html"> 
 <span class="menu-text">Clases</span></a>
   </li>  
   <li class="nav-item">
@@ -174,13 +143,16 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="04-hw.html"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Clases</h1>
+<h1 class="title">Equilibrio de Hardy-Weinberg</h1>
+<p class="subtitle lead">Intro Bio I (B0160): Modulo Evolucion</p>
 </div>
 
 
@@ -197,84 +169,280 @@ window.Quarto = {
 </header>
 
 
-<section id="presentaciones-del-modulo" class="level2">
-<h2 class="anchored" data-anchor-id="presentaciones-del-modulo">Presentaciones del modulo</h2>
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  document.querySelectorAll(".quarto-listing a").forEach(function (a) {
-    a.setAttribute("target", "_blank");
-    a.setAttribute("rel", "noopener noreferrer");
-  });
-});
-</script>
-
+<section id="metas" class="level2">
+<h2 class="anchored" data-anchor-id="metas">Metas</h2>
+<ol type="1">
+<li>Entender por que la teoria de evolucion por seleccion natural necesitaba una explicacion genetica de la herencia.</li>
+<li>Usar Hardy-Weinberg como modelo nulo para poblaciones.</li>
+<li>Interpretar cuando los datos se ajustan o no se ajustan al la expectativa de Hardy-Weinberg.</li>
+</ol>
+</section>
+<section id="ser-capaces-de" class="level2">
+<h2 class="anchored" data-anchor-id="ser-capaces-de">Ser capaces de</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>Definir frecuencia alelica y frecuencia genotipica.</li>
+<li>Aplicar <span class="math inline">\(p + q = 1\)</span> y <span class="math inline">\(p^2 + 2pq + q^2 = 1\)</span>.</li>
+<li>Calcular genotipos esperados bajo Hardy-Weinberg.</li>
+<li>Identificar casos cuando hay desviaciones de Hardy-Weinberg.</li>
+</ul>
+</div>
+</section>
+<section id="del-problema-historico-al-modelo-nulo" class="level1" data-background-color="#E8F5E9">
+<h1 data-background-color="#E8F5E9">Del problema historico al modelo nulo</h1>
+<section id="el-problema-en-el-siglo-xix" class="level2">
+<h2 class="anchored" data-anchor-id="el-problema-en-el-siglo-xix">El problema en el siglo XIX</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>Darwin y Wallace propusieron seleccion natural.</li>
+<li>La seleccion requiere variacion heredable.</li>
+<li>Sin una buena teoria de herencia, la explicacion quedaba incompleta.</li>
+</ul>
+</div>
+</section>
+<section id="herencia-por-mezcla-una-dificultad" class="level2">
+<h2 class="anchored" data-anchor-id="herencia-por-mezcla-una-dificultad">Herencia por mezcla: una dificultad</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>Si los rasgos se mezclan de forma permanente,</li>
+<li>la variacion se diluye,</li>
+<li>y la seleccion pierde “materia prima”.</li>
+</ul>
+</div>
+<div class="fragment">
+<blockquote class="blockquote">
+<p>Pregunta clave: como se mantiene la variacion entre generaciones?</p>
+</blockquote>
+</div>
+</section>
+<section id="mendel-cambia-el-panorama" class="level2">
+<h2 class="anchored" data-anchor-id="mendel-cambia-el-panorama">Mendel cambia el panorama</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>La herencia es particulada (alelos).</li>
+<li>Los alelos no se “mezclan” para siempre.</li>
+<li>Se segregan y recombinan en cada generacion.</li>
+</ul>
+</div>
+</section>
+<section id="ley-1-segregacion-equitativa" class="level2">
+<h2 class="anchored" data-anchor-id="ley-1-segregacion-equitativa">Ley 1: segregacion equitativa</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>Cada individuo diploide tiene dos alelos por locus.</li>
+<li>En meiosis, los dos alelos se separan.</li>
+<li>Cada gameto recibe solo uno, con probabilidad aproximada 1/2.</li>
+</ul>
+</div>
+<div class="fragment">
+<p>Importancia: explica por que las frecuencias alelicas pueden modelarse con probabilidades.</p>
+</div>
+</section>
+<section id="ley-2-surtido-independiente" class="level2">
+<h2 class="anchored" data-anchor-id="ley-2-surtido-independiente">Ley 2: surtido independiente</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>Alelos de loci distintos se distribuyen de forma independiente en los gametos.</li>
+<li>Esto ocurre cuando los loci no estan ligados (o estan muy separados).</li>
+<li>Se generan combinaciones nuevas de alelos en cada generacion.</li>
+</ul>
+</div>
+<div class="fragment">
+<p>Importancia: aumenta la variacion genotipica sobre la que puede actuar la seleccion.</p>
+</div>
+</section>
+<section id="de-leyes-mendelianas-a-pensamiento-poblacional" class="level2">
+<h2 class="anchored" data-anchor-id="de-leyes-mendelianas-a-pensamiento-poblacional">De leyes mendelianas a pensamiento poblacional</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>En una familia: vemos cruces.</li>
+<li>En una poblacion: vemos frecuencias.</li>
+<li>Segregacion + surtido permiten predecir proporciones esperadas.</li>
+</ul>
+</div>
+</section>
+<section id="por-que-esto-importa-para-evolucion" class="level2">
+<h2 class="anchored" data-anchor-id="por-que-esto-importa-para-evolucion">Por que esto importa para evolucion</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>La seleccion cambia frecuencias alelicas, no “tipos fijos”.</li>
+<li>La variacion se conserva y se reorganiza cada generacion.</li>
+<li>Por eso Hardy-Weinberg funciona como linea base evolutiva.</li>
+</ul>
+</div>
+</section>
+<section id="espacio-visual-puente-historico" class="level2">
+<h2 class="anchored" data-anchor-id="espacio-visual-puente-historico">Espacio visual: puente historico</h2>
+<p><strong>Espacio para imagen:</strong> linea de tiempo Darwin/Wallace -&gt; Mendel -&gt; genetica de poblaciones.</p>
+</section>
+<section id="de-individuos-a-poblaciones" class="level2">
+<h2 class="anchored" data-anchor-id="de-individuos-a-poblaciones">De individuos a poblaciones</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>Evolucion = cambio en frecuencias en poblaciones.</li>
+<li>Ahora importan las frecuencias de alelos y genotipos.</li>
+<li>Hardy-Weinberg conecta genetica mendeliana con evolucion.</li>
+</ul>
+</div>
+</section>
+<section id="hardy-weinberg-como-modelo-nulo" class="level2">
+<h2 class="anchored" data-anchor-id="hardy-weinberg-como-modelo-nulo">Hardy-Weinberg como modelo nulo</h2>
+<blockquote class="blockquote">
+<p>Que esperamos observar si no actua ninguna fuerza evolutiva?</p>
+</blockquote>
+<div class="fragment">
+<p>Frecuencias alelicas y genotipicas predecibles de una generacion a otra.</p>
+</div>
+</section>
+<section id="supuestos-de-hardy-weinberg" class="level2">
+<h2 class="anchored" data-anchor-id="supuestos-de-hardy-weinberg">Supuestos de Hardy-Weinberg</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>Apareamiento aleatorio.</li>
+<li>Poblacion muy grande.</li>
+<li>Sin seleccion natural.</li>
+<li>Sin mutacion.</li>
+<li>Sin migracion (flujo genico).</li>
+</ul>
+</div>
+<div class="fragment">
+<p>Si los datos no ajustan, al menos un supuesto puede estar fallando.</p>
+</div>
+</section>
+<section id="espacio-visual-supuestos" class="level2">
+<h2 class="anchored" data-anchor-id="espacio-visual-supuestos">Espacio visual: supuestos</h2>
+<p><strong>Espacio para imagen:</strong> esquema de los cinco supuestos con iconos simples.</p>
+</section>
+</section>
+<section id="ejemplo-rapido" class="level1" data-background-color="#E8F5E9">
+<h1 data-background-color="#E8F5E9">Ejemplo rapido</h1>
+<section id="datos-iniciales" class="level2">
+<h2 class="anchored" data-anchor-id="datos-iniciales">Datos iniciales</h2>
+<p>Poblacion de plantas con dos alelos:</p>
+<ul>
+<li><span class="math inline">\(A\)</span> (morado)</li>
+<li><span class="math inline">\(a\)</span> (blanco)</li>
+</ul>
+<p>Frecuencias:</p>
+<ul>
+<li><span class="math inline">\(p = 0.7\)</span></li>
+<li><span class="math inline">\(q = 0.3\)</span></li>
+</ul>
+</section>
+<section id="recordatorio-matematico" class="level2">
+<h2 class="anchored" data-anchor-id="recordatorio-matematico">Recordatorio matematico</h2>
+<p><span class="math display">\[
+p + q = 1
+\]</span></p>
+<p><span class="math display">\[
+p^2 + 2pq + q^2 = 1
+\]</span></p>
+</section>
+<section id="genotipos-esperados" class="level2">
+<h2 class="anchored" data-anchor-id="genotipos-esperados">Genotipos esperados</h2>
+<div class="incremental">
+<ul class="incremental">
+<li><span class="math inline">\(AA = p^2 = 0.49\)</span></li>
+<li><span class="math inline">\(Aa = 2pq = 0.42\)</span></li>
+<li><span class="math inline">\(aa = q^2 = 0.09\)</span></li>
+</ul>
+</div>
+</section>
+<section id="en-una-muestra-de-100-individuos" class="level2">
+<h2 class="anchored" data-anchor-id="en-una-muestra-de-100-individuos">En una muestra de 100 individuos</h2>
+<div class="incremental">
+<ul class="incremental">
+<li><span class="math inline">\(AA\)</span>: 49</li>
+<li><span class="math inline">\(Aa\)</span>: 42</li>
+<li><span class="math inline">\(aa\)</span>: 9</li>
+</ul>
+</div>
+</section>
+<section id="espacio-visual-cuadro-de-punnett" class="level2">
+<h2 class="anchored" data-anchor-id="espacio-visual-cuadro-de-punnett">Espacio visual: cuadro de Punnett</h2>
+<p><strong>Espacio para imagen:</strong> cuadro de Punnett con gametos <span class="math inline">\(A\)</span> y <span class="math inline">\(a\)</span>.</p>
+</section>
+</section>
+<section id="comparar-esperado-vs-observado" class="level1" data-background-color="#E8F5E9">
+<h1 data-background-color="#E8F5E9">Comparar esperado vs observado</h1>
+<section id="caso-1-ajuste-aproximado" class="level2">
+<h2 class="anchored" data-anchor-id="caso-1-ajuste-aproximado">Caso 1: ajuste aproximado</h2>
+<p>Esperado (100): 49, 42, 9</p>
+<p>Observado: 48, 43, 9</p>
+<div class="fragment">
+<p>Interpretacion: compatible con Hardy-Weinberg (a primera vista).</p>
+</div>
+</section>
+<section id="caso-2-desviacion-clara" class="level2">
+<h2 class="anchored" data-anchor-id="caso-2-desviacion-clara">Caso 2: desviacion clara</h2>
+<p>Esperado (100): 49, 42, 9</p>
+<p>Observado: 65, 10, 25</p>
+<div class="fragment">
+<p>Hay deficit fuerte de heterocigotos.</p>
+</div>
+</section>
+<section id="que-podria-explicar-la-desviacion" class="level2">
+<h2 class="anchored" data-anchor-id="que-podria-explicar-la-desviacion">Que podria explicar la desviacion?</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>Apareamiento no aleatorio.</li>
+<li>Estructura poblacional.</li>
+<li>Seleccion natural.</li>
+<li>Tamano poblacional pequeno (deriva).</li>
+<li>Error de muestreo.</li>
+</ul>
+</div>
+</section>
+<section id="espacio-visual-diagnostico" class="level2">
+<h2 class="anchored" data-anchor-id="espacio-visual-diagnostico">Espacio visual: diagnostico</h2>
+<p><strong>Espacio para imagen:</strong> diagrama de decision “si no ajusta HW, evaluar fuerzas evolutivas”.</p>
+</section>
+<section id="y-si-la-especie-es-poliploide" class="level2">
+<h2 class="anchored" data-anchor-id="y-si-la-especie-es-poliploide">Y si la especie es poliploide?</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>Muchas especies de plantas no son diploides.</li>
+<li>Ejemplo: papa cultivada (<em>Solanum tuberosum</em>), frecuentemente tetraploide.</li>
+<li>En tetraploides, para dos alelos se expande <span class="math inline">\((p+q)^4\)</span>.</li>
+</ul>
+</div>
+</section>
+<section id="hardy-weinberg-en-tetraploides-papa" class="level2">
+<h2 class="anchored" data-anchor-id="hardy-weinberg-en-tetraploides-papa">Hardy-Weinberg en tetraploides (papa)</h2>
+<p><span class="math display">\[
+(p + q)^4 = p^4 + 4p^3q + 6p^2q^2 + 4pq^3 + q^4
+\]</span></p>
+<div class="fragment">
+<p>Cada termino representa clases genotipicas con 4 copias alelicas (por ejemplo, AAAa, AAaa, Aaaa).</p>
+</div>
+<div class="fragment">
+<p>Mensaje clave: en sistemas no modelo, estimar frecuencias alelicas/genotipicas puede volverse rapidamente complejo.</p>
+</div>
+</section>
+</section>
+<section id="cierre" class="level1" data-background-color="#E8F5E9">
+<h1 data-background-color="#E8F5E9">Cierre</h1>
+<section id="idea-central" class="level2">
+<h2 class="anchored" data-anchor-id="idea-central">Idea central</h2>
+<p>Hardy-Weinberg no dice que las poblaciones reales “no evolucionan”.</p>
+<div class="fragment">
+<p>Nos da una referencia para detectar cuando y como pueden estar evolucionando.</p>
+</div>
+</section>
+<section id="take-home-messages" class="level2">
+<h2 class="anchored" data-anchor-id="take-home-messages">Take-home messages</h2>
+<ol type="1">
+<li>Seleccion natural necesita variacion heredable persistente.</li>
+<li>Mendel explico como se conserva la variacion.</li>
+<li>Hardy-Weinberg ofrece una linea base cuantitativa.</li>
+<li>Las desviaciones guian preguntas evolutivas.</li>
+</ol>
 
 
 </section>
+</section>
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-     </select>
-  </div>
-</div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-<th>
-Subtitle
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1780021596551" data-listing-reading-time-sort="7" data-listing-word-count-sort="1386" data-listing-title-sort="Variación biológica y pensamiento poblacional" data-listing-filename-sort="01-variation-and-populations.qmd">
-<td>
-<a href="../lectures/01-variation-and-populations.html" class="title listing-title">Variación biológica y pensamiento poblacional</a>
-</td>
-<td>
-<span class="listing-subtitle">Intro Bio I (B0160): Modulo Evolución</span>
-</td>
-</tr>
-<tr data-index="1" data-listing-file-modified-sort="1780408385006" data-listing-reading-time-sort="9" data-listing-word-count-sort="1744" data-listing-title-sort="Evidencia de la evolución" data-listing-filename-sort="02-evidence.qmd">
-<td>
-<a href="../lectures/02-evidence.html" class="title listing-title">Evidencia de la evolución</a>
-</td>
-<td>
-<span class="listing-subtitle">Intro Bio I (B0160): Modulo Evolución</span>
-</td>
-</tr>
-<tr data-index="2" data-listing-file-modified-sort="1780627666737" data-listing-reading-time-sort="13" data-listing-word-count-sort="2528" data-listing-title-sort="Como estudiamos la evolución" data-listing-filename-sort="03-methods.qmd">
-<td>
-<a href="../lectures/03-methods.html" class="title listing-title">Como estudiamos la evolución</a>
-</td>
-<td>
-<span class="listing-subtitle">Intro Bio I (B0160): Modulo Evolución</span>
-</td>
-</tr>
-<tr data-index="3" data-listing-file-modified-sort="1780785151855" data-listing-reading-time-sort="4" data-listing-word-count-sort="697" data-listing-title-sort="Equilibrio de Hardy-Weinberg" data-listing-filename-sort="04-hw.qmd">
-<td>
-<a href="../lectures/04-hw.html" class="title listing-title">Equilibrio de Hardy-Weinberg</a>
-</td>
-<td>
-<span class="listing-subtitle">Intro Bio I (B0160): Modulo Evolucion</span>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
