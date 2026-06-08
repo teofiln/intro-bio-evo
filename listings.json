@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/worksheets/index.html",
-    "items": [
-      "/worksheets/w02-evidence.html",
-      "/worksheets/w03-methods.html",
-      "/worksheets/w04-hw.html"
-    ]
-  },
-  {
     "listing": "/lectures/index.html",
     "items": [
       "/lectures/01-variation-and-populations.html",
@@ -17,17 +9,27 @@
     ]
   },
   {
+    "listing": "/worksheets/index.html",
+    "items": [
+      "/worksheets/w02-evidence.html",
+      "/worksheets/w03-methods.html",
+      "/worksheets/w04-hw.html"
+    ]
+  },
+  {
     "listing": "/worksheets/index.pdf",
     "items": [
-      "/worksheets/worksheet_evidencia_evolucion.html",
-      "/worksheets/worksheet_respiracion_subacuatica_anolis.html"
+      "/worksheets/w02-evidence.html",
+      "/worksheets/w03-methods.html",
+      "/worksheets/w04-hw.html"
     ]
   },
   {
     "listing": "/worksheets/index.docx",
     "items": [
-      "/worksheets/worksheet_evidencia_evolucion.html",
-      "/worksheets/worksheet_respiracion_subacuatica_anolis.html"
+      "/worksheets/w02-evidence.html",
+      "/worksheets/w03-methods.html",
+      "/worksheets/w04-hw.html"
     ]
   }
 ]

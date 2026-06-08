@@ -1,66 +1,101 @@
 [
   {
-    "objectID": "worksheets/worksheet_respiracion_subacuatica_anolis.html",
-    "href": "worksheets/worksheet_respiracion_subacuatica_anolis.html",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "objectID": "worksheets/w04-hw.html",
+    "href": "worksheets/w04-hw.html",
+    "title": "Hoja de trabajo: Simulación de Hardy-Weinberg",
     "section": "",
-    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de interpretar evidencia en el contexto de las hipotesis, y decidir que hipotesis recibe mayor apoyo relativo."
+    "text": "Comprender Hardy-Weinberg como una expectativa nula para una población sin fuerzas evolutivas.\nEstimar frecuencias alélicas a partir de datos genotípicos.\nComparar observaciones reales con expectativas bajo apareamiento aleatorio.\nInterpretar biológicamente desviaciones del equilibrio."
   },
   {
-    "objectID": "worksheets/worksheet_respiracion_subacuatica_anolis.html#objetivo-de-la-actividad",
-    "href": "worksheets/worksheet_respiracion_subacuatica_anolis.html#objetivo-de-la-actividad",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "objectID": "worksheets/w04-hw.html#objetivos-de-la-actividad",
+    "href": "worksheets/w04-hw.html#objetivos-de-la-actividad",
+    "title": "Hoja de trabajo: Simulación de Hardy-Weinberg",
     "section": "",
-    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de interpretar evidencia en el contexto de las hipotesis, y decidir que hipotesis recibe mayor apoyo relativo."
+    "text": "Comprender Hardy-Weinberg como una expectativa nula para una población sin fuerzas evolutivas.\nEstimar frecuencias alélicas a partir de datos genotípicos.\nComparar observaciones reales con expectativas bajo apareamiento aleatorio.\nInterpretar biológicamente desviaciones del equilibrio."
   },
   {
-    "objectID": "worksheets/worksheet_respiracion_subacuatica_anolis.html#instrucciones-generales",
-    "href": "worksheets/worksheet_respiracion_subacuatica_anolis.html#instrucciones-generales",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "objectID": "worksheets/w04-hw.html#materiales-por-grupo",
+    "href": "worksheets/w04-hw.html#materiales-por-grupo",
+    "title": "Hoja de trabajo: Simulación de Hardy-Weinberg",
+    "section": "Materiales por grupo",
+    "text": "Materiales por grupo\n\n1 bolsa de papel | 140 frijoles negros (alelo \\(A\\)) | 60 frijoles rojos (alelo \\(a\\))"
+  },
+  {
+    "objectID": "worksheets/w04-hw.html#procedimiento",
+    "href": "worksheets/w04-hw.html#procedimiento",
+    "title": "Hoja de trabajo: Simulación de Hardy-Weinberg",
+    "section": "Procedimiento",
+    "text": "Procedimiento\nRepitan 100 veces:\n\nMezclen bien la bolsa.\nExtraigan dos frijoles al azar.\nRegistren el genotipo resultante.\nDevuelvan ambos frijoles a la bolsa.\nRepitan.\n\n\nClasificación\n\n\n\nFrijoles extraídos\nGenotipo\nObservado\nSimulado\n\n\n\n\nNegro + Negro\nAA\n60\n\n\n\nNegro + Rojo\nAa\n20\n\n\n\nRojo + Rojo\naa\n20\n\n\n\nTotal\n\n100\n100\n\n\n\nUn integrante de cada pareja anotará en la pizarra el número de heterocigotos (\\(Aa\\)) obtenidos.\nEl conjunto de resultados de la clase mostrará la distribución esperada bajo apareamiento aleatorio."
+  },
+  {
+    "objectID": "worksheets/w02-evidence.html",
+    "href": "worksheets/w02-evidence.html",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "",
+    "text": "Al finalizar esta actividad, el grupo debería ser capaz de usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica."
+  },
+  {
+    "objectID": "worksheets/w02-evidence.html#objetivo-de-la-actividad",
+    "href": "worksheets/w02-evidence.html#objetivo-de-la-actividad",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "",
+    "text": "Al finalizar esta actividad, el grupo debería ser capaz de usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica."
+  },
+  {
+    "objectID": "worksheets/w02-evidence.html#instrucciones-generales",
+    "href": "worksheets/w02-evidence.html#instrucciones-generales",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
     "section": "2 Instrucciones generales",
-    "text": "2 Instrucciones generales\n\nLean cada bloque de evidencia.\nIdentifiquen el patron principal en cada caso.\nEvalen que tan bien cada evidencia apoya las dos hipotesis.\n\nUsen respuestas breves pero justificadas con datos."
+    "text": "2 Instrucciones generales\nTrabajen en grupos de 4–6 personas. Lean el escenario y discutan cada pregunta antes de escribir la respuesta. No se espera una respuesta larga, pero sí una justificación clara."
   },
   {
-    "objectID": "worksheets/worksheet_respiracion_subacuatica_anolis.html#hipotesis",
-    "href": "worksheets/worksheet_respiracion_subacuatica_anolis.html#hipotesis",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
-    "section": "3 Hipotesis",
-    "text": "3 Hipotesis\n\nHipotesis A: la capacidad de re-inspirar aire surgio una sola vez y luego se heredo en el linaje correspondiente.\nHipotesis B: la capacidad de re-inspirar aire surgio varias veces de forma independiente en distintos linajes."
+    "objectID": "worksheets/w02-evidence.html#escenario-isla-verde",
+    "href": "worksheets/w02-evidence.html#escenario-isla-verde",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "3 Escenario: Isla Verde",
+    "text": "3 Escenario: Isla Verde\nUn equipo de biólogos estudia una isla oceánica llamada Isla Verde. La isla está a unos 800 km del continente más cercano y tiene varios ambientes: bosque seco, bosque húmedo, costa rocosa y zonas abiertas.\nEn la isla se encuentran cuatro especies animales que parecen muy diferentes entre sí:\n\n\n\nEspecie\nDescripción breve\n\n\n\n\nEspecie A\nMamífero pequeño, terrestre, nocturno, con patas cortas\n\n\nEspecie B\nMamífero grande, terrestre, diurno, con patas largas\n\n\nEspecie C\nAnimal volador con alas membranosas\n\n\nEspecie D\nAnimal volador con alas rígidas cubiertas de plumas\n\n\n\nEl objetivo del grupo es usar la evidencia disponible para responder:\n\n¿Qué especies parecen estar más cercanamente relacionadas y qué tipo de evidencia apoya esa conclusión?"
   },
   {
-    "objectID": "worksheets/worksheet_respiracion_subacuatica_anolis.html#contexto-biologico",
-    "href": "worksheets/worksheet_respiracion_subacuatica_anolis.html#contexto-biologico",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
-    "section": "4 Contexto biologico",
-    "text": "4 Contexto biologico\nAlgunas especies de Anolis pueden permanecer sumergidas y volver a inspirar aire debajo del agua desde una burbuja alrededor del hocico. Eso comportamiento da una ventaja para permanecer sumergidos por mas tiempo, y evitar depredadores. Pero no es claro si se trata de un comportamiento ancestral que se ha mantenido en unos linajes, o si se ha originado varias veces de forma independiente.\nSu grupo es un equipo de investigadores que quiere resolver esta pregunta, y han recolectado tres tipos de evidencia: comportamiento, fisiologia, y distribucion filogenetica. Analicen cada bloque de evidencia y decidan que hipotesis recibe mas apoyo.\n\n\n\nAnolis sumergido con burbuja de aire\n\n\nDetalles en el articulo original: https://www.sciencedirect.com/science/article/pii/S0960982221005753"
+    "objectID": "worksheets/w02-evidence.html#parte-1.-evidencias-disponibles",
+    "href": "worksheets/w02-evidence.html#parte-1.-evidencias-disponibles",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "4 Parte 1. Evidencias disponibles",
+    "text": "4 Parte 1. Evidencias disponibles\nLean las siguientes evidencias. Para cada una, identifiquen qué tipo de evidencia representa.\nTipos posibles de evidencia:\n\nRegistro fósil\nAnatomía comparada\nBiogeografía\nBiología molecular\nEmbriología comparada\nEvolución observada directamente\n\n\n\n\n\n\n\n\n\nEvidencia\nTipo de evidencia\n¿Qué sugiere?\n\n\n\n\n1. La Especie A y la Especie B tienen una estructura ósea muy similar en las patas delanteras, aunque las usan de manera diferente.\n\n\n\n\n2. La Especie C y la Especie D vuelan, pero sus alas tienen estructuras internas muy distintas.\n\n\n\n\n3. El ADN de la Especie A y la Especie B es mucho más similar entre sí que al ADN de las especies C y D.\n\n\n\n\n4. En rocas antiguas de la isla se encontraron fósiles de un mamífero pequeño con rasgos intermedios entre la Especie A y la Especie B.\n\n\n\n\n5. Las especies A y B solo viven en Isla Verde, pero sus parientes más cercanos conocidos viven en el continente cercano.\n\n\n\n\n6. En los últimos 20 años, una población de insectos de la isla se volvió resistente a un pesticida usado en cultivos locales."
   },
   {
-    "objectID": "worksheets/worksheet_respiracion_subacuatica_anolis.html#evidencia-1-observacion-del-comportamiento",
-    "href": "worksheets/worksheet_respiracion_subacuatica_anolis.html#evidencia-1-observacion-del-comportamiento",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
-    "section": "5 Evidencia 1: observacion del comportamiento",
-    "text": "5 Evidencia 1: observacion del comportamiento\nEnsayo de comportamiento:\n\nSe realizaron pruebas de submersion en 32 especies de Anolis y 4 lagartijas no anolis.\nLas especies semi-acuaticas mostraron re-inspiracion, por lo menos una vez, con mayor frecuencia que las especies no acuaticas.\nLas especies semi-acuaticas tambien mostraron re-inspiracion sostenida en mas ensayos. La re-inspiracion sostenida se define como la capacidad de mantener la burbuja de aire para hacer varias respiraciones consecutivas.\n\n\n5.1 Interpretacion del comportamiento\n\nQue te permite inferir esta observacion sobre la funcion y distribucion del comportamiento a lo largo de las especies?\n\n\nCon solo esta evidencia, cual hipotesis recibe mas apoyo: A, B, o aun no se puede decidir? Expliquen brevemente."
+    "objectID": "worksheets/w02-evidence.html#parte-2.-homología-analogía-y-ancestro-común",
+    "href": "worksheets/w02-evidence.html#parte-2.-homología-analogía-y-ancestro-común",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "5 Parte 2. Homología, analogía y ancestro común",
+    "text": "5 Parte 2. Homología, analogía y ancestro común\nLas especies A y B tienen patas delanteras con una estructura ósea similar, pero las usan de forma diferente.\n¿Esta similitud es más probablemente una homología o una analogía? Justifiquen.\nLas especies C y D tienen alas y pueden volar, pero sus alas tienen estructuras internas muy diferentes.\n¿Esta similitud es más probablemente una homología o una analogía? Justifiquen.\n¿Qué diferencia hay entre decir que dos especies son similares por ancestro común y decir que son similares por adaptación a una función parecida?"
   },
   {
-    "objectID": "worksheets/worksheet_respiracion_subacuatica_anolis.html#evidencia-2-dinamica-del-oxigeno-en-la-burbuja",
-    "href": "worksheets/worksheet_respiracion_subacuatica_anolis.html#evidencia-2-dinamica-del-oxigeno-en-la-burbuja",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
-    "section": "6 Evidencia 2: dinamica del oxigeno en la burbuja",
-    "text": "6 Evidencia 2: dinamica del oxigeno en la burbuja\nResultado fisiologico:\n\nEl pO2 de la burbuja de re-inspiracion inicia parecido al aire ambiente y disminuye de forma monotona durante la prueba.\n\n\n\n\nDisminucion del pO2 en la burbuja de re-inspiracion\n\n\n\n6.1 Interpretacion fisiologica\n\nQue sugiere este patron sobre la funcion respiratoria de la burbuja?\n\n\nEsta evidencia favorece mas a la hipotesis A, a la B, o no distingue bien entre ambas? Justifiquen."
+    "objectID": "worksheets/w02-evidence.html#parte-3.-inferencia-evolutiva",
+    "href": "worksheets/w02-evidence.html#parte-3.-inferencia-evolutiva",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "6 Parte 3. Inferencia evolutiva",
+    "text": "6 Parte 3. Inferencia evolutiva\nCon base en todas las evidencias, respondan:\n¿Cuáles dos especies parecen estar más cercanamente relacionadas?\n¿Cuáles son las dos evidencias más fuertes que apoyan esa conclusión?\nConstruyan un esquema simple de relaciones evolutivas entre las cuatro especies. No tiene que ser un árbol formal; puede ser un diagrama sencillo."
   },
   {
-    "objectID": "worksheets/worksheet_respiracion_subacuatica_anolis.html#evidencia-3-distribucion-filogenetica-del-comportamiento",
-    "href": "worksheets/worksheet_respiracion_subacuatica_anolis.html#evidencia-3-distribucion-filogenetica-del-comportamiento",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
-    "section": "7 Evidencia 3: distribucion filogenetica del comportamiento",
-    "text": "7 Evidencia 3: distribucion filogenetica del comportamiento\nPatron evolutivo:\n\n\n\nArbol filogenetico con re-inspiracion en anolis semi-acuaticos\n\n\n\n7.1 Interpretacion evolutiva\n\nQue patron observan en la distribucion de las especies con re-inspiracion sostenida?\n\n\nCual hipotesis recibe mas apoyo con esta evidencia, A o B? Expliquen por que.\n\n\nEsta evidencia sugiere un origen unico, varios origenes independientes, o aun falta informacion? Justifiquen."
+    "objectID": "worksheets/w02-evidence.html#parte-4.-variación-y-evolución-observada",
+    "href": "worksheets/w02-evidence.html#parte-4.-variación-y-evolución-observada",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "7 Parte 4. Variación y evolución observada",
+    "text": "7 Parte 4. Variación y evolución observada\nRecuerden el mapa conceptual básico:\n\nVariación heredable → diferencias en aptitud → cambio en la composición de la población entre generaciones\n\nEn el caso de los insectos resistentes al pesticida, ¿cuál podría ser la variación heredable inicial?\n¿Por qué el pesticida no “crea” directamente la resistencia, sino que cambia la frecuencia de individuos resistentes en la población?\n¿Este ejemplo representa cambio individual o cambio poblacional? Expliquen."
   },
   {
-    "objectID": "worksheets/worksheet_respiracion_subacuatica_anolis.html#sintesis",
-    "href": "worksheets/worksheet_respiracion_subacuatica_anolis.html#sintesis",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
-    "section": "8 Sintesis",
-    "text": "8 Sintesis\nCompleten la tabla con un juicio breve para cada evidencia.\nEscala: ++ (apoyo fuerte), + (apoyo moderado), 0 (neutral), - (debilita).\n\n\n\nEvidencia\nHipotesis A\nHipotesis B\nJustificacion corta\n\n\n\n\nObservacion del comportamiento\n\n\n\n\n\nDisminucion del pO2 en la burbuja\n\n\n\n\n\nDistribucion en el arbol filogenetico\n\n\n\n\n\n\n\nCual hipotesis recibe mayor apoyo global con la evidencia disponible?\n\n\nEscriban una conclusion breve (2-3 oraciones), incluyendo una nota de incertidumbre."
+    "objectID": "worksheets/w02-evidence.html#parte-5.-síntesis",
+    "href": "worksheets/w02-evidence.html#parte-5.-síntesis",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "8 Parte 5. Síntesis",
+    "text": "8 Parte 5. Síntesis\n¿Por qué es más fuerte una explicación evolutiva cuando diferentes tipos de evidencia apoyan la misma conclusión?"
+  },
+  {
+    "objectID": "worksheets/w02-evidence.html#cierre-para-discusión-en-clase",
+    "href": "worksheets/w02-evidence.html#cierre-para-discusión-en-clase",
+    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "section": "9 Cierre para discusión en clase",
+    "text": "9 Cierre para discusión en clase\nCada grupo debe estar preparado para compartir brevemente:\n\nQué especies consideran más cercanamente relacionadas.\nQué evidencia usaron para justificarlo.\nUn ejemplo de homología y uno de analogía en el escenario.\nPor qué la evolución observada directamente es evidencia importante."
   },
   {
     "objectID": "lectures/03-methods.html#metas",
@@ -74,7 +109,7 @@
     "href": "lectures/03-methods.html#ser-capaces-de",
     "title": "Como estudiamos la evolución",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nformular preguntas evolutivas\nproponer hipótesis evolutivas alternativas\nderivar predicciones de hipótesis\nentender suposiciones de estudios evolutivos\ninterpretar evidencia evolutiva\ncomparar hipótesis evolutivas\nreconocer límites de evidencia evolutiva"
+    "text": "Ser capaces de\n\nformular preguntas evolutivas\nproponer hipótesis evolutivas alternativas\nderivar predicciones de hipótesis\nentender suposiciones de estudios evolutivos\ninterpretar evidencia evolutiva\ncomparar hipótesis evolutivas\nreconocer límites de evidencia evolutiva"
   },
   {
     "objectID": "lectures/03-methods.html#observación-vs-explicación",
@@ -102,7 +137,7 @@
     "href": "lectures/03-methods.html#explicación-1-azar-1",
     "title": "Como estudiamos la evolución",
     "section": "Explicación 1: Azar",
-    "text": "Explicación 1: Azar\nHipótesis:\n\nEl cambio se debe a procesos aleatorios que resultan en un cambio en la frecuencia de variantes en la población.\n\n\nPredicción:\n\n\nNo debería existir una relación consistente entre tamaño del pico y tamaño de las semillas. (Ecología, Recursos)\nNo debería existir una relación consistente entre tamaño del pico y supervivencia. (Aptitud, Selección Natural)\nEl cambio podría ocurrir incluso sin cambios en los recursos disponibles. (Ecología, Recursos)"
+    "text": "Explicación 1: Azar\nHipótesis:\n\nEl cambio se debe a procesos aleatorios que resultan en un cambio en la frecuencia de variantes en la población.\n\n\nPredicción:\n\nNo debería existir una relación consistente entre tamaño del pico y tamaño de las semillas. (Ecología, Recursos)\nNo debería existir una relación consistente entre tamaño del pico y supervivencia. (Aptitud, Selección Natural)\nEl cambio podría ocurrir incluso sin cambios en los recursos disponibles. (Ecología, Recursos)"
   },
   {
     "objectID": "lectures/03-methods.html#explicación-2-adaptación-a-la-dieta",
@@ -116,14 +151,14 @@
     "href": "lectures/03-methods.html#explicación-2-adaptación-a-la-dieta-1",
     "title": "Como estudiamos la evolución",
     "section": "Explicación 2: Adaptación a la dieta",
-    "text": "Explicación 2: Adaptación a la dieta\nHipótesis:\n\nEl cambio se debe a que individuos con picos más grandes sobrevivieron y se reprodujeron más durante la sequía.\n\n\nPredicción:\n\n\nDebería existir una relación entre tamaño del pico y tamaño de las semillas disponibles. (Ecología, Recursos)\nDebería existir una relación consistente entre el tamaño del pico y la dieta. (Ecología, Recursos)\nParte de la variación en el tamaño del pico debería ser heredable. (Genética)\nEl tamaño promedio del pico debería aumentar generación tras generación. (Aptitud, Selección Natural)\nLos individuos con picos más grandes deberían sobrevivir más frecuentemente. (Aptitud, Selección Natural)"
+    "text": "Explicación 2: Adaptación a la dieta\nHipótesis:\n\nEl cambio se debe a que individuos con picos más grandes sobrevivieron y se reprodujeron más durante la sequía.\n\n\nPredicción:\n\nDebería existir una relación entre tamaño del pico y tamaño de las semillas disponibles. (Ecología, Recursos)\nDebería existir una relación consistente entre el tamaño del pico y la dieta. (Ecología, Recursos)\nParte de la variación en el tamaño del pico debería ser heredable. (Genética)\nEl tamaño promedio del pico debería aumentar generación tras generación. (Aptitud, Selección Natural)\nLos individuos con picos más grandes deberían sobrevivir más frecuentemente. (Aptitud, Selección Natural)"
   },
   {
     "objectID": "lectures/03-methods.html#comparación-de-hipótesis",
     "href": "lectures/03-methods.html#comparación-de-hipótesis",
     "title": "Como estudiamos la evolución",
     "section": "Comparación de hipótesis",
-    "text": "Comparación de hipótesis\n¿Qué datos serían útiles para distinguir entre estas explicaciones?\n\n\nTamaño de pico\nTamaño de semillas\nDieta\nSupervivencia\nNúmero de hijos\nHerencia padres–hijos\nCambios en la población a través del tiempo"
+    "text": "Comparación de hipótesis\n¿Qué datos serían útiles para distinguir entre estas explicaciones?\n\nTamaño de pico\nTamaño de semillas\nDieta\nSupervivencia\nNúmero de hijos\nHerencia padres–hijos\nCambios en la población a través del tiempo"
   },
   {
     "objectID": "lectures/03-methods.html#picos-y-semillas",
@@ -186,14 +221,14 @@
     "href": "lectures/03-methods.html#más-allá-de-los-pinzones",
     "title": "Como estudiamos la evolución",
     "section": "Más allá de los pinzones",
-    "text": "Más allá de los pinzones\nEste ejemplo usa pinzones, pero la lógica aplica a cualquier rasgo en cualquier población:\n\n\nResistencia a antibióticos en bacterias → variación en el rasgo (tolerancia), heredable (mutación), relación con sobrevivencia (antibiótico como agente selectivo)\nCamuflaje en polillas → color del ala, heredable, depredadores como agente selectivo\nTolerancia a metales en plantas → plantas en suelos contaminados, variación heredable en tolerancia, metales como filtro selectivo\nCualquier rasgo morfológico, fisiológico o de comportamiento en cualquier especie\n\n\n\n\nLa pregunta siempre es la misma: ¿hay variación heredable en el rasgo, y esa variación afecta la reproducción o sobrevivencia?"
+    "text": "Más allá de los pinzones\nEste ejemplo usa pinzones, pero la lógica aplica a cualquier rasgo en cualquier población:\n\nResistencia a antibióticos en bacterias → variación en el rasgo (tolerancia), heredable (mutación), relación con sobrevivencia (antibiótico como agente selectivo)\nCamuflaje en polillas → color del ala, heredable, depredadores como agente selectivo\nTolerancia a metales en plantas → plantas en suelos contaminados, variación heredable en tolerancia, metales como filtro selectivo\nCualquier rasgo morfológico, fisiológico o de comportamiento en cualquier especie\n\n\n\nLa pregunta siempre es la misma: ¿hay variación heredable en el rasgo, y esa variación afecta la reproducción o sobrevivencia?"
   },
   {
     "objectID": "lectures/03-methods.html#se-puede-estudiar-el-pasado",
     "href": "lectures/03-methods.html#se-puede-estudiar-el-pasado",
     "title": "Como estudiamos la evolución",
     "section": "¿Se puede estudiar el pasado?",
-    "text": "¿Se puede estudiar el pasado?\n\n\nAstronomía: ¿cómo se formaron las galaxias?\nGeología: ¿cómo se formaron las montañas?\nBiología evolutiva: ¿cuándo divergieron estas especies?\n\n\n\n\nNo podemos repetir el pasado en el laboratorio.\nPero podemos inferirlo a partir de evidencia presente."
+    "text": "¿Se puede estudiar el pasado?\n\nAstronomía: ¿cómo se formaron las galaxias?\nGeología: ¿cómo se formaron las montañas?\nBiología evolutiva: ¿cuándo divergieron estas especies?\n\n\n\nNo podemos repetir el pasado en el laboratorio.\nPero podemos inferirlo a partir de evidencia presente."
   },
   {
     "objectID": "lectures/03-methods.html#la-ciencia-histórica-también-usa-hipótesis",
@@ -228,28 +263,28 @@
     "href": "lectures/03-methods.html#evidencia-tres-fuentes-independientes",
     "title": "Como estudiamos la evolución",
     "section": "Evidencia: tres fuentes independientes",
-    "text": "Evidencia: tres fuentes independientes\n\n\n\n\nFósil clave del clado X datado por C¹⁴:\n12 650 ± 150 años AP (rango: 12 500–12 800)\nSedimentos del Lago Y datados por C¹⁴:\n12 250 ± 150 años AP (rango: 12 100–12 400)\nFilogenia molecular de varios loci:\nEdad estimada del clado: 12 500 años AP (rango: 11 800–13 200)"
+    "text": "Evidencia: tres fuentes independientes\n\n\n\nFósil clave del clado X datado por C¹⁴:\n12 650 ± 150 años AP (rango: 12 500–12 800)\nSedimentos del Lago Y datados por C¹⁴:\n12 250 ± 150 años AP (rango: 12 100–12 400)\nFilogenia molecular de varios loci:\nEdad estimada del clado: 12 500 años AP (rango: 11 800–13 200)"
   },
   {
     "objectID": "lectures/03-methods.html#suposiciones-de-cada-método",
     "href": "lectures/03-methods.html#suposiciones-de-cada-método",
     "title": "Como estudiamos la evolución",
     "section": "Suposiciones de cada método",
-    "text": "Suposiciones de cada método\nCada método descansa en suposiciones que pueden no cumplirse perfectamente:\n\n\nDatación C¹⁴ asume:\n\nla tasa de desintegración del carbono-14 es constante\nel sistema estuvo cerrado después de la muerte (sin intercambio de carbono)\n\nFilogenia molecular asume:\n\nlas tasas de sustitución de ADN son relativamente constantes a lo largo del tiempo (reloj molecular)\nel modelo de evolución molecular elegido es correcto\n\nRegistro fósil asume:\n\nlos fósiles encontrados son representativos de los organismos que existieron\nla ausencia de fósiles más antiguos no implica que no existieran\n\n\n\n\n\nSi las suposiciones no se cumplen, las estimaciones pueden estar sesgadas.\nPor eso integramos múltiples métodos independientes."
+    "text": "Suposiciones de cada método\nCada método descansa en suposiciones que pueden no cumplirse perfectamente:\n\nDatación C¹⁴ asume:\n\nla tasa de desintegración del carbono-14 es constante\nel sistema estuvo cerrado después de la muerte (sin intercambio de carbono)\n\nFilogenia molecular asume:\n\nlas tasas de sustitución de ADN son relativamente constantes a lo largo del tiempo (reloj molecular)\nel modelo de evolución molecular elegido es correcto\n\nRegistro fósil asume:\n\nlos fósiles encontrados son representativos de los organismos que existieron\nla ausencia de fósiles más antiguos no implica que no existieran\n\n\n\n\nSi las suposiciones no se cumplen, las estimaciones pueden estar sesgadas.\nPor eso integramos múltiples métodos independientes."
   },
   {
     "objectID": "lectures/03-methods.html#límites-e-incertidumbre",
     "href": "lectures/03-methods.html#límites-e-incertidumbre",
     "title": "Como estudiamos la evolución",
     "section": "Límites e incertidumbre",
-    "text": "Límites e incertidumbre\n\n\nCada fuente de evidencia tiene límites:\n\n\nEl registro fósil es incompleto → el fósil más antiguo conocido no es necesariamente el primero que existió.\nLas dataciones tienen error → ±150 años en este caso; no son valores exactos.\nLas reconstrucciones filogenéticas son estimaciones → reflejan incertidumbre estadística.\n\n\n\n\n\nPor eso los científicos reportan intervalos, no valores puntuales.\nTrabajamos con incertidumbre cuantificada, no la ignoramos."
+    "text": "Límites e incertidumbre\n\n\nCada fuente de evidencia tiene límites:\n\nEl registro fósil es incompleto → el fósil más antiguo conocido no es necesariamente el primero que existió.\nLas dataciones tienen error → ±150 años en este caso; no son valores exactos.\nLas reconstrucciones filogenéticas son estimaciones → reflejan incertidumbre estadística.\n\n\n\n\nPor eso los científicos reportan intervalos, no valores puntuales.\nTrabajamos con incertidumbre cuantificada, no la ignoramos."
   },
   {
     "objectID": "lectures/03-methods.html#comparación-de-hipótesis-1",
     "href": "lectures/03-methods.html#comparación-de-hipótesis-1",
     "title": "Como estudiamos la evolución",
     "section": "Comparación de hipótesis",
-    "text": "Comparación de hipótesis\n\n\nConsistencia con H₁ (clado más antiguo)\n\n\nEl fósil (12 500–12 800) es anterior al rango del lago (12 100–12 400)\nEl origen filogenético (11 800–13 200) incluye edades anteriores al lago\n\n\n\nConsistencia con H₂ (clado más joven)\n\n\nEl fósil no es posterior al lago\nEl origen filogenético no está claramente después del lago\n\n\n\n\n\nLos datos son más consistentes con H₁.\nLa evidencia favorece una hipótesis, pero rara vez la prueba de forma absoluta."
+    "text": "Comparación de hipótesis\n\n\nConsistencia con H₁ (clado más antiguo)\n\nEl fósil (12 500–12 800) es anterior al rango del lago (12 100–12 400)\nEl origen filogenético (11 800–13 200) incluye edades anteriores al lago\n\n\nConsistencia con H₂ (clado más joven)\n\nEl fósil no es posterior al lago\nEl origen filogenético no está claramente después del lago\n\n\n\n\nLos datos son más consistentes con H₁.\nLa evidencia favorece una hipótesis, pero rara vez la prueba de forma absoluta."
   },
   {
     "objectID": "lectures/03-methods.html#inferencia-y-conclusión-provisional",
@@ -263,14 +298,14 @@
     "href": "lectures/03-methods.html#resumen-inferencia-histórica-con-incertidumbre",
     "title": "Como estudiamos la evolución",
     "section": "Resumen: inferencia histórica con incertidumbre",
-    "text": "Resumen: inferencia histórica con incertidumbre\n\n\nLos biólogos evolutivos estudian el pasado mediante inferencia, no experimentos directos.\nUsamos el mismo marco lógico: pregunta → hipótesis → predicciones → evidencia → comparación.\nToda evidencia histórica tiene límites cuantificables: registro incompleto, error en dataciones, incertidumbre estadística.\nReportamos intervalos, no certezas.\nAun con incertidumbre, podemos hacer inferencias bien fundamentadas integrando múltiples líneas de evidencia."
+    "text": "Resumen: inferencia histórica con incertidumbre\n\nLos biólogos evolutivos estudian el pasado mediante inferencia, no experimentos directos.\nUsamos el mismo marco lógico: pregunta → hipótesis → predicciones → evidencia → comparación.\nToda evidencia histórica tiene límites cuantificables: registro incompleto, error en dataciones, incertidumbre estadística.\nReportamos intervalos, no certezas.\nAun con incertidumbre, podemos hacer inferencias bien fundamentadas integrando múltiples líneas de evidencia."
   },
   {
     "objectID": "lectures/03-methods.html#más-allá-del-clado-y-el-lago",
     "href": "lectures/03-methods.html#más-allá-del-clado-y-el-lago",
     "title": "Como estudiamos la evolución",
     "section": "Más allá del clado y el lago",
-    "text": "Más allá del clado y el lago\nEste ejemplo usa un grupo de especies y un lago, pero la misma lógica aplica a muchos contextos:\n\n\nBiogeografía de islas → ¿el grupo colonizó la isla antes o después del aislamiento geográfico?\nVirus en un nuevo huésped → ¿el linaje viral es anterior o posterior al primer contacto con esa especie?\nDiversificación en montañas → ¿el clado se originó antes o después del levantamiento de la cordillera?\nOrigen de una enfermedad → ¿cuándo divergió el patógeno de su ancestro común con una cepa conocida?\n\n\n\n\nEn todos los casos: usamos fósiles, filogenias y dataciones para inferir el pasado, reconociendo las suposiciones y los límites de cada método."
+    "text": "Más allá del clado y el lago\nEste ejemplo usa un grupo de especies y un lago, pero la misma lógica aplica a muchos contextos:\n\nBiogeografía de islas → ¿el grupo colonizó la isla antes o después del aislamiento geográfico?\nVirus en un nuevo huésped → ¿el linaje viral es anterior o posterior al primer contacto con esa especie?\nDiversificación en montañas → ¿el clado se originó antes o después del levantamiento de la cordillera?\nOrigen de una enfermedad → ¿cuándo divergió el patógeno de su ancestro común con una cepa conocida?\n\n\n\nEn todos los casos: usamos fósiles, filogenias y dataciones para inferir el pasado, reconociendo las suposiciones y los límites de cada método."
   },
   {
     "objectID": "lectures/01-variation-and-populations.html#metas",
@@ -284,14 +319,14 @@
     "href": "lectures/01-variation-and-populations.html#ser-capaces-de",
     "title": "Variación biológica y pensamiento poblacional",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nDefinir evolución como cambio en poblaciones a lo largo de generaciones.\nDistinguir cambios en individuos de cambios en poblaciones.\nExplicar por qué la variación entre individuos es importante.\nReconocer que la aptitud depende del entorno.\nIdentificar errores comunes:\n\nlos individuos no evolucionan.\nlos organismos no evolucionan porque “necesitan” rasgos.\nla evolución no está dirigida hacia una meta."
+    "text": "Ser capaces de\n\nDefinir evolución como cambio en poblaciones a lo largo de generaciones.\nDistinguir cambios en individuos de cambios en poblaciones.\nExplicar por qué la variación entre individuos es importante.\nReconocer que la aptitud depende del entorno.\nIdentificar errores comunes:\n\nlos individuos no evolucionan.\nlos organismos no evolucionan porque “necesitan” rasgos.\nla evolución no está dirigida hacia una meta."
   },
   {
     "objectID": "lectures/01-variation-and-populations.html#variacion-adentro-y-entre-especies",
     "href": "lectures/01-variation-and-populations.html#variacion-adentro-y-entre-especies",
     "title": "Variación biológica y pensamiento poblacional",
     "section": "Variacion adentro y entre especies",
-    "text": "Variacion adentro y entre especies\n\n\nLa variacion es lo normal en la biologia\nNo existen especies ni poblaciones perfectamente uniformes\nLa variacion es la materia prima (raw material?) para la evolucion\nPero no toda variacion es hereditaria (genetica)\nLa variacion no hereditaria no contribuye a la evolucion"
+    "text": "Variacion adentro y entre especies\n\nLa variacion es lo normal en la biologia\nNo existen especies ni poblaciones perfectamente uniformes\nLa variacion es la materia prima (raw material?) para la evolucion\nPero no toda variacion es hereditaria (genetica)\nLa variacion no hereditaria no contribuye a la evolucion"
   },
   {
     "objectID": "lectures/01-variation-and-populations.html#que-es-lo-que-varia",
@@ -375,7 +410,7 @@
     "href": "lectures/01-variation-and-populations.html#ejemplos-1",
     "title": "Variación biológica y pensamiento poblacional",
     "section": "Ejemplos",
-    "text": "Ejemplos\n\n\n\nEscala de tiempo: horas, dias, semanas — no generaciones.\nEjemplos:\n\nProduccion de globulos rojos a mayor altitud (dias a semanas).\nPigmentacion de la piel por exposicion solar (horas a dias).\nRespuesta al calor: produccion de proteinas de choque termico (minutos a horas).\nCambio de pelaje estacional en mamiferos (semanas)."
+    "text": "Ejemplos\n\n\nEscala de tiempo: horas, dias, semanas — no generaciones.\nEjemplos:\n\nProduccion de globulos rojos a mayor altitud (dias a semanas).\nPigmentacion de la piel por exposicion solar (horas a dias).\nRespuesta al calor: produccion de proteinas de choque termico (minutos a horas).\nCambio de pelaje estacional en mamiferos (semanas)."
   },
   {
     "objectID": "lectures/01-variation-and-populations.html#aclimatacion-vs-evolucion",
@@ -557,7 +592,7 @@
     "href": "lectures/02-evidence.html#ser-capaces-de",
     "title": "Evidencia de la evolución",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nExplicar cómo el registro fósil documenta cambios en la biodiversidad a lo largo del tiempo y constituye evidencia de descendencia con modificación.\nInterpretar similitudes y diferencias anatómicas entre organismos como evidencia de ancestro común y adaptación a distintas funciones.\nExplicar cómo la distribución geográfica de los organismos refleja procesos evolutivos, historia geológica y aislamiento poblacional.\nInterpretar similitudes en ADN y proteínas como evidencia de parentesco evolutivo y ancestro común.\nExplicar cómo la evolución puede observarse y medirse en poblaciones contemporáneas.\nIntegrar múltiples líneas independientes de evidencia para sustentar la teoría evolutiva como explicación científica de la diversidad biológica."
+    "text": "Ser capaces de\n\nExplicar cómo el registro fósil documenta cambios en la biodiversidad a lo largo del tiempo y constituye evidencia de descendencia con modificación.\nInterpretar similitudes y diferencias anatómicas entre organismos como evidencia de ancestro común y adaptación a distintas funciones.\nExplicar cómo la distribución geográfica de los organismos refleja procesos evolutivos, historia geológica y aislamiento poblacional.\nInterpretar similitudes en ADN y proteínas como evidencia de parentesco evolutivo y ancestro común.\nExplicar cómo la evolución puede observarse y medirse en poblaciones contemporáneas.\nIntegrar múltiples líneas independientes de evidencia para sustentar la teoría evolutiva como explicación científica de la diversidad biológica."
   },
   {
     "objectID": "lectures/02-evidence.html#el-registro-fósil-muestra-una-secuencia-temporal",
@@ -578,7 +613,7 @@
     "href": "lectures/02-evidence.html#características-transicionales",
     "title": "Evidencia de la evolución",
     "section": "Características transicionales",
-    "text": "Características transicionales\n\n“Transicional” no significa “a medio formar”\n\n\n\ncombinaciones de rasgos ancestrales y derivados,\nconectan grupos mayores a través del tiempo,\nTiktaalik, Archaeopteryx, y los ancestros de las ballenas son ejemplos clásicos."
+    "text": "Características transicionales\n\n“Transicional” no significa “a medio formar”\n\n\ncombinaciones de rasgos ancestrales y derivados,\nconectan grupos mayores a través del tiempo,\nTiktaalik, Archaeopteryx, y los ancestros de las ballenas son ejemplos clásicos."
   },
   {
     "objectID": "lectures/02-evidence.html#tiktaalik",
@@ -599,7 +634,7 @@
     "href": "lectures/02-evidence.html#el-registro-fósil-es-consistente-con-descendencia-con-modificación",
     "title": "Evidencia de la evolución",
     "section": "El registro fósil es consistente con descendencia con modificación",
-    "text": "El registro fósil es consistente con descendencia con modificación\n\n\nlos organismos aparecen en orden temporal,\nlos grupos relacionados aparecen cerca entre sí en el tiempo,\nlas características transicionales conectan los grandes grupos,\nla extinción y la diversificación ocurren repetidamente."
+    "text": "El registro fósil es consistente con descendencia con modificación\n\nlos organismos aparecen en orden temporal,\nlos grupos relacionados aparecen cerca entre sí en el tiempo,\nlas características transicionales conectan los grandes grupos,\nla extinción y la diversificación ocurren repetidamente."
   },
   {
     "objectID": "lectures/02-evidence.html#el-registro-fósil-es-incompleto",
@@ -613,7 +648,7 @@
     "href": "lectures/02-evidence.html#mitos-sobre-el-registro-fósil",
     "title": "Evidencia de la evolución",
     "section": "Mitos sobre el registro fósil",
-    "text": "Mitos sobre el registro fósil\n\n\nLos fósiles son solo huesos y conchas\nLos “missing links” en el registro fósil desmienten la evolución\nCada fósil encontrado es un ancestro directo de una especie moderna\nLa evolución es lineal y en forma de escalera\nLos fósiles más antiguos son inherentemente “menos evolucionados” o primitivos"
+    "text": "Mitos sobre el registro fósil\n\nLos fósiles son solo huesos y conchas\nLos “missing links” en el registro fósil desmienten la evolución\nCada fósil encontrado es un ancestro directo de una especie moderna\nLa evolución es lineal y en forma de escalera\nLos fósiles más antiguos son inherentemente “menos evolucionados” o primitivos"
   },
   {
     "objectID": "lectures/02-evidence.html#resumen",
@@ -669,7 +704,7 @@
     "href": "lectures/02-evidence.html#resumen-qué-predice-la-evolución",
     "title": "Evidencia de la evolución",
     "section": "Resumen: ¿Qué predice la evolución?",
-    "text": "Resumen: ¿Qué predice la evolución?\nSi las especies comparten un ancestro común, debemos observar:\n\n\nsimilitudes anidadas\nestructuras homólogas\nestructuras vestigiales\nevolución convergente bajo ambientes similares\n\n\n\n\nY eso es exactamente lo que observamos."
+    "text": "Resumen: ¿Qué predice la evolución?\nSi las especies comparten un ancestro común, debemos observar:\n\nsimilitudes anidadas\nestructuras homólogas\nestructuras vestigiales\nevolución convergente bajo ambientes similares\n\n\n\nY eso es exactamente lo que observamos."
   },
   {
     "objectID": "lectures/02-evidence.html#la-historia-geológica",
@@ -690,14 +725,14 @@
     "href": "lectures/02-evidence.html#definiciones",
     "title": "Evidencia de la evolución",
     "section": "Definiciones",
-    "text": "Definiciones\n\n\nDispersión: una población coloniza una nueva región al cruzar una barrera geográfica.\nAislamiento: el flujo génico entre poblaciones se reduce o se corta, permitiendo divergencia evolutiva.\nVicariancia: una barrera geográfica divide una población ancestral y separa sus descendientes."
+    "text": "Definiciones\n\nDispersión: una población coloniza una nueva región al cruzar una barrera geográfica.\nAislamiento: el flujo génico entre poblaciones se reduce o se corta, permitiendo divergencia evolutiva.\nVicariancia: una barrera geográfica divide una población ancestral y separa sus descendientes."
   },
   {
     "objectID": "lectures/02-evidence.html#las-islas-son-laboratorios-evolutivos",
     "href": "lectures/02-evidence.html#las-islas-son-laboratorios-evolutivos",
     "title": "Evidencia de la evolución",
     "section": "Las islas son laboratorios evolutivos",
-    "text": "Las islas son laboratorios evolutivos\n\n\nCaracterísticas:\n\n\naisladas\npequeñas poblaciones fundadoras\nflujo génico limitado\nnuevas oportunidades ecológicas\n\n\n\n\nEjemplos:\n\nGalápagos\nHawaii\nMadagascar\n\n\n\n\n\nEl aislamiento promueve la divergencia."
+    "text": "Las islas son laboratorios evolutivos\n\n\nCaracterísticas:\n\naisladas\npequeñas poblaciones fundadoras\nflujo génico limitado\nnuevas oportunidades ecológicas\n\n\n\nEjemplos:\n\nGalápagos\nHawaii\nMadagascar\n\n\n\n\n\nEl aislamiento promueve la divergencia."
   },
   {
     "objectID": "lectures/02-evidence.html#galápagos",
@@ -718,7 +753,7 @@
     "href": "lectures/02-evidence.html#resumen-qué-predice-la-evolución-1",
     "title": "Evidencia de la evolución",
     "section": "Resumen: ¿Qué predice la evolución?",
-    "text": "Resumen: ¿Qué predice la evolución?\nSi las especies comparten un ancestro común y las poblaciones se aíslan, deberíamos observar:\n\n\nparientes geográficamente agrupados\nfloras y faunas insulares únicas\nradiaciones adaptativas\nefectos de la historia geológica\nevolución convergente en ambientes similares\n\n\n\n\nY eso es exactamente lo que observamos."
+    "text": "Resumen: ¿Qué predice la evolución?\nSi las especies comparten un ancestro común y las poblaciones se aíslan, deberíamos observar:\n\nparientes geográficamente agrupados\nfloras y faunas insulares únicas\nradiaciones adaptativas\nefectos de la historia geológica\nevolución convergente en ambientes similares\n\n\n\nY eso es exactamente lo que observamos."
   },
   {
     "objectID": "lectures/02-evidence.html#el-adn-guarda-historia-evolutiva",
@@ -732,7 +767,7 @@
     "href": "lectures/02-evidence.html#predicciones-de-ancestro-común",
     "title": "Evidencia de la evolución",
     "section": "Predicciones de ancestro común",
-    "text": "Predicciones de ancestro común\n\n\nespecies cercanas comparten más ADN,\nespecies lejanas comparten menos,\nel patrón genético debe coincidir con fósiles, anatomía y biogeografía."
+    "text": "Predicciones de ancestro común\n\nespecies cercanas comparten más ADN,\nespecies lejanas comparten menos,\nel patrón genético debe coincidir con fósiles, anatomía y biogeografía."
   },
   {
     "objectID": "lectures/02-evidence.html#código-genético-universal",
@@ -767,7 +802,7 @@
     "href": "lectures/02-evidence.html#resumen-qué-nos-dice-el-adn",
     "title": "Evidencia de la evolución",
     "section": "Resumen: ¿Qué nos dice el ADN?",
-    "text": "Resumen: ¿Qué nos dice el ADN?\n\n\ntodos los organismos usan maquinaria molecular compartida,\nespecies más cercanas comparten más información genética,\nel ADN conserva huellas de historia evolutiva,\nla evidencia molecular respalda de forma independiente el ancestro común.\n\n\n\n\nEl patrón importa más que un porcentaje exacto."
+    "text": "Resumen: ¿Qué nos dice el ADN?\n\ntodos los organismos usan maquinaria molecular compartida,\nespecies más cercanas comparten más información genética,\nel ADN conserva huellas de historia evolutiva,\nla evidencia molecular respalda de forma independiente el ancestro común.\n\n\n\nEl patrón importa más que un porcentaje exacto."
   },
   {
     "objectID": "lectures/02-evidence.html#qué-tendríamos-a-observar",
@@ -781,154 +816,84 @@
     "href": "lectures/02-evidence.html#resistencia-a-antibióticos",
     "title": "Evidencia de la evolución",
     "section": "Resistencia a antibióticos",
-    "text": "Resistencia a antibióticos\n\n\n\nel antibiotico no causa resistencia\nlas variantes resistentes ya existen en la población\nel antibiótico selecciona a los resistentes, que sobreviven y se reproducen mas\nresulando en cambio en la población a lo largo de generaciones"
+    "text": "Resistencia a antibióticos\n\n\nel antibiotico no causa resistencia\nlas variantes resistentes ya existen en la población\nel antibiótico selecciona a los resistentes, que sobreviven y se reproducen mas\nresulando en cambio en la población a lo largo de generaciones"
   },
   {
     "objectID": "lectures/02-evidence.html#pinzones-de-nuevo",
     "href": "lectures/02-evidence.html#pinzones-de-nuevo",
     "title": "Evidencia de la evolución",
     "section": "Pinzones de nuevo",
-    "text": "Pinzones de nuevo\n\n\n\ncambios en el ambiente (sequía) cambiaron la disponibilidad de alimentos\nlos pinzones con picos más grandes tenían ventaja\nlos picos más grandes se volvieron más comunes en la población"
+    "text": "Pinzones de nuevo\n\n\ncambios en el ambiente (sequía) cambiaron la disponibilidad de alimentos\nlos pinzones con picos más grandes tenían ventaja\nlos picos más grandes se volvieron más comunes en la población"
   },
   {
     "objectID": "lectures/02-evidence.html#experimentos-evolutivos",
     "href": "lectures/02-evidence.html#experimentos-evolutivos",
     "title": "Evidencia de la evolución",
     "section": "Experimentos evolutivos",
-    "text": "Experimentos evolutivos\n\n\n\nAdaptacion predicible y repetida\nEvolucion de nuevas funciones (ej: metabolizar citrato)"
-  },
-  {
-    "objectID": "worksheets/worksheet_evidencia_evolucion.html",
-    "href": "worksheets/worksheet_evidencia_evolucion.html",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "",
-    "text": "Al finalizar esta actividad, el grupo debería ser capaz de usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica."
-  },
-  {
-    "objectID": "worksheets/worksheet_evidencia_evolucion.html#objetivo-de-la-actividad",
-    "href": "worksheets/worksheet_evidencia_evolucion.html#objetivo-de-la-actividad",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "",
-    "text": "Al finalizar esta actividad, el grupo debería ser capaz de usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica."
-  },
-  {
-    "objectID": "worksheets/worksheet_evidencia_evolucion.html#instrucciones-generales",
-    "href": "worksheets/worksheet_evidencia_evolucion.html#instrucciones-generales",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "2 Instrucciones generales",
-    "text": "2 Instrucciones generales\nTrabajen en grupos de 4–6 personas. Lean el escenario y discutan cada pregunta antes de escribir la respuesta. No se espera una respuesta larga, pero sí una justificación clara."
-  },
-  {
-    "objectID": "worksheets/worksheet_evidencia_evolucion.html#escenario-isla-verde",
-    "href": "worksheets/worksheet_evidencia_evolucion.html#escenario-isla-verde",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "3 Escenario: Isla Verde",
-    "text": "3 Escenario: Isla Verde\nUn equipo de biólogos estudia una isla oceánica llamada Isla Verde. La isla está a unos 800 km del continente más cercano y tiene varios ambientes: bosque seco, bosque húmedo, costa rocosa y zonas abiertas.\nEn la isla se encuentran cuatro especies animales que parecen muy diferentes entre sí:\n\n\n\nEspecie\nDescripción breve\n\n\n\n\nEspecie A\nMamífero pequeño, terrestre, nocturno, con patas cortas\n\n\nEspecie B\nMamífero grande, terrestre, diurno, con patas largas\n\n\nEspecie C\nAnimal volador con alas membranosas\n\n\nEspecie D\nAnimal volador con alas rígidas cubiertas de plumas\n\n\n\nEl objetivo del grupo es usar la evidencia disponible para responder:\n\n¿Qué especies parecen estar más cercanamente relacionadas y qué tipo de evidencia apoya esa conclusión?"
-  },
-  {
-    "objectID": "worksheets/worksheet_evidencia_evolucion.html#parte-1.-evidencias-disponibles",
-    "href": "worksheets/worksheet_evidencia_evolucion.html#parte-1.-evidencias-disponibles",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "4 Parte 1. Evidencias disponibles",
-    "text": "4 Parte 1. Evidencias disponibles\nLean las siguientes evidencias. Para cada una, identifiquen qué tipo de evidencia representa.\nTipos posibles de evidencia:\n\nRegistro fósil\nAnatomía comparada\nBiogeografía\nBiología molecular\nEmbriología comparada\nEvolución observada directamente\n\n\n\n\n\n\n\n\n\nEvidencia\nTipo de evidencia\n¿Qué sugiere?\n\n\n\n\n1. La Especie A y la Especie B tienen una estructura ósea muy similar en las patas delanteras, aunque las usan de manera diferente.\n\n\n\n\n2. La Especie C y la Especie D vuelan, pero sus alas tienen estructuras internas muy distintas.\n\n\n\n\n3. El ADN de la Especie A y la Especie B es mucho más similar entre sí que al ADN de las especies C y D.\n\n\n\n\n4. En rocas antiguas de la isla se encontraron fósiles de un mamífero pequeño con rasgos intermedios entre la Especie A y la Especie B.\n\n\n\n\n5. Las especies A y B solo viven en Isla Verde, pero sus parientes más cercanos conocidos viven en el continente cercano.\n\n\n\n\n6. En los últimos 20 años, una población de insectos de la isla se volvió resistente a un pesticida usado en cultivos locales."
-  },
-  {
-    "objectID": "worksheets/worksheet_evidencia_evolucion.html#parte-2.-homología-analogía-y-ancestro-común",
-    "href": "worksheets/worksheet_evidencia_evolucion.html#parte-2.-homología-analogía-y-ancestro-común",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "5 Parte 2. Homología, analogía y ancestro común",
-    "text": "5 Parte 2. Homología, analogía y ancestro común\nLas especies A y B tienen patas delanteras con una estructura ósea similar, pero las usan de forma diferente.\n¿Esta similitud es más probablemente una homología o una analogía? Justifiquen.\nLas especies C y D tienen alas y pueden volar, pero sus alas tienen estructuras internas muy diferentes.\n¿Esta similitud es más probablemente una homología o una analogía? Justifiquen.\n¿Qué diferencia hay entre decir que dos especies son similares por ancestro común y decir que son similares por adaptación a una función parecida?"
-  },
-  {
-    "objectID": "worksheets/worksheet_evidencia_evolucion.html#parte-3.-inferencia-evolutiva",
-    "href": "worksheets/worksheet_evidencia_evolucion.html#parte-3.-inferencia-evolutiva",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "6 Parte 3. Inferencia evolutiva",
-    "text": "6 Parte 3. Inferencia evolutiva\nCon base en todas las evidencias, respondan:\n¿Cuáles dos especies parecen estar más cercanamente relacionadas?\n¿Cuáles son las dos evidencias más fuertes que apoyan esa conclusión?\nConstruyan un esquema simple de relaciones evolutivas entre las cuatro especies. No tiene que ser un árbol formal; puede ser un diagrama sencillo."
-  },
-  {
-    "objectID": "worksheets/worksheet_evidencia_evolucion.html#parte-4.-variación-y-evolución-observada",
-    "href": "worksheets/worksheet_evidencia_evolucion.html#parte-4.-variación-y-evolución-observada",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "7 Parte 4. Variación y evolución observada",
-    "text": "7 Parte 4. Variación y evolución observada\nRecuerden el mapa conceptual básico:\n\nVariación heredable → diferencias en aptitud → cambio en la composición de la población entre generaciones\n\nEn el caso de los insectos resistentes al pesticida, ¿cuál podría ser la variación heredable inicial?\n¿Por qué el pesticida no “crea” directamente la resistencia, sino que cambia la frecuencia de individuos resistentes en la población?\n¿Este ejemplo representa cambio individual o cambio poblacional? Expliquen."
-  },
-  {
-    "objectID": "worksheets/worksheet_evidencia_evolucion.html#parte-5.-síntesis",
-    "href": "worksheets/worksheet_evidencia_evolucion.html#parte-5.-síntesis",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "8 Parte 5. Síntesis",
-    "text": "8 Parte 5. Síntesis\n¿Por qué es más fuerte una explicación evolutiva cuando diferentes tipos de evidencia apoyan la misma conclusión?"
-  },
-  {
-    "objectID": "worksheets/worksheet_evidencia_evolucion.html#cierre-para-discusión-en-clase",
-    "href": "worksheets/worksheet_evidencia_evolucion.html#cierre-para-discusión-en-clase",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "9 Cierre para discusión en clase",
-    "text": "9 Cierre para discusión en clase\nCada grupo debe estar preparado para compartir brevemente:\n\nQué especies consideran más cercanamente relacionadas.\nQué evidencia usaron para justificarlo.\nUn ejemplo de homología y uno de analogía en el escenario.\nPor qué la evolución observada directamente es evidencia importante."
+    "text": "Experimentos evolutivos\n\n\nAdaptacion predicible y repetida\nEvolucion de nuevas funciones (ej: metabolizar citrato)"
   },
   {
     "objectID": "lectures/04-hw.html#metas",
     "href": "lectures/04-hw.html#metas",
     "title": "Equilibrio de Hardy-Weinberg",
-    "section": "",
-    "text": "Entender por que la teoria de evolucion por seleccion natural necesitaba una explicacion genetica de la herencia.\nUsar Hardy-Weinberg como modelo nulo para poblaciones.\nInterpretar cuando los datos se ajustan o no se ajustan al la expectativa de Hardy-Weinberg."
+    "section": "Metas",
+    "text": "Metas\n\nEntender por que la teoria de evolucion por seleccion natural necesitaba una explicacion genetica de la herencia.\nUsar Hardy-Weinberg como modelo nulo para poblaciones.\nInterpretar cuando los datos se ajustan o no se ajustan al la expectativa de Hardy-Weinberg."
   },
   {
     "objectID": "lectures/04-hw.html#ser-capaces-de",
     "href": "lectures/04-hw.html#ser-capaces-de",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nDefinir frecuencia alelica y frecuencia genotipica.\nAplicar \\(p + q = 1\\) y \\(p^2 + 2pq + q^2 = 1\\).\nCalcular genotipos esperados bajo Hardy-Weinberg.\nIdentificar casos cuando hay desviaciones de Hardy-Weinberg."
+    "text": "Ser capaces de\n\nDefinir frecuencia alelica y frecuencia genotipica.\nAplicar \\(p + q = 1\\) y \\(p^2 + 2pq + q^2 = 1\\).\nCalcular genotipos esperados bajo Hardy-Weinberg.\nIdentificar casos cuando hay desviaciones de Hardy-Weinberg."
   },
   {
     "objectID": "lectures/04-hw.html#el-problema-en-el-siglo-xix",
     "href": "lectures/04-hw.html#el-problema-en-el-siglo-xix",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "El problema en el siglo XIX",
-    "text": "El problema en el siglo XIX\n\n\nDarwin y Wallace propusieron seleccion natural.\nLa seleccion requiere variacion heredable.\nSin una buena teoria de herencia, la explicacion quedaba incompleta."
+    "text": "El problema en el siglo XIX\n\nDarwin y Wallace propusieron seleccion natural.\nLa seleccion requiere variacion heredable.\nSin una buena teoria de herencia, la explicacion quedaba incompleta."
   },
   {
     "objectID": "lectures/04-hw.html#herencia-por-mezcla-una-dificultad",
     "href": "lectures/04-hw.html#herencia-por-mezcla-una-dificultad",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Herencia por mezcla: una dificultad",
-    "text": "Herencia por mezcla: una dificultad\n\n\nSi los rasgos se mezclan de forma permanente,\nla variacion se diluye,\ny la seleccion pierde “materia prima”.\n\n\n\n\nPregunta clave: como se mantiene la variacion entre generaciones?"
+    "text": "Herencia por mezcla: una dificultad\n\nSi los rasgos se mezclan de forma permanente,\nla variacion se diluye,\ny la seleccion pierde “materia prima”.\n\n\n\nPregunta clave: como se mantiene la variacion entre generaciones?"
   },
   {
     "objectID": "lectures/04-hw.html#mendel-cambia-el-panorama",
     "href": "lectures/04-hw.html#mendel-cambia-el-panorama",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Mendel cambia el panorama",
-    "text": "Mendel cambia el panorama\n\n\nLa herencia es particulada (alelos).\nLos alelos no se “mezclan” para siempre.\nSe segregan y recombinan en cada generacion."
+    "text": "Mendel cambia el panorama\n\nLa herencia es particulada (alelos).\nLos alelos no se “mezclan” para siempre.\nSe segregan y recombinan en cada generacion."
   },
   {
     "objectID": "lectures/04-hw.html#ley-1-segregacion-equitativa",
     "href": "lectures/04-hw.html#ley-1-segregacion-equitativa",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Ley 1: segregacion equitativa",
-    "text": "Ley 1: segregacion equitativa\n\n\nCada individuo diploide tiene dos alelos por locus.\nEn meiosis, los dos alelos se separan.\nCada gameto recibe solo uno, con probabilidad aproximada 1/2.\n\n\n\nImportancia: explica por que las frecuencias alelicas pueden modelarse con probabilidades."
+    "text": "Ley 1: segregacion equitativa\n\nCada individuo diploide tiene dos alelos por locus.\nEn meiosis, los dos alelos se separan.\nCada gameto recibe solo uno, con probabilidad aproximada 1/2.\n\n\nImportancia: explica por que las frecuencias alelicas pueden modelarse con probabilidades."
   },
   {
     "objectID": "lectures/04-hw.html#ley-2-surtido-independiente",
     "href": "lectures/04-hw.html#ley-2-surtido-independiente",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Ley 2: surtido independiente",
-    "text": "Ley 2: surtido independiente\n\n\nAlelos de loci distintos se distribuyen de forma independiente en los gametos.\nEsto ocurre cuando los loci no estan ligados (o estan muy separados).\nSe generan combinaciones nuevas de alelos en cada generacion.\n\n\n\nImportancia: aumenta la variacion genotipica sobre la que puede actuar la seleccion."
+    "text": "Ley 2: surtido independiente\n\nAlelos de loci distintos se distribuyen de forma independiente en los gametos.\nEsto ocurre cuando los loci no estan ligados (o estan muy separados).\nSe generan combinaciones nuevas de alelos en cada generacion.\n\n\nImportancia: aumenta la variacion genotipica sobre la que puede actuar la seleccion."
   },
   {
     "objectID": "lectures/04-hw.html#de-leyes-mendelianas-a-pensamiento-poblacional",
     "href": "lectures/04-hw.html#de-leyes-mendelianas-a-pensamiento-poblacional",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "De leyes mendelianas a pensamiento poblacional",
-    "text": "De leyes mendelianas a pensamiento poblacional\n\n\nEn una familia: vemos cruces.\nEn una poblacion: vemos frecuencias.\nSegregacion + surtido permiten predecir proporciones esperadas."
+    "text": "De leyes mendelianas a pensamiento poblacional\n\nEn una familia: vemos cruces.\nEn una poblacion: vemos frecuencias.\nSegregacion + surtido permiten predecir proporciones esperadas."
   },
   {
     "objectID": "lectures/04-hw.html#por-que-esto-importa-para-evolucion",
     "href": "lectures/04-hw.html#por-que-esto-importa-para-evolucion",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Por que esto importa para evolucion",
-    "text": "Por que esto importa para evolucion\n\n\nLa seleccion cambia frecuencias alelicas, no “tipos fijos”.\nLa variacion se conserva y se reorganiza cada generacion.\nPor eso Hardy-Weinberg funciona como linea base evolutiva."
+    "text": "Por que esto importa para evolucion\n\nLa seleccion cambia frecuencias alelicas, no “tipos fijos”.\nLa variacion se conserva y se reorganiza cada generacion.\nPor eso Hardy-Weinberg funciona como linea base evolutiva."
   },
   {
     "objectID": "lectures/04-hw.html#espacio-visual-puente-historico",
@@ -942,7 +907,7 @@
     "href": "lectures/04-hw.html#de-individuos-a-poblaciones",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "De individuos a poblaciones",
-    "text": "De individuos a poblaciones\n\n\nEvolucion = cambio en frecuencias en poblaciones.\nAhora importan las frecuencias de alelos y genotipos.\nHardy-Weinberg conecta genetica mendeliana con evolucion."
+    "text": "De individuos a poblaciones\n\nEvolucion = cambio en frecuencias en poblaciones.\nAhora importan las frecuencias de alelos y genotipos.\nHardy-Weinberg conecta genetica mendeliana con evolucion."
   },
   {
     "objectID": "lectures/04-hw.html#hardy-weinberg-como-modelo-nulo",
@@ -956,7 +921,7 @@
     "href": "lectures/04-hw.html#supuestos-de-hardy-weinberg",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Supuestos de Hardy-Weinberg",
-    "text": "Supuestos de Hardy-Weinberg\n\n\nApareamiento aleatorio.\nPoblacion muy grande.\nSin seleccion natural.\nSin mutacion.\nSin migracion (flujo genico).\n\n\n\nSi los datos no ajustan, al menos un supuesto puede estar fallando."
+    "text": "Supuestos de Hardy-Weinberg\n\nApareamiento aleatorio.\nPoblacion muy grande.\nSin seleccion natural.\nSin mutacion.\nSin migracion (flujo genico).\n\n\nSi los datos no ajustan, al menos un supuesto puede estar fallando."
   },
   {
     "objectID": "lectures/04-hw.html#espacio-visual-supuestos",
@@ -984,14 +949,14 @@
     "href": "lectures/04-hw.html#genotipos-esperados",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Genotipos esperados",
-    "text": "Genotipos esperados\n\n\n\\(AA = p^2 = 0.49\\)\n\\(Aa = 2pq = 0.42\\)\n\\(aa = q^2 = 0.09\\)"
+    "text": "Genotipos esperados\n\n\\(AA = p^2 = 0.49\\)\n\\(Aa = 2pq = 0.42\\)\n\\(aa = q^2 = 0.09\\)"
   },
   {
     "objectID": "lectures/04-hw.html#en-una-muestra-de-100-individuos",
     "href": "lectures/04-hw.html#en-una-muestra-de-100-individuos",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "En una muestra de 100 individuos",
-    "text": "En una muestra de 100 individuos\n\n\n\\(AA\\): 49\n\\(Aa\\): 42\n\\(aa\\): 9"
+    "text": "En una muestra de 100 individuos\n\n\\(AA\\): 49\n\\(Aa\\): 42\n\\(aa\\): 9"
   },
   {
     "objectID": "lectures/04-hw.html#espacio-visual-cuadro-de-punnett",
@@ -1019,7 +984,7 @@
     "href": "lectures/04-hw.html#que-podria-explicar-la-desviacion",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Que podria explicar la desviacion?",
-    "text": "Que podria explicar la desviacion?\n\n\nApareamiento no aleatorio.\nEstructura poblacional.\nSeleccion natural.\nTamano poblacional pequeno (deriva).\nError de muestreo."
+    "text": "Que podria explicar la desviacion?\n\nApareamiento no aleatorio.\nEstructura poblacional.\nSeleccion natural.\nTamano poblacional pequeno (deriva).\nError de muestreo."
   },
   {
     "objectID": "lectures/04-hw.html#espacio-visual-diagnostico",
@@ -1033,7 +998,7 @@
     "href": "lectures/04-hw.html#y-si-la-especie-es-poliploide",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Y si la especie es poliploide?",
-    "text": "Y si la especie es poliploide?\n\n\nMuchas especies de plantas no son diploides.\nEjemplo: papa cultivada (Solanum tuberosum), frecuentemente tetraploide.\nEn tetraploides, para dos alelos se expande \\((p+q)^4\\)."
+    "text": "Y si la especie es poliploide?\n\nMuchas especies de plantas no son diploides.\nEjemplo: papa cultivada (Solanum tuberosum), frecuentemente tetraploide.\nEn tetraploides, para dos alelos se expande \\((p+q)^4\\)."
   },
   {
     "objectID": "lectures/04-hw.html#hardy-weinberg-en-tetraploides-papa",
@@ -1055,76 +1020,6 @@
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Take-home messages",
     "text": "Take-home messages\n\nSeleccion natural necesita variacion heredable persistente.\nMendel explico como se conserva la variacion.\nHardy-Weinberg ofrece una linea base cuantitativa.\nLas desviaciones guian preguntas evolutivas."
-  },
-  {
-    "objectID": "worksheets/w02-evidence.html",
-    "href": "worksheets/w02-evidence.html",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "",
-    "text": "Al finalizar esta actividad, el grupo debería ser capaz de usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica."
-  },
-  {
-    "objectID": "worksheets/w02-evidence.html#objetivo-de-la-actividad",
-    "href": "worksheets/w02-evidence.html#objetivo-de-la-actividad",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "",
-    "text": "Al finalizar esta actividad, el grupo debería ser capaz de usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica."
-  },
-  {
-    "objectID": "worksheets/w02-evidence.html#instrucciones-generales",
-    "href": "worksheets/w02-evidence.html#instrucciones-generales",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "2 Instrucciones generales",
-    "text": "2 Instrucciones generales\nTrabajen en grupos de 4–6 personas. Lean el escenario y discutan cada pregunta antes de escribir la respuesta. No se espera una respuesta larga, pero sí una justificación clara."
-  },
-  {
-    "objectID": "worksheets/w02-evidence.html#escenario-isla-verde",
-    "href": "worksheets/w02-evidence.html#escenario-isla-verde",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "3 Escenario: Isla Verde",
-    "text": "3 Escenario: Isla Verde\nUn equipo de biólogos estudia una isla oceánica llamada Isla Verde. La isla está a unos 800 km del continente más cercano y tiene varios ambientes: bosque seco, bosque húmedo, costa rocosa y zonas abiertas.\nEn la isla se encuentran cuatro especies animales que parecen muy diferentes entre sí:\n\n\n\nEspecie\nDescripción breve\n\n\n\n\nEspecie A\nMamífero pequeño, terrestre, nocturno, con patas cortas\n\n\nEspecie B\nMamífero grande, terrestre, diurno, con patas largas\n\n\nEspecie C\nAnimal volador con alas membranosas\n\n\nEspecie D\nAnimal volador con alas rígidas cubiertas de plumas\n\n\n\nEl objetivo del grupo es usar la evidencia disponible para responder:\n\n¿Qué especies parecen estar más cercanamente relacionadas y qué tipo de evidencia apoya esa conclusión?"
-  },
-  {
-    "objectID": "worksheets/w02-evidence.html#parte-1.-evidencias-disponibles",
-    "href": "worksheets/w02-evidence.html#parte-1.-evidencias-disponibles",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "4 Parte 1. Evidencias disponibles",
-    "text": "4 Parte 1. Evidencias disponibles\nLean las siguientes evidencias. Para cada una, identifiquen qué tipo de evidencia representa.\nTipos posibles de evidencia:\n\nRegistro fósil\nAnatomía comparada\nBiogeografía\nBiología molecular\nEmbriología comparada\nEvolución observada directamente\n\n\n\n\n\n\n\n\n\nEvidencia\nTipo de evidencia\n¿Qué sugiere?\n\n\n\n\n1. La Especie A y la Especie B tienen una estructura ósea muy similar en las patas delanteras, aunque las usan de manera diferente.\n\n\n\n\n2. La Especie C y la Especie D vuelan, pero sus alas tienen estructuras internas muy distintas.\n\n\n\n\n3. El ADN de la Especie A y la Especie B es mucho más similar entre sí que al ADN de las especies C y D.\n\n\n\n\n4. En rocas antiguas de la isla se encontraron fósiles de un mamífero pequeño con rasgos intermedios entre la Especie A y la Especie B.\n\n\n\n\n5. Las especies A y B solo viven en Isla Verde, pero sus parientes más cercanos conocidos viven en el continente cercano.\n\n\n\n\n6. En los últimos 20 años, una población de insectos de la isla se volvió resistente a un pesticida usado en cultivos locales."
-  },
-  {
-    "objectID": "worksheets/w02-evidence.html#parte-2.-homología-analogía-y-ancestro-común",
-    "href": "worksheets/w02-evidence.html#parte-2.-homología-analogía-y-ancestro-común",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "5 Parte 2. Homología, analogía y ancestro común",
-    "text": "5 Parte 2. Homología, analogía y ancestro común\nLas especies A y B tienen patas delanteras con una estructura ósea similar, pero las usan de forma diferente.\n¿Esta similitud es más probablemente una homología o una analogía? Justifiquen.\nLas especies C y D tienen alas y pueden volar, pero sus alas tienen estructuras internas muy diferentes.\n¿Esta similitud es más probablemente una homología o una analogía? Justifiquen.\n¿Qué diferencia hay entre decir que dos especies son similares por ancestro común y decir que son similares por adaptación a una función parecida?"
-  },
-  {
-    "objectID": "worksheets/w02-evidence.html#parte-3.-inferencia-evolutiva",
-    "href": "worksheets/w02-evidence.html#parte-3.-inferencia-evolutiva",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "6 Parte 3. Inferencia evolutiva",
-    "text": "6 Parte 3. Inferencia evolutiva\nCon base en todas las evidencias, respondan:\n¿Cuáles dos especies parecen estar más cercanamente relacionadas?\n¿Cuáles son las dos evidencias más fuertes que apoyan esa conclusión?\nConstruyan un esquema simple de relaciones evolutivas entre las cuatro especies. No tiene que ser un árbol formal; puede ser un diagrama sencillo."
-  },
-  {
-    "objectID": "worksheets/w02-evidence.html#parte-4.-variación-y-evolución-observada",
-    "href": "worksheets/w02-evidence.html#parte-4.-variación-y-evolución-observada",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "7 Parte 4. Variación y evolución observada",
-    "text": "7 Parte 4. Variación y evolución observada\nRecuerden el mapa conceptual básico:\n\nVariación heredable → diferencias en aptitud → cambio en la composición de la población entre generaciones\n\nEn el caso de los insectos resistentes al pesticida, ¿cuál podría ser la variación heredable inicial?\n¿Por qué el pesticida no “crea” directamente la resistencia, sino que cambia la frecuencia de individuos resistentes en la población?\n¿Este ejemplo representa cambio individual o cambio poblacional? Expliquen."
-  },
-  {
-    "objectID": "worksheets/w02-evidence.html#parte-5.-síntesis",
-    "href": "worksheets/w02-evidence.html#parte-5.-síntesis",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "8 Parte 5. Síntesis",
-    "text": "8 Parte 5. Síntesis\n¿Por qué es más fuerte una explicación evolutiva cuando diferentes tipos de evidencia apoyan la misma conclusión?"
-  },
-  {
-    "objectID": "worksheets/w02-evidence.html#cierre-para-discusión-en-clase",
-    "href": "worksheets/w02-evidence.html#cierre-para-discusión-en-clase",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
-    "section": "9 Cierre para discusión en clase",
-    "text": "9 Cierre para discusión en clase\nCada grupo debe estar preparado para compartir brevemente:\n\nQué especies consideran más cercanamente relacionadas.\nQué evidencia usaron para justificarlo.\nUn ejemplo de homología y uno de analogía en el escenario.\nPor qué la evolución observada directamente es evidencia importante."
   },
   {
     "objectID": "worksheets/w03-methods.html",
@@ -1188,138 +1083,5 @@
     "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
     "section": "8 Sintesis",
     "text": "8 Sintesis\nCompleten la tabla con un juicio breve para cada evidencia.\nEscala: ++ (apoyo fuerte), + (apoyo moderado), 0 (neutral), - (debilita).\n\n\n\nEvidencia\nHipotesis A\nHipotesis B\nJustificacion corta\n\n\n\n\nObservacion del comportamiento\n\n\n\n\n\nDisminucion del pO2 en la burbuja\n\n\n\n\n\nDistribucion en el arbol filogenetico\n\n\n\n\n\n\n\nCual hipotesis recibe mayor apoyo global con la evidencia disponible?\n\n\nEscriban una conclusion breve (2-3 oraciones), incluyendo una nota de incertidumbre."
-  },
-  {
-    "objectID": "worksheets/w04-hw.html",
-    "href": "worksheets/w04-hw.html",
-    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
-    "section": "",
-    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de simular apareamiento aleatorio con granos/beans, estimar frecuencias alelicas y usar la simulacion para evaluar si una poblacion ajusta al equilibrio de Hardy-Weinberg."
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#objetivo-de-la-actividad",
-    "href": "worksheets/w04-hw.html#objetivo-de-la-actividad",
-    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
-    "section": "",
-    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de simular apareamiento aleatorio con granos/beans, estimar frecuencias alelicas y usar la simulacion para evaluar si una poblacion ajusta al equilibrio de Hardy-Weinberg."
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#instrucciones-generales",
-    "href": "worksheets/w04-hw.html#instrucciones-generales",
-    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
-    "section": "2 Instrucciones generales",
-    "text": "2 Instrucciones generales\n\nLean el misterio biologico.\nCompleten los conteos y la simulacion paso a paso.\nRegistren los resultados en la tabla.\nRespondan las preguntas con una justificacion breve.\n\nTrabajen en parejas."
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#escenario-una-poblacion-con-pocos-heterocigotos",
-    "href": "worksheets/w04-hw.html#escenario-una-poblacion-con-pocos-heterocigotos",
-    "title": "Hoja de trabajo: Equilibrio de Hardy-Weinberg",
-    "section": "3 Escenario: una poblacion con pocos heterocigotos",
-    "text": "3 Escenario: una poblacion con pocos heterocigotos\nUn grupo de estudiantes muestrea una poblacion de plantas con dos alelos para un gen de color de flor:\n\n\\(A\\) = alelo para flores moradas\n\\(a\\) = alelo para flores blancas\n\nEn la poblacion observan los siguientes genotipos:\n\n\n\nGenotipo\nNumero observado\n\n\n\n\nAA\n60\n\n\nAa\n20\n\n\naa\n20\n\n\nTotal\n100\n\n\n\nLa observacion llamativa es que hay menos heterocigotos de lo que uno podria esperar bajo apareamiento aleatorio."
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#parte-1.-pasar-de-genotipos-a-alelos",
-    "href": "worksheets/w04-hw.html#parte-1.-pasar-de-genotipos-a-alelos",
-    "title": "Hoja de trabajo: Equilibrio de Hardy-Weinberg",
-    "section": "4 Parte 1. Pasar de genotipos a alelos",
-    "text": "4 Parte 1. Pasar de genotipos a alelos\nAntes de aplicar Hardy-Weinberg, conviertan la poblacion observada en frecuencias alelicas.\n\n4.1 1.1 Conteo total de alelos\n\n¿Cuantos alelos totales hay en la poblacion?\n\n\n\n4.2 1.2 Conteo del alelo \\(A\\)\n\n¿Cuantos alelos \\(A\\) aporta cada genotipo?\n¿Cuantos alelos \\(A\\) hay en total?\n¿Cual es la frecuencia de \\(A\\) (\\(p\\))?\n\n\n\n4.3 1.3 Conteo del alelo \\(a\\)\n\n¿Cuantos alelos \\(a\\) aporta cada genotipo?\n¿Cuantos alelos \\(a\\) hay en total?\n¿Cual es la frecuencia de \\(a\\) (\\(q\\))?\n\n\n\n4.4 1.4 Resumen\nEscriban sus valores finales:\n\n$p = $\n$q = $\n\nComprueben que \\(p + q = 1\\)."
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#parte-2.-frecuencias-esperadas-bajo-hardy-weinberg",
-    "href": "worksheets/w04-hw.html#parte-2.-frecuencias-esperadas-bajo-hardy-weinberg",
-    "title": "Hoja de trabajo: Equilibrio de Hardy-Weinberg",
-    "section": "5 Parte 2. Frecuencias esperadas bajo Hardy-Weinberg",
-    "text": "5 Parte 2. Frecuencias esperadas bajo Hardy-Weinberg\nRecuerden que para una poblacion diploide con apareamiento aleatorio:\n\\[\np^2 + 2pq + q^2 = 1\n\\]\n\n5.1 2.1 Genotipos esperados\nCompleten la tabla usando sus valores de \\(p\\) y \\(q\\).\n\n\n\nGenotipo\nFormula\nFrecuencia esperada\n\n\n\n\nAA\n\\(p^2\\)\n\n\n\nAa\n\\(2pq\\)\n\n\n\naa\n\\(q^2\\)\n\n\n\n\n\n\n5.2 2.2 Numero esperado de individuos\nSi la poblacion tiene 100 individuos, conviertan esas frecuencias en numeros esperados.\n\n\n\nGenotipo\nFrecuencia esperada\nNumero esperado\n\n\n\n\nAA\n\n\n\n\nAa\n\n\n\n\naa"
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#parte-3.-comparar-esperado-vs-observado",
-    "href": "worksheets/w04-hw.html#parte-3.-comparar-esperado-vs-observado",
-    "title": "Hoja de trabajo: Equilibrio de Hardy-Weinberg",
-    "section": "6 Parte 3. Comparar esperado vs observado",
-    "text": "6 Parte 3. Comparar esperado vs observado\n\n6.1 3.1 Comparacion directa\nCompleten la tabla:\n\n\n\nGenotipo\nEsperado bajo HW\nObservado\n\n\n\n\nAA\n\n60\n\n\nAa\n\n20\n\n\naa\n\n20\n\n\n\n\n\n6.2 3.2 Interpretacion\n\n¿La poblacion parece ajustarse a Hardy-Weinberg?\n\n\n¿Que parte de la tabla les llama mas la atencion?\n\n\nSi no hay ajuste, ¿que podria estar pasando biologicamente?"
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#parte-4.-pensamiento-poblacional",
-    "href": "worksheets/w04-hw.html#parte-4.-pensamiento-poblacional",
-    "title": "Hoja de trabajo: Equilibrio de Hardy-Weinberg",
-    "section": "7 Parte 4. Pensamiento poblacional",
-    "text": "7 Parte 4. Pensamiento poblacional\nHardy-Weinberg no describe a un individuo, sino a una poblacion.\n\n7.1 Preguntas\n\n¿Por que no tiene sentido decir que un individuo “esta en equilibrio de Hardy-Weinberg”?\n\n\n¿Que tipo de pregunta evolutiva permite responder este modelo?\n\n\n¿Por que es util como modelo nulo?"
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#parte-5.-extension-poliploidia",
-    "href": "worksheets/w04-hw.html#parte-5.-extension-poliploidia",
-    "title": "Hoja de trabajo: Equilibrio de Hardy-Weinberg",
-    "section": "8 Parte 5. Extension: poliploidia",
-    "text": "8 Parte 5. Extension: poliploidia\nAlgunas especies no son diploides. Por ejemplo, la papa cultivada suele ser tetraploide.\nSi hay dos alelos, la expansion para un tetraploide es:\n\\[\n(p + q)^4 = p^4 + 4p^3q + 6p^2q^2 + 4pq^3 + q^4\n\\]\n\n8.1 Preguntas\n\n¿Que cambia al pasar de diploides a tetraploides?\n\n\n¿Por que el calculo de frecuencias puede volverse mas complicado en casos reales no modelo?"
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#cierre-para-discusion-en-clase",
-    "href": "worksheets/w04-hw.html#cierre-para-discusion-en-clase",
-    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
-    "section": "11 Cierre para discusion en clase",
-    "text": "11 Cierre para discusion en clase\nCada grupo debe estar preparado para compartir:\n\nSus valores de \\(p\\) y \\(q\\).\nEl numero de heterocigotos observado en la simulacion.\nSi la poblacion real parece ajustarse al equilibrio de Hardy-Weinberg.\nUna explicacion biologica para el deficit de heterocigotos."
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#materiales-por-pareja-de-estudiantes",
-    "href": "worksheets/w04-hw.html#materiales-por-pareja-de-estudiantes",
-    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
-    "section": "3 Materiales por pareja de estudiantes",
-    "text": "3 Materiales por pareja de estudiantes\n\n1 bolsa de papel marron\n140 frijoles negros, que representan el alelo dominante \\(A\\)\n60 garbanzos, que representan el alelo recesivo \\(a\\)"
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#paso-0.-el-misterio-biologico",
-    "href": "worksheets/w04-hw.html#paso-0.-el-misterio-biologico",
-    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
-    "section": "4 Paso 0. El misterio biologico",
-    "text": "4 Paso 0. El misterio biologico\nAntes de tocar los materiales, analicen los datos de una poblacion observada en el campo:\n\n\n\nGenotipo\nNumero observado\n\n\n\n\nAA\n60\n\n\nAa\n20\n\n\naa\n20\n\n\nTotal\n100\n\n\n\nLa observacion biologica es que hay un deficit grande de heterocigotos. La pregunta es:\n\n¿Se debe esto a fuerzas evolutivas activas o podria explicarse por azar?\n\nPara averiguarlo, van a simular apareamiento aleatorio bajo condiciones ideales."
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#paso-1.-extraer-el-fondo-genetico",
-    "href": "worksheets/w04-hw.html#paso-1.-extraer-el-fondo-genetico",
-    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
-    "section": "5 Paso 1. Extraer el fondo genetico",
-    "text": "5 Paso 1. Extraer el fondo genetico\nUsen aritmetica basica para convertir los genotipos observados en alelos.\n\n5.1 1.1 Total de alelos\n\n¿Cuantos alelos hay en total en una poblacion de 100 individuos diploides?\n\n\n\n5.2 1.2 Conteo del alelo \\(A\\)\n\n¿Cuantos alelos \\(A\\) aporta cada genotipo?\n¿Cuantos alelos \\(A\\) hay en total?\n¿Cual es su frecuencia alélica \\(p\\)?\n\n\n\n5.3 1.3 Conteo del alelo \\(a\\)\n\n¿Cuantos alelos \\(a\\) aporta cada genotipo?\n¿Cuantos alelos \\(a\\) hay en total?\n¿Cual es su frecuencia alélica \\(q\\)?\n\n\n\n5.4 1.4 Resumen\nEscriban sus valores finales:\n\n$p = $\n$q = $\n\nComprueben que \\(p + q = 1\\).\n\n\n5.5 1.5 Preparar la bolsa\nColoquen exactamente 140 frijoles negros y 60 garbanzos en la bolsa.\nEsta bolsa representa ahora el fondo genetico de la poblacion."
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#paso-2.-simular-la-siguiente-generacion",
-    "href": "worksheets/w04-hw.html#paso-2.-simular-la-siguiente-generacion",
-    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
-    "section": "6 Paso 2. Simular la siguiente generacion",
-    "text": "6 Paso 2. Simular la siguiente generacion\nPara simular apareamiento aleatorio bajo condiciones ideales, repitan el siguiente procedimiento 100 veces:\n\nAgiten la bolsa cerrada.\nSin mirar, extraigan dos granos a la vez.\nRegistren el genotipo del descendiente.\nDevuelvan ambos granos a la bolsa.\nRepitan hasta completar los 100 nacimientos.\n\n\n6.1 Como clasificar cada cruce\n\n2 frijoles negros = \\(AA\\)\n1 frijol negro + 1 garbanzo = \\(Aa\\)\n2 garbanzos = \\(aa\\)"
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#paso-3.-tabla-de-registro-de-datos",
-    "href": "worksheets/w04-hw.html#paso-3.-tabla-de-registro-de-datos",
-    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
-    "section": "7 Paso 3. Tabla de registro de datos",
-    "text": "7 Paso 3. Tabla de registro de datos\nCompleten la tabla con sus resultados.\n\n\n\nGenotipo\nTanteo (palitos)\nTotal obtenido\n\n\n\n\nAA\n\n\n\n\nAa\n\n\n\n\naa\n\n\n\n\nTOTAL\nDebe sumar 100\n100"
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#paso-4.-recuento-colectivo-de-heterocigotos",
-    "href": "worksheets/w04-hw.html#paso-4.-recuento-colectivo-de-heterocigotos",
-    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
-    "section": "8 Paso 4. Recuento colectivo de heterocigotos",
-    "text": "8 Paso 4. Recuento colectivo de heterocigotos\nCuando terminen, un integrante de la pareja compartira su resultado con la clase.\nEl profesor o la profesora habra dibujado una linea horizontal que representa la cantidad de heterocigotos (\\(Aa\\)) obtenidos por simulacion.\n\n8.1 Instruccion\n\nDibujen una X sobre el numero exacto de heterocigotos que genero su bolsa."
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#paso-5.-representacion-grafica-e-interpretacion",
-    "href": "worksheets/w04-hw.html#paso-5.-representacion-grafica-e-interpretacion",
-    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
-    "section": "9 Paso 5. Representacion grafica e interpretacion",
-    "text": "9 Paso 5. Representacion grafica e interpretacion\nEl docente proyectara o dibujara la acumulacion de las X de la clase.\nLa distribucion mostrara lo que produce el azar puro bajo apareamiento aleatorio.\n\n9.1 Frecuencia de resultados en la clase"
-  },
-  {
-    "objectID": "worksheets/w04-hw.html#preguntas-de-analisis",
-    "href": "worksheets/w04-hw.html#preguntas-de-analisis",
-    "title": "Hoja de trabajo: Simulacion de Hardy-Weinberg",
-    "section": "10 Preguntas de analisis",
-    "text": "10 Preguntas de analisis\n\n¿Alrededor de que numero de heterocigotos se agrupo la mayoria de las respuestas de la clase?\n\n\nLa poblacion observada en la naturaleza tenia solo 20 heterocigotos. Al mirar la distribucion de la clase, ¿algun grupo obtuvo un numero tan bajo como 20 por pura suerte?\n\n\nSi el cruce aleatorio casi nunca produce un valor tan bajo como 20 heterocigotos, ¿que significa esto sobre la poblacion real?\n\n\n¿La poblacion esta en equilibrio de Hardy-Weinberg o esta evolucionando? Propongan un mecanismo biologico posible."
-  },
-  {
-    "objectID": "lectures/04-hw.html",
-    "href": "lectures/04-hw.html",
-    "title": "Equilibrio de Hardy-Weinberg",
-    "section": "",
-    "text": "Entender por que la teoria de evolucion por seleccion natural necesitaba una explicacion genetica de la herencia.\nUsar Hardy-Weinberg como modelo nulo para poblaciones.\nInterpretar cuando los datos se ajustan o no se ajustan al la expectativa de Hardy-Weinberg."
   }
 ]
