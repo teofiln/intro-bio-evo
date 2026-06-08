@@ -11,7 +11,7 @@ execute:
 ## Metas
 
 1. Entender por que la teoria de evolucion por seleccion natural necesitaba una explicacion genetica de la herencia.
-2. Usar Hardy-Weinberg como modelo nulo para poblaciones.
+2. Entender Hardy-Weinberg como modelo nulo para poblaciones.
 3. Interpretar cuando los datos se ajustan o no se ajustan al la expectativa de Hardy-Weinberg.
 
 ## Ser capaces de
@@ -27,86 +27,127 @@ execute:
 
 ## El problema en el siglo XIX
 
+
+::: {.columns}
+
+::: {.column}
+
+![Portada de "El Origen de las Especies" (1859)](04-assets/origin-of-the-species.jpg)
+
+:::
+
+::: {.column}
+
 ::: {.incremental}
-- Darwin y Wallace propusieron seleccion natural.
+- Darwin y Wallace (1858-1859) propusieron seleccion natural.
 - La seleccion requiere variacion heredable.
 - Sin una buena teoria de herencia, la explicacion quedaba incompleta.
 :::
 
+:::
+
+:::
+
+
 ## Herencia por mezcla: una dificultad
 
-::: {.incremental}
-- Si los rasgos se mezclan de forma permanente,
-- la variacion se diluye,
-- y la seleccion pierde "materia prima".
+
+::: {.columns}
+
+::: {.column}
+
+- Los descendientes son una mezcla de ambos padres.
+- Los alelos se mezclarían para formar un alelo completamente nuevo.
+- Los rasgos mezclados se transmiten a las siguientes generaciones.
+- La variación se diluye con el tiempo.
+
 :::
 
-::: {.fragment}
-> Pregunta clave: como se mantiene la variacion entre generaciones?
+::: {.column}
+
+![](04-assets/Blending_Inheritance.svg.png){width=80%}
+
 :::
 
-## Mendel cambia el panorama
-
-::: {.incremental}
-- La herencia es particulada (alelos).
-- Los alelos no se "mezclan" para siempre.
-- Se segregan y recombinan en cada generacion.
 :::
 
-## Ley 1: segregacion equitativa
+## Herencia por mezcla
+
+- No se mantiene la variacion entre generaciones
+- No queda variacion heredable para que actue la seleccion natural
+- No se puede explicar la adaptacion a largo plazo
+
+![](04-assets/Blending_inheritance_flowers.svg)
+
+## Mendel cambia el panorama: herencia particulada
 
 ::: {.incremental}
+
+- Los descendientes son una combinación de ambos padres.
+- Los rasgos de ambos padres se transmiten a la siguiente generación como entidades separadas.
+- La variación se mantiene a lo largo del tiempo.
+- Los alelos se segregan y recombinan en cada generación.
+
+:::
+
+## Segregacion equitativa
+
+
+::: {.columns}
+
+::: {.column}
+
 - Cada individuo diploide tiene dos alelos por locus.
 - En meiosis, los dos alelos se separan.
 - Cada gameto recibe solo uno, con probabilidad aproximada 1/2.
+
+
 :::
 
-::: {.fragment}
-Importancia: explica por que las frecuencias alelicas pueden modelarse con probabilidades.
+::: {.column}
+
+![](04-assets/equal-segregation.png)
+
 :::
 
-## Ley 2: surtido independiente
+:::
 
-::: {.incremental}
+## Surtido independiente
+
+
+::: {.columns}
+
+::: {.column}
+
 - Alelos de loci distintos se distribuyen de forma independiente en los gametos.
 - Esto ocurre cuando los loci no estan ligados (o estan muy separados).
 - Se generan combinaciones nuevas de alelos en cada generacion.
+
+:::
+
+::: {.column}
+
+![](04-assets/indep-assortment.png)
+
+:::
+
 :::
 
 ::: {.fragment}
-Importancia: aumenta la variacion genotipica sobre la que puede actuar la seleccion.
+> Aumenta la variacion genotipica sobre la que puede actuar la seleccion.
 :::
 
-## De leyes mendelianas a pensamiento poblacional
+## Resumen: Herencia particulada y evolucion
 
 ::: {.incremental}
-- En una familia: vemos cruces.
-- En una poblacion: vemos frecuencias.
 - Segregacion + surtido permiten predecir proporciones esperadas.
-:::
-
-## Por que esto importa para evolucion
-
-::: {.incremental}
 - La seleccion cambia frecuencias alelicas, no "tipos fijos".
 - La variacion se conserva y se reorganiza cada generacion.
-- Por eso Hardy-Weinberg funciona como linea base evolutiva.
 :::
 
-## Espacio visual: puente historico
+# El principio de Hardy-Weinberg {background-color="#E8F5E9"}
 
-**Espacio para imagen:** linea de tiempo Darwin/Wallace -> Mendel -> genetica de poblaciones.
-
-
-## De individuos a poblaciones
-
-::: {.incremental}
-- Evolucion = cambio en frecuencias en poblaciones.
-- Ahora importan las frecuencias de alelos y genotipos.
-- Hardy-Weinberg conecta genetica mendeliana con evolucion.
-:::
-
-## Hardy-Weinberg como modelo nulo
+## Modelo nulo
 
 > Que esperamos observar si no actua ninguna fuerza evolutiva?
 
@@ -128,11 +169,6 @@ Frecuencias alelicas y genotipicas predecibles de una generacion a otra.
 Si los datos no ajustan, al menos un supuesto puede estar fallando.
 :::
 
-## Espacio visual: supuestos
-
-**Espacio para imagen:** esquema de los cinco supuestos con iconos simples.
-
-
 # Ejemplo rapido {background-color="#E8F5E9"}
 
 ## Datos iniciales
@@ -144,8 +180,8 @@ Poblacion de plantas con dos alelos:
 
 Frecuencias:
 
-- $p = 0.7$
-- $q = 0.3$
+- $p = 0.6$
+- $q = 0.4$
 
 ## Recordatorio matematico
 
@@ -160,17 +196,17 @@ $$
 ## Genotipos esperados
 
 ::: {.incremental}
-- $AA = p^2 = 0.49$
-- $Aa = 2pq = 0.42$
-- $aa = q^2 = 0.09$
+- $AA = p^2 = 0.36$
+- $Aa = 2pq = 0.48$
+- $aa = q^2 = 0.16$
 :::
 
 ## En una muestra de 100 individuos
 
 ::: {.incremental}
-- $AA$: 49
-- $Aa$: 42
-- $aa$: 9
+- $AA$: 36
+- $Aa$: 48
+- $aa$: 16
 :::
 
 ## Espacio visual: cuadro de Punnett
@@ -182,9 +218,9 @@ $$
 
 ## Caso 1: ajuste aproximado
 
-Esperado (100): 49, 42, 9
+Esperado (100): 36, 48, 16
 
-Observado: 48, 43, 9
+Observado: 36, 46, 18
 
 ::: {.fragment}
 Interpretacion: compatible con Hardy-Weinberg (a primera vista).
@@ -192,9 +228,9 @@ Interpretacion: compatible con Hardy-Weinberg (a primera vista).
 
 ## Caso 2: desviacion clara
 
-Esperado (100): 49, 42, 9
+Esperado (100): 36, 48, 16
 
-Observado: 65, 10, 25
+Observado: 48, 30, 22
 
 ::: {.fragment}
 Hay deficit fuerte de heterocigotos.

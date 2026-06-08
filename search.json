@@ -837,7 +837,7 @@
     "href": "lectures/04-hw.html#metas",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Metas",
-    "text": "Metas\n\nEntender por que la teoria de evolucion por seleccion natural necesitaba una explicacion genetica de la herencia.\nUsar Hardy-Weinberg como modelo nulo para poblaciones.\nInterpretar cuando los datos se ajustan o no se ajustan al la expectativa de Hardy-Weinberg."
+    "text": "Metas\n\nEntender por que la teoria de evolucion por seleccion natural necesitaba una explicacion genetica de la herencia.\nEntender Hardy-Weinberg como modelo nulo para poblaciones.\nInterpretar cuando los datos se ajustan o no se ajustan al la expectativa de Hardy-Weinberg."
   },
   {
     "objectID": "lectures/04-hw.html#ser-capaces-de",
@@ -851,14 +851,14 @@
     "href": "lectures/04-hw.html#el-problema-en-el-siglo-xix",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "El problema en el siglo XIX",
-    "text": "El problema en el siglo XIX\n\nDarwin y Wallace propusieron seleccion natural.\nLa seleccion requiere variacion heredable.\nSin una buena teoria de herencia, la explicacion quedaba incompleta."
+    "text": "El problema en el siglo XIX\n\n\n\n\n\nPortada de “El Origen de las Especies” (1859)\n\n\n\n\nDarwin y Wallace (1858-1859) propusieron seleccion natural.\nLa seleccion requiere variacion heredable.\nSin una buena teoria de herencia, la explicacion quedaba incompleta."
   },
   {
     "objectID": "lectures/04-hw.html#herencia-por-mezcla-una-dificultad",
     "href": "lectures/04-hw.html#herencia-por-mezcla-una-dificultad",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Herencia por mezcla: una dificultad",
-    "text": "Herencia por mezcla: una dificultad\n\nSi los rasgos se mezclan de forma permanente,\nla variacion se diluye,\ny la seleccion pierde “materia prima”.\n\n\n\nPregunta clave: como se mantiene la variacion entre generaciones?"
+    "text": "Herencia por mezcla: una dificultad\n\n\n\nLos descendientes son una mezcla de ambos padres.\nLos alelos se mezclarían para formar un alelo completamente nuevo.\nLos rasgos mezclados se transmiten a las siguientes generaciones.\nLa variación se diluye con el tiempo."
   },
   {
     "objectID": "lectures/04-hw.html#mendel-cambia-el-panorama",
@@ -1083,5 +1083,54 @@
     "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
     "section": "8 Sintesis",
     "text": "8 Sintesis\nCompleten la tabla con un juicio breve para cada evidencia.\nEscala: ++ (apoyo fuerte), + (apoyo moderado), 0 (neutral), - (debilita).\n\n\n\nEvidencia\nHipotesis A\nHipotesis B\nJustificacion corta\n\n\n\n\nObservacion del comportamiento\n\n\n\n\n\nDisminucion del pO2 en la burbuja\n\n\n\n\n\nDistribucion en el arbol filogenetico\n\n\n\n\n\n\n\nCual hipotesis recibe mayor apoyo global con la evidencia disponible?\n\n\nEscriban una conclusion breve (2-3 oraciones), incluyendo una nota de incertidumbre."
+  },
+  {
+    "objectID": "lectures/04-hw.html#bajo-herencia-por-mezcla-cómo-se-mantiene-la-variacion-entre-generaciones",
+    "href": "lectures/04-hw.html#bajo-herencia-por-mezcla-cómo-se-mantiene-la-variacion-entre-generaciones",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Bajo herencia por mezcla, ¿cómo se mantiene la variacion entre generaciones?",
+    "text": "Bajo herencia por mezcla, ¿cómo se mantiene la variacion entre generaciones?"
+  },
+  {
+    "objectID": "lectures/04-hw.html#herencia-por-mezcla",
+    "href": "lectures/04-hw.html#herencia-por-mezcla",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Herencia por mezcla",
+    "text": "Herencia por mezcla\n\nNo se mantiene la variacion entre generaciones\nNo queda variacion heredable para que actue la seleccion natural\nNo se puede explicar la adaptacion a largo plazo"
+  },
+  {
+    "objectID": "lectures/04-hw.html#mendel-cambia-el-panorama-herencia-particulada",
+    "href": "lectures/04-hw.html#mendel-cambia-el-panorama-herencia-particulada",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Mendel cambia el panorama: herencia particulada",
+    "text": "Mendel cambia el panorama: herencia particulada\n\nLos descendientes son una combinación de ambos padres.\nLos rasgos de ambos padres se transmiten a la siguiente generación como entidades separadas.\nLa variación se mantiene a lo largo del tiempo.\nLos alelos se segregan y recombinan en cada generación."
+  },
+  {
+    "objectID": "lectures/04-hw.html#segregacion-equitativa",
+    "href": "lectures/04-hw.html#segregacion-equitativa",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Segregacion equitativa",
+    "text": "Segregacion equitativa\n\n\n\nCada individuo diploide tiene dos alelos por locus.\nEn meiosis, los dos alelos se separan.\nCada gameto recibe solo uno, con probabilidad aproximada 1/2."
+  },
+  {
+    "objectID": "lectures/04-hw.html#surtido-independiente",
+    "href": "lectures/04-hw.html#surtido-independiente",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Surtido independiente",
+    "text": "Surtido independiente\n\n\n\nAlelos de loci distintos se distribuyen de forma independiente en los gametos.\nEsto ocurre cuando los loci no estan ligados (o estan muy separados).\nSe generan combinaciones nuevas de alelos en cada generacion.\n\n\n\n\n\n\nAumenta la variacion genotipica sobre la que puede actuar la seleccion."
+  },
+  {
+    "objectID": "lectures/04-hw.html#resumen-herencia-particulada-y-evolucion",
+    "href": "lectures/04-hw.html#resumen-herencia-particulada-y-evolucion",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Resumen: Herencia particulada y evolucion",
+    "text": "Resumen: Herencia particulada y evolucion\n\nSegregacion + surtido permiten predecir proporciones esperadas.\nLa seleccion cambia frecuencias alelicas, no “tipos fijos”.\nLa variacion se conserva y se reorganiza cada generacion."
+  },
+  {
+    "objectID": "lectures/04-hw.html#modelo-nulo",
+    "href": "lectures/04-hw.html#modelo-nulo",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Modelo nulo",
+    "text": "Modelo nulo\n\nQue esperamos observar si no actua ninguna fuerza evolutiva?\n\n\nFrecuencias alelicas y genotipicas predecibles de una generacion a otra."
   }
 ]

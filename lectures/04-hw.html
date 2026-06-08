@@ -137,7 +137,7 @@
 <h2>Metas</h2>
 <ol type="1">
 <li>Entender por que la teoria de evolucion por seleccion natural necesitaba una explicacion genetica de la herencia.</li>
-<li>Usar Hardy-Weinberg como modelo nulo para poblaciones.</li>
+<li>Entender Hardy-Weinberg como modelo nulo para poblaciones.</li>
 <li>Interpretar cuando los datos se ajustan o no se ajustan al la expectativa de Hardy-Weinberg.</li>
 </ol>
 </section>
@@ -157,85 +157,100 @@
 </section>
 <section id="el-problema-en-el-siglo-xix" class="slide level2">
 <h2>El problema en el siglo XIX</h2>
+<div class="columns">
+<div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="04-assets/origin-of-the-species.jpg"></p>
+<figcaption>Portada de “El Origen de las Especies” (1859)</figcaption>
+</figure>
+</div>
+</div><div class="column">
 <ul>
-<li class="fragment">Darwin y Wallace propusieron seleccion natural.</li>
+<li class="fragment">Darwin y Wallace (1858-1859) propusieron seleccion natural.</li>
 <li class="fragment">La seleccion requiere variacion heredable.</li>
 <li class="fragment">Sin una buena teoria de herencia, la explicacion quedaba incompleta.</li>
 </ul>
+</div></div>
 </section>
 <section id="herencia-por-mezcla-una-dificultad" class="slide level2">
 <h2>Herencia por mezcla: una dificultad</h2>
+<div class="columns">
+<div class="column">
 <ul>
-<li class="fragment">Si los rasgos se mezclan de forma permanente,</li>
-<li class="fragment">la variacion se diluye,</li>
-<li class="fragment">y la seleccion pierde “materia prima”.</li>
+<li>Los descendientes son una mezcla de ambos padres.</li>
+<li>Los alelos se mezclarían para formar un alelo completamente nuevo.</li>
+<li>Los rasgos mezclados se transmiten a las siguientes generaciones.</li>
+<li>La variación se diluye con el tiempo.</li>
 </ul>
+</div><div class="column">
+<p><img data-src="04-assets/Blending_Inheritance.svg.png" style="width:80.0%"></p>
+</div></div>
+</section>
+<section id="herencia-por-mezcla" class="slide level2">
+<h2>Herencia por mezcla</h2>
+<ul>
+<li>No se mantiene la variacion entre generaciones</li>
+<li>No queda variacion heredable para que actue la seleccion natural</li>
+<li>No se puede explicar la adaptacion a largo plazo</li>
+</ul>
+
+<img data-src="04-assets/Blending_inheritance_flowers.svg" class="r-stretch"></section>
+<section id="mendel-cambia-el-panorama-herencia-particulada" class="slide level2">
+<h2>Mendel cambia el panorama: herencia particulada</h2>
+<ul>
+<li class="fragment">Los descendientes son una combinación de ambos padres.</li>
+<li class="fragment">Los rasgos de ambos padres se transmiten a la siguiente generación como entidades separadas.</li>
+<li class="fragment">La variación se mantiene a lo largo del tiempo.</li>
+<li class="fragment">Los alelos se segregan y recombinan en cada generación.</li>
+</ul>
+</section>
+<section id="segregacion-equitativa" class="slide level2">
+<h2>Segregacion equitativa</h2>
+<div class="columns">
+<div class="column">
+<ul>
+<li>Cada individuo diploide tiene dos alelos por locus.</li>
+<li>En meiosis, los dos alelos se separan.</li>
+<li>Cada gameto recibe solo uno, con probabilidad aproximada 1/2.</li>
+</ul>
+</div><div class="column">
+<p><img data-src="04-assets/equal-segregation.png"></p>
+</div></div>
+</section>
+<section id="surtido-independiente" class="slide level2">
+<h2>Surtido independiente</h2>
+<div class="columns">
+<div class="column">
+<ul>
+<li>Alelos de loci distintos se distribuyen de forma independiente en los gametos.</li>
+<li>Esto ocurre cuando los loci no estan ligados (o estan muy separados).</li>
+<li>Se generan combinaciones nuevas de alelos en cada generacion.</li>
+</ul>
+</div><div class="column">
+<p><img data-src="04-assets/indep-assortment.png"></p>
+</div></div>
 <div class="fragment">
 <blockquote>
-<p>Pregunta clave: como se mantiene la variacion entre generaciones?</p>
+<p>Aumenta la variacion genotipica sobre la que puede actuar la seleccion.</p>
 </blockquote>
 </div>
 </section>
-<section id="mendel-cambia-el-panorama" class="slide level2">
-<h2>Mendel cambia el panorama</h2>
+<section id="resumen-herencia-particulada-y-evolucion" class="slide level2">
+<h2>Resumen: Herencia particulada y evolucion</h2>
 <ul>
-<li class="fragment">La herencia es particulada (alelos).</li>
-<li class="fragment">Los alelos no se “mezclan” para siempre.</li>
-<li class="fragment">Se segregan y recombinan en cada generacion.</li>
-</ul>
-</section>
-<section id="ley-1-segregacion-equitativa" class="slide level2">
-<h2>Ley 1: segregacion equitativa</h2>
-<ul>
-<li class="fragment">Cada individuo diploide tiene dos alelos por locus.</li>
-<li class="fragment">En meiosis, los dos alelos se separan.</li>
-<li class="fragment">Cada gameto recibe solo uno, con probabilidad aproximada 1/2.</li>
-</ul>
-<div class="fragment">
-<p>Importancia: explica por que las frecuencias alelicas pueden modelarse con probabilidades.</p>
-</div>
-</section>
-<section id="ley-2-surtido-independiente" class="slide level2">
-<h2>Ley 2: surtido independiente</h2>
-<ul>
-<li class="fragment">Alelos de loci distintos se distribuyen de forma independiente en los gametos.</li>
-<li class="fragment">Esto ocurre cuando los loci no estan ligados (o estan muy separados).</li>
-<li class="fragment">Se generan combinaciones nuevas de alelos en cada generacion.</li>
-</ul>
-<div class="fragment">
-<p>Importancia: aumenta la variacion genotipica sobre la que puede actuar la seleccion.</p>
-</div>
-</section>
-<section id="de-leyes-mendelianas-a-pensamiento-poblacional" class="slide level2">
-<h2>De leyes mendelianas a pensamiento poblacional</h2>
-<ul>
-<li class="fragment">En una familia: vemos cruces.</li>
-<li class="fragment">En una poblacion: vemos frecuencias.</li>
 <li class="fragment">Segregacion + surtido permiten predecir proporciones esperadas.</li>
-</ul>
-</section>
-<section id="por-que-esto-importa-para-evolucion" class="slide level2">
-<h2>Por que esto importa para evolucion</h2>
-<ul>
 <li class="fragment">La seleccion cambia frecuencias alelicas, no “tipos fijos”.</li>
 <li class="fragment">La variacion se conserva y se reorganiza cada generacion.</li>
-<li class="fragment">Por eso Hardy-Weinberg funciona como linea base evolutiva.</li>
 </ul>
+</section></section>
+<section>
+<section id="el-principio-de-hardy-weinberg" class="title-slide slide level1 center" data-background-color="#E8F5E9">
+<h1>El principio de Hardy-Weinberg</h1>
+
 </section>
-<section id="espacio-visual-puente-historico" class="slide level2">
-<h2>Espacio visual: puente historico</h2>
-<p><strong>Espacio para imagen:</strong> linea de tiempo Darwin/Wallace -&gt; Mendel -&gt; genetica de poblaciones.</p>
-</section>
-<section id="de-individuos-a-poblaciones" class="slide level2">
-<h2>De individuos a poblaciones</h2>
-<ul>
-<li class="fragment">Evolucion = cambio en frecuencias en poblaciones.</li>
-<li class="fragment">Ahora importan las frecuencias de alelos y genotipos.</li>
-<li class="fragment">Hardy-Weinberg conecta genetica mendeliana con evolucion.</li>
-</ul>
-</section>
-<section id="hardy-weinberg-como-modelo-nulo" class="slide level2">
-<h2>Hardy-Weinberg como modelo nulo</h2>
+<section id="modelo-nulo" class="slide level2">
+<h2>Modelo nulo</h2>
 <blockquote>
 <p>Que esperamos observar si no actua ninguna fuerza evolutiva?</p>
 </blockquote>
