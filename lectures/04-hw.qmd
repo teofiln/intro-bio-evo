@@ -81,6 +81,23 @@ execute:
 
 ## Mendel cambia el panorama: herencia particulada
 
+
+::: {.columns}
+
+::: {.column}
+
+::: {.fragment}
+
+![](04-assets/mendels-peas.jpg)
+
+:::
+
+
+
+:::
+
+::: {.column}
+
 ::: {.incremental}
 
 - Los descendientes son una combinación de ambos padres.
@@ -89,6 +106,15 @@ execute:
 - Los alelos se segregan y recombinan en cada generación.
 
 :::
+
+
+
+
+:::
+
+:::
+
+
 
 ## Segregacion equitativa
 
@@ -99,7 +125,7 @@ execute:
 
 - Cada individuo diploide tiene dos alelos por locus.
 - En meiosis, los dos alelos se separan.
-- Cada gameto recibe solo uno, con probabilidad aproximada 1/2.
+- Cada gameto recibe solo uno, con probabilidad 1/2.
 
 
 :::
@@ -141,7 +167,7 @@ execute:
 
 ::: {.incremental}
 - Segregacion + surtido permiten predecir proporciones esperadas.
-- La seleccion cambia frecuencias alelicas, no "tipos fijos".
+- La seleccion cambia frecuencias alelicas.
 - La variacion se conserva y se reorganiza cada generacion.
 :::
 
@@ -152,8 +178,22 @@ execute:
 > Que esperamos observar si no actua ninguna fuerza evolutiva?
 
 ::: {.fragment}
-Frecuencias alelicas y genotipicas predecibles de una generacion a otra.
+::: {.incremental}
+- Frecuencias alélicas permanecen constantes de una generación a otra.
+- Las frecuencias genotípicas se estabilizan en las proporciones de Hardy-Weinberg.
+- La diversidad genética existente se mantiene.
+- Aunque las frecuencias en un locus no cambian, la recombinación puede generar nuevas combinaciones multilocus de alelos.
 :::
+:::
+
+
+::: {.fragment}
+
+> HW describe estabilidad en las frecuencias alélicas de un locus, no ausencia de variación entre individuos.
+
+
+:::
+
 
 ## Supuestos de Hardy-Weinberg
 
@@ -171,11 +211,11 @@ Si los datos no ajustan, al menos un supuesto puede estar fallando.
 
 # Ejemplo visual {background-color="#E8F5E9"}
 
-## Antes de cualquier evento: frecuencias alelicas
+## Antes de cualquier evento: allelos
 
 ![](04-assets/allele_frequencies-left.png){width=60%}
 
-## Antes de cualquier evento: frecuencia y espacio
+## Antes de cualquier evento: allelos y frecuencias
 
 ![](04-assets/hw_2panels.png){width=50%}
 
@@ -219,11 +259,11 @@ Si los datos no ajustan, al menos un supuesto puede estar fallando.
 # Ejemplo numerico {background-color="#E8F5E9"}
 
 ## Datos y ecuaciones
+Poblacion de plantas con dos alelos:
 
 ::: {.columns}
 
-::: {.column width="50%"}
-Poblacion de plantas con dos alelos:
+::: {.column width="40%"}
 
 - $A$ (morado)
 - $a$ (blanco)
@@ -234,7 +274,7 @@ Frecuencias:
 - $q = 0.4$
 :::
 
-::: {.column width="50%"}
+::: {.column width="60%"}
 ::: {.fragment}
 $$
 p + q = 1
@@ -244,11 +284,9 @@ $$
 p^2 + 2pq + q^2 = 1
 $$
 :::
-:::
 
-:::
 
-## Calculo paso a paso
+::: {.fragment}
 
 ::: {.incremental}
 - $AA = p^2 = 0.6^2 = 0.36$
@@ -256,32 +294,13 @@ $$
 - $aa = q^2 = 0.4^2 = 0.16$
 :::
 
-## Resumen completo (100 individuos)
-
-::: {.columns}
-
-::: {.column width="50%"}
-Frecuencias esperadas:
-
-- $AA = 0.36$
-- $Aa = 0.48$
-- $aa = 0.16$
-:::
-
-::: {.column width="50%"}
-Conteos esperados:
-
-- $AA$: 36
-- $Aa$: 48
-- $aa$: 16
 :::
 
 :::
 
+:::
 
-# Comparar esperado vs observado {background-color="#E8F5E9"}
-
-## Ajuste aproximado vs desviacion clara
+## Comparar esperado vs observado 
 
 ::: {.columns}
 
@@ -363,41 +382,38 @@ $$
 Valor grande: desviacion marcada de Hardy-Weinberg.
 :::
 
-## Que podria explicar la desviacion?
-
-::: {.incremental}
-- Apareamiento no aleatorio.
-- Estructura poblacional.
-- Seleccion natural.
-- Tamano poblacional pequeno (deriva).
-- Error de muestreo.
-:::
-
 # Extra {background-color="#E8F5E9"}
 
-## 4 alelos en una poblacion diploide
+## 3 alelos en una poblacion diploide (sistema ABO)
 
-Si hay 4 alelos ($A_1, A_2, A_3, A_4$), entonces:
+En el sistema ABO hay 3 alelos en un locus: $I^A$, $I^B$ e $i$.
 
 Frecuencias alelicas:
 $$
-p + q + r + s = 1
+p + q + r = 1
 $$
 
-Frecuencias genotipicas:
+Frecuencias genotipicas esperadas bajo HW:
 $$
-p^2 + q^2 + r^2 + s^2 + 2pq + 2pr + 2ps + 2qr + 2qs + 2rs
+p^2 + q^2 + r^2 + 2pq + 2pr + 2qr = 1
 $$
 
-## 4 alelos en una poblacion diploide
+## Sistema ABO: genotipos y fenotipos esperados
 
-Esto produce 10 clases genotipicas esperadas:
+Esto produce 6 clases genotipicas esperadas:
 
-- 4 homocigotos: $A_1A_1$, $A_2A_2$, $A_3A_3$, $A_4A_4$
-- 6 heterocigotos: $A_1A_2$, $A_1A_3$, $A_1A_4$, $A_2A_3$, $A_2A_4$, $A_3A_4$
+- 3 homocigotos: $I^AI^A$, $I^BI^B$, $ii$
+- 3 heterocigotos: $I^AI^B$, $I^Ai$, $I^Bi$
+
+Fenotipos ABO:
+
+- Tipo A: $I^AI^A$ o $I^Ai$
+- Tipo B: $I^BI^B$ o $I^Bi$
+- Tipo AB: $I^AI^B$
+- Tipo O: $ii$
 
 ::: {.fragment}
-> Al aumentar alelos la cuenta crece rapido.
+> Ejemplo clasico de HW con tres alelos: $I^A$ e $I^B$ son codominantes, y ambos dominan sobre $i$.
 :::
 
 ## Y si la especie es poliploide?

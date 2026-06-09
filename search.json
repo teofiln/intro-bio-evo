@@ -844,14 +844,14 @@
     "href": "lectures/04-hw.html#ser-capaces-de",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nDefinir frecuencia alelica y frecuencia genotipica.\nAplicar \\(p + q = 1\\) y \\(p^2 + 2pq + q^2 = 1\\).\nCalcular genotipos esperados bajo Hardy-Weinberg.\nIdentificar casos cuando hay desviaciones de Hardy-Weinberg."
+    "text": "Ser capaces de\n\nDefinir frecuencia alelica y frecuencia genotipica.\nAplicar \\(p + q = 1\\) y \\(p^2 + 2pq + q^2 = 1\\).\nCalcular genotipos esperados bajo Hardy-Weinberg.\nIdentificar casos cuando hay desviaciones de Hardy-Weinberg."
   },
   {
     "objectID": "lectures/04-hw.html#el-problema-en-el-siglo-xix",
     "href": "lectures/04-hw.html#el-problema-en-el-siglo-xix",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "El problema en el siglo XIX",
-    "text": "El problema en el siglo XIX\n\n\n\n\n\nPortada de “El Origen de las Especies” (1859)\n\n\n\n\n\nDarwin y Wallace (1858-1859) propusieron seleccion natural.\nLa seleccion requiere variacion heredable.\nSin una buena teoria de herencia, la explicacion quedaba incompleta."
+    "text": "El problema en el siglo XIX\n\n\n\n\n\nPortada de “El Origen de las Especies” (1859)\n\n\n\n\nDarwin y Wallace (1858-1859) propusieron seleccion natural.\nLa seleccion requiere variacion heredable.\nSin una buena teoria de herencia, la explicacion quedaba incompleta."
   },
   {
     "objectID": "lectures/04-hw.html#herencia-por-mezcla-una-dificultad",
@@ -872,14 +872,14 @@
     "href": "lectures/04-hw.html#mendel-cambia-el-panorama-herencia-particulada",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Mendel cambia el panorama: herencia particulada",
-    "text": "Mendel cambia el panorama: herencia particulada\n\n\nLos descendientes son una combinación de ambos padres.\nLos rasgos de ambos padres se transmiten a la siguiente generación como entidades separadas.\nLa variación se mantiene a lo largo del tiempo.\nLos alelos se segregan y recombinan en cada generación."
+    "text": "Mendel cambia el panorama: herencia particulada\n\n\n\n\n\n\n\nLos descendientes son una combinación de ambos padres.\nLos rasgos de ambos padres se transmiten a la siguiente generación como entidades separadas.\nLa variación se mantiene a lo largo del tiempo.\nLos alelos se segregan y recombinan en cada generación."
   },
   {
     "objectID": "lectures/04-hw.html#segregacion-equitativa",
     "href": "lectures/04-hw.html#segregacion-equitativa",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Segregacion equitativa",
-    "text": "Segregacion equitativa\n\n\n\nCada individuo diploide tiene dos alelos por locus.\nEn meiosis, los dos alelos se separan.\nCada gameto recibe solo uno, con probabilidad aproximada 1/2."
+    "text": "Segregacion equitativa\n\n\n\nCada individuo diploide tiene dos alelos por locus.\nEn meiosis, los dos alelos se separan.\nCada gameto recibe solo uno, con probabilidad 1/2."
   },
   {
     "objectID": "lectures/04-hw.html#surtido-independiente",
@@ -893,21 +893,21 @@
     "href": "lectures/04-hw.html#resumen-herencia-particulada-y-evolucion",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Resumen: Herencia particulada y evolucion",
-    "text": "Resumen: Herencia particulada y evolucion\n\n\nSegregacion + surtido permiten predecir proporciones esperadas.\nLa seleccion cambia frecuencias alelicas, no “tipos fijos”.\nLa variacion se conserva y se reorganiza cada generacion."
+    "text": "Resumen: Herencia particulada y evolucion\n\nSegregacion + surtido permiten predecir proporciones esperadas.\nLa seleccion cambia frecuencias alelicas.\nLa variacion se conserva y se reorganiza cada generacion."
   },
   {
     "objectID": "lectures/04-hw.html#modelo-nulo",
     "href": "lectures/04-hw.html#modelo-nulo",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Modelo nulo",
-    "text": "Modelo nulo\n\nQue esperamos observar si no actua ninguna fuerza evolutiva?\n\n\nFrecuencias alelicas y genotipicas predecibles de una generacion a otra."
+    "text": "Modelo nulo\n\nQue esperamos observar si no actua ninguna fuerza evolutiva?\n\n\n\nFrecuencias alélicas permanecen constantes de una generación a otra.\nLas frecuencias genotípicas se estabilizan en las proporciones de Hardy-Weinberg.\nLa diversidad genética existente se mantiene.\nAunque las frecuencias en un locus no cambian, la recombinación puede generar nuevas combinaciones multilocus de alelos.\n\n\n\n\nHW describe estabilidad en las frecuencias alélicas de un locus, no ausencia de variación entre individuos."
   },
   {
     "objectID": "lectures/04-hw.html#supuestos-de-hardy-weinberg",
     "href": "lectures/04-hw.html#supuestos-de-hardy-weinberg",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Supuestos de Hardy-Weinberg",
-    "text": "Supuestos de Hardy-Weinberg\n\n\nApareamiento aleatorio.\nPoblacion muy grande.\nSin seleccion natural.\nSin mutacion.\nSin migracion (flujo genico).\n\n\n\nSi los datos no ajustan, al menos un supuesto puede estar fallando."
+    "text": "Supuestos de Hardy-Weinberg\n\nApareamiento aleatorio.\nPoblacion muy grande.\nSin seleccion natural.\nSin mutacion.\nSin migracion (flujo genico).\n\n\nSi los datos no ajustan, al menos un supuesto puede estar fallando."
   },
   {
     "objectID": "lectures/04-hw.html#antes-de-cualquier-evento-frecuencias-alelicas",
@@ -991,14 +991,14 @@
     "href": "lectures/04-hw.html#datos-y-ecuaciones",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Datos y ecuaciones",
-    "text": "Datos y ecuaciones\n\n\nPoblacion de plantas con dos alelos:\n\n\\(A\\) (morado)\n\\(a\\) (blanco)\n\nFrecuencias:\n\n\\(p = 0.6\\)\n\\(q = 0.4\\)\n\n\n\n\\[\np + q = 1\n\\]\n\\[\np^2 + 2pq + q^2 = 1\n\\]"
+    "text": "Datos y ecuaciones\n\n\nPoblacion de plantas con dos alelos:\n\n\\(A\\) (morado)\n\\(a\\) (blanco)\n\nFrecuencias:\n\n\\(p = 0.6\\)\n\\(q = 0.4\\)\n\n\n\n\\[\np + q = 1\n\\]\n\\[\np^2 + 2pq + q^2 = 1\n\\]\n\n\n\n\\(AA = p^2 = 0.6^2 = 0.36\\)\n\\(Aa = 2pq = 2(0.6)(0.4) = 0.48\\)\n\\(aa = q^2 = 0.4^2 = 0.16\\)"
   },
   {
     "objectID": "lectures/04-hw.html#calculo-paso-a-paso",
     "href": "lectures/04-hw.html#calculo-paso-a-paso",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Calculo paso a paso",
-    "text": "Calculo paso a paso\n\n\n\\(AA = p^2 = 0.6^2 = 0.36\\)\n\\(Aa = 2pq = 2(0.6)(0.4) = 0.48\\)\n\\(aa = q^2 = 0.4^2 = 0.16\\)"
+    "text": "Calculo paso a paso\n\n\\(AA = p^2 = 0.6^2 = 0.36\\)\n\\(Aa = 2pq = 2(0.6)(0.4) = 0.48\\)\n\\(aa = q^2 = 0.4^2 = 0.16\\)"
   },
   {
     "objectID": "lectures/04-hw.html#resumen-completo-100-individuos",
@@ -1040,7 +1040,7 @@
     "href": "lectures/04-hw.html#que-podria-explicar-la-desviacion",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Que podria explicar la desviacion?",
-    "text": "Que podria explicar la desviacion?\n\n\nApareamiento no aleatorio.\nEstructura poblacional.\nSeleccion natural.\nTamano poblacional pequeno (deriva).\nError de muestreo."
+    "text": "Que podria explicar la desviacion?\n\nApareamiento no aleatorio.\nEstructura poblacional.\nSeleccion natural.\nTamano poblacional pequeno (deriva).\nError de muestreo."
   },
   {
     "objectID": "lectures/04-hw.html#alelos-en-una-poblacion-diploide",
@@ -1061,7 +1061,7 @@
     "href": "lectures/04-hw.html#y-si-la-especie-es-poliploide",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Y si la especie es poliploide?",
-    "text": "Y si la especie es poliploide?\n\n\nMuchas especies de plantas no son diploides.\nEjemplo: papa cultivada (Solanum tuberosum), frecuentemente tetraploide.\nEn tetraploides, para dos alelos se expande \\((p+q)^4\\)."
+    "text": "Y si la especie es poliploide?\n\nMuchas especies de plantas no son diploides.\nEjemplo: papa cultivada (Solanum tuberosum), frecuentemente tetraploide.\nEn tetraploides, para dos alelos se expande \\((p+q)^4\\)."
   },
   {
     "objectID": "lectures/04-hw.html#hardy-weinberg-en-tetraploides-papa",
@@ -1139,5 +1139,40 @@
     "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
     "section": "8 Sintesis",
     "text": "8 Sintesis\nCompleten la tabla con un juicio breve para cada evidencia.\nEscala: ++ (apoyo fuerte), + (apoyo moderado), 0 (neutral), - (debilita).\n\n\n\nEvidencia\nHipotesis A\nHipotesis B\nJustificacion corta\n\n\n\n\nObservacion del comportamiento\n\n\n\n\n\nDisminucion del pO2 en la burbuja\n\n\n\n\n\nDistribucion en el arbol filogenetico\n\n\n\n\n\n\n\nCual hipotesis recibe mayor apoyo global con la evidencia disponible?\n\n\nEscriban una conclusion breve (2-3 oraciones), incluyendo una nota de incertidumbre."
+  },
+  {
+    "objectID": "lectures/04-hw.html#alelos-en-una-poblacion-diploide-sistema-abo",
+    "href": "lectures/04-hw.html#alelos-en-una-poblacion-diploide-sistema-abo",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "3 alelos en una poblacion diploide (sistema ABO)",
+    "text": "3 alelos en una poblacion diploide (sistema ABO)\nEn el sistema ABO hay 3 alelos en un locus: \\(I^A\\), \\(I^B\\) e \\(i\\).\nFrecuencias alelicas: \\[\np + q + r = 1\n\\]\nFrecuencias genotipicas esperadas bajo HW: \\[\np^2 + q^2 + r^2 + 2pq + 2pr + 2qr = 1\n\\]"
+  },
+  {
+    "objectID": "lectures/04-hw.html#sistema-abo-genotipos-y-fenotipos-esperados",
+    "href": "lectures/04-hw.html#sistema-abo-genotipos-y-fenotipos-esperados",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Sistema ABO: genotipos y fenotipos esperados",
+    "text": "Sistema ABO: genotipos y fenotipos esperados\nEsto produce 6 clases genotipicas esperadas:\n\n3 homocigotos: \\(I^AI^A\\), \\(I^BI^B\\), \\(ii\\)\n3 heterocigotos: \\(I^AI^B\\), \\(I^Ai\\), \\(I^Bi\\)\n\nFenotipos ABO:\n\nTipo A: \\(I^AI^A\\) o \\(I^Ai\\)\nTipo B: \\(I^BI^B\\) o \\(I^Bi\\)\nTipo AB: \\(I^AI^B\\)\nTipo O: \\(ii\\)\n\n\n\nEjemplo clasico de HW con tres alelos: \\(I^A\\) e \\(I^B\\) son codominantes, y ambos dominan sobre \\(i\\)."
+  },
+  {
+    "objectID": "lectures/04-hw.html#antes-de-cualquier-evento-allelos",
+    "href": "lectures/04-hw.html#antes-de-cualquier-evento-allelos",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Antes de cualquier evento: allelos",
+    "text": "Antes de cualquier evento: allelos"
+  },
+  {
+    "objectID": "lectures/04-hw.html#antes-de-cualquier-evento-allelos-y-frecuencias",
+    "href": "lectures/04-hw.html#antes-de-cualquier-evento-allelos-y-frecuencias",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Antes de cualquier evento: allelos y frecuencias",
+    "text": "Antes de cualquier evento: allelos y frecuencias"
+  },
+  {
+    "objectID": "lectures/04-hw.html#comparar-esperado-vs-observado",
+    "href": "lectures/04-hw.html#comparar-esperado-vs-observado",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Comparar esperado vs observado",
+    "text": "Comparar esperado vs observado\n\n\nCaso 1: ajuste aproximado\nEsperado (100): 36, 48, 16\nObservado: 36, 46, 18\n\nCompatible con Hardy-Weinberg.\n\n\n\nCaso 2: desviacion clara\nEsperado (100): 36, 48, 16\nObservado: 48, 30, 22\nDeficit fuerte de heterocigotos."
   }
 ]
