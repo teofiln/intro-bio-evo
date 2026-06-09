@@ -169,10 +169,60 @@ Frecuencias alelicas y genotipicas predecibles de una generacion a otra.
 Si los datos no ajustan, al menos un supuesto puede estar fallando.
 :::
 
-# Ejemplo rapido {background-color="#E8F5E9"}
+# Ejemplo visual {background-color="#E8F5E9"}
 
-## Datos iniciales
+## Antes de cualquier evento: frecuencias alelicas
 
+![](04-assets/allele_frequencies-left.png){width=60%}
+
+## Antes de cualquier evento: frecuencia y espacio
+
+![](04-assets/hw_2panels.png){width=50%}
+
+## Hardy-Weinberg: apareamiento aleatorio
+
+![](04-assets/hw_4panels-arrows.png){width=100%}
+
+## Seleccion natural: antes
+
+![](04-assets/hw_2panels.png){width=50%}
+
+## Seleccion natural: despues
+
+![](04-assets/not_hw_4panels-selection-arrows.png){width=100%}
+
+## Deriva genetica: antes
+
+![](04-assets/hw_2panels.png){width=50%}
+
+## Deriva genetica: despues
+
+![](04-assets/not_hw_4panels-drift-arrows.png){width=100%}
+
+## Mutacion: antes
+
+![](04-assets/hw_2panels.png){width=50%}
+
+## Mutacion: despues
+
+![](04-assets/not_hw_4panels-mutation-arrows.png){width=100%}
+
+## Migracion: antes
+
+![](04-assets/hw_2panels.png){width=50%}
+
+## Migracion: despues
+
+![](04-assets/not_hw_4panels-migration-arrows.png){width=100%}
+
+
+# Ejemplo numerico {background-color="#E8F5E9"}
+
+## Datos y ecuaciones
+
+::: {.columns}
+
+::: {.column width="50%"}
 Poblacion de plantas con dos alelos:
 
 - $A$ (morado)
@@ -182,9 +232,10 @@ Frecuencias:
 
 - $p = 0.6$
 - $q = 0.4$
+:::
 
-## Recordatorio matematico
-
+::: {.column width="50%"}
+::: {.fragment}
 $$
 p + q = 1
 $$
@@ -192,48 +243,124 @@ $$
 $$
 p^2 + 2pq + q^2 = 1
 $$
-
-## Genotipos esperados
-
-::: {.incremental}
-- $AA = p^2 = 0.36$
-- $Aa = 2pq = 0.48$
-- $aa = q^2 = 0.16$
+:::
 :::
 
-## En una muestra de 100 individuos
+:::
+
+## Calculo paso a paso
 
 ::: {.incremental}
+- $AA = p^2 = 0.6^2 = 0.36$
+- $Aa = 2pq = 2(0.6)(0.4) = 0.48$
+- $aa = q^2 = 0.4^2 = 0.16$
+:::
+
+## Resumen completo (100 individuos)
+
+::: {.columns}
+
+::: {.column width="50%"}
+Frecuencias esperadas:
+
+- $AA = 0.36$
+- $Aa = 0.48$
+- $aa = 0.16$
+:::
+
+::: {.column width="50%"}
+Conteos esperados:
+
 - $AA$: 36
 - $Aa$: 48
 - $aa$: 16
 :::
 
-## Espacio visual: cuadro de Punnett
-
-**Espacio para imagen:** cuadro de Punnett con gametos $A$ y $a$.
+:::
 
 
 # Comparar esperado vs observado {background-color="#E8F5E9"}
 
-## Caso 1: ajuste aproximado
+## Ajuste aproximado vs desviacion clara
+
+::: {.columns}
+
+::: {.column width="50%"}
+**Caso 1: ajuste aproximado**
 
 Esperado (100): 36, 48, 16
 
 Observado: 36, 46, 18
 
 ::: {.fragment}
-Interpretacion: compatible con Hardy-Weinberg (a primera vista).
+Compatible con Hardy-Weinberg.
+:::
 :::
 
-## Caso 2: desviacion clara
+::: {.column width="50%"}
+::: {.fragment}
+**Caso 2: desviacion clara**
 
 Esperado (100): 36, 48, 16
 
 Observado: 48, 30, 22
 
+Deficit fuerte de heterocigotos.
+:::
+:::
+
+:::
+
+## Prueba chi-cuadrado
+
+Comparamos observado ($O$) vs esperado ($E$):
+
+$$
+\chi^2 = \sum \frac{(O - E)^2}{E}
+$$
+
 ::: {.fragment}
-Hay deficit fuerte de heterocigotos.
+Para cada categoria (aqui, cada genotipo), calculamos la diferencia entre observado y esperado, la escalamos por el esperado, y luego sumamos todas.
+:::
+
+::: {.fragment}
+El cuadrado hace que todas las desviaciones cuenten como positivas y penaliza mas las diferencias grandes.
+:::
+
+::: {.fragment}
+Mientras mayor sea $\chi^2$, mayor es la desviacion respecto a Hardy-Weinberg.
+:::
+
+## Chi-cuadrado: caso 1
+
+**Caso 1: ajuste aproximado**
+
+$$
+\chi^2 = \frac{(36-36)^2}{36} + \frac{(46-48)^2}{48} + \frac{(18-16)^2}{16}
+$$
+
+$$
+\chi^2 = 0 + 0.083 + 0.25 = 0.333
+$$
+
+::: {.fragment}
+Valor pequeno: compatible con ajuste aproximado.
+:::
+
+## Chi-cuadrado: caso 2
+
+**Caso 2: desviacion clara**
+
+$$
+\chi^2 = \frac{(48-36)^2}{36} + \frac{(30-48)^2}{48} + \frac{(22-16)^2}{16}
+$$
+
+$$
+\chi^2 = 4 + 6.75 + 2.25 = 13
+$$
+
+::: {.fragment}
+Valor grande: desviacion marcada de Hardy-Weinberg.
 :::
 
 ## Que podria explicar la desviacion?
@@ -246,10 +373,32 @@ Hay deficit fuerte de heterocigotos.
 - Error de muestreo.
 :::
 
-## Espacio visual: diagnostico
+# Extra {background-color="#E8F5E9"}
 
-**Espacio para imagen:** diagrama de decision "si no ajusta HW, evaluar fuerzas evolutivas".
+## 4 alelos en una poblacion diploide
 
+Si hay 4 alelos ($A_1, A_2, A_3, A_4$), entonces:
+
+Frecuencias alelicas:
+$$
+p + q + r + s = 1
+$$
+
+Frecuencias genotipicas:
+$$
+p^2 + q^2 + r^2 + s^2 + 2pq + 2pr + 2ps + 2qr + 2qs + 2rs
+$$
+
+## 4 alelos en una poblacion diploide
+
+Esto produce 10 clases genotipicas esperadas:
+
+- 4 homocigotos: $A_1A_1$, $A_2A_2$, $A_3A_3$, $A_4A_4$
+- 6 heterocigotos: $A_1A_2$, $A_1A_3$, $A_1A_4$, $A_2A_3$, $A_2A_4$, $A_3A_4$
+
+::: {.fragment}
+> Al aumentar alelos la cuenta crece rapido.
+:::
 
 ## Y si la especie es poliploide?
 
@@ -270,13 +419,11 @@ Cada termino representa clases genotipicas con 4 copias alelicas (por ejemplo, A
 :::
 
 ::: {.fragment}
-Mensaje clave: en sistemas no modelo, estimar frecuencias alelicas/genotipicas puede volverse rapidamente complejo.
+> En sistemas no modelo, estimar frecuencias alelicas/genotipicas puede volverse rapidamente complejo.
 :::
 
 
 # Cierre {background-color="#E8F5E9"}
-
-## Idea central
 
 Hardy-Weinberg no dice que las poblaciones reales "no evolucionan".
 
@@ -284,9 +431,9 @@ Hardy-Weinberg no dice que las poblaciones reales "no evolucionan".
 Nos da una referencia para detectar cuando y como pueden estar evolucionando.
 :::
 
-## Take-home messages
+## Resumen
 
 1. Seleccion natural necesita variacion heredable persistente.
 2. Mendel explico como se conserva la variacion.
-3. Hardy-Weinberg ofrece una linea base cuantitativa.
-4. Las desviaciones guian preguntas evolutivas.
+3. El principio de Hardy-Weinberg ofrece una linea base cuantitativa.
+4. Las desviaciones de Hardy-Weinberg guian preguntas evolutivas.

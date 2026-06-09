@@ -844,14 +844,14 @@
     "href": "lectures/04-hw.html#ser-capaces-de",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\nDefinir frecuencia alelica y frecuencia genotipica.\nAplicar \\(p + q = 1\\) y \\(p^2 + 2pq + q^2 = 1\\).\nCalcular genotipos esperados bajo Hardy-Weinberg.\nIdentificar casos cuando hay desviaciones de Hardy-Weinberg."
+    "text": "Ser capaces de\n\n\nDefinir frecuencia alelica y frecuencia genotipica.\nAplicar \\(p + q = 1\\) y \\(p^2 + 2pq + q^2 = 1\\).\nCalcular genotipos esperados bajo Hardy-Weinberg.\nIdentificar casos cuando hay desviaciones de Hardy-Weinberg."
   },
   {
     "objectID": "lectures/04-hw.html#el-problema-en-el-siglo-xix",
     "href": "lectures/04-hw.html#el-problema-en-el-siglo-xix",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "El problema en el siglo XIX",
-    "text": "El problema en el siglo XIX\n\n\n\n\n\nPortada de “El Origen de las Especies” (1859)\n\n\n\n\nDarwin y Wallace (1858-1859) propusieron seleccion natural.\nLa seleccion requiere variacion heredable.\nSin una buena teoria de herencia, la explicacion quedaba incompleta."
+    "text": "El problema en el siglo XIX\n\n\n\n\n\nPortada de “El Origen de las Especies” (1859)\n\n\n\n\n\nDarwin y Wallace (1858-1859) propusieron seleccion natural.\nLa seleccion requiere variacion heredable.\nSin una buena teoria de herencia, la explicacion quedaba incompleta."
   },
   {
     "objectID": "lectures/04-hw.html#herencia-por-mezcla-una-dificultad",
@@ -921,7 +921,7 @@
     "href": "lectures/04-hw.html#supuestos-de-hardy-weinberg",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Supuestos de Hardy-Weinberg",
-    "text": "Supuestos de Hardy-Weinberg\n\nApareamiento aleatorio.\nPoblacion muy grande.\nSin seleccion natural.\nSin mutacion.\nSin migracion (flujo genico).\n\n\nSi los datos no ajustan, al menos un supuesto puede estar fallando."
+    "text": "Supuestos de Hardy-Weinberg\n\n\nApareamiento aleatorio.\nPoblacion muy grande.\nSin seleccion natural.\nSin mutacion.\nSin migracion (flujo genico).\n\n\n\nSi los datos no ajustan, al menos un supuesto puede estar fallando."
   },
   {
     "objectID": "lectures/04-hw.html#espacio-visual-supuestos",
@@ -935,7 +935,7 @@
     "href": "lectures/04-hw.html#datos-iniciales",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Datos iniciales",
-    "text": "Datos iniciales\nPoblacion de plantas con dos alelos:\n\n\\(A\\) (morado)\n\\(a\\) (blanco)\n\nFrecuencias:\n\n\\(p = 0.7\\)\n\\(q = 0.3\\)"
+    "text": "Datos iniciales\nPoblacion de plantas con dos alelos:\n\n\\(A\\) (morado)\n\\(a\\) (blanco)\n\nFrecuencias:\n\n\\(p = 0.6\\)\n\\(q = 0.4\\)"
   },
   {
     "objectID": "lectures/04-hw.html#recordatorio-matematico",
@@ -949,14 +949,14 @@
     "href": "lectures/04-hw.html#genotipos-esperados",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Genotipos esperados",
-    "text": "Genotipos esperados\n\n\\(AA = p^2 = 0.49\\)\n\\(Aa = 2pq = 0.42\\)\n\\(aa = q^2 = 0.09\\)"
+    "text": "Genotipos esperados\n\n\n\\(AA = p^2 = 0.36\\)\n\\(Aa = 2pq = 0.48\\)\n\\(aa = q^2 = 0.16\\)"
   },
   {
     "objectID": "lectures/04-hw.html#en-una-muestra-de-100-individuos",
     "href": "lectures/04-hw.html#en-una-muestra-de-100-individuos",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "En una muestra de 100 individuos",
-    "text": "En una muestra de 100 individuos\n\n\\(AA\\): 49\n\\(Aa\\): 42\n\\(aa\\): 9"
+    "text": "En una muestra de 100 individuos\n\n\n\\(AA\\): 36\n\\(Aa\\): 48\n\\(aa\\): 16"
   },
   {
     "objectID": "lectures/04-hw.html#espacio-visual-cuadro-de-punnett",
@@ -970,21 +970,21 @@
     "href": "lectures/04-hw.html#caso-1-ajuste-aproximado",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Caso 1: ajuste aproximado",
-    "text": "Caso 1: ajuste aproximado\nEsperado (100): 49, 42, 9\nObservado: 48, 43, 9\n\nInterpretacion: compatible con Hardy-Weinberg (a primera vista)."
+    "text": "Caso 1: ajuste aproximado\nEsperado (100): 36, 48, 16\nObservado: 36, 46, 18\n\nInterpretacion: compatible con Hardy-Weinberg (a primera vista)."
   },
   {
     "objectID": "lectures/04-hw.html#caso-2-desviacion-clara",
     "href": "lectures/04-hw.html#caso-2-desviacion-clara",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Caso 2: desviacion clara",
-    "text": "Caso 2: desviacion clara\nEsperado (100): 49, 42, 9\nObservado: 65, 10, 25\n\nHay deficit fuerte de heterocigotos."
+    "text": "Caso 2: desviacion clara\nEsperado (100): 36, 48, 16\nObservado: 48, 30, 22\n\nHay deficit fuerte de heterocigotos."
   },
   {
     "objectID": "lectures/04-hw.html#que-podria-explicar-la-desviacion",
     "href": "lectures/04-hw.html#que-podria-explicar-la-desviacion",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Que podria explicar la desviacion?",
-    "text": "Que podria explicar la desviacion?\n\nApareamiento no aleatorio.\nEstructura poblacional.\nSeleccion natural.\nTamano poblacional pequeno (deriva).\nError de muestreo."
+    "text": "Que podria explicar la desviacion?\n\n\nApareamiento no aleatorio.\nEstructura poblacional.\nSeleccion natural.\nTamano poblacional pequeno (deriva).\nError de muestreo."
   },
   {
     "objectID": "lectures/04-hw.html#espacio-visual-diagnostico",
@@ -998,14 +998,14 @@
     "href": "lectures/04-hw.html#y-si-la-especie-es-poliploide",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Y si la especie es poliploide?",
-    "text": "Y si la especie es poliploide?\n\nMuchas especies de plantas no son diploides.\nEjemplo: papa cultivada (Solanum tuberosum), frecuentemente tetraploide.\nEn tetraploides, para dos alelos se expande \\((p+q)^4\\)."
+    "text": "Y si la especie es poliploide?\n\n\nMuchas especies de plantas no son diploides.\nEjemplo: papa cultivada (Solanum tuberosum), frecuentemente tetraploide.\nEn tetraploides, para dos alelos se expande \\((p+q)^4\\)."
   },
   {
     "objectID": "lectures/04-hw.html#hardy-weinberg-en-tetraploides-papa",
     "href": "lectures/04-hw.html#hardy-weinberg-en-tetraploides-papa",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Hardy-Weinberg en tetraploides (papa)",
-    "text": "Hardy-Weinberg en tetraploides (papa)\n\\[\n(p + q)^4 = p^4 + 4p^3q + 6p^2q^2 + 4pq^3 + q^4\n\\]\n\nCada termino representa clases genotipicas con 4 copias alelicas (por ejemplo, AAAa, AAaa, Aaaa).\n\n\nMensaje clave: en sistemas no modelo, estimar frecuencias alelicas/genotipicas puede volverse rapidamente complejo."
+    "text": "Hardy-Weinberg en tetraploides (papa)\n\\[\n(p + q)^4 = p^4 + 4p^3q + 6p^2q^2 + 4pq^3 + q^4\n\\]\n\nCada termino representa clases genotipicas con 4 copias alelicas (por ejemplo, AAAa, AAaa, Aaaa).\n\n\n\nEn sistemas no modelo, estimar frecuencias alelicas/genotipicas puede volverse rapidamente complejo."
   },
   {
     "objectID": "lectures/04-hw.html#idea-central",
@@ -1103,7 +1103,7 @@
     "href": "lectures/04-hw.html#mendel-cambia-el-panorama-herencia-particulada",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Mendel cambia el panorama: herencia particulada",
-    "text": "Mendel cambia el panorama: herencia particulada\n\nLos descendientes son una combinación de ambos padres.\nLos rasgos de ambos padres se transmiten a la siguiente generación como entidades separadas.\nLa variación se mantiene a lo largo del tiempo.\nLos alelos se segregan y recombinan en cada generación."
+    "text": "Mendel cambia el panorama: herencia particulada\n\n\nLos descendientes son una combinación de ambos padres.\nLos rasgos de ambos padres se transmiten a la siguiente generación como entidades separadas.\nLa variación se mantiene a lo largo del tiempo.\nLos alelos se segregan y recombinan en cada generación."
   },
   {
     "objectID": "lectures/04-hw.html#segregacion-equitativa",
@@ -1124,7 +1124,7 @@
     "href": "lectures/04-hw.html#resumen-herencia-particulada-y-evolucion",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Resumen: Herencia particulada y evolucion",
-    "text": "Resumen: Herencia particulada y evolucion\n\nSegregacion + surtido permiten predecir proporciones esperadas.\nLa seleccion cambia frecuencias alelicas, no “tipos fijos”.\nLa variacion se conserva y se reorganiza cada generacion."
+    "text": "Resumen: Herencia particulada y evolucion\n\n\nSegregacion + surtido permiten predecir proporciones esperadas.\nLa seleccion cambia frecuencias alelicas, no “tipos fijos”.\nLa variacion se conserva y se reorganiza cada generacion."
   },
   {
     "objectID": "lectures/04-hw.html#modelo-nulo",
@@ -1132,5 +1132,250 @@
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Modelo nulo",
     "text": "Modelo nulo\n\nQue esperamos observar si no actua ninguna fuerza evolutiva?\n\n\nFrecuencias alelicas y genotipicas predecibles de una generacion a otra."
+  },
+  {
+    "objectID": "lectures/04-hw.html#antes-de-cualquier-evento-frecuencias-alelicas",
+    "href": "lectures/04-hw.html#antes-de-cualquier-evento-frecuencias-alelicas",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Antes de cualquier evento: frecuencias alelicas",
+    "text": "Antes de cualquier evento: frecuencias alelicas"
+  },
+  {
+    "objectID": "lectures/04-hw.html#antes-de-cualquier-evento-frecuencia-y-espacio",
+    "href": "lectures/04-hw.html#antes-de-cualquier-evento-frecuencia-y-espacio",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Antes de cualquier evento: frecuencia y espacio",
+    "text": "Antes de cualquier evento: frecuencia y espacio"
+  },
+  {
+    "objectID": "lectures/04-hw.html#hardy-weinberg-apareamiento-aleatorio",
+    "href": "lectures/04-hw.html#hardy-weinberg-apareamiento-aleatorio",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Hardy-Weinberg: apareamiento aleatorio",
+    "text": "Hardy-Weinberg: apareamiento aleatorio"
+  },
+  {
+    "objectID": "lectures/04-hw.html#seleccion-natural-punto-de-partida",
+    "href": "lectures/04-hw.html#seleccion-natural-punto-de-partida",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Seleccion natural: punto de partida",
+    "text": "Seleccion natural: punto de partida"
+  },
+  {
+    "objectID": "lectures/04-hw.html#seleccion-natural",
+    "href": "lectures/04-hw.html#seleccion-natural",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Seleccion natural",
+    "text": "Seleccion natural"
+  },
+  {
+    "objectID": "lectures/04-hw.html#deriva-genetica-punto-de-partida",
+    "href": "lectures/04-hw.html#deriva-genetica-punto-de-partida",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Deriva genetica: punto de partida",
+    "text": "Deriva genetica: punto de partida"
+  },
+  {
+    "objectID": "lectures/04-hw.html#deriva-genetica",
+    "href": "lectures/04-hw.html#deriva-genetica",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Deriva genetica",
+    "text": "Deriva genetica"
+  },
+  {
+    "objectID": "lectures/04-hw.html#mutacion-punto-de-partida",
+    "href": "lectures/04-hw.html#mutacion-punto-de-partida",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Mutacion: punto de partida",
+    "text": "Mutacion: punto de partida"
+  },
+  {
+    "objectID": "lectures/04-hw.html#mutacion",
+    "href": "lectures/04-hw.html#mutacion",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Mutacion",
+    "text": "Mutacion"
+  },
+  {
+    "objectID": "lectures/04-hw.html#migracion-punto-de-partida",
+    "href": "lectures/04-hw.html#migracion-punto-de-partida",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Migracion: punto de partida",
+    "text": "Migracion: punto de partida"
+  },
+  {
+    "objectID": "lectures/04-hw.html#migracion",
+    "href": "lectures/04-hw.html#migracion",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Migracion",
+    "text": "Migracion"
+  },
+  {
+    "objectID": "lectures/04-hw.html#seleccion-natural-1",
+    "href": "lectures/04-hw.html#seleccion-natural-1",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Seleccion natural",
+    "text": "Seleccion natural"
+  },
+  {
+    "objectID": "lectures/04-hw.html#deriva-genetica-1",
+    "href": "lectures/04-hw.html#deriva-genetica-1",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Deriva genetica",
+    "text": "Deriva genetica"
+  },
+  {
+    "objectID": "lectures/04-hw.html#mutacion-1",
+    "href": "lectures/04-hw.html#mutacion-1",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Mutacion",
+    "text": "Mutacion"
+  },
+  {
+    "objectID": "lectures/04-hw.html#migracion-1",
+    "href": "lectures/04-hw.html#migracion-1",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Migracion",
+    "text": "Migracion"
+  },
+  {
+    "objectID": "lectures/04-hw.html#datos-y-ecuaciones",
+    "href": "lectures/04-hw.html#datos-y-ecuaciones",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Datos y ecuaciones",
+    "text": "Datos y ecuaciones\n\n\nPoblacion de plantas con dos alelos:\n\n\\(A\\) (morado)\n\\(a\\) (blanco)\n\nFrecuencias:\n\n\\(p = 0.6\\)\n\\(q = 0.4\\)\n\n\n\n\\[\np + q = 1\n\\]\n\\[\np^2 + 2pq + q^2 = 1\n\\]"
+  },
+  {
+    "objectID": "lectures/04-hw.html#calculo-paso-a-paso",
+    "href": "lectures/04-hw.html#calculo-paso-a-paso",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Calculo paso a paso",
+    "text": "Calculo paso a paso\n\n\n\\(AA = p^2 = 0.6^2 = 0.36\\)\n\\(Aa = 2pq = 2(0.6)(0.4) = 0.48\\)\n\\(aa = q^2 = 0.4^2 = 0.16\\)"
+  },
+  {
+    "objectID": "lectures/04-hw.html#resumen-completo-100-individuos",
+    "href": "lectures/04-hw.html#resumen-completo-100-individuos",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Resumen completo (100 individuos)",
+    "text": "Resumen completo (100 individuos)\n\n\nFrecuencias esperadas:\n\n\\(AA = 0.36\\)\n\\(Aa = 0.48\\)\n\\(aa = 0.16\\)\n\n\nConteos esperados:\n\n\\(AA\\): 36\n\\(Aa\\): 48\n\\(aa\\): 16"
+  },
+  {
+    "objectID": "lectures/04-hw.html#ajuste-aproximado-vs-desviacion-clara",
+    "href": "lectures/04-hw.html#ajuste-aproximado-vs-desviacion-clara",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Ajuste aproximado vs desviacion clara",
+    "text": "Ajuste aproximado vs desviacion clara\n\n\nCaso 1: ajuste aproximado\nEsperado (100): 36, 48, 16\nObservado: 36, 46, 18\n\nCompatible con Hardy-Weinberg.\n\n\n\nCaso 2: desviacion clara\nEsperado (100): 36, 48, 16\nObservado: 48, 30, 22\nDeficit fuerte de heterocigotos."
+  },
+  {
+    "objectID": "lectures/04-hw.html#resumen",
+    "href": "lectures/04-hw.html#resumen",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Resumen",
+    "text": "Resumen\n\nSeleccion natural necesita variacion heredable persistente.\nMendel explico como se conserva la variacion.\nEl principio de Hardy-Weinberg ofrece una linea base cuantitativa.\nLas desviaciones de Hardy-Weinberg guian preguntas evolutivas."
+  },
+  {
+    "objectID": "lectures/04-hw.html#prueba-chi-cuadrado",
+    "href": "lectures/04-hw.html#prueba-chi-cuadrado",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Prueba chi-cuadrado",
+    "text": "Prueba chi-cuadrado\nComparamos observado (\\(O\\)) vs esperado (\\(E\\)):\n\\[\n\\chi^2 = \\sum \\frac{(O - E)^2}{E}\n\\]\n\nPara cada categoria (aqui, cada genotipo), calculamos la diferencia entre observado y esperado, la escalamos por el esperado, y luego sumamos todas.\n\n\nEl cuadrado hace que todas las desviaciones cuenten como positivas y penaliza mas las diferencias grandes.\n\n\nMientras mayor sea \\(\\chi^2\\), mayor es la desviacion respecto a Hardy-Weinberg."
+  },
+  {
+    "objectID": "lectures/04-hw.html#chi-cuadrado-en-ambos-casos",
+    "href": "lectures/04-hw.html#chi-cuadrado-en-ambos-casos",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Chi-cuadrado en ambos casos",
+    "text": "Chi-cuadrado en ambos casos\n\n\nCaso 1: ajuste aproximado\n\\[\n\\chi^2 = \\frac{(36-36)^2}{36} + \\frac{(46-48)^2}{48} + \\frac{(18-16)^2}{16}\n\\]\n\\[\n\\chi^2 = 0 + 0.083 + 0.25 = 0.333\n\\]\n\nValor pequeno: compatible con ajuste aproximado.\n\n\n\nCaso 2: desviacion clara\n\\[\n\\chi^2 = \\frac{(48-36)^2}{36} + \\frac{(30-48)^2}{48} + \\frac{(22-16)^2}{16}\n\\]\n\\[\n\\chi^2 = 4 + 6.75 + 2.25 = 13\n\\]\nValor grande: desviacion marcada de Hardy-Weinberg."
+  },
+  {
+    "objectID": "lectures/04-hw.html#vista-rapida-4-alelos-en-una-poblacion-diploide",
+    "href": "lectures/04-hw.html#vista-rapida-4-alelos-en-una-poblacion-diploide",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Vista rapida: 4 alelos en una poblacion diploide",
+    "text": "Vista rapida: 4 alelos en una poblacion diploide\nSi hay 4 alelos (\\(A_1, A_2, A_3, A_4\\)), entonces:\n\\[\np + q + r + s = 1\n\\]\n\\[\n(p+q+r+s)^2\n\\]\n\nEsto produce 10 clases genotipicas esperadas:\n\n4 homocigotos: \\(A_1A_1\\), \\(A_2A_2\\), \\(A_3A_3\\), \\(A_4A_4\\)\n6 heterocigotos: \\(A_1A_2\\), \\(A_1A_3\\), \\(A_1A_4\\), \\(A_2A_3\\), \\(A_2A_4\\), \\(A_3A_4\\)\n\n\n\nMensaje: aun sin poliploidia, al aumentar alelos la cuenta crece rapido."
+  },
+  {
+    "objectID": "lectures/04-hw.html#alelos-en-una-poblacion-diploide",
+    "href": "lectures/04-hw.html#alelos-en-una-poblacion-diploide",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "4 alelos en una poblacion diploide",
+    "text": "4 alelos en una poblacion diploide\nSi hay 4 alelos (\\(A_1, A_2, A_3, A_4\\)), entonces:\nFrecuencias alelicas: \\[\np + q + r + s = 1\n\\]\nFrecuencias genotipicas: \\[\np^2 + q^2 + r^2 + s^2 + 2pq + 2pr + 2ps + 2qr + 2qs + 2rs\n\\]"
+  },
+  {
+    "objectID": "lectures/04-hw.html#seleccion-natural-antes",
+    "href": "lectures/04-hw.html#seleccion-natural-antes",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Seleccion natural: antes",
+    "text": "Seleccion natural: antes"
+  },
+  {
+    "objectID": "lectures/04-hw.html#seleccion-natural-despues",
+    "href": "lectures/04-hw.html#seleccion-natural-despues",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Seleccion natural: despues",
+    "text": "Seleccion natural: despues"
+  },
+  {
+    "objectID": "lectures/04-hw.html#deriva-genetica-antes",
+    "href": "lectures/04-hw.html#deriva-genetica-antes",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Deriva genetica: antes",
+    "text": "Deriva genetica: antes"
+  },
+  {
+    "objectID": "lectures/04-hw.html#deriva-genetica-despues",
+    "href": "lectures/04-hw.html#deriva-genetica-despues",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Deriva genetica: despues",
+    "text": "Deriva genetica: despues"
+  },
+  {
+    "objectID": "lectures/04-hw.html#mutacion-antes",
+    "href": "lectures/04-hw.html#mutacion-antes",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Mutacion: antes",
+    "text": "Mutacion: antes"
+  },
+  {
+    "objectID": "lectures/04-hw.html#mutacion-despues",
+    "href": "lectures/04-hw.html#mutacion-despues",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Mutacion: despues",
+    "text": "Mutacion: despues"
+  },
+  {
+    "objectID": "lectures/04-hw.html#migracion-antes",
+    "href": "lectures/04-hw.html#migracion-antes",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Migracion: antes",
+    "text": "Migracion: antes"
+  },
+  {
+    "objectID": "lectures/04-hw.html#migracion-despues",
+    "href": "lectures/04-hw.html#migracion-despues",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Migracion: despues",
+    "text": "Migracion: despues"
+  },
+  {
+    "objectID": "lectures/04-hw.html#alelos-en-una-poblacion-diploide-1",
+    "href": "lectures/04-hw.html#alelos-en-una-poblacion-diploide-1",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "4 alelos en una poblacion diploide",
+    "text": "4 alelos en una poblacion diploide\nEsto produce 10 clases genotipicas esperadas:\n\n4 homocigotos: \\(A_1A_1\\), \\(A_2A_2\\), \\(A_3A_3\\), \\(A_4A_4\\)\n6 heterocigotos: \\(A_1A_2\\), \\(A_1A_3\\), \\(A_1A_4\\), \\(A_2A_3\\), \\(A_2A_4\\), \\(A_3A_4\\)\n\n\n\nAl aumentar alelos la cuenta crece rapido."
+  },
+  {
+    "objectID": "lectures/04-hw.html#chi-cuadrado-caso-1",
+    "href": "lectures/04-hw.html#chi-cuadrado-caso-1",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Chi-cuadrado: caso 1",
+    "text": "Chi-cuadrado: caso 1\nCaso 1: ajuste aproximado\n\\[\n\\chi^2 = \\frac{(36-36)^2}{36} + \\frac{(46-48)^2}{48} + \\frac{(18-16)^2}{16}\n\\]\n\\[\n\\chi^2 = 0 + 0.083 + 0.25 = 0.333\n\\]\n\nValor pequeno: compatible con ajuste aproximado."
+  },
+  {
+    "objectID": "lectures/04-hw.html#chi-cuadrado-caso-2",
+    "href": "lectures/04-hw.html#chi-cuadrado-caso-2",
+    "title": "Equilibrio de Hardy-Weinberg",
+    "section": "Chi-cuadrado: caso 2",
+    "text": "Chi-cuadrado: caso 2\nCaso 2: desviacion clara\n\\[\n\\chi^2 = \\frac{(48-36)^2}{36} + \\frac{(30-48)^2}{48} + \\frac{(22-16)^2}{16}\n\\]\n\\[\n\\chi^2 = 4 + 6.75 + 2.25 = 13\n\\]\n\nValor grande: desviacion marcada de Hardy-Weinberg."
   }
 ]
