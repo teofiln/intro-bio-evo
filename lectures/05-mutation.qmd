@@ -1,0 +1,505 @@
+---
+title: "Mutación y variación heredable"
+subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
+format:
+  revealjs:
+    slide-number: true
+    incremental: true
+    theme: simple
+lang: es
+---
+
+## Metas
+
+1. La mutación como la fuente última de nueva variación genética.
+2. Como allelos discretos pueden generar variación continua a través de la herencia poligénica.
+3. Entender que la mutación es un proceso aleatorio, no dirigido por las necesidades del organismo.
+
+## Ser capaces de {.smaller}
+
+::: {.incremental}
+- Explicar por qué la mutación es la única fuente de nuevas variantes alélicas.
+- Describir los tipos básicos de mutaciones y cómo afectan el ADN.
+- Reconocer que las mutaciones son procesos aleatorios, no dirigidos por necesidades del organismo.
+- Integrar el concepto de mutación con el equilibrio de Hardy-Weinberg para entender cómo se introducen nuevas variantes en las poblaciones.
+- Integrar el concepto de mutación con el modelo de herencia poligénica para explicar la variación continua.
+:::
+
+# ¿De dónde proviene la variación heredable?
+
+## Pregunta central
+
+Hasta ahora hemos visto que:
+
+* Los individuos difieren en muchos rasgos.
+* Parte de esa variación es heredable.
+* Sin fuerzas evolutivas, las frecuencias alélicas no cambian, y las frecuencias genotípicas se ajustan a Hardy-Weinberg. La población está en equilibrio.
+
+Pero queda una pregunta fundamental:
+
+> ¿De dónde provienen las nuevas variantes genéticas?
+
+---
+
+# Un problema histórico
+
+## Darwin tenía una explicación incompleta
+
+La selección natural requiere:
+
+1. Variación entre individuos.
+2. Herencia de parte de esa variación.
+3. Diferencias en supervivencia o reproducción.
+
+Sin embargo, Darwin no conocía el mecanismo de la herencia.
+
+---
+
+# Mendel y la herencia particulada
+
+## El aporte de Mendel
+
+Los experimentos de Mendel mostraron que:
+
+* Los rasgos se heredan mediante unidades discretas.
+* Las variantes hereditarias no se mezclan.
+* Los alelos pueden mantenerse ocultos durante generaciones.
+
+Esto resolvió uno de los principales problemas de la teoría de Darwin.
+
+---
+
+# Una limitación importante
+
+## Los rasgos estudiados por Mendel
+
+Mendel trabajó principalmente con rasgos:
+
+* Discretos
+* Cualitativos
+* Fácilmente clasificables
+
+Por ejemplo:
+
+* Semillas lisas o rugosas
+* Flores púrpuras o blancas
+
+---
+
+# ¿Y los rasgos continuos?
+
+## Variación cuantitativa
+
+Muchos rasgos biológicos muestran variación continua:
+
+* Estatura
+* Peso
+* Producción de semillas
+* Tamaño corporal
+
+A finales del siglo XIX no estaba claro cómo la herencia mendeliana podía producir este tipo de variación.
+
+
+# Herencia poligénica
+
+This is actually a really important bridge, because otherwise students may leave with the impression that genetics only explains traits like purple vs white flowers.
+
+Historically, this was one of the major controversies after Mendel's work was rediscovered around 1900.
+
+## The apparent contradiction
+
+### Mendelians
+
+Observed traits like:
+
+* Purple vs white flowers
+* Smooth vs wrinkled seeds
+* Presence vs absence of a trait
+
+Conclusion:
+
+> Heredity is particulate and discrete.
+
+---
+
+### Biometricians
+
+Measured traits like:
+
+* Height
+* Weight
+* Milk production
+* Beak size
+
+Observed:
+
+* Continuous distributions
+* Bell-shaped curves
+* No obvious categories
+
+Conclusion:
+
+> Variation is continuous.
+
+The question was:
+
+> If inheritance is discrete, why does so much variation look continuous?
+
+---
+
+## A simple classroom example
+
+Imagine a trait controlled by a single locus.
+
+| Genotype | Height contribution |
+| -------- | ------------------- |
+| AA       | Tall                |
+| Aa       | Intermediate        |
+| aa       | Short               |
+
+You get three categories.
+
+Very Mendelian.
+
+---
+
+Now imagine two loci.
+
+| Locus 1 | Locus 2 |
+| ------- | ------- |
+| A/a     | B/b     |
+
+Suppose each uppercase allele contributes +1 cm.
+
+Possible phenotypes:
+
+```text
+0 contributions
+1 contribution
+2 contributions
+3 contributions
+4 contributions
+```
+
+Already we have five categories.
+
+---
+
+Now imagine ten loci.
+
+```text
+A/a
+B/b
+C/c
+D/d
+...
+J/j
+```
+
+Each capital allele contributes a small amount.
+
+Possible outcomes range from:
+
+```text
+0 to 20 contributing alleles
+```
+
+Now the phenotype begins to look continuous.
+
+---
+
+## The key insight
+
+The phenotype may be continuous even though inheritance remains discrete.
+
+The underlying alleles are still:
+
+```text
+A or a
+B or b
+C or c
+```
+
+Inheritance is particulate.
+
+The phenotype becomes smooth because many loci contribute simultaneously.
+
+---
+
+## Environment makes it even smoother
+
+Suppose two individuals have identical genotypes.
+
+One experiences:
+
+* More food
+* Less disease
+* Better conditions
+
+The phenotype changes.
+
+Now we have:
+
+```text
+Genotype + Environment
+```
+
+instead of
+
+```text
+Genotype alone
+```
+
+The distribution becomes even more continuous.
+
+---
+
+## Fisher's solution (without going into equations)
+
+A nice slide might be:
+
+### Fisher (1918)
+
+> Continuous variation can arise from the combined effects of many Mendelian loci plus environmental variation.
+
+This was one of the foundations of the Modern Synthesis.
+
+It showed that:
+
+* Mendel was correct.
+* Darwin was correct.
+* Continuous variation does not require blending inheritance.
+
+---
+
+## Connection to mutation
+
+This creates a beautiful transition to your mutation lecture.
+
+Students may ask:
+
+> If a quantitative trait is controlled by many loci, where do those alleles come from?
+
+Answer:
+
+* Every allele ultimately originated by mutation.
+* Mutations introduce new variants.
+* Some affect quantitative traits.
+* Selection can then change their frequencies.
+
+So your narrative becomes:
+
+```text
+Mutation
+    ↓
+New alleles
+    ↓
+Many loci contribute to traits
+    ↓
+Continuous phenotypic variation
+    ↓
+Selection acts on that variation
+```
+
+That is essentially the conceptual backbone of quantitative genetics in one slide.
+
+An activity where each student gets 10 coins representing 10 loci. Count the number of heads. Across 80–90 students, the histogram will be approximately bell-shaped. It's a very tangible demonstration that **discrete genetic factors can produce continuous variation at the population level**.
+
+
+---
+
+# Otra pregunta sin respuesta
+
+## ¿Cómo aparecen nuevas variantes?
+
+Mendel explicó cómo se transmiten variantes existentes.
+
+Pero seguía faltando una explicación para:
+
+> ¿Cómo surgen nuevos alelos?
+
+---
+
+# Thomas Hunt Morgan y las mutaciones
+
+## Experimentos con Drosophila
+
+A principios del siglo XX, Morgan observó la aparición espontánea de nuevas variantes hereditarias en moscas de la fruta.
+
+Por ejemplo:
+
+* Ojos blancos en lugar de rojos
+
+Estas variantes:
+
+* Eran heredables.
+* Aparecían de manera aparentemente espontánea.
+* Podían seguir las reglas mendelianas.
+
+---
+
+# Mutación
+
+## Definición
+
+Una mutación es:
+
+> Un cambio heredable en la secuencia del ADN.
+
+Las mutaciones generan nuevos alelos que pueden transmitirse a generaciones futuras.
+
+---
+
+# Mutación y evolución
+
+## Una idea clave
+
+La mutación:
+
+* Produce nuevas variantes genéticas.
+
+La selección natural:
+
+* Cambia la frecuencia de esas variantes.
+
+---
+
+# Error frecuente
+
+## ¿La selección produce mutaciones?
+
+No.
+
+La secuencia correcta es:
+
+Mutación → Variación → Selección
+
+No:
+
+Selección → Mutación
+
+---
+
+# ¿Cómo ocurren las mutaciones?
+
+## Durante la replicación del ADN
+
+Cada vez que una célula copia su ADN pueden ocurrir errores.
+
+La mayoría son corregidos.
+
+Algunos permanecen y se convierten en mutaciones.
+
+---
+
+# Mutágenos
+
+## Factores que aumentan la tasa de mutación
+
+Ejemplos:
+
+* Radiación UV
+* Rayos X
+* Algunos compuestos químicos
+
+Importante:
+
+> Los mutágenos aumentan la frecuencia de mutaciones, pero no las dirigen hacia lo que el organismo necesita.
+
+---
+
+# Tipos básicos de mutación
+
+## Sustituciones
+
+Cambio de una base por otra.
+
+Ejemplo:
+
+A → G
+
+---
+
+# Tipos básicos de mutación
+
+## Inserciones y deleciones
+
+Se agregan o eliminan nucleótidos.
+
+Dependiendo de su posición pueden tener efectos pequeños o grandes.
+
+---
+
+# Tipos básicos de mutación
+
+## Duplicaciones
+
+Un gen completo puede copiarse.
+
+Esto crea material genético adicional sobre el cual puede actuar la evolución.
+
+---
+
+# ¿Todas las mutaciones son dañinas?
+
+## No
+
+Las mutaciones pueden ser:
+
+* Perjudiciales
+* Neutras
+* Beneficiosas
+
+---
+
+# La mayoría de las mutaciones nuevas
+
+## Generalmente son raras
+
+Cuando surge una nueva mutación:
+
+* Aparece en un único individuo.
+* Comienza a muy baja frecuencia.
+* Puede perderse por azar.
+
+---
+
+# Actividad: simulando mutaciones
+
+## Un modelo simplificado
+
+Cada grupo representa un genoma con:
+
+* 100 loci
+* 200 copias alélicas
+
+Procedimiento:
+
+1. Lanzar una moneda seis veces.
+2. Si se obtienen seis caras consecutivas, ocurre una mutación.
+3. Seleccionar al azar un locus.
+4. Registrar un nuevo alelo.
+
+---
+
+# Discusión
+
+## Preguntas
+
+* ¿Cuántas mutaciones aparecieron en toda la clase?
+* ¿Qué proporción de todos los alelos representan?
+* ¿Cambiaron mucho las frecuencias génicas?
+
+---
+
+# Ideas principales
+
+## Resumen
+
+* Mendel explicó cómo se heredan variantes existentes.
+* La mutación explica el origen de nuevos alelos.
+* Las mutaciones ocurren antes de que actúe la selección.
+* La mayoría de las mutaciones nuevas comienzan siendo muy raras.
+* La mutación proporciona la materia prima sobre la cual actúa la evolución.
+
+---

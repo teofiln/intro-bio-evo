@@ -109,7 +109,7 @@
     "href": "lectures/03-methods.html#ser-capaces-de",
     "title": "Como estudiamos la evolución",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nformular preguntas evolutivas\nproponer hipótesis evolutivas alternativas\nderivar predicciones de hipótesis\nentender suposiciones de estudios evolutivos\ninterpretar evidencia evolutiva\ncomparar hipótesis evolutivas\nreconocer límites de evidencia evolutiva"
+    "text": "Ser capaces de\n\nformular preguntas evolutivas\nproponer hipótesis evolutivas alternativas\nderivar predicciones de hipótesis\nentender suposiciones de estudios evolutivos\ninterpretar evidencia evolutiva\ncomparar hipótesis evolutivas\nreconocer límites de evidencia evolutiva"
   },
   {
     "objectID": "lectures/03-methods.html#observación-vs-explicación",
@@ -137,7 +137,7 @@
     "href": "lectures/03-methods.html#explicación-1-azar-1",
     "title": "Como estudiamos la evolución",
     "section": "Explicación 1: Azar",
-    "text": "Explicación 1: Azar\nHipótesis:\n\nEl cambio se debe a procesos aleatorios que resultan en un cambio en la frecuencia de variantes en la población.\n\n\nPredicción:\n\n\nNo debería existir una relación consistente entre tamaño del pico y tamaño de las semillas. (Ecología, Recursos)\nNo debería existir una relación consistente entre tamaño del pico y supervivencia. (Aptitud, Selección Natural)\nEl cambio podría ocurrir incluso sin cambios en los recursos disponibles. (Ecología, Recursos)"
+    "text": "Explicación 1: Azar\nHipótesis:\n\nEl cambio se debe a procesos aleatorios que resultan en un cambio en la frecuencia de variantes en la población.\n\n\nPredicción:\n\nNo debería existir una relación consistente entre tamaño del pico y tamaño de las semillas. (Ecología, Recursos)\nNo debería existir una relación consistente entre tamaño del pico y supervivencia. (Aptitud, Selección Natural)\nEl cambio podría ocurrir incluso sin cambios en los recursos disponibles. (Ecología, Recursos)"
   },
   {
     "objectID": "lectures/03-methods.html#explicación-2-adaptación-a-la-dieta",
@@ -151,14 +151,14 @@
     "href": "lectures/03-methods.html#explicación-2-adaptación-a-la-dieta-1",
     "title": "Como estudiamos la evolución",
     "section": "Explicación 2: Adaptación a la dieta",
-    "text": "Explicación 2: Adaptación a la dieta\nHipótesis:\n\nEl cambio se debe a que individuos con picos más grandes sobrevivieron y se reprodujeron más durante la sequía.\n\n\nPredicción:\n\n\nDebería existir una relación entre tamaño del pico y tamaño de las semillas disponibles. (Ecología, Recursos)\nDebería existir una relación consistente entre el tamaño del pico y la dieta. (Ecología, Recursos)\nParte de la variación en el tamaño del pico debería ser heredable. (Genética)\nEl tamaño promedio del pico debería aumentar generación tras generación. (Aptitud, Selección Natural)\nLos individuos con picos más grandes deberían sobrevivir más frecuentemente. (Aptitud, Selección Natural)"
+    "text": "Explicación 2: Adaptación a la dieta\nHipótesis:\n\nEl cambio se debe a que individuos con picos más grandes sobrevivieron y se reprodujeron más durante la sequía.\n\n\nPredicción:\n\nDebería existir una relación entre tamaño del pico y tamaño de las semillas disponibles. (Ecología, Recursos)\nDebería existir una relación consistente entre el tamaño del pico y la dieta. (Ecología, Recursos)\nParte de la variación en el tamaño del pico debería ser heredable. (Genética)\nEl tamaño promedio del pico debería aumentar generación tras generación. (Aptitud, Selección Natural)\nLos individuos con picos más grandes deberían sobrevivir más frecuentemente. (Aptitud, Selección Natural)"
   },
   {
     "objectID": "lectures/03-methods.html#comparación-de-hipótesis",
     "href": "lectures/03-methods.html#comparación-de-hipótesis",
     "title": "Como estudiamos la evolución",
     "section": "Comparación de hipótesis",
-    "text": "Comparación de hipótesis\n¿Qué datos serían útiles para distinguir entre estas explicaciones?\n\n\nTamaño de pico\nTamaño de semillas\nDieta\nSupervivencia\nNúmero de hijos\nHerencia padres–hijos\nCambios en la población a través del tiempo"
+    "text": "Comparación de hipótesis\n¿Qué datos serían útiles para distinguir entre estas explicaciones?\n\nTamaño de pico\nTamaño de semillas\nDieta\nSupervivencia\nNúmero de hijos\nHerencia padres–hijos\nCambios en la población a través del tiempo"
   },
   {
     "objectID": "lectures/03-methods.html#picos-y-semillas",
@@ -221,14 +221,14 @@
     "href": "lectures/03-methods.html#más-allá-de-los-pinzones",
     "title": "Como estudiamos la evolución",
     "section": "Más allá de los pinzones",
-    "text": "Más allá de los pinzones\nEste ejemplo usa pinzones, pero la lógica aplica a cualquier rasgo en cualquier población:\n\n\nResistencia a antibióticos en bacterias → variación en el rasgo (tolerancia), heredable (mutación), relación con sobrevivencia (antibiótico como agente selectivo)\nCamuflaje en polillas → color del ala, heredable, depredadores como agente selectivo\nTolerancia a metales en plantas → plantas en suelos contaminados, variación heredable en tolerancia, metales como filtro selectivo\nCualquier rasgo morfológico, fisiológico o de comportamiento en cualquier especie\n\n\n\n\nLa pregunta siempre es la misma: ¿hay variación heredable en el rasgo, y esa variación afecta la reproducción o sobrevivencia?"
+    "text": "Más allá de los pinzones\nEste ejemplo usa pinzones, pero la lógica aplica a cualquier rasgo en cualquier población:\n\nResistencia a antibióticos en bacterias → variación en el rasgo (tolerancia), heredable (mutación), relación con sobrevivencia (antibiótico como agente selectivo)\nCamuflaje en polillas → color del ala, heredable, depredadores como agente selectivo\nTolerancia a metales en plantas → plantas en suelos contaminados, variación heredable en tolerancia, metales como filtro selectivo\nCualquier rasgo morfológico, fisiológico o de comportamiento en cualquier especie\n\n\n\nLa pregunta siempre es la misma: ¿hay variación heredable en el rasgo, y esa variación afecta la reproducción o sobrevivencia?"
   },
   {
     "objectID": "lectures/03-methods.html#se-puede-estudiar-el-pasado",
     "href": "lectures/03-methods.html#se-puede-estudiar-el-pasado",
     "title": "Como estudiamos la evolución",
     "section": "¿Se puede estudiar el pasado?",
-    "text": "¿Se puede estudiar el pasado?\n\n\nAstronomía: ¿cómo se formaron las galaxias?\nGeología: ¿cómo se formaron las montañas?\nBiología evolutiva: ¿cuándo divergieron estas especies?\n\n\n\n\nNo podemos repetir el pasado en el laboratorio.\nPero podemos inferirlo a partir de evidencia presente."
+    "text": "¿Se puede estudiar el pasado?\n\nAstronomía: ¿cómo se formaron las galaxias?\nGeología: ¿cómo se formaron las montañas?\nBiología evolutiva: ¿cuándo divergieron estas especies?\n\n\n\nNo podemos repetir el pasado en el laboratorio.\nPero podemos inferirlo a partir de evidencia presente."
   },
   {
     "objectID": "lectures/03-methods.html#la-ciencia-histórica-también-usa-hipótesis",
@@ -263,28 +263,28 @@
     "href": "lectures/03-methods.html#evidencia-tres-fuentes-independientes",
     "title": "Como estudiamos la evolución",
     "section": "Evidencia: tres fuentes independientes",
-    "text": "Evidencia: tres fuentes independientes\n\n\n\n\nFósil clave del clado X datado por C¹⁴:\n12 650 ± 150 años AP (rango: 12 500–12 800)\nSedimentos del Lago Y datados por C¹⁴:\n12 250 ± 150 años AP (rango: 12 100–12 400)\nFilogenia molecular de varios loci:\nEdad estimada del clado: 12 500 años AP (rango: 11 800–13 200)"
+    "text": "Evidencia: tres fuentes independientes\n\n\n\nFósil clave del clado X datado por C¹⁴:\n12 650 ± 150 años AP (rango: 12 500–12 800)\nSedimentos del Lago Y datados por C¹⁴:\n12 250 ± 150 años AP (rango: 12 100–12 400)\nFilogenia molecular de varios loci:\nEdad estimada del clado: 12 500 años AP (rango: 11 800–13 200)"
   },
   {
     "objectID": "lectures/03-methods.html#suposiciones-de-cada-método",
     "href": "lectures/03-methods.html#suposiciones-de-cada-método",
     "title": "Como estudiamos la evolución",
     "section": "Suposiciones de cada método",
-    "text": "Suposiciones de cada método\nCada método descansa en suposiciones que pueden no cumplirse perfectamente:\n\n\nDatación C¹⁴ asume:\n\nla tasa de desintegración del carbono-14 es constante\nel sistema estuvo cerrado después de la muerte (sin intercambio de carbono)\n\nFilogenia molecular asume:\n\nlas tasas de sustitución de ADN son relativamente constantes a lo largo del tiempo (reloj molecular)\nel modelo de evolución molecular elegido es correcto\n\nRegistro fósil asume:\n\nlos fósiles encontrados son representativos de los organismos que existieron\nla ausencia de fósiles más antiguos no implica que no existieran\n\n\n\n\n\nSi las suposiciones no se cumplen, las estimaciones pueden estar sesgadas.\nPor eso integramos múltiples métodos independientes."
+    "text": "Suposiciones de cada método\nCada método descansa en suposiciones que pueden no cumplirse perfectamente:\n\nDatación C¹⁴ asume:\n\nla tasa de desintegración del carbono-14 es constante\nel sistema estuvo cerrado después de la muerte (sin intercambio de carbono)\n\nFilogenia molecular asume:\n\nlas tasas de sustitución de ADN son relativamente constantes a lo largo del tiempo (reloj molecular)\nel modelo de evolución molecular elegido es correcto\n\nRegistro fósil asume:\n\nlos fósiles encontrados son representativos de los organismos que existieron\nla ausencia de fósiles más antiguos no implica que no existieran\n\n\n\n\nSi las suposiciones no se cumplen, las estimaciones pueden estar sesgadas.\nPor eso integramos múltiples métodos independientes."
   },
   {
     "objectID": "lectures/03-methods.html#límites-e-incertidumbre",
     "href": "lectures/03-methods.html#límites-e-incertidumbre",
     "title": "Como estudiamos la evolución",
     "section": "Límites e incertidumbre",
-    "text": "Límites e incertidumbre\n\n\nCada fuente de evidencia tiene límites:\n\n\nEl registro fósil es incompleto → el fósil más antiguo conocido no es necesariamente el primero que existió.\nLas dataciones tienen error → ±150 años en este caso; no son valores exactos.\nLas reconstrucciones filogenéticas son estimaciones → reflejan incertidumbre estadística.\n\n\n\n\n\nPor eso los científicos reportan intervalos, no valores puntuales.\nTrabajamos con incertidumbre cuantificada, no la ignoramos."
+    "text": "Límites e incertidumbre\n\n\nCada fuente de evidencia tiene límites:\n\nEl registro fósil es incompleto → el fósil más antiguo conocido no es necesariamente el primero que existió.\nLas dataciones tienen error → ±150 años en este caso; no son valores exactos.\nLas reconstrucciones filogenéticas son estimaciones → reflejan incertidumbre estadística.\n\n\n\n\nPor eso los científicos reportan intervalos, no valores puntuales.\nTrabajamos con incertidumbre cuantificada, no la ignoramos."
   },
   {
     "objectID": "lectures/03-methods.html#comparación-de-hipótesis-1",
     "href": "lectures/03-methods.html#comparación-de-hipótesis-1",
     "title": "Como estudiamos la evolución",
     "section": "Comparación de hipótesis",
-    "text": "Comparación de hipótesis\n\n\nConsistencia con H₁ (clado más antiguo)\n\n\nEl fósil (12 500–12 800) es anterior al rango del lago (12 100–12 400)\nEl origen filogenético (11 800–13 200) incluye edades anteriores al lago\n\n\n\nConsistencia con H₂ (clado más joven)\n\n\nEl fósil no es posterior al lago\nEl origen filogenético no está claramente después del lago\n\n\n\n\n\nLos datos son más consistentes con H₁.\nLa evidencia favorece una hipótesis, pero rara vez la prueba de forma absoluta."
+    "text": "Comparación de hipótesis\n\n\nConsistencia con H₁ (clado más antiguo)\n\nEl fósil (12 500–12 800) es anterior al rango del lago (12 100–12 400)\nEl origen filogenético (11 800–13 200) incluye edades anteriores al lago\n\n\nConsistencia con H₂ (clado más joven)\n\nEl fósil no es posterior al lago\nEl origen filogenético no está claramente después del lago\n\n\n\n\nLos datos son más consistentes con H₁.\nLa evidencia favorece una hipótesis, pero rara vez la prueba de forma absoluta."
   },
   {
     "objectID": "lectures/03-methods.html#inferencia-y-conclusión-provisional",
@@ -298,14 +298,14 @@
     "href": "lectures/03-methods.html#resumen-inferencia-histórica-con-incertidumbre",
     "title": "Como estudiamos la evolución",
     "section": "Resumen: inferencia histórica con incertidumbre",
-    "text": "Resumen: inferencia histórica con incertidumbre\n\n\nLos biólogos evolutivos estudian el pasado mediante inferencia, no experimentos directos.\nUsamos el mismo marco lógico: pregunta → hipótesis → predicciones → evidencia → comparación.\nToda evidencia histórica tiene límites cuantificables: registro incompleto, error en dataciones, incertidumbre estadística.\nReportamos intervalos, no certezas.\nAun con incertidumbre, podemos hacer inferencias bien fundamentadas integrando múltiples líneas de evidencia."
+    "text": "Resumen: inferencia histórica con incertidumbre\n\nLos biólogos evolutivos estudian el pasado mediante inferencia, no experimentos directos.\nUsamos el mismo marco lógico: pregunta → hipótesis → predicciones → evidencia → comparación.\nToda evidencia histórica tiene límites cuantificables: registro incompleto, error en dataciones, incertidumbre estadística.\nReportamos intervalos, no certezas.\nAun con incertidumbre, podemos hacer inferencias bien fundamentadas integrando múltiples líneas de evidencia."
   },
   {
     "objectID": "lectures/03-methods.html#más-allá-del-clado-y-el-lago",
     "href": "lectures/03-methods.html#más-allá-del-clado-y-el-lago",
     "title": "Como estudiamos la evolución",
     "section": "Más allá del clado y el lago",
-    "text": "Más allá del clado y el lago\nEste ejemplo usa un grupo de especies y un lago, pero la misma lógica aplica a muchos contextos:\n\n\nBiogeografía de islas → ¿el grupo colonizó la isla antes o después del aislamiento geográfico?\nVirus en un nuevo huésped → ¿el linaje viral es anterior o posterior al primer contacto con esa especie?\nDiversificación en montañas → ¿el clado se originó antes o después del levantamiento de la cordillera?\nOrigen de una enfermedad → ¿cuándo divergió el patógeno de su ancestro común con una cepa conocida?\n\n\n\n\nEn todos los casos: usamos fósiles, filogenias y dataciones para inferir el pasado, reconociendo las suposiciones y los límites de cada método."
+    "text": "Más allá del clado y el lago\nEste ejemplo usa un grupo de especies y un lago, pero la misma lógica aplica a muchos contextos:\n\nBiogeografía de islas → ¿el grupo colonizó la isla antes o después del aislamiento geográfico?\nVirus en un nuevo huésped → ¿el linaje viral es anterior o posterior al primer contacto con esa especie?\nDiversificación en montañas → ¿el clado se originó antes o después del levantamiento de la cordillera?\nOrigen de una enfermedad → ¿cuándo divergió el patógeno de su ancestro común con una cepa conocida?\n\n\n\nEn todos los casos: usamos fósiles, filogenias y dataciones para inferir el pasado, reconociendo las suposiciones y los límites de cada método."
   },
   {
     "objectID": "lectures/01-variation-and-populations.html#metas",
@@ -319,14 +319,14 @@
     "href": "lectures/01-variation-and-populations.html#ser-capaces-de",
     "title": "Variación biológica y pensamiento poblacional",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nDefinir evolución como cambio en poblaciones a lo largo de generaciones.\nDistinguir cambios en individuos de cambios en poblaciones.\nExplicar por qué la variación entre individuos es importante.\nReconocer que la aptitud depende del entorno.\nIdentificar errores comunes:\n\nlos individuos no evolucionan.\nlos organismos no evolucionan porque “necesitan” rasgos.\nla evolución no está dirigida hacia una meta."
+    "text": "Ser capaces de\n\nDefinir evolución como cambio en poblaciones a lo largo de generaciones.\nDistinguir cambios en individuos de cambios en poblaciones.\nExplicar por qué la variación entre individuos es importante.\nReconocer que la aptitud depende del entorno.\nIdentificar errores comunes:\n\nlos individuos no evolucionan.\nlos organismos no evolucionan porque “necesitan” rasgos.\nla evolución no está dirigida hacia una meta."
   },
   {
     "objectID": "lectures/01-variation-and-populations.html#variacion-adentro-y-entre-especies",
     "href": "lectures/01-variation-and-populations.html#variacion-adentro-y-entre-especies",
     "title": "Variación biológica y pensamiento poblacional",
     "section": "Variacion adentro y entre especies",
-    "text": "Variacion adentro y entre especies\n\n\nLa variacion es lo normal en la biologia\nNo existen especies ni poblaciones perfectamente uniformes\nLa variacion es la materia prima (raw material?) para la evolucion\nPero no toda variacion es hereditaria (genetica)\nLa variacion no hereditaria no contribuye a la evolucion"
+    "text": "Variacion adentro y entre especies\n\nLa variacion es lo normal en la biologia\nNo existen especies ni poblaciones perfectamente uniformes\nLa variacion es la materia prima (raw material?) para la evolucion\nPero no toda variacion es hereditaria (genetica)\nLa variacion no hereditaria no contribuye a la evolucion"
   },
   {
     "objectID": "lectures/01-variation-and-populations.html#que-es-lo-que-varia",
@@ -410,7 +410,7 @@
     "href": "lectures/01-variation-and-populations.html#ejemplos-1",
     "title": "Variación biológica y pensamiento poblacional",
     "section": "Ejemplos",
-    "text": "Ejemplos\n\n\n\nEscala de tiempo: horas, dias, semanas — no generaciones.\nEjemplos:\n\nProduccion de globulos rojos a mayor altitud (dias a semanas).\nPigmentacion de la piel por exposicion solar (horas a dias).\nRespuesta al calor: produccion de proteinas de choque termico (minutos a horas).\nCambio de pelaje estacional en mamiferos (semanas)."
+    "text": "Ejemplos\n\n\nEscala de tiempo: horas, dias, semanas — no generaciones.\nEjemplos:\n\nProduccion de globulos rojos a mayor altitud (dias a semanas).\nPigmentacion de la piel por exposicion solar (horas a dias).\nRespuesta al calor: produccion de proteinas de choque termico (minutos a horas).\nCambio de pelaje estacional en mamiferos (semanas)."
   },
   {
     "objectID": "lectures/01-variation-and-populations.html#aclimatacion-vs-evolucion",
@@ -592,7 +592,7 @@
     "href": "lectures/02-evidence.html#ser-capaces-de",
     "title": "Evidencia de la evolución",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nExplicar cómo el registro fósil documenta cambios en la biodiversidad a lo largo del tiempo y constituye evidencia de descendencia con modificación.\nInterpretar similitudes y diferencias anatómicas entre organismos como evidencia de ancestro común y adaptación a distintas funciones.\nExplicar cómo la distribución geográfica de los organismos refleja procesos evolutivos, historia geológica y aislamiento poblacional.\nInterpretar similitudes en ADN y proteínas como evidencia de parentesco evolutivo y ancestro común.\nExplicar cómo la evolución puede observarse y medirse en poblaciones contemporáneas.\nIntegrar múltiples líneas independientes de evidencia para sustentar la teoría evolutiva como explicación científica de la diversidad biológica."
+    "text": "Ser capaces de\n\nExplicar cómo el registro fósil documenta cambios en la biodiversidad a lo largo del tiempo y constituye evidencia de descendencia con modificación.\nInterpretar similitudes y diferencias anatómicas entre organismos como evidencia de ancestro común y adaptación a distintas funciones.\nExplicar cómo la distribución geográfica de los organismos refleja procesos evolutivos, historia geológica y aislamiento poblacional.\nInterpretar similitudes en ADN y proteínas como evidencia de parentesco evolutivo y ancestro común.\nExplicar cómo la evolución puede observarse y medirse en poblaciones contemporáneas.\nIntegrar múltiples líneas independientes de evidencia para sustentar la teoría evolutiva como explicación científica de la diversidad biológica."
   },
   {
     "objectID": "lectures/02-evidence.html#el-registro-fósil-muestra-una-secuencia-temporal",
@@ -613,7 +613,7 @@
     "href": "lectures/02-evidence.html#características-transicionales",
     "title": "Evidencia de la evolución",
     "section": "Características transicionales",
-    "text": "Características transicionales\n\n“Transicional” no significa “a medio formar”\n\n\n\ncombinaciones de rasgos ancestrales y derivados,\nconectan grupos mayores a través del tiempo,\nTiktaalik, Archaeopteryx, y los ancestros de las ballenas son ejemplos clásicos."
+    "text": "Características transicionales\n\n“Transicional” no significa “a medio formar”\n\n\ncombinaciones de rasgos ancestrales y derivados,\nconectan grupos mayores a través del tiempo,\nTiktaalik, Archaeopteryx, y los ancestros de las ballenas son ejemplos clásicos."
   },
   {
     "objectID": "lectures/02-evidence.html#tiktaalik",
@@ -634,7 +634,7 @@
     "href": "lectures/02-evidence.html#el-registro-fósil-es-consistente-con-descendencia-con-modificación",
     "title": "Evidencia de la evolución",
     "section": "El registro fósil es consistente con descendencia con modificación",
-    "text": "El registro fósil es consistente con descendencia con modificación\n\n\nlos organismos aparecen en orden temporal,\nlos grupos relacionados aparecen cerca entre sí en el tiempo,\nlas características transicionales conectan los grandes grupos,\nla extinción y la diversificación ocurren repetidamente."
+    "text": "El registro fósil es consistente con descendencia con modificación\n\nlos organismos aparecen en orden temporal,\nlos grupos relacionados aparecen cerca entre sí en el tiempo,\nlas características transicionales conectan los grandes grupos,\nla extinción y la diversificación ocurren repetidamente."
   },
   {
     "objectID": "lectures/02-evidence.html#el-registro-fósil-es-incompleto",
@@ -648,7 +648,7 @@
     "href": "lectures/02-evidence.html#mitos-sobre-el-registro-fósil",
     "title": "Evidencia de la evolución",
     "section": "Mitos sobre el registro fósil",
-    "text": "Mitos sobre el registro fósil\n\n\nLos fósiles son solo huesos y conchas\nLos “missing links” en el registro fósil desmienten la evolución\nCada fósil encontrado es un ancestro directo de una especie moderna\nLa evolución es lineal y en forma de escalera\nLos fósiles más antiguos son inherentemente “menos evolucionados” o primitivos"
+    "text": "Mitos sobre el registro fósil\n\nLos fósiles son solo huesos y conchas\nLos “missing links” en el registro fósil desmienten la evolución\nCada fósil encontrado es un ancestro directo de una especie moderna\nLa evolución es lineal y en forma de escalera\nLos fósiles más antiguos son inherentemente “menos evolucionados” o primitivos"
   },
   {
     "objectID": "lectures/02-evidence.html#resumen",
@@ -704,7 +704,7 @@
     "href": "lectures/02-evidence.html#resumen-qué-predice-la-evolución",
     "title": "Evidencia de la evolución",
     "section": "Resumen: ¿Qué predice la evolución?",
-    "text": "Resumen: ¿Qué predice la evolución?\nSi las especies comparten un ancestro común, debemos observar:\n\n\nsimilitudes anidadas\nestructuras homólogas\nestructuras vestigiales\nevolución convergente bajo ambientes similares\n\n\n\n\nY eso es exactamente lo que observamos."
+    "text": "Resumen: ¿Qué predice la evolución?\nSi las especies comparten un ancestro común, debemos observar:\n\nsimilitudes anidadas\nestructuras homólogas\nestructuras vestigiales\nevolución convergente bajo ambientes similares\n\n\n\nY eso es exactamente lo que observamos."
   },
   {
     "objectID": "lectures/02-evidence.html#la-historia-geológica",
@@ -725,14 +725,14 @@
     "href": "lectures/02-evidence.html#definiciones",
     "title": "Evidencia de la evolución",
     "section": "Definiciones",
-    "text": "Definiciones\n\n\nDispersión: una población coloniza una nueva región al cruzar una barrera geográfica.\nAislamiento: el flujo génico entre poblaciones se reduce o se corta, permitiendo divergencia evolutiva.\nVicariancia: una barrera geográfica divide una población ancestral y separa sus descendientes."
+    "text": "Definiciones\n\nDispersión: una población coloniza una nueva región al cruzar una barrera geográfica.\nAislamiento: el flujo génico entre poblaciones se reduce o se corta, permitiendo divergencia evolutiva.\nVicariancia: una barrera geográfica divide una población ancestral y separa sus descendientes."
   },
   {
     "objectID": "lectures/02-evidence.html#las-islas-son-laboratorios-evolutivos",
     "href": "lectures/02-evidence.html#las-islas-son-laboratorios-evolutivos",
     "title": "Evidencia de la evolución",
     "section": "Las islas son laboratorios evolutivos",
-    "text": "Las islas son laboratorios evolutivos\n\n\nCaracterísticas:\n\n\naisladas\npequeñas poblaciones fundadoras\nflujo génico limitado\nnuevas oportunidades ecológicas\n\n\n\n\nEjemplos:\n\nGalápagos\nHawaii\nMadagascar\n\n\n\n\n\nEl aislamiento promueve la divergencia."
+    "text": "Las islas son laboratorios evolutivos\n\n\nCaracterísticas:\n\naisladas\npequeñas poblaciones fundadoras\nflujo génico limitado\nnuevas oportunidades ecológicas\n\n\n\nEjemplos:\n\nGalápagos\nHawaii\nMadagascar\n\n\n\n\n\nEl aislamiento promueve la divergencia."
   },
   {
     "objectID": "lectures/02-evidence.html#galápagos",
@@ -753,7 +753,7 @@
     "href": "lectures/02-evidence.html#resumen-qué-predice-la-evolución-1",
     "title": "Evidencia de la evolución",
     "section": "Resumen: ¿Qué predice la evolución?",
-    "text": "Resumen: ¿Qué predice la evolución?\nSi las especies comparten un ancestro común y las poblaciones se aíslan, deberíamos observar:\n\n\nparientes geográficamente agrupados\nfloras y faunas insulares únicas\nradiaciones adaptativas\nefectos de la historia geológica\nevolución convergente en ambientes similares\n\n\n\n\nY eso es exactamente lo que observamos."
+    "text": "Resumen: ¿Qué predice la evolución?\nSi las especies comparten un ancestro común y las poblaciones se aíslan, deberíamos observar:\n\nparientes geográficamente agrupados\nfloras y faunas insulares únicas\nradiaciones adaptativas\nefectos de la historia geológica\nevolución convergente en ambientes similares\n\n\n\nY eso es exactamente lo que observamos."
   },
   {
     "objectID": "lectures/02-evidence.html#el-adn-guarda-historia-evolutiva",
@@ -767,7 +767,7 @@
     "href": "lectures/02-evidence.html#predicciones-de-ancestro-común",
     "title": "Evidencia de la evolución",
     "section": "Predicciones de ancestro común",
-    "text": "Predicciones de ancestro común\n\n\nespecies cercanas comparten más ADN,\nespecies lejanas comparten menos,\nel patrón genético debe coincidir con fósiles, anatomía y biogeografía."
+    "text": "Predicciones de ancestro común\n\nespecies cercanas comparten más ADN,\nespecies lejanas comparten menos,\nel patrón genético debe coincidir con fósiles, anatomía y biogeografía."
   },
   {
     "objectID": "lectures/02-evidence.html#código-genético-universal",
@@ -802,7 +802,7 @@
     "href": "lectures/02-evidence.html#resumen-qué-nos-dice-el-adn",
     "title": "Evidencia de la evolución",
     "section": "Resumen: ¿Qué nos dice el ADN?",
-    "text": "Resumen: ¿Qué nos dice el ADN?\n\n\ntodos los organismos usan maquinaria molecular compartida,\nespecies más cercanas comparten más información genética,\nel ADN conserva huellas de historia evolutiva,\nla evidencia molecular respalda de forma independiente el ancestro común.\n\n\n\n\nEl patrón importa más que un porcentaje exacto."
+    "text": "Resumen: ¿Qué nos dice el ADN?\n\ntodos los organismos usan maquinaria molecular compartida,\nespecies más cercanas comparten más información genética,\nel ADN conserva huellas de historia evolutiva,\nla evidencia molecular respalda de forma independiente el ancestro común.\n\n\n\nEl patrón importa más que un porcentaje exacto."
   },
   {
     "objectID": "lectures/02-evidence.html#qué-tendríamos-a-observar",
@@ -816,21 +816,21 @@
     "href": "lectures/02-evidence.html#resistencia-a-antibióticos",
     "title": "Evidencia de la evolución",
     "section": "Resistencia a antibióticos",
-    "text": "Resistencia a antibióticos\n\n\n\nel antibiotico no causa resistencia\nlas variantes resistentes ya existen en la población\nel antibiótico selecciona a los resistentes, que sobreviven y se reproducen mas\nresulando en cambio en la población a lo largo de generaciones"
+    "text": "Resistencia a antibióticos\n\n\nel antibiotico no causa resistencia\nlas variantes resistentes ya existen en la población\nel antibiótico selecciona a los resistentes, que sobreviven y se reproducen mas\nresulando en cambio en la población a lo largo de generaciones"
   },
   {
     "objectID": "lectures/02-evidence.html#pinzones-de-nuevo",
     "href": "lectures/02-evidence.html#pinzones-de-nuevo",
     "title": "Evidencia de la evolución",
     "section": "Pinzones de nuevo",
-    "text": "Pinzones de nuevo\n\n\n\ncambios en el ambiente (sequía) cambiaron la disponibilidad de alimentos\nlos pinzones con picos más grandes tenían ventaja\nlos picos más grandes se volvieron más comunes en la población"
+    "text": "Pinzones de nuevo\n\n\ncambios en el ambiente (sequía) cambiaron la disponibilidad de alimentos\nlos pinzones con picos más grandes tenían ventaja\nlos picos más grandes se volvieron más comunes en la población"
   },
   {
     "objectID": "lectures/02-evidence.html#experimentos-evolutivos",
     "href": "lectures/02-evidence.html#experimentos-evolutivos",
     "title": "Evidencia de la evolución",
     "section": "Experimentos evolutivos",
-    "text": "Experimentos evolutivos\n\n\n\nAdaptacion predicible y repetida\nEvolucion de nuevas funciones (ej: metabolizar citrato)"
+    "text": "Experimentos evolutivos\n\n\nAdaptacion predicible y repetida\nEvolucion de nuevas funciones (ej: metabolizar citrato)"
   },
   {
     "objectID": "lectures/04-hw.html#metas",
@@ -910,18 +910,18 @@
     "text": "Supuestos de Hardy-Weinberg\n\nApareamiento aleatorio.\nPoblacion muy grande.\nSin seleccion natural.\nSin mutacion.\nSin migracion (flujo genico).\n\n\nSi los datos no ajustan, al menos un supuesto puede estar fallando."
   },
   {
-    "objectID": "lectures/04-hw.html#antes-de-cualquier-evento-frecuencias-alelicas",
-    "href": "lectures/04-hw.html#antes-de-cualquier-evento-frecuencias-alelicas",
+    "objectID": "lectures/04-hw.html#antes-de-cualquier-evento-allelos",
+    "href": "lectures/04-hw.html#antes-de-cualquier-evento-allelos",
     "title": "Equilibrio de Hardy-Weinberg",
-    "section": "Antes de cualquier evento: frecuencias alelicas",
-    "text": "Antes de cualquier evento: frecuencias alelicas"
+    "section": "Antes de cualquier evento: allelos",
+    "text": "Antes de cualquier evento: allelos"
   },
   {
-    "objectID": "lectures/04-hw.html#antes-de-cualquier-evento-frecuencia-y-espacio",
-    "href": "lectures/04-hw.html#antes-de-cualquier-evento-frecuencia-y-espacio",
+    "objectID": "lectures/04-hw.html#antes-de-cualquier-evento-allelos-y-frecuencias",
+    "href": "lectures/04-hw.html#antes-de-cualquier-evento-allelos-y-frecuencias",
     "title": "Equilibrio de Hardy-Weinberg",
-    "section": "Antes de cualquier evento: frecuencia y espacio",
-    "text": "Antes de cualquier evento: frecuencia y espacio"
+    "section": "Antes de cualquier evento: allelos y frecuencias",
+    "text": "Antes de cualquier evento: allelos y frecuencias"
   },
   {
     "objectID": "lectures/04-hw.html#hardy-weinberg-apareamiento-aleatorio",
@@ -991,28 +991,14 @@
     "href": "lectures/04-hw.html#datos-y-ecuaciones",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Datos y ecuaciones",
-    "text": "Datos y ecuaciones\n\n\nPoblacion de plantas con dos alelos:\n\n\\(A\\) (morado)\n\\(a\\) (blanco)\n\nFrecuencias:\n\n\\(p = 0.6\\)\n\\(q = 0.4\\)\n\n\n\n\\[\np + q = 1\n\\]\n\\[\np^2 + 2pq + q^2 = 1\n\\]\n\n\n\n\\(AA = p^2 = 0.6^2 = 0.36\\)\n\\(Aa = 2pq = 2(0.6)(0.4) = 0.48\\)\n\\(aa = q^2 = 0.4^2 = 0.16\\)"
+    "text": "Datos y ecuaciones\nPoblacion de plantas con dos alelos:\n\n\n\n\\(A\\) (morado)\n\\(a\\) (blanco)\n\nFrecuencias:\n\n\\(p = 0.6\\)\n\\(q = 0.4\\)\n\n\n\n\\[\np + q = 1\n\\]\n\\[\np^2 + 2pq + q^2 = 1\n\\]\n\n\n\n\\(AA = p^2 = 0.6^2 = 0.36\\)\n\\(Aa = 2pq = 2(0.6)(0.4) = 0.48\\)\n\\(aa = q^2 = 0.4^2 = 0.16\\)"
   },
   {
-    "objectID": "lectures/04-hw.html#calculo-paso-a-paso",
-    "href": "lectures/04-hw.html#calculo-paso-a-paso",
+    "objectID": "lectures/04-hw.html#comparar-esperado-vs-observado",
+    "href": "lectures/04-hw.html#comparar-esperado-vs-observado",
     "title": "Equilibrio de Hardy-Weinberg",
-    "section": "Calculo paso a paso",
-    "text": "Calculo paso a paso\n\n\\(AA = p^2 = 0.6^2 = 0.36\\)\n\\(Aa = 2pq = 2(0.6)(0.4) = 0.48\\)\n\\(aa = q^2 = 0.4^2 = 0.16\\)"
-  },
-  {
-    "objectID": "lectures/04-hw.html#resumen-completo-100-individuos",
-    "href": "lectures/04-hw.html#resumen-completo-100-individuos",
-    "title": "Equilibrio de Hardy-Weinberg",
-    "section": "Resumen completo (100 individuos)",
-    "text": "Resumen completo (100 individuos)\n\n\nFrecuencias esperadas:\n\n\\(AA = 0.36\\)\n\\(Aa = 0.48\\)\n\\(aa = 0.16\\)\n\n\nConteos esperados:\n\n\\(AA\\): 36\n\\(Aa\\): 48\n\\(aa\\): 16"
-  },
-  {
-    "objectID": "lectures/04-hw.html#ajuste-aproximado-vs-desviacion-clara",
-    "href": "lectures/04-hw.html#ajuste-aproximado-vs-desviacion-clara",
-    "title": "Equilibrio de Hardy-Weinberg",
-    "section": "Ajuste aproximado vs desviacion clara",
-    "text": "Ajuste aproximado vs desviacion clara\n\n\nCaso 1: ajuste aproximado\nEsperado (100): 36, 48, 16\nObservado: 36, 46, 18\n\nCompatible con Hardy-Weinberg.\n\n\n\nCaso 2: desviacion clara\nEsperado (100): 36, 48, 16\nObservado: 48, 30, 22\nDeficit fuerte de heterocigotos."
+    "section": "Comparar esperado vs observado",
+    "text": "Comparar esperado vs observado\n\n\nCaso 1: ajuste aproximado\nEsperado (100): 36, 48, 16\nObservado: 36, 46, 18\n\nCompatible con Hardy-Weinberg.\n\n\n\nCaso 2: desviacion clara\nEsperado (100): 36, 48, 16\nObservado: 48, 30, 22\nDeficit fuerte de heterocigotos."
   },
   {
     "objectID": "lectures/04-hw.html#prueba-chi-cuadrado",
@@ -1036,25 +1022,25 @@
     "text": "Chi-cuadrado: caso 2\nCaso 2: desviacion clara\n\\[\n\\chi^2 = \\frac{(48-36)^2}{36} + \\frac{(30-48)^2}{48} + \\frac{(22-16)^2}{16}\n\\]\n\\[\n\\chi^2 = 4 + 6.75 + 2.25 = 13\n\\]\n\nValor grande: desviacion marcada de Hardy-Weinberg."
   },
   {
-    "objectID": "lectures/04-hw.html#que-podria-explicar-la-desviacion",
-    "href": "lectures/04-hw.html#que-podria-explicar-la-desviacion",
+    "objectID": "lectures/04-hw.html#alelos-en-una-poblacion-diploide-sistema-abo",
+    "href": "lectures/04-hw.html#alelos-en-una-poblacion-diploide-sistema-abo",
     "title": "Equilibrio de Hardy-Weinberg",
-    "section": "Que podria explicar la desviacion?",
-    "text": "Que podria explicar la desviacion?\n\nApareamiento no aleatorio.\nEstructura poblacional.\nSeleccion natural.\nTamano poblacional pequeno (deriva).\nError de muestreo."
+    "section": "3 alelos en una poblacion diploide (sistema ABO)",
+    "text": "3 alelos en una poblacion diploide (sistema ABO)\nEn el sistema ABO hay 3 alelos en un locus: \\(I^A\\), \\(I^B\\) e \\(i\\).\nFrecuencias alelicas: \\[\n?\n\\]\nFrecuencias genotipicas esperadas bajo HW: \\[\n?\n\\]"
   },
   {
-    "objectID": "lectures/04-hw.html#alelos-en-una-poblacion-diploide",
-    "href": "lectures/04-hw.html#alelos-en-una-poblacion-diploide",
+    "objectID": "lectures/04-hw.html#alelos-en-una-poblacion-diploide-sistema-abo-1",
+    "href": "lectures/04-hw.html#alelos-en-una-poblacion-diploide-sistema-abo-1",
     "title": "Equilibrio de Hardy-Weinberg",
-    "section": "4 alelos en una poblacion diploide",
-    "text": "4 alelos en una poblacion diploide\nSi hay 4 alelos (\\(A_1, A_2, A_3, A_4\\)), entonces:\nFrecuencias alelicas: \\[\np + q + r + s = 1\n\\]\nFrecuencias genotipicas: \\[\np^2 + q^2 + r^2 + s^2 + 2pq + 2pr + 2ps + 2qr + 2qs + 2rs\n\\]"
+    "section": "3 alelos en una poblacion diploide (sistema ABO)",
+    "text": "3 alelos en una poblacion diploide (sistema ABO)\nEn el sistema ABO hay 3 alelos en un locus: \\(I^A\\), \\(I^B\\) e \\(i\\).\nFrecuencias alelicas: \\[\np + q + r = 1\n\\]\nFrecuencias genotipicas esperadas bajo HW: \\[\np^2 + q^2 + r^2 + 2pq + 2pr + 2qr = 1\n\\]"
   },
   {
-    "objectID": "lectures/04-hw.html#alelos-en-una-poblacion-diploide-1",
-    "href": "lectures/04-hw.html#alelos-en-una-poblacion-diploide-1",
+    "objectID": "lectures/04-hw.html#sistema-abo-genotipos-y-fenotipos-esperados",
+    "href": "lectures/04-hw.html#sistema-abo-genotipos-y-fenotipos-esperados",
     "title": "Equilibrio de Hardy-Weinberg",
-    "section": "4 alelos en una poblacion diploide",
-    "text": "4 alelos en una poblacion diploide\nEsto produce 10 clases genotipicas esperadas:\n\n4 homocigotos: \\(A_1A_1\\), \\(A_2A_2\\), \\(A_3A_3\\), \\(A_4A_4\\)\n6 heterocigotos: \\(A_1A_2\\), \\(A_1A_3\\), \\(A_1A_4\\), \\(A_2A_3\\), \\(A_2A_4\\), \\(A_3A_4\\)\n\n\n\nAl aumentar alelos la cuenta crece rapido."
+    "section": "Sistema ABO: genotipos y fenotipos esperados",
+    "text": "Sistema ABO: genotipos y fenotipos esperados\nEsto produce 6 clases genotipicas y 4 fenotipos esperados:\n\n\n\n3 homocigotos: \\(I^AI^A\\), \\(I^BI^B\\), \\(ii\\)\n3 heterocigotos: \\(I^AI^B\\), \\(I^Ai\\), \\(I^Bi\\)\n\n\nFenotipos ABO:\n\nTipo A: \\(I^AI^A\\) o \\(I^Ai\\)\nTipo B: \\(I^BI^B\\) o \\(I^Bi\\)\nTipo AB: \\(I^AI^B\\)\nTipo O: \\(ii\\)\n\n\n\n\nRecordatorio: \\(I^A\\) e \\(I^B\\) son codominantes, y ambos dominan sobre \\(i\\)."
   },
   {
     "objectID": "lectures/04-hw.html#y-si-la-especie-es-poliploide",
@@ -1139,40 +1125,5 @@
     "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
     "section": "8 Sintesis",
     "text": "8 Sintesis\nCompleten la tabla con un juicio breve para cada evidencia.\nEscala: ++ (apoyo fuerte), + (apoyo moderado), 0 (neutral), - (debilita).\n\n\n\nEvidencia\nHipotesis A\nHipotesis B\nJustificacion corta\n\n\n\n\nObservacion del comportamiento\n\n\n\n\n\nDisminucion del pO2 en la burbuja\n\n\n\n\n\nDistribucion en el arbol filogenetico\n\n\n\n\n\n\n\nCual hipotesis recibe mayor apoyo global con la evidencia disponible?\n\n\nEscriban una conclusion breve (2-3 oraciones), incluyendo una nota de incertidumbre."
-  },
-  {
-    "objectID": "lectures/04-hw.html#alelos-en-una-poblacion-diploide-sistema-abo",
-    "href": "lectures/04-hw.html#alelos-en-una-poblacion-diploide-sistema-abo",
-    "title": "Equilibrio de Hardy-Weinberg",
-    "section": "3 alelos en una poblacion diploide (sistema ABO)",
-    "text": "3 alelos en una poblacion diploide (sistema ABO)\nEn el sistema ABO hay 3 alelos en un locus: \\(I^A\\), \\(I^B\\) e \\(i\\).\nFrecuencias alelicas: \\[\np + q + r = 1\n\\]\nFrecuencias genotipicas esperadas bajo HW: \\[\np^2 + q^2 + r^2 + 2pq + 2pr + 2qr = 1\n\\]"
-  },
-  {
-    "objectID": "lectures/04-hw.html#sistema-abo-genotipos-y-fenotipos-esperados",
-    "href": "lectures/04-hw.html#sistema-abo-genotipos-y-fenotipos-esperados",
-    "title": "Equilibrio de Hardy-Weinberg",
-    "section": "Sistema ABO: genotipos y fenotipos esperados",
-    "text": "Sistema ABO: genotipos y fenotipos esperados\nEsto produce 6 clases genotipicas esperadas:\n\n3 homocigotos: \\(I^AI^A\\), \\(I^BI^B\\), \\(ii\\)\n3 heterocigotos: \\(I^AI^B\\), \\(I^Ai\\), \\(I^Bi\\)\n\nFenotipos ABO:\n\nTipo A: \\(I^AI^A\\) o \\(I^Ai\\)\nTipo B: \\(I^BI^B\\) o \\(I^Bi\\)\nTipo AB: \\(I^AI^B\\)\nTipo O: \\(ii\\)\n\n\n\nEjemplo clasico de HW con tres alelos: \\(I^A\\) e \\(I^B\\) son codominantes, y ambos dominan sobre \\(i\\)."
-  },
-  {
-    "objectID": "lectures/04-hw.html#antes-de-cualquier-evento-allelos",
-    "href": "lectures/04-hw.html#antes-de-cualquier-evento-allelos",
-    "title": "Equilibrio de Hardy-Weinberg",
-    "section": "Antes de cualquier evento: allelos",
-    "text": "Antes de cualquier evento: allelos"
-  },
-  {
-    "objectID": "lectures/04-hw.html#antes-de-cualquier-evento-allelos-y-frecuencias",
-    "href": "lectures/04-hw.html#antes-de-cualquier-evento-allelos-y-frecuencias",
-    "title": "Equilibrio de Hardy-Weinberg",
-    "section": "Antes de cualquier evento: allelos y frecuencias",
-    "text": "Antes de cualquier evento: allelos y frecuencias"
-  },
-  {
-    "objectID": "lectures/04-hw.html#comparar-esperado-vs-observado",
-    "href": "lectures/04-hw.html#comparar-esperado-vs-observado",
-    "title": "Equilibrio de Hardy-Weinberg",
-    "section": "Comparar esperado vs observado",
-    "text": "Comparar esperado vs observado\n\n\nCaso 1: ajuste aproximado\nEsperado (100): 36, 48, 16\nObservado: 36, 46, 18\n\nCompatible con Hardy-Weinberg.\n\n\n\nCaso 2: desviacion clara\nEsperado (100): 36, 48, 16\nObservado: 48, 30, 22\nDeficit fuerte de heterocigotos."
   }
 ]

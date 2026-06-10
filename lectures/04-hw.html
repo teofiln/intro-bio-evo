@@ -225,7 +225,7 @@
 <p><img data-src="04-assets/equal-segregation.png"></p>
 </div></div>
 </section>
-<section id="surtido-independiente" class="slide level2">
+<section id="surtido-independiente" class="slide level2 smaller">
 <h2>Surtido independiente</h2>
 <div class="columns">
 <div class="column">
@@ -256,7 +256,7 @@
 <h1>El principio de Hardy-Weinberg</h1>
 
 </section>
-<section id="modelo-nulo" class="slide level2">
+<section id="modelo-nulo" class="slide level2 smaller">
 <h2>Modelo nulo</h2>
 <blockquote>
 <p>Que esperamos observar si no actua ninguna fuerza evolutiva?</p>
@@ -296,7 +296,7 @@
 <section id="antes-de-cualquier-evento-allelos" class="slide level2">
 <h2>Antes de cualquier evento: allelos</h2>
 
-<img data-src="04-assets/allele_frequencies-left.png" style="width:60.0%" class="r-stretch"></section>
+<img data-src="04-assets/allele_spatial-left.png" style="width:60.0%" class="r-stretch"></section>
 <section id="antes-de-cualquier-evento-allelos-y-frecuencias" class="slide level2">
 <h2>Antes de cualquier evento: allelos y frecuencias</h2>
 
@@ -344,9 +344,9 @@
 </section>
 <section id="datos-y-ecuaciones" class="slide level2">
 <h2>Datos y ecuaciones</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
 <p>Poblacion de plantas con dos alelos:</p>
+<div class="columns">
+<div class="column" style="width:40%;">
 <ul>
 <li><span class="math inline">\(A\)</span> (morado)</li>
 <li><span class="math inline">\(a\)</span> (blanco)</li>
@@ -356,7 +356,7 @@
 <li><span class="math inline">\(p = 0.6\)</span></li>
 <li><span class="math inline">\(q = 0.4\)</span></li>
 </ul>
-</div><div class="column" style="width:50%;">
+</div><div class="column" style="width:60%;">
 <div class="fragment">
 <p><span class="math display">\[
 p + q = 1
@@ -434,16 +434,6 @@ p^2 + 2pq + q^2 = 1
 <div class="fragment">
 <p>Valor grande: desviacion marcada de Hardy-Weinberg.</p>
 </div>
-</section>
-<section id="que-podria-explicar-la-desviacion" class="slide level2">
-<h2>Que podria explicar la desviacion?</h2>
-<ul>
-<li class="fragment">Apareamiento no aleatorio.</li>
-<li class="fragment">Estructura poblacional.</li>
-<li class="fragment">Seleccion natural.</li>
-<li class="fragment">Tamano poblacional pequeno (deriva).</li>
-<li class="fragment">Error de muestreo.</li>
-</ul>
 </section></section>
 <section>
 <section id="extra" class="title-slide slide level1 center" data-background-color="#E8F5E9">
@@ -454,19 +444,32 @@ p^2 + 2pq + q^2 = 1
 <h2>3 alelos en una poblacion diploide (sistema ABO)</h2>
 <p>En el sistema ABO hay 3 alelos en un locus: <span class="math inline">\(I^A\)</span>, <span class="math inline">\(I^B\)</span> e <span class="math inline">\(i\)</span>.</p>
 <p>Frecuencias alelicas: <span class="math display">\[
+?
+\]</span></p>
+<p>Frecuencias genotipicas esperadas bajo HW: <span class="math display">\[
+?
+\]</span></p>
+</section>
+<section id="alelos-en-una-poblacion-diploide-sistema-abo-1" class="slide level2">
+<h2>3 alelos en una poblacion diploide (sistema ABO)</h2>
+<p>En el sistema ABO hay 3 alelos en un locus: <span class="math inline">\(I^A\)</span>, <span class="math inline">\(I^B\)</span> e <span class="math inline">\(i\)</span>.</p>
+<p>Frecuencias alelicas: <span class="math display">\[
 p + q + r = 1
 \]</span></p>
 <p>Frecuencias genotipicas esperadas bajo HW: <span class="math display">\[
 p^2 + q^2 + r^2 + 2pq + 2pr + 2qr = 1
 \]</span></p>
 </section>
-<section id="sistema-abo-genotipos-y-fenotipos-esperados" class="slide level2">
+<section id="sistema-abo-genotipos-y-fenotipos-esperados" class="slide level2 smaller">
 <h2>Sistema ABO: genotipos y fenotipos esperados</h2>
-<p>Esto produce 6 clases genotipicas esperadas:</p>
+<p>Esto produce 6 clases genotipicas y 4 fenotipos esperados:</p>
+<div class="columns">
+<div class="column">
 <ul>
 <li>3 homocigotos: <span class="math inline">\(I^AI^A\)</span>, <span class="math inline">\(I^BI^B\)</span>, <span class="math inline">\(ii\)</span></li>
 <li>3 heterocigotos: <span class="math inline">\(I^AI^B\)</span>, <span class="math inline">\(I^Ai\)</span>, <span class="math inline">\(I^Bi\)</span></li>
 </ul>
+</div><div class="column">
 <p>Fenotipos ABO:</p>
 <ul>
 <li>Tipo A: <span class="math inline">\(I^AI^A\)</span> o <span class="math inline">\(I^Ai\)</span></li>
@@ -474,9 +477,10 @@ p^2 + q^2 + r^2 + 2pq + 2pr + 2qr = 1
 <li>Tipo AB: <span class="math inline">\(I^AI^B\)</span></li>
 <li>Tipo O: <span class="math inline">\(ii\)</span></li>
 </ul>
+</div></div>
 <div class="fragment">
 <blockquote>
-<p>Ejemplo clasico de HW con tres alelos: <span class="math inline">\(I^A\)</span> e <span class="math inline">\(I^B\)</span> son codominantes, y ambos dominan sobre <span class="math inline">\(i\)</span>.</p>
+<p>Recordatorio: <span class="math inline">\(I^A\)</span> e <span class="math inline">\(I^B\)</span> son codominantes, y ambos dominan sobre <span class="math inline">\(i\)</span>.</p>
 </blockquote>
 </div>
 </section>
