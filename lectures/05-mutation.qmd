@@ -1,5 +1,5 @@
 ---
-title: "Mutación y variación heredable"
+title: "Mutación"
 subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
 format:
   revealjs:
@@ -15,7 +15,7 @@ lang: es
 2. Como allelos discretos pueden generar variación continua a través de la herencia poligénica.
 3. Entender que la mutación es un proceso aleatorio, no dirigido por las necesidades del organismo.
 
-## Ser capaces de {.smaller}
+## Ser capaces de
 
 ::: {.incremental}
 - Explicar por qué la mutación es la única fuente de nuevas variantes alélicas.
@@ -25,23 +25,27 @@ lang: es
 - Integrar el concepto de mutación con el modelo de herencia poligénica para explicar la variación continua.
 :::
 
-# ¿De dónde proviene la variación heredable?
+# ¿De dónde proviene la variación heredable? {background-color="#E8F5E9"}
 
-## Pregunta central
-
-Hasta ahora hemos visto que:
+## Hasta ahora hemos visto que
 
 * Los individuos difieren en muchos rasgos.
 * Parte de esa variación es heredable.
-* Sin fuerzas evolutivas, las frecuencias alélicas no cambian, y las frecuencias genotípicas se ajustan a Hardy-Weinberg. La población está en equilibrio.
+* Sin fuerzas evolutivas:
+    - las frecuencias alélicas no cambian, 
+    - las frecuencias genotípicas se ajustan a Hardy-Weinberg, 
+    - la población está en equilibrio.
 
-Pero queda una pregunta fundamental:
+
+::: {.fragment}
+
+Pero queda una pregunta:
 
 > ¿De dónde provienen las nuevas variantes genéticas?
 
----
+:::
 
-# Un problema histórico
+
 
 ## Darwin tenía una explicación incompleta
 
@@ -51,13 +55,18 @@ La selección natural requiere:
 2. Herencia de parte de esa variación.
 3. Diferencias en supervivencia o reproducción.
 
-Sin embargo, Darwin no conocía el mecanismo de la herencia.
+::: {.fragment}
 
----
+> Sin embargo, Darwin no conocía el mecanismo de la herencia.
 
-# Mendel y la herencia particulada
+:::
+
 
 ## El aporte de Mendel
+
+::: {.columns}
+
+::: {.column}
 
 Los experimentos de Mendel mostraron que:
 
@@ -65,30 +74,47 @@ Los experimentos de Mendel mostraron que:
 * Las variantes hereditarias no se mezclan.
 * Los alelos pueden mantenerse ocultos durante generaciones.
 
+:::
+
+::: {.column}
+
+![](05-assets/complete-vs-incomplete-dominance-4835.png)
+
+:::
+
+:::
+
+
+::: {.fragment}
+
+
 Esto resolvió uno de los principales problemas de la teoría de Darwin.
 
----
+:::
 
-# Una limitación importante
 
-## Los rasgos estudiados por Mendel
+
+## Una limitación importante
 
 Mendel trabajó principalmente con rasgos:
 
-* Discretos
 * Cualitativos
 * Fácilmente clasificables
+
+
+::: {.fragment}
 
 Por ejemplo:
 
 * Semillas lisas o rugosas
 * Flores púrpuras o blancas
 
+:::
+
+
 ---
 
-# ¿Y los rasgos continuos?
-
-## Variación cuantitativa
+## ¿Y los rasgos continuos? 
 
 Muchos rasgos biológicos muestran variación continua:
 
@@ -97,96 +123,146 @@ Muchos rasgos biológicos muestran variación continua:
 * Producción de semillas
 * Tamaño corporal
 
-A finales del siglo XIX no estaba claro cómo la herencia mendeliana podía producir este tipo de variación.
+
+::: {.fragment}
+
+> A finales del siglo XIX no estaba claro cómo la herencia mendeliana podía producir este tipo de variación.
+
+:::
+
+# Herencia poligénica {background-color="#E8F5E9"}
+
+Puente conceptual clave entre genética, la variación cuantitativa, y la evolución. **El inicio de genética cuantitativa.**
+
+## La aparente contradicción {.smaller}
+
+::: columns
+::: {.column width="50%"}
+### Mendelianos
+
+Observaban rasgos como:
+
+* Flores púrpuras vs blancas
+* Semillas lisas vs rugosas
+* Presencia vs ausencia de un rasgo
 
 
-# Herencia poligénica
+::: {.fragment}
 
-This is actually a really important bridge, because otherwise students may leave with the impression that genetics only explains traits like purple vs white flowers.
+> La herencia es particulada y discreta.
 
-Historically, this was one of the major controversies after Mendel's work was rediscovered around 1900.
+:::
 
-## The apparent contradiction
+:::
 
-### Mendelians
+::: {.column width="50%"}
+### Biometristas
 
-Observed traits like:
+Medían rasgos como:
 
-* Purple vs white flowers
-* Smooth vs wrinkled seeds
-* Presence vs absence of a trait
+* Estatura
+* Peso
+* Producción de leche
+* Tamaño de pico
 
-Conclusion:
 
-> Heredity is particulate and discrete.
+::: {.fragment}
+
+> La variación observada es continua.
+
+:::
+
+:::
+:::
+
+
+::: {.fragment}
+
+> Si la herencia es discreta, ¿por qué muchos rasgos se ven continuos?
+
+:::
+
+
+## Un ejemplo simple: 1 locus
+
+::: columns
+::: {.column width="45%"}
+Imagina un rasgo controlado por un solo locus.
+
+| Genotipo | Contribución a estatura |
+| -------- | ----------------------- |
+| AA       | Alta                    |
+| Aa       | Intermedia              |
+| aa       | Baja                    |
+
+Aparecen tres categorías claras.
+:::
+
+::: {.column width="55%"}
+![](05-assets/01_one_locus.png){fig-alt="Un locus con tres genotipos y tres contribuciones de estatura." width=100%}
+:::
+:::
 
 ---
 
-### Biometricians
+## Ahora imagina 2 loci
 
-Measured traits like:
-
-* Height
-* Weight
-* Milk production
-* Beak size
-
-Observed:
-
-* Continuous distributions
-* Bell-shaped curves
-* No obvious categories
-
-Conclusion:
-
-> Variation is continuous.
-
-The question was:
-
-> If inheritance is discrete, why does so much variation look continuous?
-
----
-
-## A simple classroom example
-
-Imagine a trait controlled by a single locus.
-
-| Genotype | Height contribution |
-| -------- | ------------------- |
-| AA       | Tall                |
-| Aa       | Intermediate        |
-| aa       | Short               |
-
-You get three categories.
-
-Very Mendelian.
-
----
-
-Now imagine two loci.
-
+::: columns
+::: {.column width="45%"}
 | Locus 1 | Locus 2 |
 | ------- | ------- |
 | A/a     | B/b     |
 
-Suppose each uppercase allele contributes +1 cm.
+Si cada alelo mayúscula aporta +1 unidad, tendramos genotipos con 0, 1, 2, 3 o 4 unidades.
+:::
 
-Possible phenotypes:
-
-```text
-0 contributions
-1 contribution
-2 contributions
-3 contributions
-4 contributions
-```
-
-Already we have five categories.
+::: {.column width="55%"}
+![](05-assets/02_two_loci_height.png){fig-alt="Contribucion a la estatura por genotipo para 2 loci." width=100%}
+:::
+:::
 
 ---
 
-Now imagine ten loci.
+## 2 loci: agregando efecto genotipo x ambiente (GxE)
 
+::: columns
+::: {.column width="45%"}
+Ahora mantenemos el mismo valor genético base por genotipo,
+pero agregamos un multiplicador ambiental pequeño y aleatorio para cada uno.
+
+En esta simulación, cada genotipo recibe un cambio entre -10% y +10%.
+
+* Barras claras de fondo: valor con GxE
+* Barras oscuras frontales: valor genético base
+:::
+
+::: {.column width="55%"}
+![](05-assets/02_two_loci_height_gxe.png){fig-alt="Contribucion a la estatura por genotipo en 2 loci con efecto genotipo por ambiente entre -10% y +10%." width=100%}
+:::
+:::
+
+---
+
+## Los mismos 2 loci, resumidos en población
+
+::: columns
+::: {.column width="40%"}
+Al agrupar genotipos por su contribución total, vemos una distribución por frecuencias.
+
+Este paso conecta genotype-by-genotype con patrón poblacional.
+:::
+
+::: {.column width="60%"}
+![](05-assets/02_two_loci_histogram.png){fig-alt="Histograma de frecuencias para 2 loci." width=100%}
+:::
+:::
+
+---
+
+## 10 loci
+
+::: columns
+::: {.column width="45%"}
 ```text
 A/a
 B/b
@@ -196,117 +272,92 @@ D/d
 J/j
 ```
 
-Each capital allele contributes a small amount.
+Cada alelo mayúscula aporta una pequeña parte.
 
-Possible outcomes range from:
-
-```text
-0 to 20 contributing alleles
-```
-
-Now the phenotype begins to look continuous.
-
----
-
-## The key insight
-
-The phenotype may be continuous even though inheritance remains discrete.
-
-The underlying alleles are still:
+Rango posible:
 
 ```text
-A or a
-B or b
-C or c
+0 a 20 contribuciones
 ```
 
-Inheritance is particulate.
+El fenotipo empieza a verse continuo.
+:::
 
-The phenotype becomes smooth because many loci contribute simultaneously.
+::: {.column width="55%"}
+![](05-assets/08_ten_loci_all_genotypes.png){fig-alt="Mapa de todos los genotipos posibles y su contribucion a la estatura para 10 loci." width=100%}
+:::
+:::
 
----
+## 20 loci
 
-## Environment makes it even smoother
+::: columns
+::: {.column width="45%"}
+La herencia sigue siendo discreta en cada locus.
 
-Suppose two individuals have identical genotypes.
+Pero al combinar muchos loci, la cantidad de genotipos posibles crece muchísimo y el rasgo se suaviza.
 
-One experiences:
-
-* More food
-* Less disease
-* Better conditions
-
-The phenotype changes.
-
-Now we have:
-
-```text
-Genotype + Environment
-```
-
-instead of
-
-```text
-Genotype alone
-```
-
-The distribution becomes even more continuous.
-
----
-
-## Fisher's solution (without going into equations)
-
-A nice slide might be:
-
-### Fisher (1918)
-
-> Continuous variation can arise from the combined effects of many Mendelian loci plus environmental variation.
-
-This was one of the foundations of the Modern Synthesis.
-
-It showed that:
-
-* Mendel was correct.
-* Darwin was correct.
-* Continuous variation does not require blending inheritance.
-
----
-
-## Connection to mutation
-
-This creates a beautiful transition to your mutation lecture.
-
-Students may ask:
-
-> If a quantitative trait is controlled by many loci, where do those alleles come from?
-
-Answer:
-
-* Every allele ultimately originated by mutation.
-* Mutations introduce new variants.
-* Some affect quantitative traits.
-* Selection can then change their frequencies.
-
-So your narrative becomes:
-
-```text
-Mutation
-    ↓
-New alleles
-    ↓
-Many loci contribute to traits
-    ↓
-Continuous phenotypic variation
-    ↓
-Selection acts on that variation
-```
-
-That is essentially the conceptual backbone of quantitative genetics in one slide.
-
-An activity where each student gets 10 coins representing 10 loci. Count the number of heads. Across 80–90 students, the histogram will be approximately bell-shaped. It's a very tangible demonstration that **discrete genetic factors can produce continuous variation at the population level**.
+La clave:
 
 
----
+::: {.fragment}
+
+> alelos discretos -> variación continua
+
+:::
+
+:::
+
+::: {.column width="55%"}
+![](05-assets/09_twenty_loci_all_genotypes.png){fig-alt="Mapa de todos los genotipos posibles y su contribucion a la estatura para 20 loci." width=100%}
+:::
+:::
+
+## Nivel poblacional: simulación con 5 loci
+
+::: columns
+::: {.column width="40%"}
+Con muchos individuos, la distribución de fenotipos empieza a tomar forma de campana.
+:::
+
+::: {.column width="60%"}
+![](05-assets/03_five_loci.png){fig-alt="Histograma de fenotipos en una poblacion simulada para 5 loci." width=100%}
+:::
+:::
+
+## Nivel poblacional: simulación con 10 loci
+
+::: columns
+::: {.column width="40%"}
+Aumentar loci incrementa el número de combinaciones genéticas y densifica el continuo fenotípico.
+:::
+
+::: {.column width="60%"}
+![](05-assets/04_ten_loci.png){fig-alt="Histograma de fenotipos en una poblacion simulada para 10 loci." width=100%}
+:::
+:::
+
+## Nivel poblacional: simulación con 20 loci
+
+::: columns
+::: {.column width="40%"}
+Con más loci, el patrón poblacional se acerca aún más a una distribución continua.
+:::
+
+::: {.column width="60%"}
+![](05-assets/05_twenty_loci.png){fig-alt="Histograma de fenotipos en una poblacion simulada para 20 loci." width=100%}
+:::
+:::
+
+## Progresión general
+
+![](05-assets/06_progression.png){fig-alt="Comparacion de distribuciones fenotipicas al aumentar el numero de loci que contribuyen al rasgo." width=100%}
+
+Resumen:
+
+* Pocos loci: categorías más separadas.
+* Muchos loci: variación más suave.
+* La herencia sigue siendo mendeliana en cada locus.
+
 
 # Otra pregunta sin respuesta
 
@@ -336,10 +387,6 @@ Estas variantes:
 * Aparecían de manera aparentemente espontánea.
 * Podían seguir las reglas mendelianas.
 
----
-
-# Mutación
-
 ## Definición
 
 Una mutación es:
@@ -350,10 +397,6 @@ Las mutaciones generan nuevos alelos que pueden transmitirse a generaciones futu
 
 ---
 
-# Mutación y evolución
-
-## Una idea clave
-
 La mutación:
 
 * Produce nuevas variantes genéticas.
@@ -362,27 +405,15 @@ La selección natural:
 
 * Cambia la frecuencia de esas variantes.
 
----
-
-# Error frecuente
-
 ## ¿La selección produce mutaciones?
 
-No.
+> No.
 
 La secuencia correcta es:
 
-Mutación → Variación → Selección
+> Mutación → Variación → Selección
 
-No:
-
-Selección → Mutación
-
----
-
-# ¿Cómo ocurren las mutaciones?
-
-## Durante la replicación del ADN
+## ¿Cómo ocurren las mutaciones?
 
 Cada vez que una célula copia su ADN pueden ocurrir errores.
 
@@ -390,11 +421,7 @@ La mayoría son corregidos.
 
 Algunos permanecen y se convierten en mutaciones.
 
----
-
-# Mutágenos
-
-## Factores que aumentan la tasa de mutación
+## Mutágenos: Factores que aumentan la tasa de mutación
 
 Ejemplos:
 
@@ -406,39 +433,72 @@ Importante:
 
 > Los mutágenos aumentan la frecuencia de mutaciones, pero no las dirigen hacia lo que el organismo necesita.
 
----
+## Dos grandes escalas
 
-# Tipos básicos de mutación
+Las mutaciones pueden organizarse en dos grupos:
 
-## Sustituciones
+1. Mutaciones de pequeña escala (puntuales)
+2. Mutaciones cromosómicas (gran escala)
 
-Cambio de una base por otra.
+## Mutaciones de pequeña escala (puntuales)
 
-Ejemplo:
+Afectan pocos nucleótidos.
 
-A → G
+Incluyen:
 
----
+* Sustituciones (una base por otra)
+* Inserciones (se agregan bases)
+* Deleciones (se eliminan bases)
 
-# Tipos básicos de mutación
+Pueden alterar un codón, varios codones o el marco de lectura.
+
+![](05-assets/point-mutations.webp){fig-alt="Esquema de mutaciones puntuales: sustituciones, inserciones y deleciones." width=100%}
+
+## Sustituciones: tres resultados frecuentes
+
+Una sustitución puede ser:
+
+* Silenciosa (silent): cambia el codón pero no cambia el aminoácido.
+* Con cambio de sentido (missense): cambia el aminoácido.
+* Sin sentido (nonsense): convierte un codón en stop prematuro.
+
+Esto ocurre por la redundancia del código genético: varios codones pueden codificar el mismo aminoácido.
+
+![](05-assets/sense-mutations.png){fig-alt="Esquema de tipos de sustituciones: silenciosa, con cambio de sentido y sin sentido." width=100%}
 
 ## Inserciones y deleciones
 
-Se agregan o eliminan nucleótidos.
+Si la inserción/deleción no es múltiplo de 3:
 
-Dependiendo de su posición pueden tener efectos pequeños o grandes.
+* produce desplazamiento de marco (frameshift),
+* cambia todos los codones siguientes,
+* suele tener efectos grandes.
 
----
+Si es múltiplo de 3:
 
-# Tipos básicos de mutación
+* se agregan o eliminan aminoácidos sin cambiar el marco completo.
+* puede tener efectos variables dependiendo de la función de la región afectada.
 
-## Duplicaciones
+## Mutaciones cromosómicas (gran escala)
 
-Un gen completo puede copiarse.
+Afectan segmentos grandes o cromosomas completos.
 
-Esto crea material genético adicional sobre el cual puede actuar la evolución.
+Grupos comunes:
 
----
+* Deleciones grandes
+* Duplicaciones
+* Inversiones
+* Translocaciones
+* Aneuploidías (pérdida o ganancia de cromosomas)
+
+![05-assets/chromosomal-mutations.jpg]{fig-alt="Esquema de mutaciones cromosómicas: deleciones, duplicaciones, inversiones, translocaciones y aneuploidías." width=100%}
+
+## Germinales vs somáticas
+
+Otra clasificación importante depende de dónde ocurre la mutación:
+
+* Germinal (línea germinal): ocurre en células que forman gametos; puede heredarse a la descendencia; importa directamente para evolución entre generaciones.
+* Somática: ocurre en células del cuerpo; afecta al individuo pero normalmente no se hereda; es relevante para cáncer, mosaicos y envejecimiento.
 
 # ¿Todas las mutaciones son dañinas?
 
@@ -446,11 +506,9 @@ Esto crea material genético adicional sobre el cual puede actuar la evolución.
 
 Las mutaciones pueden ser:
 
-* Perjudiciales
+* Dañinas
 * Neutras
 * Beneficiosas
-
----
 
 # La mayoría de las mutaciones nuevas
 
@@ -462,37 +520,21 @@ Cuando surge una nueva mutación:
 * Comienza a muy baja frecuencia.
 * Puede perderse por azar.
 
----
+## Conexión con mutación
 
-# Actividad: simulando mutaciones
+Si un rasgo cuantitativo depende de muchos loci, ¿de dónde salen esos alelos?
 
-## Un modelo simplificado
-
-Cada grupo representa un genoma con:
-
-* 100 loci
-* 200 copias alélicas
-
-Procedimiento:
-
-1. Lanzar una moneda seis veces.
-2. Si se obtienen seis caras consecutivas, ocurre una mutación.
-3. Seleccionar al azar un locus.
-4. Registrar un nuevo alelo.
-
----
-
-# Discusión
-
-## Preguntas
-
-* ¿Cuántas mutaciones aparecieron en toda la clase?
-* ¿Qué proporción de todos los alelos representan?
-* ¿Cambiaron mucho las frecuencias génicas?
-
----
-
-# Ideas principales
+```text
+Mutación
+    ↓
+Nuevos alelos
+    ↓
+Muchos loci contribuyen a un rasgo
+    ↓
+Variación fenotípica continua
+    ↓
+La selección actúa sobre esa variación
+```
 
 ## Resumen
 
@@ -503,3 +545,8 @@ Procedimiento:
 * La mutación proporciona la materia prima sobre la cual actúa la evolución.
 
 ---
+
+# Recursos adicionales:
+
+- https://www.bbc.co.uk/bitesize/guides/zk9vhbk/test
+- https://www.khanacademy.org/science/hs-bio/x230b3ff252126bb6:gene-expression-and-regulation/x230b3ff252126bb6:mutations/v/mutation-as-a-source-of-variation

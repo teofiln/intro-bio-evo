@@ -1125,5 +1125,327 @@
     "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
     "section": "8 Sintesis",
     "text": "8 Sintesis\nCompleten la tabla con un juicio breve para cada evidencia.\nEscala: ++ (apoyo fuerte), + (apoyo moderado), 0 (neutral), - (debilita).\n\n\n\nEvidencia\nHipotesis A\nHipotesis B\nJustificacion corta\n\n\n\n\nObservacion del comportamiento\n\n\n\n\n\nDisminucion del pO2 en la burbuja\n\n\n\n\n\nDistribucion en el arbol filogenetico\n\n\n\n\n\n\n\nCual hipotesis recibe mayor apoyo global con la evidencia disponible?\n\n\nEscriban una conclusion breve (2-3 oraciones), incluyendo una nota de incertidumbre."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#metas",
+    "href": "lectures/05-mutation.html#metas",
+    "title": "Mutación",
+    "section": "Metas",
+    "text": "Metas\n\nLa mutación como la fuente última de nueva variación genética.\nComo allelos discretos pueden generar variación continua a través de la herencia poligénica.\nEntender que la mutación es un proceso aleatorio, no dirigido por las necesidades del organismo."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#ser-capaces-de",
+    "href": "lectures/05-mutation.html#ser-capaces-de",
+    "title": "Mutación",
+    "section": "Ser capaces de",
+    "text": "Ser capaces de\n\nExplicar por qué la mutación es la única fuente de nuevas variantes alélicas.\nDescribir los tipos básicos de mutaciones y cómo afectan el ADN.\nReconocer que las mutaciones son procesos aleatorios, no dirigidos por necesidades del organismo.\nIntegrar el concepto de mutación con el equilibrio de Hardy-Weinberg para entender cómo se introducen nuevas variantes en las poblaciones.\nIntegrar el concepto de mutación con el modelo de herencia poligénica para explicar la variación continua."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#pregunta-central",
+    "href": "lectures/05-mutation.html#pregunta-central",
+    "title": "Mutación y variación heredable",
+    "section": "Pregunta central",
+    "text": "Pregunta central\nHasta ahora hemos visto que:\n\nLos individuos difieren en muchos rasgos.\nParte de esa variación es heredable.\nSin fuerzas evolutivas, las frecuencias alélicas no cambian, y las frecuencias genotípicas se ajustan a Hardy-Weinberg. La población está en equilibrio.\n\nPero queda una pregunta fundamental:\n\n¿De dónde provienen las nuevas variantes genéticas?"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#darwin-tenía-una-explicación-incompleta",
+    "href": "lectures/05-mutation.html#darwin-tenía-una-explicación-incompleta",
+    "title": "Mutación",
+    "section": "Darwin tenía una explicación incompleta",
+    "text": "Darwin tenía una explicación incompleta\nLa selección natural requiere:\n\nVariación entre individuos.\nHerencia de parte de esa variación.\nDiferencias en supervivencia o reproducción.\n\n\n\nSin embargo, Darwin no conocía el mecanismo de la herencia."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#el-aporte-de-mendel",
+    "href": "lectures/05-mutation.html#el-aporte-de-mendel",
+    "title": "Mutación",
+    "section": "El aporte de Mendel",
+    "text": "El aporte de Mendel\n\n\nLos experimentos de Mendel mostraron que:\n\nLos rasgos se heredan mediante unidades discretas.\nLas variantes hereditarias no se mezclan.\nLos alelos pueden mantenerse ocultos durante generaciones.\n\n\n\n\nEsto resolvió uno de los principales problemas de la teoría de Darwin."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#los-rasgos-estudiados-por-mendel",
+    "href": "lectures/05-mutation.html#los-rasgos-estudiados-por-mendel",
+    "title": "Mutación y variación heredable",
+    "section": "Los rasgos estudiados por Mendel",
+    "text": "Los rasgos estudiados por Mendel\nMendel trabajó principalmente con rasgos:\n\nDiscretos\nCualitativos\nFácilmente clasificables\n\nPor ejemplo:\n\nSemillas lisas o rugosas\nFlores púrpuras o blancas"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#variación-cuantitativa",
+    "href": "lectures/05-mutation.html#variación-cuantitativa",
+    "title": "Mutación y variación heredable",
+    "section": "Variación cuantitativa",
+    "text": "Variación cuantitativa\nMuchos rasgos biológicos muestran variación continua:\n\nEstatura\nPeso\nProducción de semillas\nTamaño corporal\n\nA finales del siglo XIX no estaba claro cómo la herencia mendeliana podía producir este tipo de variación."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#la-aparente-contradicción",
+    "href": "lectures/05-mutation.html#la-aparente-contradicción",
+    "title": "Mutación",
+    "section": "La aparente contradicción",
+    "text": "La aparente contradicción\n\n\nMendelianos\nObservaban rasgos como:\n\nFlores púrpuras vs blancas\nSemillas lisas vs rugosas\nPresencia vs ausencia de un rasgo\n\n\n\nLa herencia es particulada y discreta.\n\n\n\nBiometristas\nMedían rasgos como:\n\nEstatura\nPeso\nProducción de leche\nTamaño de pico\n\n\n\nLa variación observada es continua.\n\n\n\n\n\nSi la herencia es discreta, ¿por qué muchos rasgos se ven continuos?"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#un-ejemplo-simple-1-locus",
+    "href": "lectures/05-mutation.html#un-ejemplo-simple-1-locus",
+    "title": "Mutación",
+    "section": "Un ejemplo simple: 1 locus",
+    "text": "Un ejemplo simple: 1 locus\n\n\nImagina un rasgo controlado por un solo locus.\n\n\n\nGenotipo\nContribución a estatura\n\n\n\n\nAA\nAlta\n\n\nAa\nIntermedia\n\n\naa\nBaja\n\n\n\nAparecen tres categorías claras."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#ahora-imagina-2-loci",
+    "href": "lectures/05-mutation.html#ahora-imagina-2-loci",
+    "title": "Mutación",
+    "section": "Ahora imagina 2 loci",
+    "text": "Ahora imagina 2 loci\n\n\n\n\n\nLocus 1\nLocus 2\n\n\n\n\nA/a\nB/b\n\n\n\nSi cada alelo mayúscula aporta +1 unidad, tendramos genotipos con 0, 1, 2, 3 o 4 contribuciones\nYa no son tres categorías, ahora son cinco."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#los-mismos-2-loci-resumidos-en-población",
+    "href": "lectures/05-mutation.html#los-mismos-2-loci-resumidos-en-población",
+    "title": "Mutación",
+    "section": "Los mismos 2 loci, resumidos en población",
+    "text": "Los mismos 2 loci, resumidos en población\n\n\nAl agrupar genotipos por su contribución total, vemos una distribución por frecuencias.\nEste paso conecta genotype-by-genotype con patrón poblacional."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#ahora-imagina-10-loci",
+    "href": "lectures/05-mutation.html#ahora-imagina-10-loci",
+    "title": "Mutación",
+    "section": "Ahora imagina 10 loci",
+    "text": "Ahora imagina 10 loci\n\n\nA/a\nB/b\nC/c\nD/d\n...\nJ/j\nCada alelo mayúscula aporta una pequeña parte.\nRango posible:\n0 a 20 contribuciones\nEl fenotipo empieza a verse continuo."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#muchos-loci-20-loci",
+    "href": "lectures/05-mutation.html#muchos-loci-20-loci",
+    "title": "Mutación",
+    "section": "Muchos loci: 20 loci",
+    "text": "Muchos loci: 20 loci\n\n\nLa herencia sigue siendo discreta en cada locus.\nPero al combinar muchos loci, la cantidad de genotipos posibles crece muchísimo y el rasgo se suaviza.\nLa clave:\nalelos discretos -&gt; variación continua"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#nivel-poblacional-simulación-con-5-loci",
+    "href": "lectures/05-mutation.html#nivel-poblacional-simulación-con-5-loci",
+    "title": "Mutación",
+    "section": "Nivel poblacional: simulación con 5 loci",
+    "text": "Nivel poblacional: simulación con 5 loci\n\n\nCon muchos individuos, la distribución de fenotipos empieza a tomar forma de campana."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#nivel-poblacional-simulación-con-10-loci",
+    "href": "lectures/05-mutation.html#nivel-poblacional-simulación-con-10-loci",
+    "title": "Mutación",
+    "section": "Nivel poblacional: simulación con 10 loci",
+    "text": "Nivel poblacional: simulación con 10 loci\n\n\nAumentar loci incrementa el número de combinaciones genéticas y densifica el continuo fenotípico."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#nivel-poblacional-simulación-con-20-loci",
+    "href": "lectures/05-mutation.html#nivel-poblacional-simulación-con-20-loci",
+    "title": "Mutación",
+    "section": "Nivel poblacional: simulación con 20 loci",
+    "text": "Nivel poblacional: simulación con 20 loci\n\n\nCon más loci, el patrón poblacional se acerca aún más a una distribución continua."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#progresión-general",
+    "href": "lectures/05-mutation.html#progresión-general",
+    "title": "Mutación",
+    "section": "Progresión general",
+    "text": "Progresión general\n\nResumen:\n\nPocos loci: categorías más separadas.\nMuchos loci: variación más suave.\nLa herencia sigue siendo mendeliana en cada locus."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#conexión-con-mutación",
+    "href": "lectures/05-mutation.html#conexión-con-mutación",
+    "title": "Mutación",
+    "section": "Conexión con mutación",
+    "text": "Conexión con mutación\nSi un rasgo cuantitativo depende de muchos loci, ¿de dónde salen esos alelos?\nMutación\n    ↓\nNuevos alelos\n    ↓\nMuchos loci contribuyen a un rasgo\n    ↓\nVariación fenotípica continua\n    ↓\nLa selección actúa sobre esa variación"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#cómo-aparecen-nuevas-variantes",
+    "href": "lectures/05-mutation.html#cómo-aparecen-nuevas-variantes",
+    "title": "Mutación",
+    "section": "¿Cómo aparecen nuevas variantes?",
+    "text": "¿Cómo aparecen nuevas variantes?\nMendel explicó cómo se transmiten variantes existentes.\nPero seguía faltando una explicación para:\n\n¿Cómo surgen nuevos alelos?"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#experimentos-con-drosophila",
+    "href": "lectures/05-mutation.html#experimentos-con-drosophila",
+    "title": "Mutación",
+    "section": "Experimentos con Drosophila",
+    "text": "Experimentos con Drosophila\nA principios del siglo XX, Morgan observó la aparición espontánea de nuevas variantes hereditarias en moscas de la fruta.\nPor ejemplo:\n\nOjos blancos en lugar de rojos\n\nEstas variantes:\n\nEran heredables.\nAparecían de manera aparentemente espontánea.\nPodían seguir las reglas mendelianas."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#definición",
+    "href": "lectures/05-mutation.html#definición",
+    "title": "Mutación",
+    "section": "Definición",
+    "text": "Definición\nUna mutación es:\n\nUn cambio heredable en la secuencia del ADN.\n\nLas mutaciones generan nuevos alelos que pueden transmitirse a generaciones futuras."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#una-idea-clave",
+    "href": "lectures/05-mutation.html#una-idea-clave",
+    "title": "Mutación",
+    "section": "Una idea clave",
+    "text": "Una idea clave\nLa mutación:\n\nProduce nuevas variantes genéticas.\n\nLa selección natural:\n\nCambia la frecuencia de esas variantes."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#la-selección-produce-mutaciones",
+    "href": "lectures/05-mutation.html#la-selección-produce-mutaciones",
+    "title": "Mutación",
+    "section": "¿La selección produce mutaciones?",
+    "text": "¿La selección produce mutaciones?\n\nNo.\n\nLa secuencia correcta es:\n\nMutación → Variación → Selección"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#durante-la-replicación-del-adn",
+    "href": "lectures/05-mutation.html#durante-la-replicación-del-adn",
+    "title": "Mutación",
+    "section": "Durante la replicación del ADN",
+    "text": "Durante la replicación del ADN\nCada vez que una célula copia su ADN pueden ocurrir errores.\nLa mayoría son corregidos.\nAlgunos permanecen y se convierten en mutaciones."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#factores-que-aumentan-la-tasa-de-mutación",
+    "href": "lectures/05-mutation.html#factores-que-aumentan-la-tasa-de-mutación",
+    "title": "Mutación",
+    "section": "Factores que aumentan la tasa de mutación",
+    "text": "Factores que aumentan la tasa de mutación\nEjemplos:\n\nRadiación UV\nRayos X\nAlgunos compuestos químicos\n\nImportante:\n\nLos mutágenos aumentan la frecuencia de mutaciones, pero no las dirigen hacia lo que el organismo necesita."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#sustituciones",
+    "href": "lectures/05-mutation.html#sustituciones",
+    "title": "Mutación",
+    "section": "Sustituciones",
+    "text": "Sustituciones\nCambio de una base por otra.\nEjemplo:\nA → G"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#inserciones-y-deleciones",
+    "href": "lectures/05-mutation.html#inserciones-y-deleciones",
+    "title": "Mutación",
+    "section": "Inserciones y deleciones",
+    "text": "Inserciones y deleciones\nSi la inserción/deleción no es múltiplo de 3:\n\nproduce desplazamiento de marco (frameshift),\ncambia todos los codones siguientes,\nsuele tener efectos grandes.\n\nSi es múltiplo de 3:\n\nse agregan o eliminan aminoácidos sin cambiar el marco completo.\npuede tener efectos variables dependiendo de la función de la región afectada."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#duplicaciones",
+    "href": "lectures/05-mutation.html#duplicaciones",
+    "title": "Mutación",
+    "section": "Duplicaciones",
+    "text": "Duplicaciones\nUn gen completo puede copiarse.\nEsto crea material genético adicional sobre el cual puede actuar la evolución."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#no",
+    "href": "lectures/05-mutation.html#no",
+    "title": "Mutación",
+    "section": "No",
+    "text": "No\nLas mutaciones pueden ser:\n\nDañinas\nNeutras\nBeneficiosas"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#generalmente-son-raras",
+    "href": "lectures/05-mutation.html#generalmente-son-raras",
+    "title": "Mutación",
+    "section": "Generalmente son raras",
+    "text": "Generalmente son raras\nCuando surge una nueva mutación:\n\nAparece en un único individuo.\nComienza a muy baja frecuencia.\nPuede perderse por azar."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#un-modelo-simplificado",
+    "href": "lectures/05-mutation.html#un-modelo-simplificado",
+    "title": "Mutación",
+    "section": "Un modelo simplificado",
+    "text": "Un modelo simplificado\nCada grupo representa un genoma con:\n\n100 loci\n200 copias alélicas\n\nProcedimiento:\n\nLanzar una moneda seis veces.\nSi se obtienen seis caras consecutivas, ocurre una mutación.\nSeleccionar al azar un locus.\nRegistrar un nuevo alelo."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#preguntas",
+    "href": "lectures/05-mutation.html#preguntas",
+    "title": "Mutación",
+    "section": "Preguntas",
+    "text": "Preguntas\n\n¿Cuántas mutaciones aparecieron en toda la clase?\n¿Qué proporción de todos los alelos representan?\n¿Cambiaron mucho las frecuencias génicas?"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#resumen",
+    "href": "lectures/05-mutation.html#resumen",
+    "title": "Mutación",
+    "section": "Resumen",
+    "text": "Resumen\n\nMendel explicó cómo se heredan variantes existentes.\nLa mutación explica el origen de nuevos alelos.\nLas mutaciones ocurren antes de que actúe la selección.\nLa mayoría de las mutaciones nuevas comienzan siendo muy raras.\nLa mutación proporciona la materia prima sobre la cual actúa la evolución."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#hasta-ahora-hemos-visto-que",
+    "href": "lectures/05-mutation.html#hasta-ahora-hemos-visto-que",
+    "title": "Mutación",
+    "section": "Hasta ahora hemos visto que",
+    "text": "Hasta ahora hemos visto que\n\nLos individuos difieren en muchos rasgos.\nParte de esa variación es heredable.\nSin fuerzas evolutivas:\n\nlas frecuencias alélicas no cambian,\nlas frecuencias genotípicas se ajustan a Hardy-Weinberg,\nla población está en equilibrio.\n\n\nPero queda una pregunta fundamental:\n\n¿De dónde provienen las nuevas variantes genéticas?"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#una-limitación-importante",
+    "href": "lectures/05-mutation.html#una-limitación-importante",
+    "title": "Mutación",
+    "section": "Una limitación importante",
+    "text": "Una limitación importante\nMendel trabajó principalmente con rasgos:\n\nDiscretos\nCualitativos\nFácilmente clasificables\n\n\nPor ejemplo:\n\nSemillas lisas o rugosas\nFlores púrpuras o blancas"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#y-los-rasgos-continuos",
+    "href": "lectures/05-mutation.html#y-los-rasgos-continuos",
+    "title": "Mutación",
+    "section": "¿Y los rasgos continuos?",
+    "text": "¿Y los rasgos continuos?\nMuchos rasgos biológicos muestran variación continua:\n\nEstatura\nPeso\nProducción de semillas\nTamaño corporal\n\n\n\nA finales del siglo XIX no estaba claro cómo la herencia mendeliana podía producir este tipo de variación."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#loci-agregando-efecto-genotipo-x-ambiente-gxe",
+    "href": "lectures/05-mutation.html#loci-agregando-efecto-genotipo-x-ambiente-gxe",
+    "title": "Mutación",
+    "section": "2 loci: agregando efecto genotipo x ambiente (GxE)",
+    "text": "2 loci: agregando efecto genotipo x ambiente (GxE)\n\n\nAhora mantenemos el mismo valor genético base por genotipo, pero agregamos un multiplicador ambiental pequeño y aleatorio para cada uno.\nEn esta simulación, cada genotipo recibe un cambio entre -10% y +10%.\n\nBarras claras de fondo: valor con GxE\nBarras oscuras frontales: valor genético base"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#loci",
+    "href": "lectures/05-mutation.html#loci",
+    "title": "Mutación",
+    "section": "10 loci",
+    "text": "10 loci\n\n\nA/a\nB/b\nC/c\nD/d\n...\nJ/j\nCada alelo mayúscula aporta una pequeña parte.\nRango posible:\n0 a 20 contribuciones\nEl fenotipo empieza a verse continuo."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#loci-1",
+    "href": "lectures/05-mutation.html#loci-1",
+    "title": "Mutación",
+    "section": "20 loci",
+    "text": "20 loci\n\n\nLa herencia sigue siendo discreta en cada locus.\nPero al combinar muchos loci, la cantidad de genotipos posibles crece muchísimo y el rasgo se suaviza.\nLa clave:\n\n\nalelos discretos -&gt; variación continua"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#cómo-ocurren-las-mutaciones",
+    "href": "lectures/05-mutation.html#cómo-ocurren-las-mutaciones",
+    "title": "Mutación",
+    "section": "¿Cómo ocurren las mutaciones?",
+    "text": "¿Cómo ocurren las mutaciones?\nCada vez que una célula copia su ADN pueden ocurrir errores.\nLa mayoría son corregidos.\nAlgunos permanecen y se convierten en mutaciones."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#mutágenos-factores-que-aumentan-la-tasa-de-mutación",
+    "href": "lectures/05-mutation.html#mutágenos-factores-que-aumentan-la-tasa-de-mutación",
+    "title": "Mutación",
+    "section": "Mutágenos: Factores que aumentan la tasa de mutación",
+    "text": "Mutágenos: Factores que aumentan la tasa de mutación\nEjemplos:\n\nRadiación UV\nRayos X\nAlgunos compuestos químicos\n\nImportante:\n\nLos mutágenos aumentan la frecuencia de mutaciones, pero no las dirigen hacia lo que el organismo necesita."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#dos-grandes-escalas",
+    "href": "lectures/05-mutation.html#dos-grandes-escalas",
+    "title": "Mutación",
+    "section": "Dos grandes escalas",
+    "text": "Dos grandes escalas\nLas mutaciones pueden organizarse en dos grupos:\n\nMutaciones de pequeña escala (puntuales)\nMutaciones cromosómicas (gran escala)"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#mutaciones-de-pequeña-escala-puntuales",
+    "href": "lectures/05-mutation.html#mutaciones-de-pequeña-escala-puntuales",
+    "title": "Mutación",
+    "section": "Mutaciones de pequeña escala (puntuales)",
+    "text": "Mutaciones de pequeña escala (puntuales)\nAfectan pocos nucleótidos.\nIncluyen:\n\nSustituciones (una base por otra)\nInserciones (se agregan bases)\nDeleciones (se eliminan bases)\n\nPueden alterar un codón, varios codones o el marco de lectura."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#sustituciones-tres-resultados-frecuentes",
+    "href": "lectures/05-mutation.html#sustituciones-tres-resultados-frecuentes",
+    "title": "Mutación",
+    "section": "Sustituciones: tres resultados frecuentes",
+    "text": "Sustituciones: tres resultados frecuentes\nUna sustitución puede ser:\n\nSilenciosa (silent): cambia el codón pero no cambia el aminoácido.\nCon cambio de sentido (missense): cambia el aminoácido.\nSin sentido (nonsense): convierte un codón en stop prematuro.\n\nEsto ocurre por la redundancia del código genético: varios codones pueden codificar el mismo aminoácido."
+  },
+  {
+    "objectID": "lectures/05-mutation.html#mutaciones-cromosómicas-gran-escala",
+    "href": "lectures/05-mutation.html#mutaciones-cromosómicas-gran-escala",
+    "title": "Mutación",
+    "section": "Mutaciones cromosómicas (gran escala)",
+    "text": "Mutaciones cromosómicas (gran escala)\nAfectan segmentos grandes o cromosomas completos.\nGrupos comunes:\n\nDeleciones grandes\nDuplicaciones\nInversiones\nTranslocaciones\nAneuploidías (pérdida o ganancia de cromosomas)\n\n![05-assets/chromosomal-mutations.jpg]"
+  },
+  {
+    "objectID": "lectures/05-mutation.html#germinales-vs-somáticas",
+    "href": "lectures/05-mutation.html#germinales-vs-somáticas",
+    "title": "Mutación",
+    "section": "Germinales vs somáticas",
+    "text": "Germinales vs somáticas\nOtra clasificación importante depende de dónde ocurre la mutación:\n\nGerminal (línea germinal): ocurre en células que forman gametos; puede heredarse a la descendencia; importa directamente para evolución entre generaciones.\nSomática: ocurre en células del cuerpo; afecta al individuo pero normalmente no se hereda; es relevante para cáncer, mosaicos y envejecimiento."
   }
 ]
