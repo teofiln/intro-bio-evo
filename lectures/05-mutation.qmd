@@ -622,24 +622,37 @@ Afectan segmentos grandes o cromosomas completos.
 
 ![](05-assets/chromosomal-mutations.jpg){fig-alt="Esquema de mutaciones cromosómicas." width=100%}
 
-## Germinales vs somáticas
+## Germinales vs somáticas {.smaller}
 
 ::: {.columns}
 
 ::: {.column}
+
+::: {.fragment}
+
 ### Germinal (línea germinal)
 
 * Ocurre en células que forman gametos.
 * Puede heredarse a la descendencia.
 * Importa directamente para evolución entre generaciones.
+
+:::
+
 :::
 
 ::: {.column}
+
+
+::: {.fragment}
+
 ### Somática
 
 * Ocurre en células del cuerpo.
 * Afecta al individuo pero normalmente no se hereda.
 * Es relevante para cáncer, mosaicos y envejecimiento.
+
+:::
+
 :::
 
 :::
@@ -685,10 +698,11 @@ Una duplicación crea dos copias del mismo gen. A partir de ahí, hay varios des
 
 ::: {.fragment}
 
-Ejemplos:   
+::: {.incremental .smaller}
 - globinas (hemoglobina y mioglobina) surgieron por duplicación y neofuncionalización.  
 - fetal vs adulto: hemoglobina fetal tiene mayor afinidad por oxígeno que la adulta, lo que es crucial para el intercambio de gases en el útero.  
 - proteínas antifreeze en peces antárticos surgieron por duplicación y neofuncionalización de un gen de rol digestivo.  
+:::
 
 :::
 
