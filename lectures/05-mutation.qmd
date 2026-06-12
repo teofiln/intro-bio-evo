@@ -325,6 +325,14 @@ Resumen:
 * Muchos loci: variación más suave.
 * La herencia sigue siendo mendeliana en cada locus.
 
+## Resumen: Herencia poligenica
+
+::: {.incremental}
+* No hay contradicción: la herencia mendeliana es particulada en cada locus.
+* Muchos loci con efectos pequeños se suman para construir el fenotipo.
+* Al combinarse en muchos individuos, esas contribuciones discretas generan una distribución aparentemente continua.
+* Genética mendeliana (nivel de gen) y variación cuantitativa (nivel poblacional) son dos escalas del mismo proceso.
+:::
 
 # ?De dónde proviene la variación genética? {background-color="#E8F5E9"}
 
@@ -554,22 +562,20 @@ Si es múltiplo de 3:
 
 
 ```text
-
 # original
 ATG CCT GAA TGA
 |   |   |   |
 Ala Pro Glu Stop
 
-# after insertion of one base
+# inserción de una base
 ATG CCT GGA ATG A
 |   |   |   |   |
-Ala Pro Gly Met Stop
+Ala Pro Gly Met ?
 
-
-# after deletion of one base
+# eliminación de una base
 ATG CCT GAT GA
 |   |   |   |
-Ala Pro Asp Stop
+Ala Pro Asp ?
 
 ```
 :::
@@ -577,18 +583,17 @@ Ala Pro Asp Stop
 ::: {.column}
 
 ```text
-
 # original
 ATG CCT GAA TGA
 |   |   |   |
 Ala Pro Glu Stop
 
-# after insertion of three bases
+# inserción de tres bases
 ATG CCT GAA TTT TGA 
 |   |   |   |   |
 Ala Pro Glu Phe Stop
 
-# after deletion of three bases
+# eliminación de tres bases
 ATG CCT TGA
 |   |   |
 Ala Pro Stop
@@ -597,6 +602,10 @@ Ala Pro Stop
 :::
 
 :::
+
+## Otro ejemplo
+
+![](05-assets/point-mutations.webp){fig-alt="Ejemplo de mutación con desplazamiento de marco (frameshift) causada por una inserción." width=100%}
 
 
 ## Mutaciones cromosómicas (gran escala)
@@ -615,8 +624,25 @@ Afectan segmentos grandes o cromosomas completos.
 
 ## Germinales vs somáticas
 
-* Germinal (línea germinal): ocurre en células que forman gametos; puede heredarse a la descendencia; importa directamente para evolución entre generaciones.
-* Somática: ocurre en células del cuerpo; afecta al individuo pero normalmente no se hereda; es relevante para cáncer, mosaicos y envejecimiento.
+::: {.columns}
+
+::: {.column}
+### Germinal (línea germinal)
+
+* Ocurre en células que forman gametos.
+* Puede heredarse a la descendencia.
+* Importa directamente para evolución entre generaciones.
+:::
+
+::: {.column}
+### Somática
+
+* Ocurre en células del cuerpo.
+* Afecta al individuo pero normalmente no se hereda.
+* Es relevante para cáncer, mosaicos y envejecimiento.
+:::
+
+:::
 
 ## Implicaciones evolutivas {.smaller}
 
@@ -645,19 +671,32 @@ Una duplicación crea dos copias del mismo gen. A partir de ahí, hay varios des
 
 ---
 
+
+::: {.columns}
+
+::: {.column}
+
 ![](05-assets/duplication-neo-vs-sub-vs-loss.png){fig-alt="Esquema de destinos evolutivos de una duplicación génica: pseudogenización, subfuncionalización y neofuncionalización." width=100%}
+
+:::
+
+::: {.column}
 
 
 ::: {.fragment}
 
-Ejemplo: 
-- globinas (hemoglobina y mioglobina) surgieron por duplicación y neofuncionalización.
-- fetal vs adulto: hemoglobina fetal tiene mayor afinidad por oxígeno que la adulta, lo que es crucial para el intercambio de gases en el útero.
-- proteínas antifreeze en peces antárticos surgieron por duplicación y neofuncionalización de un gen de rol digestivo.
+Ejemplos:   
+- globinas (hemoglobina y mioglobina) surgieron por duplicación y neofuncionalización.  
+- fetal vs adulto: hemoglobina fetal tiene mayor afinidad por oxígeno que la adulta, lo que es crucial para el intercambio de gases en el útero.  
+- proteínas antifreeze en peces antárticos surgieron por duplicación y neofuncionalización de un gen de rol digestivo.  
 
 :::
 
-## Resumen
+:::
+
+:::
+
+## Resumen: Herencia, Mutacion, y Evolucion
 
 ![](05-assets/synthesis-diagram.png)
 
