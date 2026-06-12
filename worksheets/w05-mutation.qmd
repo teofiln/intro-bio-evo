@@ -1,0 +1,203 @@
+---
+title: "Hoja de trabajo: Mutación y origen de nuevos alelos"
+subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
+format:
+  html:
+    toc: FALSE
+    number-sections: FALSE
+docx: default
+pdf: default
+lang: es
+---
+
+# Objetivos
+
+* Comprender que la mutación es la fuente última de nuevos alelos.
+* Reconocer que las mutaciones ocurren de manera aleatoria.
+* Visualizar cómo una mutación nueva comienza a frecuencias muy bajas en una población.
+* Conectar los conceptos de mutación, herencia mendeliana y evolución.
+
+# Introducción
+
+Las mutaciones son cambios heredables en la secuencia del ADN. Aunque las mutaciones individuales son poco frecuentes, representan la fuente última de toda la variación genética nueva sobre la que puede actuar la selección natural.
+
+En esta actividad simularemos una población donde ocasionalmente aparecen nuevas mutaciones.
+
+# Modelo simplificado
+
+Cada grupo representa un individuo diploide.
+
+Su genoma contiene 10 loci:
+
+```text
+A1  A2  A3  A4  A5  A6  A7  A8  A9  A10
+```
+
+Cada locus contiene aproximadamente 300 nucleótidos.
+
+Cada individuo posee:
+
+* 10 loci
+* 2 copias de cada locus (materna y paterna)
+* 20 copias alélicas en total
+* 6000 nucleótidos en su genoma diploide
+
+Para simplificar, asumiremos que inicialmente todos los individuos poseen exactamente los mismos alelos.
+
+# Parte I: ¿Ocurre una mutación?
+
+Lancen una moneda 6 veces.
+
+Solo ocurre una mutación si obtienen:
+
+```text
+Cara - Cara - Cara - Cara - Cara - Cara
+```
+
+La probabilidad de este evento es:
+
+$$
+(1/2)^6 = 1/64
+$$
+
+**Esta probabilidad es mucho mayor que las tasas reales de mutación, pero nos permite observar el proceso durante una sola clase.**
+
+## Registro
+
+¿Obtuvieron 6 caras consecutivas?
+
+* [ ] Sí
+* [ ] No
+
+Si la respuesta es "No", continúen con la discusión final.
+
+Si la respuesta es "Sí", continúen con la Parte II.
+
+# Parte II: ¿Dónde ocurrió la mutación?
+
+## Paso 1: Elegir el locus
+
+Extraigan al azar un número entre 1 y 10.
+
+Locus afectado:
+
+
+---
+
+## Paso 2: Elegir la copia parental
+
+Lancen una moneda una vez.
+
+* Cara = copia materna
+* Cruz = copia paterna
+
+Copia afectada:
+
+
+---
+
+## Paso 3: Elegir la posición dentro del gen
+
+Extraigan al azar un número entre 1 y 300.
+
+Posición mutada:
+
+
+---
+
+## Registro de la mutación
+
+Ejemplo:
+
+```text
+A7
+Copia materna
+Posición 184
+```
+
+Mutación observada:
+
+
+
+---
+
+# Parte III: Registro poblacional
+
+Cada grupo que obtuvo una mutación registrará su resultado en la pizarra.
+
+
+| Grupo | Mutación |
+| ----- | -------- |
+|       |          |
+|       |          |
+|       |          |
+|       |          |
+|       |          |
+
+# Análisis
+
+## Tamaño de la población
+
+Número total de grupos:
+
+$$
+N = \underline{\hspace{2cm}}
+$$
+
+---
+
+## Número total de alelos
+
+Cada individuo posee:
+
+$$
+10 \text{ loci} \times 2 \text{ copias} = 20 \text{ alelos}
+$$
+
+Alelos totales en la población:
+
+$$
+20 \times N = 
+$$
+
+---
+
+## Número total de mutaciones observadas
+
+$$
+M = \underline{\hspace{2cm}}
+$$
+
+---
+
+## Frecuencia de alelos nuevos
+
+Frecuencia observada:
+
+$$
+f= \frac{M}{20 \times N} = 
+$$
+
+
+## Frecuencia de nucleotidos nuevos
+
+$$
+f_n = \frac{M}{6000 \times N} = 
+$$
+
+
+# Preguntas para discusión
+
+1. ¿Cuántas mutaciones aparecieron en toda la población?
+
+2. ¿Ocurrieron todas las mutaciones en el mismo locus?
+
+3. ¿Ocurrieron todas las mutaciones en la misma posición del ADN?
+
+4. ¿Qué sugiere esto acerca de la naturaleza aleatoria de las mutaciones?
+
+5. Si una mutación aparece en una sola copia alélica, ¿comienza siendo común o rara?
+
+6. ¿La aparición de una mutación implica automáticamente que la población ha evolucionado?
+
+7. ¿Qué procesos podrían aumentar o disminuir la frecuencia de una mutación en generaciones futuras?
