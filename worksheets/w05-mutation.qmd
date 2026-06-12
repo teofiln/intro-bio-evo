@@ -5,8 +5,8 @@ format:
   html:
     toc: FALSE
     number-sections: FALSE
-docx: default
-pdf: default
+  docx: default
+  pdf: default
 lang: es
 ---
 

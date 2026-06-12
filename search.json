@@ -53,7 +53,7 @@
     "href": "worksheets/w05-mutation.html#número-total-de-alelos",
     "title": "Hoja de trabajo: Mutación y origen de nuevos alelos",
     "section": "Número total de alelos",
-    "text": "Número total de alelos\nCada individuo posee:\n\\[\n10 \\text{ loci} \\times 2 \\text{ copias} = 20 \\text{ alelos}\n\\]\nPor tanto:\n\\[\n20 \\times N =\n\\]\nAlelos totales en la población:"
+    "text": "Número total de alelos\nCada individuo posee:\n\\[\n10 \\text{ loci} \\times 2 \\text{ copias} = 20 \\text{ alelos}\n\\]\nAlelos totales en la población:\n\\[\n20 \\times N =\n\\]"
   },
   {
     "objectID": "worksheets/w05-mutation.html#número-total-de-mutaciones-observadas",
@@ -67,7 +67,7 @@
     "href": "worksheets/w05-mutation.html#frecuencia-de-alelos-nuevos",
     "title": "Hoja de trabajo: Mutación y origen de nuevos alelos",
     "section": "Frecuencia de alelos nuevos",
-    "text": "Frecuencia de alelos nuevos\n\\[\nf= \\frac{M}{20N} =\n\\]\nFrecuencia observada:"
+    "text": "Frecuencia de alelos nuevos\nFrecuencia observada:\n\\[\nf= \\frac{M}{20 \\times N} =\n\\]"
   },
   {
     "objectID": "worksheets/w05-mutation.html#frecuencia-de-nucleotidos-nuevos",
