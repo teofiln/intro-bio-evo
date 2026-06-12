@@ -4,7 +4,7 @@ subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
 format:
   revealjs:
     slide-number: true
-    incremental: true
+    incremental: false
     theme: simple
 lang: es
 ---
@@ -15,7 +15,7 @@ lang: es
 2. Como allelos discretos pueden generar variación continua a través de la herencia poligénica.
 3. Entender que la mutación es un proceso aleatorio, no dirigido por las necesidades del organismo.
 
-## Ser capaces de
+## Ser capaces de {.smaller}
 
 ::: {.incremental}
 - Explicar por qué la mutación es la única fuente de nuevas variantes alélicas.
@@ -25,7 +25,7 @@ lang: es
 - Integrar el concepto de mutación con el modelo de herencia poligénica para explicar la variación continua.
 :::
 
-# ¿De dónde proviene la variación heredable? {background-color="#E8F5E9"}
+# Evolucion y herencia {background-color="#E8F5E9"}
 
 ## Hasta ahora hemos visto que
 
@@ -45,8 +45,6 @@ Pero queda una pregunta:
 
 :::
 
-
-
 ## Darwin tenía una explicación incompleta
 
 La selección natural requiere:
@@ -62,7 +60,7 @@ La selección natural requiere:
 :::
 
 
-## El aporte de Mendel
+## El aporte de Mendel {.smaller}
 
 ::: {.columns}
 
@@ -88,11 +86,9 @@ Los experimentos de Mendel mostraron que:
 ::: {.fragment}
 
 
-Esto resolvió uno de los principales problemas de la teoría de Darwin.
+Esto resolvió uno de los principales problemas de la teoría de Darwin: ¿cómo se mantiene la variación a lo largo del tiempo?
 
 :::
-
-
 
 ## Una limitación importante
 
@@ -100,7 +96,6 @@ Mendel trabajó principalmente con rasgos:
 
 * Cualitativos
 * Fácilmente clasificables
-
 
 ::: {.fragment}
 
@@ -183,11 +178,10 @@ Medían rasgos como:
 :::
 
 
-## Un ejemplo simple: 1 locus
+## Ronald Fisher y la herencia poligénica
 
 ::: columns
 ::: {.column width="45%"}
-Imagina un rasgo controlado por un solo locus.
 
 | Genotipo | Contribución a estatura |
 | -------- | ----------------------- |
@@ -227,10 +221,7 @@ Si cada alelo mayúscula aporta +1 unidad, tendramos genotipos con 0, 1, 2, 3 o 
 
 ::: columns
 ::: {.column width="45%"}
-Ahora mantenemos el mismo valor genético base por genotipo,
-pero agregamos un multiplicador ambiental pequeño y aleatorio para cada uno.
-
-En esta simulación, cada genotipo recibe un cambio entre -10% y +10%.
+Ahora agregamos un efecto de interacción genotipo por ambiente (GxE):
 
 * Barras claras de fondo: valor con GxE
 * Barras oscuras frontales: valor genético base
@@ -288,30 +279,6 @@ El fenotipo empieza a verse continuo.
 :::
 :::
 
-## 20 loci
-
-::: columns
-::: {.column width="45%"}
-La herencia sigue siendo discreta en cada locus.
-
-Pero al combinar muchos loci, la cantidad de genotipos posibles crece muchísimo y el rasgo se suaviza.
-
-La clave:
-
-
-::: {.fragment}
-
-> alelos discretos -> variación continua
-
-:::
-
-:::
-
-::: {.column width="55%"}
-![](05-assets/09_twenty_loci_all_genotypes.png){fig-alt="Mapa de todos los genotipos posibles y su contribucion a la estatura para 20 loci." width=100%}
-:::
-:::
-
 ## Nivel poblacional: simulación con 5 loci
 
 ::: columns
@@ -359,11 +326,13 @@ Resumen:
 * La herencia sigue siendo mendeliana en cada locus.
 
 
-# Otra pregunta sin respuesta
+# ?De dónde proviene la variación genética? {background-color="#E8F5E9"}
 
 ## ¿Cómo aparecen nuevas variantes?
 
-Mendel explicó cómo se transmiten variantes existentes.
+- Mendel explicó cómo se transmiten variantes existentes.
+
+- Fischer explico cómo la herencia poligénica puede generar variación continua.
 
 Pero seguía faltando una explicación para:
 
@@ -371,21 +340,37 @@ Pero seguía faltando una explicación para:
 
 ---
 
-# Thomas Hunt Morgan y las mutaciones
-
-## Experimentos con Drosophila
+## Thomas Hunt Morgan y Drosophila
 
 A principios del siglo XX, Morgan observó la aparición espontánea de nuevas variantes hereditarias en moscas de la fruta.
 
-Por ejemplo:
 
-* Ojos blancos en lugar de rojos
+::: {.columns widths="60% 40%"}
+
+::: {.column}
+
+![](05-assets/drosophila.jpg){fig-alt="Mutaciones en mosca de la fruta." width=100%}
+
+:::
+
+::: {.column}
+
+
+::: {.fragment}
+
 
 Estas variantes:
 
 * Eran heredables.
 * Aparecían de manera aparentemente espontánea.
 * Podían seguir las reglas mendelianas.
+
+:::
+
+:::
+
+:::
+
 
 ## Definición
 
@@ -395,23 +380,52 @@ Una mutación es:
 
 Las mutaciones generan nuevos alelos que pueden transmitirse a generaciones futuras.
 
----
+## Mutación vs selección natural
+
+::: {.fragment}
 
 La mutación:
 
 * Produce nuevas variantes genéticas.
 
+:::
+
+
+::: {.fragment}
+
 La selección natural:
 
 * Cambia la frecuencia de esas variantes.
 
+:::
+
+
 ## ¿La selección produce mutaciones?
 
+
+::: {.fragment}
+
 > No.
+
+:::
+
+
+::: {.fragment}
 
 La secuencia correcta es:
 
 > Mutación → Variación → Selección
+
+:::
+
+
+::: {.fragment}
+
+> La seleccion natural actua sobre el fenotipo, no sobre la mutación o el genotipo.
+
+:::
+
+
 
 ## ¿Cómo ocurren las mutaciones?
 
@@ -429,9 +443,50 @@ Ejemplos:
 * Rayos X
 * Algunos compuestos químicos
 
+
+::: {.fragment}
+
 Importante:
 
 > Los mutágenos aumentan la frecuencia de mutaciones, pero no las dirigen hacia lo que el organismo necesita.
+
+:::
+
+## ¿Todas las mutaciones son dañinas?
+
+::: {.fragment}
+
+> No.
+
+:::
+
+
+::: {.fragment}
+
+Las mutaciones pueden ser:
+
+* Dañinas
+* Neutras
+* Beneficiosas
+
+:::
+
+## El destino de una mutación nueva
+
+Cuando surge una nueva mutación:
+
+* Aparece en un único individuo.
+* Comienza a muy baja frecuencia.
+* Puede perderse por azar.
+
+
+::: {.fragment}
+
+> La mayoría de las mutaciones nuevas generalmente son muy raras
+
+:::
+
+# Tipos de mutaciones y su importancia evolutiva {background-color="#E8F5E9"}
 
 ## Dos grandes escalas
 
@@ -454,19 +509,31 @@ Pueden alterar un codón, varios codones o el marco de lectura.
 
 ![](05-assets/point-mutations.webp){fig-alt="Esquema de mutaciones puntuales: sustituciones, inserciones y deleciones." width=100%}
 
-## Sustituciones: tres resultados frecuentes
+## Sustituciones: tres resultados {.smaller}
 
-Una sustitución puede ser:
+::: {.columns}
 
+::: {.column}
+
+::: {.incremental }
 * Silenciosa (silent): cambia el codón pero no cambia el aminoácido.
 * Con cambio de sentido (missense): cambia el aminoácido.
 * Sin sentido (nonsense): convierte un codón en stop prematuro.
 
-Esto ocurre por la redundancia del código genético: varios codones pueden codificar el mismo aminoácido.
+
+:::
+
+:::
+
+::: {.column}
 
 ![](05-assets/sense-mutations.png){fig-alt="Esquema de tipos de sustituciones: silenciosa, con cambio de sentido y sin sentido." width=100%}
 
-## Inserciones y deleciones
+:::
+
+:::
+
+## Inserciones y deleciones {.smaller}
 
 Si la inserción/deleción no es múltiplo de 3:
 
@@ -479,11 +546,62 @@ Si es múltiplo de 3:
 * se agregan o eliminan aminoácidos sin cambiar el marco completo.
 * puede tener efectos variables dependiendo de la función de la región afectada.
 
+## Ejemplos
+
+::: {.columns}
+
+::: {.column}
+
+
+```text
+
+# original
+ATG CCT GAA TGA
+|   |   |   |
+Ala Pro Glu Stop
+
+# after insertion of one base
+ATG CCT GGA ATG A
+|   |   |   |   |
+Ala Pro Gly Met Stop
+
+
+# after deletion of one base
+ATG CCT GAT GA
+|   |   |   |
+Ala Pro Asp Stop
+
+```
+:::
+
+::: {.column}
+
+```text
+
+# original
+ATG CCT GAA TGA
+|   |   |   |
+Ala Pro Glu Stop
+
+# after insertion of three bases
+ATG CCT GAA TTT TGA 
+|   |   |   |   |
+Ala Pro Glu Phe Stop
+
+# after deletion of three bases
+ATG CCT TGA
+|   |   |
+Ala Pro Stop
+```
+
+:::
+
+:::
+
+
 ## Mutaciones cromosómicas (gran escala)
 
 Afectan segmentos grandes o cromosomas completos.
-
-Grupos comunes:
 
 * Deleciones grandes
 * Duplicaciones
@@ -491,58 +609,57 @@ Grupos comunes:
 * Translocaciones
 * Aneuploidías (pérdida o ganancia de cromosomas)
 
-![05-assets/chromosomal-mutations.jpg]{fig-alt="Esquema de mutaciones cromosómicas: deleciones, duplicaciones, inversiones, translocaciones y aneuploidías." width=100%}
+---
+
+![](05-assets/chromosomal-mutations.jpg){fig-alt="Esquema de mutaciones cromosómicas." width=100%}
 
 ## Germinales vs somáticas
-
-Otra clasificación importante depende de dónde ocurre la mutación:
 
 * Germinal (línea germinal): ocurre en células que forman gametos; puede heredarse a la descendencia; importa directamente para evolución entre generaciones.
 * Somática: ocurre en células del cuerpo; afecta al individuo pero normalmente no se hereda; es relevante para cáncer, mosaicos y envejecimiento.
 
-# ¿Todas las mutaciones son dañinas?
+## Implicaciones evolutivas {.smaller}
 
-## No
+No todos los tipos de mutación aportan el mismo "material" para evolución.
 
-Las mutaciones pueden ser:
+* Sustituciones silenciosas: suelen comportarse como casi neutras.
+* Missense y nonsense: cambian función proteica; pueden ser dañinas, neutras o (raramente) beneficiosas.
+* Inserciones/deleciones con frameshift: frecuentemente tienen efectos grandes y deletéreos.
+* Cambios regulatorios: pueden modificar cuándo, dónde y cuánto se expresa un gen.
+* Duplicaciones: crean copias extra que pueden divergir funcionalmente.
 
-* Dañinas
-* Neutras
-* Beneficiosas
+## Duplicación génica y destinos evolutivos {.smaller}
 
-# La mayoría de las mutaciones nuevas
+Una duplicación crea dos copias del mismo gen. A partir de ahí, hay varios destinos:
 
-## Generalmente son raras
+1. Pseudogenización: una copia acumula mutaciones y pierde función.
+2. Subfuncionalización: cada copia retiene parte de la función ancestral.
+3. Neofuncionalización: una copia adquiere una función nueva.
 
-Cuando surge una nueva mutación:
 
-* Aparece en un único individuo.
-* Comienza a muy baja frecuencia.
-* Puede perderse por azar.
+::: {.fragment}
 
-## Conexión con mutación
+> Las duplicaciones abren espacio para innovación evolutiva sin perder de inmediato la función original.
 
-Si un rasgo cuantitativo depende de muchos loci, ¿de dónde salen esos alelos?
+:::
 
-```text
-Mutación
-    ↓
-Nuevos alelos
-    ↓
-Muchos loci contribuyen a un rasgo
-    ↓
-Variación fenotípica continua
-    ↓
-La selección actúa sobre esa variación
-```
+---
+
+![](05-assets/duplication-neo-vs-sub-vs-loss.png){fig-alt="Esquema de destinos evolutivos de una duplicación génica: pseudogenización, subfuncionalización y neofuncionalización." width=100%}
+
+
+::: {.fragment}
+
+Ejemplo: 
+- globinas (hemoglobina y mioglobina) surgieron por duplicación y neofuncionalización.
+- fetal vs adulto: hemoglobina fetal tiene mayor afinidad por oxígeno que la adulta, lo que es crucial para el intercambio de gases en el útero.
+- proteínas antifreeze en peces antárticos surgieron por duplicación y neofuncionalización de un gen de rol digestivo.
+
+:::
 
 ## Resumen
 
-* Mendel explicó cómo se heredan variantes existentes.
-* La mutación explica el origen de nuevos alelos.
-* Las mutaciones ocurren antes de que actúe la selección.
-* La mayoría de las mutaciones nuevas comienzan siendo muy raras.
-* La mutación proporciona la materia prima sobre la cual actúa la evolución.
+![](05-assets/synthesis-diagram.png)
 
 ---
 
