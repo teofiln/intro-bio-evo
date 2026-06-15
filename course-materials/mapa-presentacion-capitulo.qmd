@@ -1,0 +1,56 @@
+# Mapa entre las presentaciones y capitulos en el libro o otros recursos
+
+Las presentaciones les guian al contenido que tienen que estudiar. La lista abajo esta aproximada, 
+y no garantiza que todo lo que hemos mencionado durante la clase esta disponible en los capitulos del libro. 
+
+Los quizes y examen son derivados de las presentaciones. Es su responsabilidad de buscar recursos adicionales si 
+algun concepto de las presentaciones no se encuentra en el libro.    
+
+::: {.callout}
+**Generalmente: La unidad III, capitulos 17, 18, 19.**
+:::
+
+## Introduccion; individuos vs poblaciones; rasgos y distribuciones de rasgos, definicion de evolucion
+
+- Unidad III: 18.1, resumen y ejercicios de capitulo 18
+
+## Fosiles, homologias, biogeografia y evidencia directa contemporanea
+
+- Unidad III: 17.1 - 17.9
+
+## Como estudiamos la evolucion: evidencia, inferencia, comparacion de hipotesis y limites
+
+- Unidad I: 1.5, 1.6, 1.7, 1.8, resumen y ejercicios de capitulo 1
+
+## Hardy-Weinberg como expectativa nula: que pasaria si no actuaran fuerzas evolutivas
+
+- Unidad III: 18.1, 18.2, resumen y ejercicios de capitulo 18
+
+## Mutacion y variacion heredable: origen de nuevos alelos, tipos basicos y errores frecuentes
+
+- Unidad II: Herencia, Mutaciones. Ver la presentacion para recursos adicionales. (No hay seccion dedicada a mutacion en la unidad III)
+
+## Seleccion natural, aptitud, adaptacion, tradeoffs y limites de la seleccion
+
+- Unidad III: 18.3, 18.4, 18.5 resumen y ejercicios de capitulo 18
+
+## Deriva genetica, efecto fundador, cuello de botella y cambio por azar
+
+- Unidad III: 18.7 resumen y ejercicios de capitulo 18
+
+## Migracion (flujo genico), conectividad poblacional y homogenizacion/diferenciacion genetica
+
+- Unidad III: 18.8 resumen y ejercicios de capitulo 18
+
+## Especiacion: aislamiento reproductivo y divergencia, poblaciones, lineages, y especies, unidades de conservacion
+
+- Unidad III: 18.8, 18.10, 18.11 resumen y ejercicios de capitulo 18
+
+## Macroevolucion: vincular cambio en poblaciones con diversificacion y extincion masiva a lo largo del tiempo
+
+- Unidad III: 18.12 resumen y ejercicios de capitulo 18
+
+## Filogenias: lectura de arboles, nodos, clados, grupo hermano, ancestro comun y evolucion de rasgos
+
+- Unidad III: 19 capitulo entero. Ver la presentacion para secciones que no estan requeridas.
+

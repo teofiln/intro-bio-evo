@@ -777,60 +777,88 @@
     "text": "Cierre"
   },
   {
-    "objectID": "course-materials/index.html",
-    "href": "course-materials/index.html",
-    "title": "Materiales del modulo",
+    "objectID": "course-materials/mapa-presentacion-capitulo.html",
+    "href": "course-materials/mapa-presentacion-capitulo.html",
+    "title": "Mapa entre las presentaciones y capitulos en el libro o otros recursos",
     "section": "",
-    "text": "Programa del modulo\nMensajes clave"
+    "text": "Las presentaciones les guian al contenido que tienen que estudiar. La lista abajo esta aproximada, y no garantiza que todo lo que hemos mencionado durante la clase esta disponible en los capitulos del libro.\nLos quizes y examen son derivados de las presentaciones. Es su responsabilidad de buscar recursos adicionales si algun concepto de las presentaciones no se encuentra en el libro.\n\n\n\n\n\n\nGeneralmente: La unidad III, capitulos 17, 18, 19.\n\n\n\n\n\n\nUnidad III: 18.1, resumen y ejercicios de capitulo 18\n\n\n\n\n\nUnidad III: 17.1 - 17.9\n\n\n\n\n\nUnidad I: 1.5, 1.6, 1.7, 1.8, resumen y ejercicios de capitulo 1\n\n\n\n\n\nUnidad III: 18.1, 18.2, resumen y ejercicios de capitulo 18\n\n\n\n\n\nUnidad II: Herencia, Mutaciones. Ver la presentacion para recursos adicionales. (No hay seccion dedicada a mutacion en la unidad III)\n\n\n\n\n\nUnidad III: 18.3, 18.4, 18.5 resumen y ejercicios de capitulo 18\n\n\n\n\n\nUnidad III: 18.7 resumen y ejercicios de capitulo 18\n\n\n\n\n\nUnidad III: 18.8 resumen y ejercicios de capitulo 18\n\n\n\n\n\nUnidad III: 18.8, 18.10, 18.11 resumen y ejercicios de capitulo 18\n\n\n\n\n\nUnidad III: 18.12 resumen y ejercicios de capitulo 18\n\n\n\n\n\nUnidad III: 19 capitulo entero. Ver la presentacion para secciones que no estan requeridas."
   },
   {
-    "objectID": "course-materials/index.html#materiales-disponibles",
-    "href": "course-materials/index.html#materiales-disponibles",
-    "title": "Materiales del modulo",
+    "objectID": "course-materials/mapa-presentacion-capitulo.html#introduccion-individuos-vs-poblaciones-rasgos-y-distribuciones-de-rasgos-definicion-de-evolucion",
+    "href": "course-materials/mapa-presentacion-capitulo.html#introduccion-individuos-vs-poblaciones-rasgos-y-distribuciones-de-rasgos-definicion-de-evolucion",
+    "title": "Mapa entre las presentaciones y capitulos en el libro o otros recursos",
     "section": "",
-    "text": "Programa del modulo\nMensajes clave"
+    "text": "Unidad III: 18.1, resumen y ejercicios de capitulo 18"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Modulo Evolucion",
+    "objectID": "course-materials/mapa-presentacion-capitulo.html#fosiles-homologias-biogeografia-y-evidencia-directa-contemporanea",
+    "href": "course-materials/mapa-presentacion-capitulo.html#fosiles-homologias-biogeografia-y-evidencia-directa-contemporanea",
+    "title": "Mapa entre las presentaciones y capitulos en el libro o otros recursos",
     "section": "",
-    "text": "Este sitio resume el modulo de Evolucion de Intro Bio I (B0160). El enfoque general es entender la evolucion como un proceso poblacional: las poblaciones cambian a lo largo de generaciones porque existe variacion entre individuos, parte de esa variacion es heredable, y distintos procesos pueden cambiar la frecuencia de variantes en la poblacion.\n\n\n\nDuracion del modulo: 7 semanas.\nRitmo: 2 clases por semana.\nEvaluacion formal: quizzes quincenales y examen final del modulo.\nActividades recurrentes de aprendizaje: worksheets grupales."
+    "text": "Unidad III: 17.1 - 17.9"
   },
   {
-    "objectID": "index.html#resumen-del-modulo",
-    "href": "index.html#resumen-del-modulo",
-    "title": "Modulo Evolucion",
+    "objectID": "course-materials/mapa-presentacion-capitulo.html#como-estudiamos-la-evolucion-evidencia-inferencia-comparacion-de-hipotesis-y-limites",
+    "href": "course-materials/mapa-presentacion-capitulo.html#como-estudiamos-la-evolucion-evidencia-inferencia-comparacion-de-hipotesis-y-limites",
+    "title": "Mapa entre las presentaciones y capitulos en el libro o otros recursos",
     "section": "",
-    "text": "Este sitio resume el modulo de Evolucion de Intro Bio I (B0160). El enfoque general es entender la evolucion como un proceso poblacional: las poblaciones cambian a lo largo de generaciones porque existe variacion entre individuos, parte de esa variacion es heredable, y distintos procesos pueden cambiar la frecuencia de variantes en la poblacion.\n\n\n\nDuracion del modulo: 7 semanas.\nRitmo: 2 clases por semana.\nEvaluacion formal: quizzes quincenales y examen final del modulo.\nActividades recurrentes de aprendizaje: worksheets grupales."
+    "text": "Unidad I: 1.5, 1.6, 1.7, 1.8, resumen y ejercicios de capitulo 1"
   },
   {
-    "objectID": "index.html#metas-principales",
-    "href": "index.html#metas-principales",
-    "title": "Modulo Evolucion",
-    "section": "Metas principales",
-    "text": "Metas principales\n\nEntender evolucion como cambio en poblaciones a lo largo de generaciones; individuo vs poblacion.\nEntender la variacion biologica como base de la evolucion.\nEntender como el ambiente influye en fenotipos mediante plasticidad y aclimatacion, y diferenciarlas de adaptacion evolutiva.\nEntender las principales lineas de evidencia evolutiva.\nEntender Hardy-Weinberg como modelo nulo y razonar sobre las fuerzas que rompen ese equilibrio.\nEntender como mutacion y seleccion natural cambian la frecuencia de variantes en poblaciones.\nEntender como deriva genetica y flujo genico cambian la composicion genetica de poblaciones.\nEntender especiacion, patrones de extincion e interpretar filogenias.\nIntegrar estos conceptos en problemas biologicos actuales."
+    "objectID": "course-materials/mapa-presentacion-capitulo.html#hardy-weinberg-como-expectativa-nula-que-pasaria-si-no-actuaran-fuerzas-evolutivas",
+    "href": "course-materials/mapa-presentacion-capitulo.html#hardy-weinberg-como-expectativa-nula-que-pasaria-si-no-actuaran-fuerzas-evolutivas",
+    "title": "Mapa entre las presentaciones y capitulos en el libro o otros recursos",
+    "section": "",
+    "text": "Unidad III: 18.1, 18.2, resumen y ejercicios de capitulo 18"
   },
   {
-    "objectID": "index.html#plan-general-por-bloques",
-    "href": "index.html#plan-general-por-bloques",
-    "title": "Modulo Evolucion",
-    "section": "Plan general por bloques",
-    "text": "Plan general por bloques\n\n\n\n\n\n\n\nSemana\nEnfoque\n\n\n\n\n1\nVariacion biologica, definicion de evolucion; fosiles, homologias, biogeografia y evidencia directa\n\n\n2\nComo estudiamos la evolucion: evidencia, inferencia y comparacion de hipotesis\n\n\n3\nHardy-Weinberg como modelo nulo; mutacion y variacion heredable\n\n\n4\nSeleccion natural, aptitud y adaptacion; deriva genetica y cambio por azar\n\n\n5\nFlujo genico y conectividad poblacional; especiacion y aislamiento reproductivo\n\n\n6\nMacroevolucion y extincion masiva; filogenias y lectura de arboles\n\n\n7\nAplicaciones y sintesis; examen de cierre"
+    "objectID": "course-materials/mapa-presentacion-capitulo.html#mutacion-y-variacion-heredable-origen-de-nuevos-alelos-tipos-basicos-y-errores-frecuentes",
+    "href": "course-materials/mapa-presentacion-capitulo.html#mutacion-y-variacion-heredable-origen-de-nuevos-alelos-tipos-basicos-y-errores-frecuentes",
+    "title": "Mapa entre las presentaciones y capitulos en el libro o otros recursos",
+    "section": "",
+    "text": "Unidad II: Herencia, Mutaciones. Ver la presentacion para recursos adicionales. (No hay seccion dedicada a mutacion en la unidad III)"
   },
   {
-    "objectID": "index.html#evaluacion-y-aprendizaje-activo",
-    "href": "index.html#evaluacion-y-aprendizaje-activo",
-    "title": "Modulo Evolucion",
-    "section": "Evaluacion y aprendizaje activo",
-    "text": "Evaluacion y aprendizaje activo\n\nQuizzes: tres a lo largo del modulo (cada ~4 clases), verificacion breve de comprension conceptual.\nWorksheets grupales: herramienta de aprendizaje activo para aplicar conceptos en equipo (no calificada).\nExamen de cierre: integracion de evidencia y mecanismos."
+    "objectID": "course-materials/mapa-presentacion-capitulo.html#seleccion-natural-aptitud-adaptacion-tradeoffs-y-limites-de-la-seleccion",
+    "href": "course-materials/mapa-presentacion-capitulo.html#seleccion-natural-aptitud-adaptacion-tradeoffs-y-limites-de-la-seleccion",
+    "title": "Mapa entre las presentaciones y capitulos en el libro o otros recursos",
+    "section": "",
+    "text": "Unidad III: 18.3, 18.4, 18.5 resumen y ejercicios de capitulo 18"
   },
   {
-    "objectID": "index.html#accesos-rapidos",
-    "href": "index.html#accesos-rapidos",
-    "title": "Modulo Evolucion",
-    "section": "Accesos rapidos",
-    "text": "Accesos rapidos\n\nPrograma del modulo\nMensajes clave\nListado de clases"
+    "objectID": "course-materials/mapa-presentacion-capitulo.html#deriva-genetica-efecto-fundador-cuello-de-botella-y-cambio-por-azar",
+    "href": "course-materials/mapa-presentacion-capitulo.html#deriva-genetica-efecto-fundador-cuello-de-botella-y-cambio-por-azar",
+    "title": "Mapa entre las presentaciones y capitulos en el libro o otros recursos",
+    "section": "",
+    "text": "Unidad III: 18.7 resumen y ejercicios de capitulo 18"
+  },
+  {
+    "objectID": "course-materials/mapa-presentacion-capitulo.html#migracion-flujo-genico-conectividad-poblacional-y-homogenizaciondiferenciacion-genetica",
+    "href": "course-materials/mapa-presentacion-capitulo.html#migracion-flujo-genico-conectividad-poblacional-y-homogenizaciondiferenciacion-genetica",
+    "title": "Mapa entre las presentaciones y capitulos en el libro o otros recursos",
+    "section": "",
+    "text": "Unidad III: 18.8 resumen y ejercicios de capitulo 18"
+  },
+  {
+    "objectID": "course-materials/mapa-presentacion-capitulo.html#especiacion-aislamiento-reproductivo-y-divergencia-poblaciones-lineages-y-especies-unidades-de-conservacion",
+    "href": "course-materials/mapa-presentacion-capitulo.html#especiacion-aislamiento-reproductivo-y-divergencia-poblaciones-lineages-y-especies-unidades-de-conservacion",
+    "title": "Mapa entre las presentaciones y capitulos en el libro o otros recursos",
+    "section": "",
+    "text": "Unidad III: 18.8, 18.10, 18.11 resumen y ejercicios de capitulo 18"
+  },
+  {
+    "objectID": "course-materials/mapa-presentacion-capitulo.html#macroevolucion-vincular-cambio-en-poblaciones-con-diversificacion-y-extincion-masiva-a-lo-largo-del-tiempo",
+    "href": "course-materials/mapa-presentacion-capitulo.html#macroevolucion-vincular-cambio-en-poblaciones-con-diversificacion-y-extincion-masiva-a-lo-largo-del-tiempo",
+    "title": "Mapa entre las presentaciones y capitulos en el libro o otros recursos",
+    "section": "",
+    "text": "Unidad III: 18.12 resumen y ejercicios de capitulo 18"
+  },
+  {
+    "objectID": "course-materials/mapa-presentacion-capitulo.html#filogenias-lectura-de-arboles-nodos-clados-grupo-hermano-ancestro-comun-y-evolucion-de-rasgos",
+    "href": "course-materials/mapa-presentacion-capitulo.html#filogenias-lectura-de-arboles-nodos-clados-grupo-hermano-ancestro-comun-y-evolucion-de-rasgos",
+    "title": "Mapa entre las presentaciones y capitulos en el libro o otros recursos",
+    "section": "",
+    "text": "Unidad III: 19 capitulo entero. Ver la presentacion para secciones que no estan requeridas."
   },
   {
     "objectID": "course-materials/course-program-es.html",
@@ -880,6 +908,62 @@
     "title": "Programa del modulo: Evolucion",
     "section": "6 Criterios de logro por meta",
     "text": "6 Criterios de logro por meta\n\nDefine evolucion poblacional correctamente y distingue cambios dentro de un individuo de cambios entre generaciones en una poblacion.\nExplica por que la variacion entre individuos es necesaria para que ocurra evolucion y reconoce que los rasgos pueden analizarse como distribuciones poblacionales.\nDiferencia plasticidad fenotipica, aclimatacion y adaptacion evolutiva usando ejemplos concretos.\nArgumenta una conclusion evolutiva usando al menos dos lineas de evidencia, por ejemplo fosiles, homologias, biogeografia o cambios observables.\nUsa Hardy-Weinberg como linea base conceptual y reconoce como seleccion, deriva, flujo genico y mutacion pueden alterar el equilibrio.\nExplica como la mutacion genera variacion heredable y como la seleccion natural puede cambiar la frecuencia de variantes en una poblacion.\nDiferencia cambios por azar (deriva genetica) de cambios por intercambio entre poblaciones (flujo genico).\nExplica rutas basicas de especiacion, diferencia extincion de fondo de extincion masiva e interpreta filogenias sin confundir cercania en la punta con parentesco.\nAplica evidencia y mecanismos evolutivos para analizar problemas biologicos actuales y construir una explicacion integrada."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Modulo Evolucion",
+    "section": "",
+    "text": "Este sitio resume el modulo de Evolucion de Intro Bio I (B0160). El enfoque general es entender la evolucion como un proceso poblacional: las poblaciones cambian a lo largo de generaciones porque existe variacion entre individuos, parte de esa variacion es heredable, y distintos procesos pueden cambiar la frecuencia de variantes en la poblacion.\n\n\n\nDuracion del modulo: 7 semanas.\nRitmo: 2 clases por semana.\nEvaluacion formal: quizzes quincenales y examen final del modulo.\nActividades recurrentes de aprendizaje: worksheets grupales."
+  },
+  {
+    "objectID": "index.html#resumen-del-modulo",
+    "href": "index.html#resumen-del-modulo",
+    "title": "Modulo Evolucion",
+    "section": "",
+    "text": "Este sitio resume el modulo de Evolucion de Intro Bio I (B0160). El enfoque general es entender la evolucion como un proceso poblacional: las poblaciones cambian a lo largo de generaciones porque existe variacion entre individuos, parte de esa variacion es heredable, y distintos procesos pueden cambiar la frecuencia de variantes en la poblacion.\n\n\n\nDuracion del modulo: 7 semanas.\nRitmo: 2 clases por semana.\nEvaluacion formal: quizzes quincenales y examen final del modulo.\nActividades recurrentes de aprendizaje: worksheets grupales."
+  },
+  {
+    "objectID": "index.html#metas-principales",
+    "href": "index.html#metas-principales",
+    "title": "Modulo Evolucion",
+    "section": "Metas principales",
+    "text": "Metas principales\n\nEntender evolucion como cambio en poblaciones a lo largo de generaciones; individuo vs poblacion.\nEntender la variacion biologica como base de la evolucion.\nEntender como el ambiente influye en fenotipos mediante plasticidad y aclimatacion, y diferenciarlas de adaptacion evolutiva.\nEntender las principales lineas de evidencia evolutiva.\nEntender Hardy-Weinberg como modelo nulo y razonar sobre las fuerzas que rompen ese equilibrio.\nEntender como mutacion y seleccion natural cambian la frecuencia de variantes en poblaciones.\nEntender como deriva genetica y flujo genico cambian la composicion genetica de poblaciones.\nEntender especiacion, patrones de extincion e interpretar filogenias.\nIntegrar estos conceptos en problemas biologicos actuales."
+  },
+  {
+    "objectID": "index.html#plan-general-por-bloques",
+    "href": "index.html#plan-general-por-bloques",
+    "title": "Modulo Evolucion",
+    "section": "Plan general por bloques",
+    "text": "Plan general por bloques\n\n\n\n\n\n\n\nSemana\nEnfoque\n\n\n\n\n1\nVariacion biologica, definicion de evolucion; fosiles, homologias, biogeografia y evidencia directa\n\n\n2\nComo estudiamos la evolucion: evidencia, inferencia y comparacion de hipotesis\n\n\n3\nHardy-Weinberg como modelo nulo; mutacion y variacion heredable\n\n\n4\nSeleccion natural, aptitud y adaptacion; deriva genetica y cambio por azar\n\n\n5\nFlujo genico y conectividad poblacional; especiacion y aislamiento reproductivo\n\n\n6\nMacroevolucion y extincion masiva; filogenias y lectura de arboles\n\n\n7\nAplicaciones y sintesis; examen de cierre"
+  },
+  {
+    "objectID": "index.html#evaluacion-y-aprendizaje-activo",
+    "href": "index.html#evaluacion-y-aprendizaje-activo",
+    "title": "Modulo Evolucion",
+    "section": "Evaluacion y aprendizaje activo",
+    "text": "Evaluacion y aprendizaje activo\n\nQuizzes: tres a lo largo del modulo (cada ~4 clases), verificacion breve de comprension conceptual.\nWorksheets grupales: herramienta de aprendizaje activo para aplicar conceptos en equipo (no calificada).\nExamen de cierre: integracion de evidencia y mecanismos."
+  },
+  {
+    "objectID": "index.html#accesos-rapidos",
+    "href": "index.html#accesos-rapidos",
+    "title": "Modulo Evolucion",
+    "section": "Accesos rapidos",
+    "text": "Accesos rapidos\n\nPrograma del modulo\nMensajes clave\nListado de clases"
+  },
+  {
+    "objectID": "course-materials/index.html",
+    "href": "course-materials/index.html",
+    "title": "Materiales del modulo",
+    "section": "",
+    "text": "Programa del modulo\nMensajes clave\nMapa presentaciones-temas-capitulos"
+  },
+  {
+    "objectID": "course-materials/index.html#materiales-disponibles",
+    "href": "course-materials/index.html#materiales-disponibles",
+    "title": "Materiales del modulo",
+    "section": "",
+    "text": "Programa del modulo\nMensajes clave\nMapa presentaciones-temas-capitulos"
   },
   {
     "objectID": "course-materials/take-home-messages.html",
