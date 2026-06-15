@@ -1,0 +1,318 @@
+---
+title: "Seleccion Natural"
+subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
+format:
+  revealjs:
+    slide-number: true
+    incremental: false
+    theme: simple
+lang: es
+---
+
+## Metas
+
+1. 
+2. 
+3. 
+
+## Ser capaces de {.smaller}
+
+::: {.incremental}
+- 
+:::
+
+---
+
+![](06-assets/sickle-cell-anemia-overview.webp)
+
+---
+
+![](06-assets/sickle-cell-S-gene-map)
+
+
+
+
+
+
+
+
+# Parte 1. El problema
+
+Start with a map.
+
+![Image](https://images.openai.com/static-rsc-4/IJIslN2a4pz7TRiy_nic858IALx9Q3mLzH3ZY5e_0za-1hEpP8O_68Aui-ajlkzPRtYk4Y5SsFBJmKePdj308iEz3CvnvGAq0L4kcJhiqTnfkqQcCT3oRQSMaL-w0onYGKMmfdOqMNGeRopDxClED9MZfOhfLRRFIUBJZTDVDrBgBtpcDzIxF8ZYMC9rAVcz?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/2nnzinnI_xnxFHxkml5im8Z0r_Xab_zuUrn685B2pG98iaAEqfvqGib13mMZxyYfBhjzOOrzBuemgGmMot33lCAmv09ej66SYcqoQloSWxu6H9fBN3cBIaOASHv9Fo0BJSEq9Vy1U4blmtbXDWiq2EnFE5cpemvBFUrBfEIX9SrpN65mTIYeQL7Sd7Eq044l?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Wn7z5lzx1v5lyO6b7t0m3HzNlxaaGWa1MiQPXtt5dVesW4VRce5vlm5Jw7LG9LHHA8h81_90lev6OMYnoGBp1koM5CFCz9qGS3HQdwQepUEZ58tHe8ktgymRCLNbhjivomeuiyYO5Yv_-nY66sTGvT_71jj-TB4wF3fTgy2rVc6RQCafvu47OPr2OEiNoJxs?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/uNeU-ReqZZuXWontCb1StPyxh5SMvr_-Z8siUPdDcbWysmlpiU9_9_IlPpD_b6oq9049-4j0uPYJuEF5PWLP7ix0eNrRJXi8-y-pu6xF3DMUTwi-X5E_drgLG8S-7aFVDIMzSvjA5g__ZrCw0dBQQcv4GXxLHkqLVMEbEnX3N_ivnzpSZ896-FClOaDarqrj?purpose=fullsize)
+
+Ask:
+
+> ¿Por qué un alelo que causa una enfermedad grave sigue siendo relativamente común en algunas poblaciones humanas?
+
+Students usually expect:
+
+* "porque apareció recientemente"
+* "porque no ha sido eliminado todavía"
+* "porque la medicina moderna lo mantiene"
+
+Then show that the pattern was already present long before modern medicine.
+
+---
+
+# Parte 2. La observación
+
+Define the locus:
+
+* A = hemoglobina normal
+* S = alelo falciforme
+
+Genotipos:
+
+| Genotipo | Fenotipo          |
+| -------- | ----------------- |
+| AA       | normal            |
+| AS       | portador          |
+| SS       | anemia falciforme |
+
+Then present the paradox:
+
+* SS tiene baja supervivencia.
+* Sin embargo S no desaparece.
+
+Ask:
+
+> Si SS es tan perjudicial, ¿qué debería pasar con S según nuestra intuición?
+
+Most students will answer:
+
+> debería desaparecer.
+
+Perfect.
+
+---
+
+# Parte 3. La explicación
+
+Introduce malaria.
+
+Explain briefly:
+
+* *Plasmodium falciparum*
+* alta mortalidad histórica
+* selección intensa
+
+Then present the key finding:
+
+> Los individuos AS presentan menor riesgo de malaria severa.
+
+Now you have:
+
+| Genotipo | Sickle cell | Malaria        |
+| -------- | ----------- | -------------- |
+| AA       | No          | Vulnerable     |
+| AS       | No grave    | Más resistente |
+| SS       | Grave       | Resistente     |
+
+Students can immediately see the trade-off.
+
+---
+
+# Parte 4. Fitness relativa
+
+Now introduce fitness.
+
+Not absolute fitness.
+
+Relative fitness.
+
+For example:
+
+| Genotipo | Fitness |
+| -------- | ------- |
+| AA       | 0.90    |
+| AS       | 1.00    |
+| SS       | 0.20    |
+
+Stress:
+
+> Los números son arbitrarios. Lo importante es el orden.
+
+AS has the highest fitness.
+
+Therefore:
+
+* AA selected against (malaria)
+* SS selected against (anemia)
+* AS favored
+
+This is the first time students see evolution as a quantitative process.
+
+---
+
+
+::: {.incremental}
+- **Selección natural**: Cambio en frecuencias alélicas debido a diferencias en supervivencia o reproducción
+- **Presiones selectivas**: Factores ambientales que afectan la aptitud de diferentes genotipos
+- **Equilibrio balanceado**: Cuando dos alelos se mantienen a frecuencias intermedias por presiones selectivas opuestas
+:::
+
+
+# Parte 5. Simulación sencilla
+
+Have students predict.
+
+Start:
+
+* A = 0.9
+* S = 0.1
+
+Question:
+
+> ¿Desaparecerá S?
+
+Most will say yes.
+
+Then show:
+
+No.
+
+Selection increases S until an equilibrium is reached.
+
+This connects beautifully to Hardy-Weinberg:
+
+HW says what happens with no evolution.
+
+This example shows what happens when one HW assumption is violated:
+
+> supervivencia igual para todos los genotipos.
+
+---
+
+# Parte 6. Nombre del fenómeno
+
+Only now introduce:
+
+## Selección balanceadora
+
+Definition:
+
+> La selección mantiene múltiples alelos en la población.
+
+Mechanism:
+
+> Ventaja del heterocigoto.
+
+This is a very intuitive place to introduce the term.
+
+---
+
+# Parte 7. Generalización
+
+Now ask:
+
+> ¿Qué pasaría si cambiamos cuál genotipo tiene la mayor aptitud?
+
+This naturally leads to the other modes.
+
+---
+
+## Selección direccional
+
+Example:
+
+| Genotipo | Fitness |
+| -------- | ------- |
+| AA       | 0.5     |
+| AS       | 0.8     |
+| SS       | 1.0     |
+
+Now S increases toward fixation.
+
+Graph:
+
+Frequency distribution shifts toward one extreme.
+
+Examples:
+
+* resistencia a antibióticos
+* resistencia a insecticidas
+* melanismo industrial
+
+---
+
+## Selección estabilizadora
+
+Use a quantitative trait.
+
+Human birth weight is the classic example.
+
+Too low → mortality.
+
+Too high → mortality.
+
+Intermediate values favored.
+
+This is conceptually similar to heterozygote advantage:
+
+> los extremos son desfavorecidos.
+
+Though one is a quantitative trait and the other a single locus.
+
+---
+
+## Selección disruptiva
+
+Now flip the sickle-cell story.
+
+Suppose:
+
+| Genotipo | Fitness |
+| -------- | ------- |
+| AA       | 1.0     |
+| AS       | 0.5     |
+| SS       | 1.0     |
+
+Now heterocigotes are disadvantaged.
+
+Two extremes favored.
+
+This is perhaps the cleanest way to introduce disruptive selection because students already understand the genotype table.
+
+You can literally say:
+
+> En la anemia falciforme el heterocigoto gana.
+>
+> ¿Qué pasaría si el heterocigoto perdiera?
+
+And then show disruptive selection.
+
+---
+
+# Parte 8. Conexión con la definición de selección natural
+
+Finish by returning to the core logic.
+
+Variation heredable:
+
+AA, AS, SS
+
+↓
+
+Different fitness
+
+↓
+
+Some genotypes leave more descendants
+
+↓
+
+Allele frequencies change
+
+That is natural selection.
+
+---
+
+I would actually delay directional/stabilizing/disruptive until after students have fully understood the sickle-cell example. One of the biggest teaching mistakes is presenting all four selection modes first as abstract graphs. Students memorize the shapes but never understand *why* they occur. Sickle cell gives them the mechanism first, and then the graphs become a consequence rather than something to memorize.

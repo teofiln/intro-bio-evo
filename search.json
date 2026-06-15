@@ -1552,5 +1552,180 @@
     "title": "Hoja de trabajo: Simulación de Hardy-Weinberg",
     "section": "Procedimiento",
     "text": "Procedimiento\nRepitan 100 veces:\n\nMezclen bien la bolsa.\nExtraigan dos frijoles al azar.\nRegistren el genotipo resultante.\nDevuelvan ambos frijoles a la bolsa.\nRepitan.\n\n\nClasificación\n\n\n\nFrijoles extraídos\nGenotipo\nObservado\nSimulado\n\n\n\n\nNegro + Negro\nAA\n60\n\n\n\nNegro + Rojo\nAa\n20\n\n\n\nRojo + Rojo\naa\n20\n\n\n\nTotal\n\n100\n100\n\n\n\nUn integrante de cada pareja anotará en la pizarra el número de heterocigotos (\\(Aa\\)) obtenidos.\nEl conjunto de resultados de la clase mostrará la distribución esperada bajo apareamiento aleatorio."
+  },
+  {
+    "objectID": "lectures/06-selection.html#metas",
+    "href": "lectures/06-selection.html#metas",
+    "title": "Selección Natural",
+    "section": "Metas",
+    "text": "Metas\n\nEntender cómo la selección natural actúa sobre la variación genética\nReconocer ejemplos de selección en poblaciones humanas\nAnalizar cómo la selección mantiene alelos deletéreos"
+  },
+  {
+    "objectID": "lectures/06-selection.html#ser-capaces-de",
+    "href": "lectures/06-selection.html#ser-capaces-de",
+    "title": "Selección Natural",
+    "section": "Ser capaces de",
+    "text": "Ser capaces de\n\nDefinir selección natural como cambio en frecuencias alélicas debido a diferencias en aptitud.\nEntender los diferentes tipos de selección (balanceadora, disruptiva, direccional).\nEntender la interacción entre selección y mutación para alelos nuevos en poblaciones."
+  },
+  {
+    "objectID": "lectures/06-selection.html#sickle-cell-anemia",
+    "href": "lectures/06-selection.html#sickle-cell-anemia",
+    "title": "Seleccion Natural",
+    "section": "Sickle-cell anemia",
+    "text": "Sickle-cell anemia"
+  },
+  {
+    "objectID": "lectures/06-selection.html#sickle-cell-anemia-allele-frequency",
+    "href": "lectures/06-selection.html#sickle-cell-anemia-allele-frequency",
+    "title": "Seleccion Natural",
+    "section": "Sickle-cell anemia allele frequency",
+    "text": "Sickle-cell anemia allele frequency"
+  },
+  {
+    "objectID": "lectures/06-selection.html#why-such-high-frequency-of-a-deleterious-allele",
+    "href": "lectures/06-selection.html#why-such-high-frequency-of-a-deleterious-allele",
+    "title": "Seleccion Natural",
+    "section": "Why such high frequency of a deleterious allele?",
+    "text": "Why such high frequency of a deleterious allele?\n\n\nNatural selection.\n\n\nLet’s see why!"
+  },
+  {
+    "objectID": "lectures/06-selection.html#malaria",
+    "href": "lectures/06-selection.html#malaria",
+    "title": "Seleccion Natural",
+    "section": "Malaria !?!?!?",
+    "text": "Malaria !?!?!?"
+  },
+  {
+    "objectID": "lectures/06-selection.html#geographic-distributions",
+    "href": "lectures/06-selection.html#geographic-distributions",
+    "title": "Seleccion Natural",
+    "section": "Geographic distributions",
+    "text": "Geographic distributions\n\n\n\nHuman populations with high frequency of the sickle-cell allele live in regions with high incidence of malaria.\n\n\n\nCould it be that the sickle-cell allele is somehow helpful for malaria resistance?"
+  },
+  {
+    "objectID": "lectures/06-selection.html#combinando-las-dos-presiones-selectivas",
+    "href": "lectures/06-selection.html#combinando-las-dos-presiones-selectivas",
+    "title": "Selección Natural",
+    "section": "Combinando las dos presiones selectivas",
+    "text": "Combinando las dos presiones selectivas\n\n\n\nGenotipo\nMalaria\nAnemia falciforme\n\n\n\n\nAA\nAlta susceptibilidad\nNo\n\n\nAS\nProtección parcial\nNo o muy leve\n\n\nSS\nProtección parcial\nGrave"
+  },
+  {
+    "objectID": "lectures/06-selection.html#sickle-cell-malaria",
+    "href": "lectures/06-selection.html#sickle-cell-malaria",
+    "title": "Seleccion Natural",
+    "section": "Sickle-cell & Malaria",
+    "text": "Sickle-cell & Malaria\n\nLos heterocigotos para anemia falciforme (AS) presentan menor riesgo de malaria grave que los homocigotos normales (AA).\n\n\nLos heterocigotos producen principalmente eritrocitos normales, pero una fracción contiene hemoglobina S.\nCuando un eritrocito es infectado por Plasmodium falciparum, el estrés fisiológico dentro de la célula favorece el “sickling” (deformación falciforme).\nLos eritrocitos infectados y deformados son reconocidos y removidos más rápidamente por el bazo.\nComo consecuencia, la carga parasitaria suele mantenerse más baja que en individuos AA.\nEsto reduce el riesgo de malaria severa y aumenta la supervivencia en regiones donde la malaria es común."
+  },
+  {
+    "objectID": "lectures/06-selection.html#agregando-aptitud",
+    "href": "lectures/06-selection.html#agregando-aptitud",
+    "title": "Selección Natural",
+    "section": "Agregando aptitud",
+    "text": "Agregando aptitud\n\n\n\nGenotipo\nMalaria\nAnemia falciforme\nAptitud\n\n\n\n\nAA\nAlta susceptibilidad\nNo\nIntermedia\n\n\nAS\nProtección parcial\nNo o muy leve\nAlta\n\n\nSS\nProtección parcial\nGrave\nBaja"
+  },
+  {
+    "objectID": "lectures/06-selection.html#el-locus-de-anemia-falciforme-.-smaller",
+    "href": "lectures/06-selection.html#el-locus-de-anemia-falciforme-.-smaller",
+    "title": "Seleccion Natural",
+    "section": "El locus de anemia falciforme {. smaller}",
+    "text": "El locus de anemia falciforme {. smaller}\n\nA = hemoglobina normal\nS = alelo falciforme\n\n\n\n\nGenotipo\nFenotipo\n\n\n\n\nAA\nnormal\n\n\nAS\nportador\n\n\nSS\nanemia falciforme\n\n\n\n\nEl paradox:\n\nSS tiene baja supervivencia.\nSin embargo S no desaparece.\n\n\nSi SS es tan dañino, ¿qué debería pasar con S según nuestra intuición?"
+  },
+  {
+    "objectID": "lectures/06-selection.html#ser-capazes-de",
+    "href": "lectures/06-selection.html#ser-capazes-de",
+    "title": "Selección Natural",
+    "section": "Ser capazes de",
+    "text": "Ser capazes de\n\nDefinir seleccion natural como cambio en frecuencias alélicas debido a diferencias en aptitud\nEntender los diferentes tipos de seleccion (balanceada, disruptiva, direccional)\nEntender la interaccion entra seleccion y mutacion para allelos nuevos en poblaciones"
+  },
+  {
+    "objectID": "lectures/06-selection.html#anemia-falciforme",
+    "href": "lectures/06-selection.html#anemia-falciforme",
+    "title": "Selección Natural",
+    "section": "Anemia falciforme",
+    "text": "Anemia falciforme"
+  },
+  {
+    "objectID": "lectures/06-selection.html#el-locus-de-anemia-falciforme",
+    "href": "lectures/06-selection.html#el-locus-de-anemia-falciforme",
+    "title": "Selección Natural",
+    "section": "El locus de anemia falciforme",
+    "text": "El locus de anemia falciforme\n\nA = hemoglobina normal\nS = alelo falciforme\n\n\n\n\nGenotipo\nFenotipo\n\n\n\n\nAA\nnormal\n\n\nAS\nportador\n\n\nSS\nanemia falciforme\n\n\n\n\nLa paradoja:\n\nSS tiene baja supervivencia.\nSin embargo, S no desaparece.\n\n\nSi SS es tan dañino, ¿qué debería pasar con S según nuestra intuición?"
+  },
+  {
+    "objectID": "lectures/06-selection.html#frecuencia-del-alelo-de-anemia-falciforme",
+    "href": "lectures/06-selection.html#frecuencia-del-alelo-de-anemia-falciforme",
+    "title": "Selección Natural",
+    "section": "Frecuencia del alelo de anemia falciforme",
+    "text": "Frecuencia del alelo de anemia falciforme"
+  },
+  {
+    "objectID": "lectures/06-selection.html#malaria-y-evolución",
+    "href": "lectures/06-selection.html#malaria-y-evolución",
+    "title": "Selección Natural",
+    "section": "Malaria y evolución",
+    "text": "Malaria y evolución"
+  },
+  {
+    "objectID": "lectures/06-selection.html#distribuciones-geográficas",
+    "href": "lectures/06-selection.html#distribuciones-geográficas",
+    "title": "Selección Natural",
+    "section": "Distribuciones geográficas",
+    "text": "Distribuciones geográficas\n\n\n\nLas poblaciones humanas con alta frecuencia del alelo de anemia falciforme viven en regiones con alta incidencia de malaria.\n\n\n\n¿Podría ser que el alelo de anemia falciforme sea de alguna forma útil para la resistencia a la malaria?"
+  },
+  {
+    "objectID": "lectures/06-selection.html#anemia-falciforme-y-malaria",
+    "href": "lectures/06-selection.html#anemia-falciforme-y-malaria",
+    "title": "Selección Natural",
+    "section": "Anemia falciforme y malaria",
+    "text": "Anemia falciforme y malaria\n\nLos heterocigotos para anemia falciforme (AS) presentan menor riesgo de malaria grave que los homocigotos normales (AA).\n\n\nLos heterocigotos producen principalmente eritrocitos normales, pero una fracción contiene hemoglobina S.\nCuando un eritrocito es infectado por Plasmodium falciparum, el estrés fisiológico dentro de la célula favorece la deformación falciforme.\nLos eritrocitos infectados y deformados son reconocidos y removidos más rápidamente por el bazo.\nComo consecuencia, la carga parasitaria suele mantenerse más baja que en individuos AA.\nEsto reduce el riesgo de malaria severa y aumenta la supervivencia en regiones donde la malaria es común."
+  },
+  {
+    "objectID": "lectures/06-selection.html#aptitud-relativa-por-genotipo",
+    "href": "lectures/06-selection.html#aptitud-relativa-por-genotipo",
+    "title": "Selección Natural",
+    "section": "Aptitud relativa por genotipo",
+    "text": "Aptitud relativa por genotipo"
+  },
+  {
+    "objectID": "lectures/06-selection.html#aptitud-relativa-y-coeficiente-de-seleccion",
+    "href": "lectures/06-selection.html#aptitud-relativa-y-coeficiente-de-seleccion",
+    "title": "Selección Natural",
+    "section": "Aptitud relativa y Coeficiente de seleccion",
+    "text": "Aptitud relativa y Coeficiente de seleccion\n\n\nAptitud relativa (\\(\\omega\\)): El aptitid de un genotipo especifico comparado con el aptitud del genotipo mas apto en la poblacion.\n\n\n\n\nCoeficiente de seleccion: El desventage de un genotipo. La taza con cual un genotipo esta seleccionado en contra. Calculado como \\(s = 1 - \\omega\\)\n\n\n\n\n\n\nGenotipo\nAptitud\n\\(\\omega\\)\n\\(s = 1 - \\omega\\)\n\n\n\n\nAA\nIntermedia\n0.7\n0.3\n\n\nAS\nAlta\n1\n0\n\n\nSS\nBaja\n0.4\n0.6"
+  },
+  {
+    "objectID": "lectures/06-selection.html#población-en-hardy-weinberg",
+    "href": "lectures/06-selection.html#población-en-hardy-weinberg",
+    "title": "Selección Natural",
+    "section": "Población en Hardy-Weinberg",
+    "text": "Población en Hardy-Weinberg"
+  },
+  {
+    "objectID": "lectures/06-selection.html#selección-natural",
+    "href": "lectures/06-selection.html#selección-natural",
+    "title": "Selección Natural",
+    "section": "Selección natural",
+    "text": "Selección natural\n\n\n\nAlgunos individuos no sobreviven\nLa probabilidad de sobrevivir no es igual para todos los genotipos\nLa supervivencia diferencial cambia las frecuencias alélicas\nLa población en este momento no está en HW"
+  },
+  {
+    "objectID": "lectures/06-selection.html#apareamiento-aleatorio",
+    "href": "lectures/06-selection.html#apareamiento-aleatorio",
+    "title": "Selección Natural",
+    "section": "Apareamiento aleatorio",
+    "text": "Apareamiento aleatorio\n\n\n\nLos sobrevivientes se aparean al azar\nLos cigotos vuelven a estar en proporciones de Hardy-Weinberg\nPero ahora parten de frecuencias alélicas ligeramente distintas\nEs decir, están en HW para las nuevas frecuencias alélicas"
+  },
+  {
+    "objectID": "lectures/06-selection.html#aptitud-relativa-y-coeficiente-de-selección",
+    "href": "lectures/06-selection.html#aptitud-relativa-y-coeficiente-de-selección",
+    "title": "Selección Natural",
+    "section": "Aptitud relativa y coeficiente de selección",
+    "text": "Aptitud relativa y coeficiente de selección\n\n\nAptitud relativa (\\(\\omega\\)): la aptitud de un genotipo específico comparada con la aptitud del genotipo más apto en la población.\n\n\n\n\nCoeficiente de selección: la desventaja de un genotipo. Es la tasa con la cual un genotipo es seleccionado en contra. Se calcula como \\(s = 1 - \\omega\\).\n\n\n\n\n\n\nGenotipo\nAptitud\n\\(\\omega\\)\n\\(s = 1 - \\omega\\)\n\n\n\n\nAA\nIntermedia\n0.7\n0.3\n\n\nAS\nAlta\n1\n0\n\n\nSS\nBaja\n0.4\n0.6"
+  },
+  {
+    "objectID": "lectures/06-selection.html#cuál-es-la-frecuencia-alélica-esperada-dada-la-aptitud-relativa",
+    "href": "lectures/06-selection.html#cuál-es-la-frecuencia-alélica-esperada-dada-la-aptitud-relativa",
+    "title": "Selección Natural",
+    "section": "¿Cuál es la frecuencia alélica esperada dada la aptitud relativa?",
+    "text": "¿Cuál es la frecuencia alélica esperada dada la aptitud relativa?"
   }
 ]
