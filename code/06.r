@@ -47,7 +47,7 @@ theme_diagram <- function() {
   theme_bw(base_size = 11) +
     theme(
       plot.title = element_text(hjust = 0.5, face = "bold", size = 13),
-      plot.subtitle = element_text(hjust = 0.5, size = 10),
+      plot.subtitle = element_text(hjust = 0.5, size = 12, lineheight = 1.12),
       panel.grid.minor = element_blank(),
       panel.grid.major = element_blank(),
       axis.title = element_text(size = 10),
@@ -80,7 +80,7 @@ format_allele_summary <- function(pop) {
     c(A = 0, S = 0)
   }
   sprintf(
-    "A = %d (%.2f) | S = %d (%.2f)",
+    "A = %d (%.3f) | S = %d (%.3f)",
     unname(allele_counts[["A"]]),
     unname(allele_freqs[["A"]]),
     unname(allele_counts[["S"]]),
@@ -89,6 +89,53 @@ format_allele_summary <- function(pop) {
 }
 
 relative_fitness <- c(AA = 0.7, AS = 1.0, SS = 0.4)
+diversifying_fitness <- c(AA = 1.0, AS = 0.6, SS = 1.0)
+directional_fitness <- c(AA = 1.0, AS = 0.8, SS = 0.5)
+
+save_fitness_chart <- function(
+  fitness_map,
+  file_name,
+  title,
+  subtitle
+) {
+  fitness_data <- tibble(
+    genotype = factor(c("AA", "AS", "SS"), levels = c("AA", "AS", "SS")),
+    fitness = unname(fitness_map[c("AA", "AS", "SS")])
+  )
+  fitness_data$is_fittest <- fitness_data$fitness == max(fitness_data$fitness)
+
+  p_fitness <- ggplot(
+    data = fitness_data,
+    aes(x = genotype, y = fitness, fill = is_fittest)
+  ) +
+    geom_col(
+      alpha = 0.75,
+      width = 0.6
+    ) +
+    scale_fill_manual(
+      values = c("TRUE" = "#2ecc71", "FALSE" = "#e74c3c"),
+      guide = "none"
+    ) +
+    geom_label(aes(label = fitness)) +
+    labs(
+      title = title,
+      subtitle = subtitle,
+      x = "Genotipo",
+      y = "Aptitud relativa (fitness)"
+    ) +
+    ylim(0, 1.2) +
+    theme_diagram()
+
+  ggsave(
+    filename = file.path(out_dir, file_name),
+    plot = p_fitness,
+    width = 8,
+    height = 5,
+    dpi = 300
+  )
+
+  invisible(p_fitness)
+}
 
 hw_genotype_probs <- function(q_S) {
   p_A <- 1 - q_S
@@ -137,7 +184,7 @@ plot_population_stage <- function(pop, alive, stage_label, file_name = NULL) {
     1.6
   }
   subtitle <- sprintf(
-    "N = %d | AA = %d | AS = %d | SS = %d | Alleles: %s",
+    "N = %d | AA = %d | AS = %d | SS = %d\nAlleles: %s",
     sum(alive),
     geno_counts[1],
     geno_counts[2],
@@ -267,6 +314,42 @@ build_tally_df <- function(stage_order, pops) {
   do.call(rbind, out)
 }
 
+allele_frequency_after_selection <- function(q_S, fitness_map) {
+  p_A <- 1 - q_S
+  wbar <- (p_A^2 * fitness_map[["AA"]]) +
+    (2 * p_A * q_S * fitness_map[["AS"]]) +
+    (q_S^2 * fitness_map[["SS"]])
+
+  q_after_selection <- ((q_S^2 * fitness_map[["SS"]]) +
+    (p_A * q_S * fitness_map[["AS"]])) /
+    wbar
+
+  unname(q_after_selection)
+}
+
+simulate_allele_frequency_path <- function(
+  q_start,
+  fitness_map,
+  n_generations = 12
+) {
+  generations <- 0:n_generations
+  q_values <- numeric(length(generations))
+  q_values[1] <- q_start
+
+  for (i in seq_len(n_generations)) {
+    q_values[i + 1] <- allele_frequency_after_selection(
+      q_values[i],
+      fitness_map
+    )
+  }
+
+  tibble(
+    generation = generations,
+    q_S = q_values,
+    p_A = 1 - q_values
+  )
+}
+
 simulate_selection <- function(
   n_individuals = 25,
   q_S = 0.4,
@@ -316,13 +399,20 @@ simulate_selection <- function(
   )
 }
 
-save_selection_outputs <- function(sim, panel_width = 16, panel_height = 5.5) {
+save_selection_outputs <- function(
+  sim,
+  prefix = "",
+  panel_width = 16,
+  panel_height = 5.5
+) {
+  file_prefix <- if (is.null(prefix)) "" else prefix
+
   initial_geno_counts <- count_genotypes(sim$pop_initial)
   initial_allele_counts <- count_alleles(sim$pop_initial)
   initial_allele_freqs <- initial_allele_counts / sum(initial_allele_counts)
 
   message(sprintf(
-    "Initial sample (N=%d, target q(S)=%.2f): AA=%d, AS=%d, SS=%d | A=%d (%.2f), S=%d (%.2f)",
+    "Initial sample (N=%d, target q(S)=%.3f): AA=%d, AS=%d, SS=%d | A=%d (%.3f), S=%d (%.3f)",
     sim$n_individuals,
     sim$q_S,
     initial_geno_counts["AA"],
@@ -378,7 +468,7 @@ save_selection_outputs <- function(sim, panel_width = 16, panel_height = 5.5) {
   p_stage_2 <- plot_population_stage(
     sim$pop_next_gen,
     sim$alive_next_gen,
-    "Paso 2: Cigotos de la siguiente generación (~HW)"
+    "Paso 2: Cigotos de la siguiente generación (HW)"
   )
 
   blank_panel <- ggplot() +
@@ -411,25 +501,37 @@ save_selection_outputs <- function(sim, panel_width = 16, panel_height = 5.5) {
   )
 
   ggsave(
-    filename = file.path(out_dir, "selection-panels-1of3.png"),
+    filename = file.path(
+      out_dir,
+      paste0(file_prefix, "selection-panels-1of3.png")
+    ),
     plot = panel_1,
     width = panel_width,
     height = panel_height,
-    dpi = 220
+    dpi = 220,
+    bg = "white"
   )
   ggsave(
-    filename = file.path(out_dir, "selection-panels-2of3.png"),
+    filename = file.path(
+      out_dir,
+      paste0(file_prefix, "selection-panels-2of3.png")
+    ),
     plot = panel_2,
     width = panel_width,
     height = panel_height,
-    dpi = 220
+    dpi = 220,
+    bg = "white"
   )
   ggsave(
-    filename = file.path(out_dir, "selection-panels-3of3.png"),
+    filename = file.path(
+      out_dir,
+      paste0(file_prefix, "selection-panels-3of3.png")
+    ),
     plot = panel_3,
     width = panel_width,
     height = panel_height,
-    dpi = 220
+    dpi = 220,
+    bg = "white"
   )
 
   stage_names <- c(
@@ -464,48 +566,72 @@ save_selection_outputs <- function(sim, panel_width = 16, panel_height = 5.5) {
     theme(axis.text.x = element_text(angle = 12, hjust = 1))
 
   ggsave(
-    filename = file.path(out_dir, "selection-genotype-tally.png"),
+    filename = file.path(
+      out_dir,
+      paste0(file_prefix, "selection-genotype-tally.png")
+    ),
     plot = p_tally,
     width = 8,
     height = 4.8,
     dpi = 220
   )
 
-  fitness_data <- tibble(
-    genotype = factor(c("AA", "AS", "SS"), levels = c("AA", "AS", "SS")),
-    fitness = c(0.7, 1.0, 0.4)
+  q_equilibrium <- ((sim$fitness_map[["AA"]] - sim$fitness_map[["AS"]]) /
+    (sim$fitness_map[["AA"]] +
+      sim$fitness_map[["SS"]] -
+      2 * sim$fitness_map[["AS"]]))
+  allele_path_df <- simulate_allele_frequency_path(
+    q_start = sim$q_S,
+    fitness_map = sim$fitness_map,
+    n_generations = 12
   )
 
-  p_fitness <- ggplot(data = fitness_data, aes(x = genotype, y = fitness)) +
-    geom_col(
-      fill = c("#e74c3c", "#2ecc71", "#e74c3c"),
-      alpha = 0.75,
-      width = 0.6
+  p_equilibrium <- ggplot(allele_path_df, aes(x = generation, y = q_S)) +
+    geom_hline(
+      yintercept = q_equilibrium,
+      linetype = "dashed",
+      color = "#7f8c8d"
     ) +
-    geom_label(aes(label = fitness)) +
+    geom_line(linewidth = 1.1, color = "#2c7fb8") +
+    geom_point(size = 2.8, color = "#2c7fb8") +
+    geom_point(data = allele_path_df[1, ], size = 3.4, color = "#e74c3c") +
+    annotate(
+      "text",
+      x = max(allele_path_df$generation) * 0.68,
+      y = q_equilibrium + 0.015,
+      label = sprintf("Equilibrio teórico: q(S)=%.3f", q_equilibrium),
+      size = 3.5,
+      color = "#4d4d4d"
+    ) +
     labs(
-      title = "Fitness relativa por genotipo",
-      subtitle = "Sistema AS (anemia falciforme) - ventaja del heterocigoto",
-      x = "Genotipo",
-      y = "Aptitud relativa (fitness)"
+      title = "Aproximación de la frecuencia del alelo S al equilibrio",
+      subtitle = "Ventaja del heterocigoto: la selección desplaza q(S) hacia el equilibrio interno",
+      x = "Generación",
+      y = "Frecuencia de S, q(S)"
     ) +
-    ylim(0, 1.2) +
+    scale_x_continuous(
+      breaks = seq(0, max(allele_path_df$generation), by = 2)
+    ) +
+    scale_y_continuous(limits = c(0.05, 0.45)) +
     theme_diagram()
 
   ggsave(
-    filename = file.path(out_dir, "fitness-chart.png"),
-    plot = p_fitness,
-    width = 8,
+    filename = file.path(
+      out_dir,
+      paste0(file_prefix, "allele-frequency-equilibrium.png")
+    ),
+    plot = p_equilibrium,
+    width = 8.5,
     height = 5,
     dpi = 300
   )
 
   message("Saved figures in lectures/06-assets:")
-  message(" - selection-panels-1of3.png")
-  message(" - selection-panels-2of3.png")
-  message(" - selection-panels-3of3.png")
-  message(" - selection-genotype-tally.png")
-  message(" - fitness-chart.png")
+  message(paste0(" - ", file_prefix, "selection-panels-1of3.png"))
+  message(paste0(" - ", file_prefix, "selection-panels-2of3.png"))
+  message(paste0(" - ", file_prefix, "selection-panels-3of3.png"))
+  message(paste0(" - ", file_prefix, "selection-genotype-tally.png"))
+  message(paste0(" - ", file_prefix, "allele-frequency-equilibrium.png"))
 
   invisible(list(
     parent_allele_freqs = c(A = pA_parent, S = qS_parent),
@@ -523,3 +649,35 @@ sim <- simulate_selection(
 )
 
 save_selection_outputs(sim)
+
+# simulate when the initial S freq is lower than equilibrium
+
+sim_01 <- simulate_selection(
+  n_individuals = 400,
+  q_S = 0.1,
+  fitness_map = relative_fitness,
+  seed = 106
+)
+
+save_selection_outputs(sim_01, prefix = "01")
+
+save_fitness_chart(
+  fitness_map = relative_fitness,
+  file_name = "fitness-chart.png",
+  title = "Fitness relativa por genotipo",
+  subtitle = "Selección balanceadora (ventaja del heterocigoto)"
+)
+
+save_fitness_chart(
+  fitness_map = diversifying_fitness,
+  file_name = "fitness-chart-diversifying.png",
+  title = "Fitness relativa por genotipo",
+  subtitle = "Selección diversificadora (desventaja del heterocigoto)"
+)
+
+save_fitness_chart(
+  fitness_map = directional_fitness,
+  file_name = "fitness-chart-directional.png",
+  title = "Fitness relativa por genotipo",
+  subtitle = "Selección direccional (favorece el genotipo AA)"
+)
