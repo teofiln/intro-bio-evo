@@ -28,9 +28,9 @@ Introducir:
 ::: {.incremental}
 
 * Definir selección natural como cambio en frecuencias alélicas debido a diferencias en aptitud.
-* Definir los diferentes tipos de selección (balanceadora, disruptiva, direccional).
-* Reconocer cómo la selección mantiene alelos a través de la ventaja del heterocigoto.
-* Definir adaptacion como un rasgo heredable que aumenta la aptitud relative y origino por seleccion natural
+* Definir algunos de los diferentes tipos de selección (balanceadora, disruptiva, direccional).
+* Reconocer cómo la selección mantiene alelos (diversidad genetica) a través de la ventaja del heterocigoto.
+* Definir adaptacion como un rasgo heredable que origino por seleccion natural y aumenta la aptitud relativa.
 * Entender la diferencia entre evolucion y adaptacion.
 :::
 
@@ -147,7 +147,7 @@ La paradoja:
 
 ---
 
-## Combinando las dos presiones selectivas
+## Combinando las dos presiones selectivas {.smaller}
 
 | Genotipo | Malaria              | Anemia falciforme |
 | -------- | -------------------- | ----------------- |
@@ -155,7 +155,7 @@ La paradoja:
 | AS       | Protección parcial   | No o muy leve     |
 | SS       | Protección parcial   | Grave             |
 
-## Agregando aptitud
+## Agregando aptitud {.smaller}
 
 | Genotipo | Malaria              | Anemia falciforme | Aptitud    |
 | -------- | -------------------- | ----------------- | ---------- |
@@ -187,10 +187,21 @@ La paradoja:
 ![](06-assets/selection-panels-2of3.png)
 
 ::: {.incremental}
+- Seleccion natural
+- De un lado la anemia falciforme selecciona fuerte contra `SS`
+- De otro lado la malaria selecciona mas fuerte contra `AA`
+- Algunos individuos no sobreviven
+:::
+
+## Selección natural {.smaller}
+
+![](06-assets/selection-panels-2of3.png)
+
+::: {.incremental}
 - Algunos individuos no sobreviven
 - La probabilidad de sobrevivir no es igual para todos los genotipos
 - La supervivencia diferencial cambia las frecuencias alélicas
-- La población en este momento **no está en HW**
+- La población en este momento **no está en equilibrio Hardy-Weinberg**
 :::
 
 ## Selección natural {.smaller}
@@ -213,7 +224,7 @@ La paradoja:
 - Los sobrevivientes se aparean al azar
 - Los cigotos vuelven a estar en proporciones de Hardy-Weinberg
 - Pero ahora parten de frecuencias alélicas ligeramente distintas
-- Es decir, están en HW para las nuevas frecuencias alélicas
+- Es decir, están en euquilibrio Hardy-Weinberg pero para las nuevas frecuencias alélicas
 :::
 
 ## Apareamiento aleatorio {.smaller}
@@ -228,7 +239,7 @@ La paradoja:
 * $f(SS) = q^2 = 0.378^2 = 0.143; N_{SS} = 400 * 0.143 \approx 57$
 :::
 
-## Y si la frecuencia de `S` empieza muy baja?
+## Y si la frecuencia de alelo falciforme `S` empieza muy baja?
 
 ![](06-assets/01selection-panels-1of3.png)
 
@@ -274,13 +285,14 @@ La paradoja:
 ::: {.incremental}
 * Con $w(AA)=0.7$, $w(AS)=1.0$ y $w(SS)=0.4$, el equilibrio interno esperado es $q(S)=0.333$.
 * Partiendo de $q(S)=0.4$ o $q(S) = 0.1$, la frecuencia del alelo S se acerca a ese valor generación tras generación.
+* Aunque el alelo S es dañino en terminos absolutos, se mantiene en una frecuencia relativamente alta
 :::
 
 ## Aptitud relativa por genotipo
 
 ![](06-assets/fitness-chart.png)
 
-## Aptitud relativa y coeficiente de selección 
+## Aptitud relativa y coeficiente de selección {.smaller}
 
 ::: {.fragment}
 
@@ -655,7 +667,7 @@ La paradoja:
 
 :::
 
-# Resumen {background-color="#E8F5E9" .smaller}
+## Resumen {background-color="#E8F5E9" .smaller}
 
 * La selección natural requiere variación heredable y diferencias en aptitud, y produce cambios en frecuencias alélicas.
 * En anemia falciforme, la ventaja del heterocigoto (AS) en ambientes con malaria puede mantener el alelo S (selección balanceada).
