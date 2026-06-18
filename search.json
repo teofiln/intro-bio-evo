@@ -1832,5 +1832,54 @@
     "title": "Hoja de trabajo: Simulación de Hardy-Weinberg",
     "section": "Procedimiento",
     "text": "Procedimiento\nRepitan 100 veces:\n\nMezclen bien la bolsa.\nExtraigan dos frijoles al azar.\nRegistren el genotipo resultante.\nDevuelvan ambos frijoles a la bolsa.\nRepitan.\n\n\nClasificación\n\n\n\nFrijoles extraídos\nGenotipo\nObservado\nSimulado\n\n\n\n\nNegro + Negro\nAA\n60\n\n\n\nNegro + Rojo\nAa\n20\n\n\n\nRojo + Rojo\naa\n20\n\n\n\nTotal\n\n100\n100\n\n\n\nUn integrante de cada pareja anotará en la pizarra el número de heterocigotos (\\(Aa\\)) obtenidos.\nEl conjunto de resultados de la clase mostrará la distribución esperada bajo apareamiento aleatorio."
+  },
+  {
+    "objectID": "lectures/07-drift.html#deriva-genética",
+    "href": "lectures/07-drift.html#deriva-genética",
+    "title": "Deriva genética",
+    "section": "Deriva genética",
+    "text": "Deriva genética\nCambios en la frecuencia de alelos debido al azar, no a la selección.\n\nOcurre en todas las poblaciones\nMás fuerte en poblaciones pequeñas\nPuede llevar a fijación o pérdida de alelos"
+  },
+  {
+    "objectID": "lectures/07-drift.html#efecto-del-tamaño-poblacional-en-la-deriva",
+    "href": "lectures/07-drift.html#efecto-del-tamaño-poblacional-en-la-deriva",
+    "title": "Deriva genética",
+    "section": "Efecto del tamaño poblacional en la deriva",
+    "text": "Efecto del tamaño poblacional en la deriva\nN = 20"
+  },
+  {
+    "objectID": "lectures/07-drift.html#efecto-fundador-founder-effect",
+    "href": "lectures/07-drift.html#efecto-fundador-founder-effect",
+    "title": "Deriva genética",
+    "section": "Efecto fundador (Founder Effect)",
+    "text": "Efecto fundador (Founder Effect)\nEstablecimiento de una población nueva a partir de pocos individuos (fundadores).\nEjemplo: - Colonización de una isla - Población original grande: múltiples alelos - Solo 50 individuos llegan a la isla - Frecuencias alélicas cambian dramáticamente por azar\nResultado: Nueva población distinta genéticamente de la original"
+  },
+  {
+    "objectID": "lectures/07-drift.html#experimento-tipo-buri-500-poblaciones",
+    "href": "lectures/07-drift.html#experimento-tipo-buri-500-poblaciones",
+    "title": "Deriva genética",
+    "section": "Experimento tipo Buri: 500 poblaciones",
+    "text": "Experimento tipo Buri: 500 poblaciones\n\nObservar: - Gen 0: todos centrados en 0.5 - Generaciones posteriores: dispersión aumenta, algunos alelos se fijan"
+  },
+  {
+    "objectID": "lectures/07-drift.html#efecto-del-tamaño-poblacional-en-la-deriva-1",
+    "href": "lectures/07-drift.html#efecto-del-tamaño-poblacional-en-la-deriva-1",
+    "title": "Deriva genética",
+    "section": "Efecto del tamaño poblacional en la deriva",
+    "text": "Efecto del tamaño poblacional en la deriva\nN = 200"
+  },
+  {
+    "objectID": "lectures/07-drift.html#efecto-del-tamaño-poblacional-en-la-deriva-2",
+    "href": "lectures/07-drift.html#efecto-del-tamaño-poblacional-en-la-deriva-2",
+    "title": "Deriva genética",
+    "section": "Efecto del tamaño poblacional en la deriva",
+    "text": "Efecto del tamaño poblacional en la deriva\nN = 2000"
+  },
+  {
+    "objectID": "lectures/07-drift.html#cuello-de-botella-bottleneck",
+    "href": "lectures/07-drift.html#cuello-de-botella-bottleneck",
+    "title": "Deriva genética",
+    "section": "Cuello de botella (Bottleneck)",
+    "text": "Cuello de botella (Bottleneck)\nReducción drástica del tamaño poblacional seguida de recuperación.\nEjemplo: - Población original: 10,000 individuos - Evento: 99% muere (enfermedad, desastre) - Sobrevivientes: 100 individuos - Recuperación: población vuelve a 10,000\nResultado: Alelos perdidos permanentemente, aumento de deriva"
   }
 ]

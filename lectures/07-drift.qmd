@@ -1,0 +1,69 @@
+---
+title: "Deriva genética"
+subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
+format:
+  revealjs:
+    slide-number: true
+    incremental: false
+    theme: simple
+lang: es
+---
+
+## Deriva genética
+
+**Cambios en la frecuencia de alelos debido al azar**, no a la selección.
+
+- Ocurre en todas las poblaciones
+- Más fuerte en poblaciones pequeñas
+- Puede llevar a fijación o pérdida de alelos
+
+---
+
+## Efecto del tamaño poblacional en la deriva
+**N = 20**
+![](07-assets/drift_N20_10pops.png){fig-align="center" width="100%"}
+
+
+## Efecto del tamaño poblacional en la deriva
+**N = 200**
+![](07-assets/drift_N200_10pops.png){fig-align="center" width="100%"}
+
+
+## Efecto del tamaño poblacional en la deriva
+**N = 2000**
+![](07-assets/drift_N2000_10pops.png){fig-align="center" width="100%"}
+
+
+## Cuello de botella (Bottleneck)
+
+Reducción drástica del tamaño poblacional seguida de recuperación.
+
+**Ejemplo:**
+- Población original: 10,000 individuos
+- Evento: 99% muere (enfermedad, desastre)
+- Sobrevivientes: 100 individuos
+- Recuperación: población vuelve a 10,000
+
+**Resultado:** Alelos perdidos permanentemente, aumento de deriva
+
+---
+
+## Efecto fundador (Founder Effect)
+
+Establecimiento de una población nueva a partir de **pocos individuos** (fundadores).
+
+**Ejemplo:**
+- Colonización de una isla
+- Población original grande: múltiples alelos
+- Solo 50 individuos llegan a la isla
+- Frecuencias alélicas cambian dramáticamente por azar
+
+**Resultado:** Nueva población distinta genéticamente de la original
+
+## Experimento tipo Buri: 500 poblaciones
+
+![](07-assets/buri_bw_frequency_histograms_stacked.png){fig-align="center"}
+
+**Observar:** 
+- Gen 0: todos centrados en 0.5
+- Generaciones posteriores: dispersión aumenta, algunos alelos se fijan
