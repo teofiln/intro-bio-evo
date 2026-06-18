@@ -1,0 +1,95 @@
+---
+title: "Quiz 2B: Métodos, Hardy-Weinberg, Mutación y Selección Natural"
+subtitle: "Intro Bio I (B0160) — Módulo de Evolución"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+lang: es
+---
+
+**Nombre:** _________________________________ &emsp; **Carné:** __________________
+
+**Versión B**
+
+*Instrucciones: Elige la única respuesta correcta para cada pregunta.*
+
+**1.** En el caso de la anemia falciforme en regiones donde la malaria es común, la persistencia del alelo S se explica mejor por:
+
+a) Deriva genética pura sin diferencias de aptitud.
+b) Selección direccional constante contra todos los heterocigotos.
+c) Ventaja del heterocigoto, un caso de selección balanceadora.
+d) Mutaciones dirigidas por la presencia de malaria.
+e) Ausencia de selección natural sobre el locus.
+
+**2.** ¿Cuál afirmación resume mejor la relación entre mutación y selección natural?
+
+a) La selección natural produce mutaciones útiles cuando el ambiente cambia.
+b) La mutación introduce variación; la selección actúa sobre esa variación.
+c) La mutación ocurre para satisfacer las necesidades de la población.
+d) La selección natural actúa primero y luego aparecen mutaciones específicas.
+e) Mutación y selección son el mismo proceso, descrito de dos maneras.
+
+**3.** En una población diploide con dos alelos (A y a), con frecuencias $f(A) = p = 0.7$ y $f(a) = q = 0.3$, la frecuencia esperada de heterocigotos (Aa) bajo Hardy-Weinberg es:
+
+a) 0.09
+b) 0.21
+c) 0.42
+d) 0.49
+e) 0.70
+
+**4.** El principio de Hardy-Weinberg se entiende mejor como:
+
+a) Una descripción exacta de todas las poblaciones naturales.
+b) Un modelo nulo que predice que, bajo ciertos supuestos, las frecuencias alélicas permanecen constantes de una generación a otra.
+c) Una prueba de que la selección natural no existe.
+d) Un modelo que requiere que todos los genotipos tengan igual fenotipo.
+e) Una teoría sobre el origen de nuevas mutaciones.
+
+**5.** ¿Cuál afirmación sobre mutaciones puntuales e inserciones/deleciones es correcta?
+
+a) Toda sustitución cambia necesariamente el marco de lectura.
+b) Una inserción o deleción de 1 o 2 nucleótidos en una región codificante puede producir un cambio de marco (frameshift).
+c) Una inserción de 3 nucleótidos consecutivos siempre produce frameshift.
+d) El marco de lectura solo cambia si hay mutación en el promotor del gen.
+e) Las mutaciones puntuales no afectan la secuencia de aminoácidos, porque el ribosoma puede corregir errores de lectura.
+
+**6.** Si una población se desvía de las frecuencias genotípicas esperadas por Hardy-Weinberg, la interpretación más apropiada es:
+
+a) Se demuestra automáticamente selección natural direccional.
+b) Al menos uno de los supuestos del modelo nulo probablemente no se cumple.
+c) La población no está evolucionando.
+d) Es evidencia de que la mutación es siempre beneficiosa.
+e) Los datos deben descartarse porque Hardy-Weinberg siempre se cumple.
+
+**7.** En el enfoque científico visto en clase, después de plantear hipótesis alternativas sobre un patrón evolutivo, el siguiente paso clave es:
+
+a) Elegir la hipótesis más intuitiva y buscar ejemplos que la ilustren.
+b) Derivar predicciones comprobables de cada hipótesis y contrastarlas con datos.
+c) Esperar a tener certeza absoluta antes de analizar evidencia.
+d) Asumir que si una hipótesis explica un caso, entonces es universalmente verdadera.
+e) Rechazar cualquier hipótesis que no pueda probarse con un solo experimento.
+
+**8.** ¿Cuál de los siguientes escenarios describe mejor la selección diversificadora (disruptiva)?
+
+a) Un fenotipo intermedio tiene mayor aptitud que ambos extremos.
+b) Un solo fenotipo extremo es favorecido de forma consistente.
+c) Los fenotipos extremos tienen mayor aptitud que los intermedios.
+d) Todos los fenotipos tienen la misma aptitud relativa.
+e) Las frecuencias alélicas cambian solo por migración y mutación.
+
+**9.** Respecto a las mutaciones germinales y somáticas, ¿cuál de las siguientes afirmaciones es correcta?
+
+a) Las mutaciones somáticas son la principal fuente heredable para evolución poblacional.
+b) Las mutaciones germinales pueden heredarse y por eso pueden contribuir a la evolución.
+c) Ningún tipo de mutación puede afectar la aptitud.
+d) Las mutaciones germinales solo ocurren por mutágenos artificiales.
+e) Las mutaciones somáticas siempre se transmiten a la descendencia.
+
+**10.** Para sustentar la hipótesis de que un rasgo es una adaptación producto de la selección natural, es necesario demostrar simultáneamente:
+
+a) Que el rasgo cambia entre generaciones.
+b) Que existe variación del rasgo en la población.
+c) Una relación entre el rasgo y el ambiente, variación heredable del rasgo y diferencias de aptitud asociadas con dicha variación.
+d) Que el rasgo aparece en varias especies.
+e) Que el rasgo tiene base genética y que existe variación del rasgo en la población.

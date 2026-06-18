@@ -1,0 +1,30 @@
+---
+title: "Quiz 2F — CLAVE DE RESPUESTAS"
+subtitle: "Métodos, Hardy-Weinberg, Mutación y Selección Natural · Intro Bio I (B0160)"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+lang: es
+---
+
+| Pregunta | Respuesta correcta | Concepto clave |
+|:---:|:---:|---|
+| 1 | **c** | Evidencia integrada de adaptación: relación rasgo-ambiente, heredabilidad y aptitud |
+| 2 | **b** | Método científico: hipótesis alternativas y predicciones comprobables contrastadas con datos |
+| 3 | **b** | Solo mutaciones germinales son heredables y contribuyen directamente a evolución poblacional |
+| 4 | **c** | Bajo HW, heterocigotos = 2pq = 2(0.7)(0.3) = 0.42 |
+| 5 | **b** | Hardy-Weinberg como modelo nulo para poblaciones |
+| 6 | **c** | Selección diversificadora favorece extremos y reduce aptitud de intermedios |
+| 7 | **b** | Mutación genera variación; selección filtra según diferencias de aptitud |
+| 8 | **c** | Ventaja del heterocigoto en malaria mantiene polimorfismo (selección balanceadora) |
+| 9 | **b** | Desviación de HW sugiere violación de uno o más supuestos, no un mecanismo único automático |
+| 10 | **b** | Inserciones/deleciones no múltiplos de 3 en región codificante pueden causar frameshift |
+## Notas para el docente
+
+- Cobertura por clase:
+  - Preguntas 1-2: Clase 3 (métodos y evidencia para adaptación).
+  - Preguntas 3, 7-8: Clase 5 (tipos de mutación, fuente de variación, germinal vs. somática).
+  - Preguntas 4-6: Clase 4 (Hardy-Weinberg, cálculo e interpretación de desviaciones).
+  - Preguntas 9-10: Clase 6 (selección balanceadora, tipos de selección).
+- Los distractores atacan errores comunes: confundir desviación de HW con prueba directa de selección, o asumir mutaciones dirigidas por necesidad.
