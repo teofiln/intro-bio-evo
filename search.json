@@ -25,21 +25,21 @@
     "href": "worksheets/w07-drift.html#materiales-por-pareja",
     "title": "Hoja de trabajo: Simulación de deriva genética",
     "section": "Materiales por pareja",
-    "text": "Materiales por pareja\nPor pareja:\n\n14 frijoles negros\n6 frijoles rojos\nBolsa opaca\nCalculadora"
+    "text": "Materiales por pareja\nPor pareja:\n\n10 frijoles negros\n10 frijoles rojos\nBolsa opaca\nCalculadora"
   },
   {
     "objectID": "worksheets/w07-drift.html#procedimiento",
     "href": "worksheets/w07-drift.html#procedimiento",
     "title": "Hoja de trabajo: Simulación de deriva genética",
     "section": "Procedimiento",
-    "text": "Procedimiento\n\nGeneración 0\nColoque los 20 frijoles en la bolsa.\nRegistre la composición inicial:\n\n\n\nGeneración\nNegros\nRojos\nFrecuencia rojo\n\n\n\n\n0\n14\n6\n0.30\n\n\n\n\n\n\nGeneración 1\n\nMezcle bien los frijoles.\nExtraiga un frijol al azar.\nRegistre su color.\nDevuelva el frijol a la bolsa.\nRepita hasta obtener 20 extracciones (10 cigotes).\n\nEstas 20 extracciones representan los individuos de la siguiente generación.\nCuente cuántos fueron:\n\nNegros: ______\nRojos: ______\n\nRegistre la nueva frecuencia del alelo rojo:\n\\[\np_{rojo}=\\frac{\\text{Número de rojos}}{20}\n\\]\n\n\n\nGeneraciones 2–10\nRepita el procedimiento anterior.\nAl finalizar cada generación:\n\nReemplace la población anterior por la nueva composición observada.\nColoque en la bolsa el número correspondiente de frijoles negros y rojos.\nRealice nuevamente 20 extracciones con reemplazo para generar la siguiente generación."
+    "text": "Procedimiento\n\nGeneración 0\nColoque los 20 frijoles en la bolsa.\nRegistre la composición inicial:\n\n\n\nGeneración\nNegros\nRojos\nFrecuencia rojo\n\n\n\n\n0\n10\n10\n0.50\n\n\n\n\n\n\nGeneración 1\n\nMezcle bien los frijoles.\nExtraiga un frijol al azar.\nRegistre su color.\nDevuelva el frijol a la bolsa.\nRepita hasta obtener 20 extracciones (10 cigotes).\n\nEstas 20 extracciones representan los individuos de la siguiente generación.\nCuente cuántos fueron:\n\nNegros: ______\nRojos: ______\n\nRegistre la nueva frecuencia del alelo rojo:\n\\[\np_{rojo}=\\frac{\\text{Número de rojos}}{20}\n\\]\n\n\n\nGeneraciones 2–10\nRepita el procedimiento anterior.\nAl finalizar cada generación:\n\nReemplace la población anterior por la nueva composición observada.\nColoque en la bolsa el número correspondiente de frijoles negros y rojos.\nRealice nuevamente 20 extracciones con reemplazo para generar la siguiente generación."
   },
   {
     "objectID": "worksheets/w07-drift.html#resultados",
     "href": "worksheets/w07-drift.html#resultados",
     "title": "Hoja de trabajo: Simulación de deriva genética",
     "section": "Resultados",
-    "text": "Resultados\n\n\n\nGeneración\nNegros\nRojos\nFrecuencia rojo\n\n\n\n\n0\n14\n6\n0.30\n\n\n1\n\n\n\n\n\n2\n\n\n\n\n\n3\n\n\n\n\n\n4\n\n\n\n\n\n5\n\n\n\n\n\n6\n\n\n\n\n\n7\n\n\n\n\n\n8\n\n\n\n\n\n9\n\n\n\n\n\n10"
+    "text": "Resultados\n\n\n\nGeneración\nNegros\nRojos\nFrecuencia rojo\n\n\n\n\n0\n10\n10\n0.50\n\n\n1\n\n\n\n\n\n2\n\n\n\n\n\n3\n\n\n\n\n\n4\n\n\n\n\n\n5\n\n\n\n\n\n6\n\n\n\n\n\n7\n\n\n\n\n\n8\n\n\n\n\n\n9\n\n\n\n\n\n10"
   },
   {
     "objectID": "worksheets/w07-drift.html#gráfico",
