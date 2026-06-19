@@ -33,8 +33,8 @@ Asumiremos que ambos alelos tienen exactamente la misma aptitud. Cualquier cambi
 
 Por pareja:
 
-* 14 frijoles negros
-* 6 frijoles rojos
+* 10 frijoles negros
+* 10 frijoles rojos
 * Bolsa opaca
 * Calculadora
 
@@ -50,7 +50,7 @@ Registre la composición inicial:
 
 | Generación | Negros | Rojos | Frecuencia rojo |
 | ---------- | ------ | ----- | --------------- |
-| 0          | 14     | 6     | 0.30            |
+| 0          | 10     | 10    | 0.50            |
 
 ---
 
@@ -93,7 +93,7 @@ Al finalizar cada generación:
 
 | Generación | Negros | Rojos | Frecuencia rojo |
 | ---------- | ------ | ----- | --------------- |
-| 0          | 14     | 6     | 0.30            |
+| 0          | 10     | 10    | 0.50            |
 | 1          |        |       |                 |
 | 2          |        |       |                 |
 | 3          |        |       |                 |
