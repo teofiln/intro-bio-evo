@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/worksheets/index.html",
-    "items": [
-      "/worksheets/w02-evidence.html",
-      "/worksheets/w03-methods.html",
-      "/worksheets/w04-hw.html",
-      "/worksheets/w05-mutation.html"
-    ]
-  },
-  {
     "listing": "/lectures/index.html",
     "items": [
       "/lectures/01-variation-and-populations.html",
@@ -21,12 +12,23 @@
     ]
   },
   {
+    "listing": "/worksheets/index.html",
+    "items": [
+      "/worksheets/w02-evidence.html",
+      "/worksheets/w03-methods.html",
+      "/worksheets/w04-hw.html",
+      "/worksheets/w05-mutation.html",
+      "/worksheets/w07-drift.html"
+    ]
+  },
+  {
     "listing": "/worksheets/index.pdf",
     "items": [
       "/worksheets/w02-evidence.html",
       "/worksheets/w03-methods.html",
       "/worksheets/w04-hw.html",
-      "/worksheets/w05-mutation.html"
+      "/worksheets/w05-mutation.html",
+      "/worksheets/w07-drift.html"
     ]
   },
   {
@@ -35,7 +37,8 @@
       "/worksheets/w02-evidence.html",
       "/worksheets/w03-methods.html",
       "/worksheets/w04-hw.html",
-      "/worksheets/w05-mutation.html"
+      "/worksheets/w05-mutation.html",
+      "/worksheets/w07-drift.html"
     ]
   }
 ]

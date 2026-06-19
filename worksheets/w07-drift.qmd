@@ -1,0 +1,140 @@
+---
+title: "Hoja de trabajo: Simulación de deriva genética"
+subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
+format:
+  html:
+    toc: true
+    number-sections: false
+  docx: default
+  pdf: default
+lang: es
+---
+
+## Objetivos de la actividad
+
+Explorar cómo las frecuencias alélicas pueden cambiar por azar entre generaciones, incluso cuando no existen diferencias de aptitud entre los alelos.
+
+---
+
+## Introducción
+
+La deriva genética es el cambio en la frecuencia de alelos debido al azar.
+
+En esta actividad simularemos una población pequeña con dos alelos:
+
+* Frijol negro = alelo A
+* Frijol rojo = alelo a
+
+Asumiremos que ambos alelos tienen exactamente la misma aptitud. Cualquier cambio observado será consecuencia únicamente del azar.
+
+---
+
+## Materiales por pareja
+
+Por pareja:
+
+* 14 frijoles negros
+* 6 frijoles rojos
+* Bolsa opaca
+* Calculadora
+
+---
+
+## Procedimiento
+
+### Generación 0
+
+Coloque los 20 frijoles en la bolsa.
+
+Registre la composición inicial:
+
+| Generación | Negros | Rojos | Frecuencia rojo |
+| ---------- | ------ | ----- | --------------- |
+| 0          | 14     | 6     | 0.30            |
+
+---
+
+### Generación 1
+
+1. Mezcle bien los frijoles.
+2. Extraiga un frijol al azar.
+3. Registre su color.
+4. Devuelva el frijol a la bolsa.
+5. Repita hasta obtener 20 extracciones (10 cigotes).
+
+Estas 20 extracciones representan los individuos de la siguiente generación.
+
+Cuente cuántos fueron:
+
+* Negros: ______
+* Rojos: ______
+
+Registre la nueva frecuencia del alelo rojo:
+
+$$
+p_{rojo}=\frac{\text{Número de rojos}}{20}
+$$
+
+---
+
+### Generaciones 2–10
+
+Repita el procedimiento anterior.
+
+Al finalizar cada generación:
+
+1. Reemplace la población anterior por la nueva composición observada.
+2. Coloque en la bolsa el número correspondiente de frijoles negros y rojos.
+3. Realice nuevamente 20 extracciones con reemplazo para generar la siguiente generación.
+
+---
+
+## Resultados
+
+| Generación | Negros | Rojos | Frecuencia rojo |
+| ---------- | ------ | ----- | --------------- |
+| 0          | 14     | 6     | 0.30            |
+| 1          |        |       |                 |
+| 2          |        |       |                 |
+| 3          |        |       |                 |
+| 4          |        |       |                 |
+| 5          |        |       |                 |
+| 6          |        |       |                 |
+| 7          |        |       |                 |
+| 8          |        |       |                 |
+| 9          |        |       |                 |
+| 10         |        |       |                 |
+
+---
+
+## Gráfico
+
+Grafique:
+
+* Eje X: generación
+* Eje Y: frecuencia del alelo rojo
+
+---
+
+## Preguntas
+
+1. ¿La frecuencia del alelo rojo permaneció constante durante toda la simulación?
+
+2. ¿Los cambios observados ocurrieron por selección natural o por azar?
+
+3. Compare sus resultados con los de otros grupos. ¿Todas las poblaciones siguieron la misma trayectoria?
+
+4. ¿Alguna población perdió completamente uno de los alelos?
+
+5. ¿Qué efecto tendría aumentar el tamaño poblacional de 20 a 200 individuos?
+
+---
+
+## Discusión
+
+Explique cómo esta actividad ilustra los siguientes conceptos:
+
+* Deriva genética
+* Fijación de alelos
+* Pérdida de diversidad genética
+* Importancia del tamaño poblacional

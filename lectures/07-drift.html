@@ -6,8 +6,8 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.33">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.6.40">
 
   <title>Evolucion Intro Bio – Deriva genética</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -28,7 +28,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-2c1b5f745a11cfad616ebade4a4a7d24.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-423d414d36ce366a9d05f36d06304417.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -133,14 +133,86 @@
 </div>
 
 </section>
+<section id="metas" class="slide level2">
+<h2>Metas</h2>
+<p>Introducir:</p>
+<ol type="1">
+<li>Qué es la deriva genética y por qué ocurre por muestreo entre generaciones.</li>
+<li>Cómo distinguir deriva genética de selección natural.</li>
+<li>Por qué la deriva es más intensa en poblaciones pequeñas.</li>
+</ol>
+</section>
+<section id="ser-capaces-de" class="slide level2 smaller">
+<h2>Ser capaces de</h2>
+<div>
+<ul>
+<li class="fragment">Definir deriva genética como cambio aleatorio en frecuencias alélicas.</li>
+<li class="fragment">Explicar por qué ocurre deriva incluso cuando no hay diferencias de aptitud.</li>
+<li class="fragment">Comparar selección natural vs deriva genética en términos de causa y resultados.</li>
+<li class="fragment">Interpretar los patrones de deriva en poblaciones con distinto tamaño (<span class="math inline">\(N = 20, 200, 2000\)</span>).</li>
+<li class="fragment">Reconocer cómo cuello de botella y efecto fundador amplifican la deriva.</li>
+</ul>
+</div>
+</section>
+<section id="selección-vs.-deriva" class="slide level2">
+<h2>Selección vs.&nbsp;deriva</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Selección natural</th>
+<th>Deriva genética</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Cambio no aleatorio</td>
+<td>Cambio aleatorio</td>
+</tr>
+<tr class="even">
+<td>Algunas variantes tienen mayor aptitud</td>
+<td>Los alelos tienen la misma aptitud</td>
+</tr>
+<tr class="odd">
+<td>Produce adaptación</td>
+<td>No produce adaptación necesariamente</td>
+</tr>
+<tr class="even">
+<td>Más importante en poblaciones grandes</td>
+<td>Más intensa en poblaciones pequeñas</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="por-qué-ocurre-la-deriva" class="slide level2">
+<h2>¿Por qué ocurre la deriva?</h2>
+<p>Imaginemos una población con:</p>
+<ul>
+<li>50% A</li>
+<li>50% a</li>
+</ul>
+<p>Pregunta:</p>
+<blockquote>
+<p>¿La siguiente generación tendrá exactamente 50% y 50% otra vez?</p>
+</blockquote>
+<p>No necesariamente.</p>
+<p>Incluso si no hay selección, cada generación es una <strong>muestra</strong> de la anterior, y algunas variantes dejan más descendientes simplemente por azar.</p>
+</section>
+<section id="analogía-lanzar-una-moneda" class="slide level2">
+<h2>Analogía: lanzar una moneda</h2>
+<ul>
+<li>10 lanzamientos: resultados muy variables</li>
+<li>10 000 lanzamientos: resultados muy cercanos a 50%</li>
+</ul>
+<p>Los alelos son muestreados de forma similar entre generaciones.</p>
+</section>
 <section id="deriva-genética" class="slide level2">
 <h2>Deriva genética</h2>
 <p><strong>Cambios en la frecuencia de alelos debido al azar</strong>, no a la selección.</p>
-<ul>
-<li>Ocurre en todas las poblaciones</li>
-<li>Más fuerte en poblaciones pequeñas</li>
-<li>Puede llevar a fijación o pérdida de alelos</li>
-</ul>
+<p>La idea central es que la evolución puede ocurrir incluso cuando ninguna variante tiene ventaja.</p>
 </section>
 <section id="efecto-del-tamaño-poblacional-en-la-deriva" class="slide level2">
 <h2>Efecto del tamaño poblacional en la deriva</h2>
@@ -154,22 +226,78 @@
 <h2>Efecto del tamaño poblacional en la deriva</h2>
 <p><strong>N = 2000</strong> <img data-src="07-assets/drift_N2000_10pops.png" class="quarto-figure quarto-figure-center" style="width:100.0%"></p>
 </section>
-<section id="cuello-de-botella-bottleneck" class="slide level2">
-<h2>Cuello de botella (Bottleneck)</h2>
-<p>Reducción drástica del tamaño poblacional seguida de recuperación.</p>
-<p><strong>Ejemplo:</strong> - Población original: 10,000 individuos - Evento: 99% muere (enfermedad, desastre) - Sobrevivientes: 100 individuos - Recuperación: población vuelve a 10,000</p>
-<p><strong>Resultado:</strong> Alelos perdidos permanentemente, aumento de deriva</p>
-</section>
-<section id="efecto-fundador-founder-effect" class="slide level2">
-<h2>Efecto fundador (Founder Effect)</h2>
-<p>Establecimiento de una población nueva a partir de <strong>pocos individuos</strong> (fundadores).</p>
-<p><strong>Ejemplo:</strong> - Colonización de una isla - Población original grande: múltiples alelos - Solo 50 individuos llegan a la isla - Frecuencias alélicas cambian dramáticamente por azar</p>
-<p><strong>Resultado:</strong> Nueva población distinta genéticamente de la original</p>
+<section id="qué-observamos" class="slide level2">
+<h2>¿Qué observamos?</h2>
+<div>
+<ul>
+<li class="fragment">Todas las poblaciones empiezan iguales.</li>
+<li class="fragment">Las trayectorias divergen por azar.</li>
+<li class="fragment">Algunas poblaciones fijan el alelo A.</li>
+<li class="fragment">Algunas poblaciones pierden el alelo A.</li>
+<li class="fragment">La divergencia es mayor cuando N es pequeño.</li>
+</ul>
+</div>
 </section>
 <section id="experimento-tipo-buri-500-poblaciones" class="slide level2">
 <h2>Experimento tipo Buri: 500 poblaciones</h2>
 
-<img data-src="07-assets/buri_bw_frequency_histograms_stacked.png" class="quarto-figure quarto-figure-center r-stretch"><p><strong>Observar:</strong> - Gen 0: todos centrados en 0.5 - Generaciones posteriores: dispersión aumenta, algunos alelos se fijan</p>
+<img data-src="07-assets/buri_bw_frequency_histograms_stacked.png" class="quarto-figure quarto-figure-center r-stretch"><div>
+<p><strong>Observar:</strong> - Gen 0: todos centrados en 0.5 - Generaciones posteriores: aumenta la dispersión - Algunas poblaciones fijan un alelo, otras lo pierden</p>
+</div>
+</section>
+<section id="consecuencias-de-la-deriva" class="slide level2">
+<h2>Consecuencias de la deriva</h2>
+<div>
+<ul>
+<li class="fragment">Pérdida de diversidad genética.</li>
+<li class="fragment">Fijación o pérdida de alelos.</li>
+<li class="fragment">Diferenciación entre poblaciones.</li>
+<li class="fragment">Evolución incluso en ausencia de selección natural.</li>
+</ul>
+</div>
+</section>
+<section id="cuello-de-botella-y-efecto-fundador" class="slide level2">
+<h2>Cuello de botella y efecto fundador</h2>
+<p>Ambos casos amplifican la deriva porque implican una <strong>muestra pequeña</strong> de la diversidad original.</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Cuello de botella</th>
+<th>Efecto fundador</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Población grande → pequeña → grande</td>
+<td>Nueva población formada por pocos individuos</td>
+</tr>
+<tr class="even">
+<td>Reducción brusca por enfermedad, desastre o caza</td>
+<td>Colonización de una isla o nuevo hábitat</td>
+</tr>
+<tr class="odd">
+<td>Pérdida de diversidad genética</td>
+<td>Frecuencias alélicas distintas desde el inicio</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="resumen" class="slide level2">
+<h2>Resumen</h2>
+<div>
+<ul>
+<li class="fragment">La deriva genética es evolución por azar.</li>
+<li class="fragment">Ocurre en todas las poblaciones.</li>
+<li class="fragment">Es más intensa en poblaciones pequeñas.</li>
+<li class="fragment">Reduce la diversidad genética.</li>
+<li class="fragment">Puede causar fijación o pérdida de alelos.</li>
+<li class="fragment">Cuellos de botella y efectos fundadores amplifican la deriva.</li>
+</ul>
+</div>
 
 
 </section>
@@ -389,172 +517,190 @@
       });
     </script>
     <script id="quarto-html-after-body" type="application/javascript">
-      window.document.addEventListener("DOMContentLoaded", function (event) {
-        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
-        tabsets.forEach(function(tabset) {
-          const tabby = new Tabby('#' + tabset.id);
-        });
-        const isCodeAnnotation = (el) => {
-          for (const clz of el.classList) {
-            if (clz.startsWith('code-annotation-')) {                     
-              return true;
-            }
-          }
-          return false;
+    window.document.addEventListener("DOMContentLoaded", function (event) {
+      const toggleBodyColorMode = (bsSheetEl) => {
+        const mode = bsSheetEl.getAttribute("data-mode");
+        const bodyEl = window.document.querySelector("body");
+        if (mode === "dark") {
+          bodyEl.classList.add("quarto-dark");
+          bodyEl.classList.remove("quarto-light");
+        } else {
+          bodyEl.classList.add("quarto-light");
+          bodyEl.classList.remove("quarto-dark");
         }
-        const onCopySuccess = function(e) {
-          // button target
-          const button = e.trigger;
-          // don't keep focus
-          button.blur();
-          // flash "checked"
-          button.classList.add('code-copy-button-checked');
-          var currentTitle = button.getAttribute("title");
-          button.setAttribute("title", "Copiado");
-          let tooltip;
-          if (window.bootstrap) {
-            button.setAttribute("data-bs-toggle", "tooltip");
-            button.setAttribute("data-bs-placement", "left");
-            button.setAttribute("data-bs-title", "Copiado");
-            tooltip = new bootstrap.Tooltip(button, 
-              { trigger: "manual", 
-                customClass: "code-copy-button-tooltip",
-                offset: [0, -8]});
-            tooltip.show();    
-          }
-          setTimeout(function() {
-            if (tooltip) {
-              tooltip.hide();
-              button.removeAttribute("data-bs-title");
-              button.removeAttribute("data-bs-toggle");
-              button.removeAttribute("data-bs-placement");
-            }
-            button.setAttribute("title", currentTitle);
-            button.classList.remove('code-copy-button-checked');
-          }, 1000);
-          // clear code selection
-          e.clearSelection();
+      }
+      const toggleBodyColorPrimary = () => {
+        const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+        if (bsSheetEl) {
+          toggleBodyColorMode(bsSheetEl);
         }
-        const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
-            }
-            return codeEl.innerText;
-        }
-        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-          text: getTextToCopy
-        });
-        clipboard.on('success', onCopySuccess);
-        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-            text: getTextToCopy,
-            container: window.document.getElementById('quarto-embedded-source-code-modal')
-          });
-          clipboardModal.on('success', onCopySuccess);
-        }
-          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-          var mailtoRegex = new RegExp(/^mailto:/);
-            var filterRegex = new RegExp('/' + window.location.host + '/');
-          var isInternal = (href) => {
-              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-          }
-          // Inspect non-navigation links and adorn them if external
-         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-          for (var i=0; i<links.length; i++) {
-            const link = links[i];
-            if (!isInternal(link.href)) {
-              // undo the damage that might have been done by quarto-nav.js in the case of
-              // links that we want to consider external
-              if (link.dataset.originalHref !== undefined) {
-                link.href = link.dataset.originalHref;
-              }
-            }
-          }
-        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-          const config = {
-            allowHTML: true,
-            maxWidth: 500,
-            delay: 100,
-            arrow: false,
-            appendTo: function(el) {
-                return el.closest('section.slide') || el.parentElement;
-            },
-            interactive: true,
-            interactiveBorder: 10,
-            theme: 'light-border',
-            placement: 'bottom-start',
-          };
-          if (contentFn) {
-            config.content = contentFn;
-          }
-          if (onTriggerFn) {
-            config.onTrigger = onTriggerFn;
-          }
-          if (onUntriggerFn) {
-            config.onUntrigger = onUntriggerFn;
-          }
-            config['offset'] = [0,0];
-            config['maxWidth'] = 700;
-          window.tippy(el, config); 
-        }
-        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-        for (var i=0; i<noterefs.length; i++) {
-          const ref = noterefs[i];
-          tippyHover(ref, function() {
-            // use id or data attribute instead here
-            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-            try { href = new URL(href).hash; } catch {}
-            const id = href.replace(/^#\/?/, "");
-            const note = window.document.getElementById(id);
-            if (note) {
-              return note.innerHTML;
-            } else {
-              return "";
-            }
-          });
-        }
-        const findCites = (el) => {
-          const parentEl = el.parentElement;
-          if (parentEl) {
-            const cites = parentEl.dataset.cites;
-            if (cites) {
-              return {
-                el,
-                cites: cites.split(' ')
-              };
-            } else {
-              return findCites(el.parentElement)
-            }
-          } else {
-            return undefined;
-          }
-        };
-        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-        for (var i=0; i<bibliorefs.length; i++) {
-          const ref = bibliorefs[i];
-          const citeInfo = findCites(ref);
-          if (citeInfo) {
-            tippyHover(citeInfo.el, function() {
-              var popup = window.document.createElement('div');
-              citeInfo.cites.forEach(function(cite) {
-                var citeDiv = window.document.createElement('div');
-                citeDiv.classList.add('hanging-indent');
-                citeDiv.classList.add('csl-entry');
-                var biblioDiv = window.document.getElementById('ref-' + cite);
-                if (biblioDiv) {
-                  citeDiv.innerHTML = biblioDiv.innerHTML;
-                }
-                popup.appendChild(citeDiv);
-              });
-              return popup.innerHTML;
-            });
-          }
-        }
+      }
+      toggleBodyColorPrimary();  
+      const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+      tabsets.forEach(function(tabset) {
+        const tabby = new Tabby('#' + tabset.id);
       });
-      </script>
+      const isCodeAnnotation = (el) => {
+        for (const clz of el.classList) {
+          if (clz.startsWith('code-annotation-')) {                     
+            return true;
+          }
+        }
+        return false;
+      }
+      const onCopySuccess = function(e) {
+        // button target
+        const button = e.trigger;
+        // don't keep focus
+        button.blur();
+        // flash "checked"
+        button.classList.add('code-copy-button-checked');
+        var currentTitle = button.getAttribute("title");
+        button.setAttribute("title", "Copiado");
+        let tooltip;
+        if (window.bootstrap) {
+          button.setAttribute("data-bs-toggle", "tooltip");
+          button.setAttribute("data-bs-placement", "left");
+          button.setAttribute("data-bs-title", "Copiado");
+          tooltip = new bootstrap.Tooltip(button, 
+            { trigger: "manual", 
+              customClass: "code-copy-button-tooltip",
+              offset: [0, -8]});
+          tooltip.show();    
+        }
+        setTimeout(function() {
+          if (tooltip) {
+            tooltip.hide();
+            button.removeAttribute("data-bs-title");
+            button.removeAttribute("data-bs-toggle");
+            button.removeAttribute("data-bs-placement");
+          }
+          button.setAttribute("title", currentTitle);
+          button.classList.remove('code-copy-button-checked');
+        }, 1000);
+        // clear code selection
+        e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
+      });
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp('/' + window.location.host + '/');
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+          }
+        }
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+        const config = {
+          allowHTML: true,
+          maxWidth: 500,
+          delay: 100,
+          arrow: false,
+          appendTo: function(el) {
+              return el.closest('section.slide') || el.parentElement;
+          },
+          interactive: true,
+          interactiveBorder: 10,
+          theme: 'light-border',
+          placement: 'bottom-start',
+        };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
+          config['offset'] = [0,0];
+          config['maxWidth'] = 700;
+        window.tippy(el, config); 
+      }
+      const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+      for (var i=0; i<noterefs.length; i++) {
+        const ref = noterefs[i];
+        tippyHover(ref, function() {
+          // use id or data attribute instead here
+          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+          try { href = new URL(href).hash; } catch {}
+          const id = href.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
+        });
+      }
+      const findCites = (el) => {
+        const parentEl = el.parentElement;
+        if (parentEl) {
+          const cites = parentEl.dataset.cites;
+          if (cites) {
+            return {
+              el,
+              cites: cites.split(' ')
+            };
+          } else {
+            return findCites(el.parentElement)
+          }
+        } else {
+          return undefined;
+        }
+      };
+      var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+      for (var i=0; i<bibliorefs.length; i++) {
+        const ref = bibliorefs[i];
+        const citeInfo = findCites(ref);
+        if (citeInfo) {
+          tippyHover(citeInfo.el, function() {
+            var popup = window.document.createElement('div');
+            citeInfo.cites.forEach(function(cite) {
+              var citeDiv = window.document.createElement('div');
+              citeDiv.classList.add('hanging-indent');
+              citeDiv.classList.add('csl-entry');
+              var biblioDiv = window.document.getElementById('ref-' + cite);
+              if (biblioDiv) {
+                citeDiv.innerHTML = biblioDiv.innerHTML;
+              }
+              popup.appendChild(citeDiv);
+            });
+            return popup.innerHTML;
+          });
+        }
+      }
+    });
+    </script>
     
 
 </body></html>
