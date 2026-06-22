@@ -1,0 +1,103 @@
+---
+title: "Hoja de trabajo 08: Flujo genico (migracion)"
+subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
+format:
+  html:
+    toc: true
+    number-sections: false
+  docx: default
+  pdf: default
+lang: es
+---
+
+## Objetivos de la actividad
+
+- Investigar como la migracion modifica las frecuencias alelicas entre poblaciones.
+- Comparar el efecto del flujo genico con el efecto de la deriva genetica.
+- Evaluar si las poblaciones se vuelven mas similares o mas diferentes a traves del tiempo.
+
+## Introduccion
+
+En la actividad anterior, la deriva genetica hizo que poblaciones inicialmente parecidas empezaran a diferenciarse.
+
+En esta actividad analizaremos la migracion (flujo genico), es decir, el movimiento de individuos o gametos entre poblaciones.
+
+Pregunta central:
+
+> Que ocurre con las frecuencias alelicas cuando hay intercambio de individuos entre poblaciones?
+
+## Materiales por grupo
+
+- Su poblacion final de la actividad de deriva genetica.
+- Tabla de registro.
+- Calculadora.
+
+## Situacion inicial
+
+Cada grupo representa una poblacion distinta.
+
+Registren la composicion actual de su poblacion:
+
+| Poblacion | Negros | Rojos | Frecuencia rojo |
+| --- | ---: | ---: | ---: |
+| Inicial | | | |
+
+## Organizacion de la migracion
+
+Los grupos se organizaran en una cadena:
+
+```text
+Grupo A <-> Grupo B <-> Grupo C <-> Grupo D <-> Grupo E ...
+```
+
+En cada generacion:
+
+- Cada grupo intercambia 1 individuo (frijol) con un grupo vecino.
+- El frijol enviado se selecciona al azar.
+- La migracion ocurre despues de generar la nueva poblacion por deriva.
+
+## Procedimiento (generaciones 1-4)
+
+Para cada generacion:
+
+1. Mezclen los frijoles y realicen 20 extracciones con reemplazo para formar la nueva generacion.
+2. Registren negros, rojos y frecuencia roja antes de migracion.
+3. Seleccionen un frijol al azar y envienlo al grupo vecino.
+4. Reciban un frijol de un grupo vecino y actualicen la composicion.
+5. Registren la frecuencia roja despues de migracion.
+
+| Generacion | Negros (antes) | Rojos (antes) | Frecuencia roja (antes) | Frecuencia roja (despues) |
+| --- | ---: | ---: | ---: | ---: |
+| 1 | | | | |
+| 2 | | | | |
+| 3 | | | | |
+| 4 | | | | |
+
+## Resultados de la clase
+
+Al finalizar, cada grupo reporta su frecuencia roja inicial y final:
+
+| Grupo | Frecuencia inicial | Frecuencia final |
+| --- | ---: | ---: |
+| A | | |
+| B | | |
+| C | | |
+| D | | |
+| E | | |
+
+## Preguntas de analisis
+
+1. Calcule la diferencia entre la mayor y la menor frecuencia roja al inicio de la actividad.
+
+2. Calcule la misma diferencia al final de la generacion 4. Que cambio observo?
+
+3. Compare esta actividad con la de deriva genetica: cual proceso tiende a aumentar diferencias entre poblaciones y cual tiende a reducirlas?
+
+4. Si en vez de 1 migrante por generacion hubiera 3, espera que las poblaciones converjan mas rapido o mas lento? Explique en una o dos oraciones.
+
+## Resumen
+
+- El flujo genico introduce alelos entre poblaciones.
+- La migracion puede cambiar las frecuencias alelicas en pocas generaciones.
+- Con flujo genico, las poblaciones tienden a parecerse mas entre si.
+- En la naturaleza, deriva y migracion actuan al mismo tiempo.

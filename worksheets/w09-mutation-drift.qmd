@@ -1,5 +1,5 @@
 ---
-title: "Hoja de trabajo: Mutacion y deriva genetica"
+title: "Hoja de trabajo 09: Mutacion y deriva genetica"
 subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
 format:
   html:

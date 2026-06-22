@@ -1,5 +1,5 @@
 ---
-title: "Hoja de trabajo: Simulación de deriva genética"
+title: "Hoja de trabajo 07: Simulación de deriva genética"
 subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
 format:
   html:

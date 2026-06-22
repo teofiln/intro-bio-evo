@@ -1,5 +1,5 @@
 ---
-title: "Hoja de trabajo: Simulación de Hardy-Weinberg"
+title: "Hoja de trabajo 04: Simulación de Hardy-Weinberg"
 subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
 format:
   html:

@@ -1,5 +1,5 @@
 ---
-title: "Hoja de trabajo: Respiracion subacuatica en anolis"
+title: "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)"
 subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
 format:
   html:
