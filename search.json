@@ -2,224 +2,224 @@
   {
     "objectID": "worksheets/w09-mutation-drift.html",
     "href": "worksheets/w09-mutation-drift.html",
-    "title": "Hoja de trabajo: Mutacion y deriva genetica",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
     "section": "",
     "text": "Investigar como aparecen nuevos alelos en una poblacion.\nExplorar que ocurre con las mutaciones neutras en poblaciones pequenas.\nAnalizar el efecto de la deriva genetica en el destino de nuevas mutaciones."
   },
   {
     "objectID": "worksheets/w09-mutation-drift.html#objetivos-de-la-actividad",
     "href": "worksheets/w09-mutation-drift.html#objetivos-de-la-actividad",
-    "title": "Hoja de trabajo: Mutacion y deriva genetica",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
     "section": "",
     "text": "Investigar como aparecen nuevos alelos en una poblacion.\nExplorar que ocurre con las mutaciones neutras en poblaciones pequenas.\nAnalizar el efecto de la deriva genetica en el destino de nuevas mutaciones."
   },
   {
     "objectID": "worksheets/w09-mutation-drift.html#materiales-por-grupo",
     "href": "worksheets/w09-mutation-drift.html#materiales-por-grupo",
-    "title": "Hoja de trabajo: Mutacion y deriva genetica",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
     "section": "Materiales por grupo",
     "text": "Materiales por grupo\n\nSu poblacion actual (20 frijoles)\n1 frijol blanco (representa una mutacion nueva)\nMoneda"
   },
   {
     "objectID": "worksheets/w09-mutation-drift.html#situacion-inicial",
     "href": "worksheets/w09-mutation-drift.html#situacion-inicial",
-    "title": "Hoja de trabajo: Mutacion y deriva genetica",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
     "section": "Situacion inicial",
     "text": "Situacion inicial\nRegistre la composicion inicial de su poblacion:\n\n\n\nColor\nCantidad\n\n\n\n\nNegro\n\n\n\nRojo\n\n\n\nBlanco\n0"
   },
   {
     "objectID": "worksheets/w09-mutation-drift.html#procedimiento",
     "href": "worksheets/w09-mutation-drift.html#procedimiento",
-    "title": "Hoja de trabajo: Mutacion y deriva genetica",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
     "section": "Procedimiento",
     "text": "Procedimiento\nEvolucione su poblacion durante 10 generaciones. En cada generacion:\n\nIntente obtener una mutacion (solo si aun no ha ocurrido):\n\nLance una moneda 3 veces.\nSi obtiene 3 caras consecutivas: ocurre una mutacion. Seleccione un frijol al azar y reemplacelo por un frijol blanco.\nSi no obtiene 3 caras: continua sin mutacion.\n\nForme la nueva generacion: realice 20 extracciones con reemplazo para mantener 20 individuos.\nRegistre: anote el numero de frijoles blancos.\nDetencion: una vez que aparece una mutacion (frijol blanco), deje de intentar mutar en las generaciones siguientes. Solo siga el destino de esa mutacion hasta la generacion 10."
   },
   {
     "objectID": "worksheets/w09-mutation-drift.html#resultados",
     "href": "worksheets/w09-mutation-drift.html#resultados",
-    "title": "Hoja de trabajo: Mutacion y deriva genetica",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
     "section": "Resultados",
     "text": "Resultados\n\n\n\nGeneracion\nBlancos\n\n\n\n\n0\n\n\n\n1\n\n\n\n2\n\n\n\n3\n\n\n\n4\n\n\n\n5\n\n\n\n6\n\n\n\n7\n\n\n\n8\n\n\n\n9\n\n\n\n10"
   },
   {
     "objectID": "worksheets/w09-mutation-drift.html#grafico",
     "href": "worksheets/w09-mutation-drift.html#grafico",
-    "title": "Hoja de trabajo: Mutacion y deriva genetica",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
     "section": "Grafico",
     "text": "Grafico\nGrafique:\n\nEje X: generacion\nEje Y: numero de frijoles blancos"
   },
   {
     "objectID": "worksheets/w09-mutation-drift.html#preguntas-de-analisis",
     "href": "worksheets/w09-mutation-drift.html#preguntas-de-analisis",
-    "title": "Hoja de trabajo: Mutacion y deriva genetica",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
     "section": "Preguntas de analisis",
     "text": "Preguntas de analisis\n\n¿Ocurrio una mutacion en su poblacion?\nSi ocurrio una mutacion en su poblacion, que sucedio con el alelo blanco?\nSi la mutacion era neutral, que proceso determino su destino?\nCompare sus resultados con otros grupos: ¿todas las mutaciones tuvieron el mismo destino? Explique por que o por que no."
   },
   {
     "objectID": "worksheets/w09-mutation-drift.html#resumen",
     "href": "worksheets/w09-mutation-drift.html#resumen",
-    "title": "Hoja de trabajo: Mutacion y deriva genetica",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
     "section": "Resumen",
     "text": "Resumen\n\nLas mutaciones son la fuente de toda variacion genetica nueva.\nLas nuevas mutaciones comienzan en frecuencia muy baja.\nUna mutacion neutral puede perderse simplemente por azar (deriva genetica).\nEl destino de una mutacion neutral es impredecible en poblaciones pequenas"
   },
   {
     "objectID": "worksheets/w07-drift.html",
     "href": "worksheets/w07-drift.html",
-    "title": "Hoja de trabajo: Simulación de deriva genética",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
     "section": "",
     "text": "Explorar cómo las frecuencias alélicas pueden cambiar por azar entre generaciones, incluso cuando no existen diferencias de aptitud entre los alelos."
   },
   {
     "objectID": "worksheets/w07-drift.html#objetivos-de-la-actividad",
     "href": "worksheets/w07-drift.html#objetivos-de-la-actividad",
-    "title": "Hoja de trabajo: Simulación de deriva genética",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
     "section": "",
     "text": "Explorar cómo las frecuencias alélicas pueden cambiar por azar entre generaciones, incluso cuando no existen diferencias de aptitud entre los alelos."
   },
   {
     "objectID": "worksheets/w07-drift.html#introducción",
     "href": "worksheets/w07-drift.html#introducción",
-    "title": "Hoja de trabajo: Simulación de deriva genética",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
     "section": "Introducción",
     "text": "Introducción\nLa deriva genética es el cambio en la frecuencia de alelos debido al azar.\nEn esta actividad simularemos una población pequeña con dos alelos:\n\nFrijol negro = alelo A\nFrijol rojo = alelo a\n\nAsumiremos que ambos alelos tienen exactamente la misma aptitud. Cualquier cambio observado será consecuencia únicamente del azar."
   },
   {
     "objectID": "worksheets/w07-drift.html#materiales-por-pareja",
     "href": "worksheets/w07-drift.html#materiales-por-pareja",
-    "title": "Hoja de trabajo: Simulación de deriva genética",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
     "section": "Materiales por pareja",
     "text": "Materiales por pareja\nPor pareja:\n\n10 frijoles negros\n10 frijoles rojos\nBolsa opaca\nCalculadora"
   },
   {
     "objectID": "worksheets/w07-drift.html#procedimiento",
     "href": "worksheets/w07-drift.html#procedimiento",
-    "title": "Hoja de trabajo: Simulación de deriva genética",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
     "section": "Procedimiento",
     "text": "Procedimiento\n\nGeneración 0\nColoque los 20 frijoles en la bolsa.\nRegistre la composición inicial:\n\n\n\nGeneración\nNegros\nRojos\nFrecuencia rojo\n\n\n\n\n0\n10\n10\n0.50\n\n\n\n\n\n\nGeneración 1\n\nMezcle bien los frijoles.\nExtraiga un frijol al azar.\nRegistre su color.\nDevuelva el frijol a la bolsa.\nRepita hasta obtener 20 extracciones (10 cigotes).\n\nEstas 20 extracciones representan los individuos de la siguiente generación.\nCuente cuántos fueron:\n\nNegros: ______\nRojos: ______\n\nRegistre la nueva frecuencia del alelo rojo:\n\\[\np_{rojo}=\\frac{\\text{Número de rojos}}{20}\n\\]\n\n\n\nGeneraciones 2–10\nRepita el procedimiento anterior.\nAl finalizar cada generación:\n\nReemplace la población anterior por la nueva composición observada.\nColoque en la bolsa el número correspondiente de frijoles negros y rojos.\nRealice nuevamente 20 extracciones con reemplazo para generar la siguiente generación."
   },
   {
     "objectID": "worksheets/w07-drift.html#resultados",
     "href": "worksheets/w07-drift.html#resultados",
-    "title": "Hoja de trabajo: Simulación de deriva genética",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
     "section": "Resultados",
     "text": "Resultados\n\n\n\nGeneración\nNegros\nRojos\nFrecuencia rojo\n\n\n\n\n0\n10\n10\n0.50\n\n\n1\n\n\n\n\n\n2\n\n\n\n\n\n3\n\n\n\n\n\n4\n\n\n\n\n\n5\n\n\n\n\n\n6\n\n\n\n\n\n7\n\n\n\n\n\n8\n\n\n\n\n\n9\n\n\n\n\n\n10"
   },
   {
     "objectID": "worksheets/w07-drift.html#gráfico",
     "href": "worksheets/w07-drift.html#gráfico",
-    "title": "Hoja de trabajo: Simulación de deriva genética",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
     "section": "Gráfico",
     "text": "Gráfico\nGrafique:\n\nEje X: generación\nEje Y: frecuencia del alelo rojo"
   },
   {
     "objectID": "worksheets/w07-drift.html#preguntas",
     "href": "worksheets/w07-drift.html#preguntas",
-    "title": "Hoja de trabajo: Simulación de deriva genética",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
     "section": "Preguntas",
     "text": "Preguntas\n\n¿La frecuencia del alelo rojo permaneció constante durante toda la simulación?\n¿Los cambios observados ocurrieron por selección natural o por azar?\nCompare sus resultados con los de otros grupos. ¿Todas las poblaciones siguieron la misma trayectoria?\n¿Alguna población perdió completamente uno de los alelos?\n¿Qué efecto tendría aumentar el tamaño poblacional de 20 a 200 individuos?"
   },
   {
     "objectID": "worksheets/w07-drift.html#discusión",
     "href": "worksheets/w07-drift.html#discusión",
-    "title": "Hoja de trabajo: Simulación de deriva genética",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
     "section": "Discusión",
     "text": "Discusión\nExplique cómo esta actividad ilustra los siguientes conceptos:\n\nDeriva genética\nFijación de alelos\nPérdida de diversidad genética\nImportancia del tamaño poblacional"
   },
   {
     "objectID": "worksheets/w04-hw.html",
     "href": "worksheets/w04-hw.html",
-    "title": "Hoja de trabajo: Simulación de Hardy-Weinberg",
+    "title": "Hoja de trabajo 04: Simulación de Hardy-Weinberg",
     "section": "",
     "text": "Comprender Hardy-Weinberg como una expectativa nula para una población sin fuerzas evolutivas.\nEstimar frecuencias alélicas a partir de datos genotípicos.\nComparar observaciones reales con expectativas bajo apareamiento aleatorio.\nInterpretar biológicamente desviaciones del equilibrio."
   },
   {
     "objectID": "worksheets/w04-hw.html#objetivos-de-la-actividad",
     "href": "worksheets/w04-hw.html#objetivos-de-la-actividad",
-    "title": "Hoja de trabajo: Simulación de Hardy-Weinberg",
+    "title": "Hoja de trabajo 04: Simulación de Hardy-Weinberg",
     "section": "",
     "text": "Comprender Hardy-Weinberg como una expectativa nula para una población sin fuerzas evolutivas.\nEstimar frecuencias alélicas a partir de datos genotípicos.\nComparar observaciones reales con expectativas bajo apareamiento aleatorio.\nInterpretar biológicamente desviaciones del equilibrio."
   },
   {
     "objectID": "worksheets/w04-hw.html#materiales-por-grupo",
     "href": "worksheets/w04-hw.html#materiales-por-grupo",
-    "title": "Hoja de trabajo: Simulación de Hardy-Weinberg",
+    "title": "Hoja de trabajo 04: Simulación de Hardy-Weinberg",
     "section": "Materiales por grupo",
     "text": "Materiales por grupo\n\n1 bolsa de papel | 140 frijoles negros (alelo \\(A\\)) | 60 frijoles rojos (alelo \\(a\\))"
   },
   {
     "objectID": "worksheets/w04-hw.html#procedimiento",
     "href": "worksheets/w04-hw.html#procedimiento",
-    "title": "Hoja de trabajo: Simulación de Hardy-Weinberg",
+    "title": "Hoja de trabajo 04: Simulación de Hardy-Weinberg",
     "section": "Procedimiento",
     "text": "Procedimiento\nRepitan 100 veces:\n\nMezclen bien la bolsa.\nExtraigan dos frijoles al azar.\nRegistren el genotipo resultante.\nDevuelvan ambos frijoles a la bolsa.\nRepitan.\n\n\nClasificación\n\n\n\nFrijoles extraídos\nGenotipo\nObservado\nSimulado\n\n\n\n\nNegro + Negro\nAA\n60\n\n\n\nNegro + Rojo\nAa\n20\n\n\n\nRojo + Rojo\naa\n20\n\n\n\nTotal\n\n100\n100\n\n\n\nUn integrante de cada pareja anotará en la pizarra el número de heterocigotos (\\(Aa\\)) obtenidos.\nEl conjunto de resultados de la clase mostrará la distribución esperada bajo apareamiento aleatorio."
   },
   {
     "objectID": "worksheets/w02-evidence.html",
     "href": "worksheets/w02-evidence.html",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
     "section": "",
     "text": "Al finalizar esta actividad, el grupo debería ser capaz de usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica."
   },
   {
     "objectID": "worksheets/w02-evidence.html#objetivo-de-la-actividad",
     "href": "worksheets/w02-evidence.html#objetivo-de-la-actividad",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
     "section": "",
     "text": "Al finalizar esta actividad, el grupo debería ser capaz de usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica."
   },
   {
     "objectID": "worksheets/w02-evidence.html#instrucciones-generales",
     "href": "worksheets/w02-evidence.html#instrucciones-generales",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
     "section": "2 Instrucciones generales",
     "text": "2 Instrucciones generales\nTrabajen en grupos de 4–6 personas. Lean el escenario y discutan cada pregunta antes de escribir la respuesta. No se espera una respuesta larga, pero sí una justificación clara."
   },
   {
     "objectID": "worksheets/w02-evidence.html#escenario-isla-verde",
     "href": "worksheets/w02-evidence.html#escenario-isla-verde",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
     "section": "3 Escenario: Isla Verde",
     "text": "3 Escenario: Isla Verde\nUn equipo de biólogos estudia una isla oceánica llamada Isla Verde. La isla está a unos 800 km del continente más cercano y tiene varios ambientes: bosque seco, bosque húmedo, costa rocosa y zonas abiertas.\nEn la isla se encuentran cuatro especies animales que parecen muy diferentes entre sí:\n\n\n\nEspecie\nDescripción breve\n\n\n\n\nEspecie A\nMamífero pequeño, terrestre, nocturno, con patas cortas\n\n\nEspecie B\nMamífero grande, terrestre, diurno, con patas largas\n\n\nEspecie C\nAnimal volador con alas membranosas\n\n\nEspecie D\nAnimal volador con alas rígidas cubiertas de plumas\n\n\n\nEl objetivo del grupo es usar la evidencia disponible para responder:\n\n¿Qué especies parecen estar más cercanamente relacionadas y qué tipo de evidencia apoya esa conclusión?"
   },
   {
     "objectID": "worksheets/w02-evidence.html#parte-1.-evidencias-disponibles",
     "href": "worksheets/w02-evidence.html#parte-1.-evidencias-disponibles",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
     "section": "4 Parte 1. Evidencias disponibles",
     "text": "4 Parte 1. Evidencias disponibles\nLean las siguientes evidencias. Para cada una, identifiquen qué tipo de evidencia representa.\nTipos posibles de evidencia:\n\nRegistro fósil\nAnatomía comparada\nBiogeografía\nBiología molecular\nEmbriología comparada\nEvolución observada directamente\n\n\n\n\n\n\n\n\n\nEvidencia\nTipo de evidencia\n¿Qué sugiere?\n\n\n\n\n1. La Especie A y la Especie B tienen una estructura ósea muy similar en las patas delanteras, aunque las usan de manera diferente.\n\n\n\n\n2. La Especie C y la Especie D vuelan, pero sus alas tienen estructuras internas muy distintas.\n\n\n\n\n3. El ADN de la Especie A y la Especie B es mucho más similar entre sí que al ADN de las especies C y D.\n\n\n\n\n4. En rocas antiguas de la isla se encontraron fósiles de un mamífero pequeño con rasgos intermedios entre la Especie A y la Especie B.\n\n\n\n\n5. Las especies A y B solo viven en Isla Verde, pero sus parientes más cercanos conocidos viven en el continente cercano.\n\n\n\n\n6. En los últimos 20 años, una población de insectos de la isla se volvió resistente a un pesticida usado en cultivos locales."
   },
   {
     "objectID": "worksheets/w02-evidence.html#parte-2.-homología-analogía-y-ancestro-común",
     "href": "worksheets/w02-evidence.html#parte-2.-homología-analogía-y-ancestro-común",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
     "section": "5 Parte 2. Homología, analogía y ancestro común",
     "text": "5 Parte 2. Homología, analogía y ancestro común\nLas especies A y B tienen patas delanteras con una estructura ósea similar, pero las usan de forma diferente.\n¿Esta similitud es más probablemente una homología o una analogía? Justifiquen.\nLas especies C y D tienen alas y pueden volar, pero sus alas tienen estructuras internas muy diferentes.\n¿Esta similitud es más probablemente una homología o una analogía? Justifiquen.\n¿Qué diferencia hay entre decir que dos especies son similares por ancestro común y decir que son similares por adaptación a una función parecida?"
   },
   {
     "objectID": "worksheets/w02-evidence.html#parte-3.-inferencia-evolutiva",
     "href": "worksheets/w02-evidence.html#parte-3.-inferencia-evolutiva",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
     "section": "6 Parte 3. Inferencia evolutiva",
     "text": "6 Parte 3. Inferencia evolutiva\nCon base en todas las evidencias, respondan:\n¿Cuáles dos especies parecen estar más cercanamente relacionadas?\n¿Cuáles son las dos evidencias más fuertes que apoyan esa conclusión?\nConstruyan un esquema simple de relaciones evolutivas entre las cuatro especies. No tiene que ser un árbol formal; puede ser un diagrama sencillo."
   },
   {
     "objectID": "worksheets/w02-evidence.html#parte-4.-variación-y-evolución-observada",
     "href": "worksheets/w02-evidence.html#parte-4.-variación-y-evolución-observada",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
     "section": "7 Parte 4. Variación y evolución observada",
     "text": "7 Parte 4. Variación y evolución observada\nRecuerden el mapa conceptual básico:\n\nVariación heredable → diferencias en aptitud → cambio en la composición de la población entre generaciones\n\nEn el caso de los insectos resistentes al pesticida, ¿cuál podría ser la variación heredable inicial?\n¿Por qué el pesticida no “crea” directamente la resistencia, sino que cambia la frecuencia de individuos resistentes en la población?\n¿Este ejemplo representa cambio individual o cambio poblacional? Expliquen."
   },
   {
     "objectID": "worksheets/w02-evidence.html#parte-5.-síntesis",
     "href": "worksheets/w02-evidence.html#parte-5.-síntesis",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
     "section": "8 Parte 5. Síntesis",
     "text": "8 Parte 5. Síntesis\n¿Por qué es más fuerte una explicación evolutiva cuando diferentes tipos de evidencia apoyan la misma conclusión?"
   },
   {
     "objectID": "worksheets/w02-evidence.html#cierre-para-discusión-en-clase",
     "href": "worksheets/w02-evidence.html#cierre-para-discusión-en-clase",
-    "title": "Hoja de trabajo: Evidencia de la evolución",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
     "section": "9 Cierre para discusión en clase",
     "text": "9 Cierre para discusión en clase\nCada grupo debe estar preparado para compartir brevemente:\n\nQué especies consideran más cercanamente relacionadas.\nQué evidencia usaron para justificarlo.\nUn ejemplo de homología y uno de analogía en el escenario.\nPor qué la evolución observada directamente es evidencia importante."
   },
@@ -1920,140 +1920,140 @@
   {
     "objectID": "worksheets/w03-methods.html",
     "href": "worksheets/w03-methods.html",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
     "section": "",
     "text": "Al finalizar esta actividad, el grupo deberia ser capaz de interpretar evidencia en el contexto de las hipotesis, y decidir que hipotesis recibe mayor apoyo relativo."
   },
   {
     "objectID": "worksheets/w03-methods.html#objetivo-de-la-actividad",
     "href": "worksheets/w03-methods.html#objetivo-de-la-actividad",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
     "section": "",
     "text": "Al finalizar esta actividad, el grupo deberia ser capaz de interpretar evidencia en el contexto de las hipotesis, y decidir que hipotesis recibe mayor apoyo relativo."
   },
   {
     "objectID": "worksheets/w03-methods.html#instrucciones-generales",
     "href": "worksheets/w03-methods.html#instrucciones-generales",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
     "section": "2 Instrucciones generales",
     "text": "2 Instrucciones generales\n\nLean cada bloque de evidencia.\nIdentifiquen el patron principal en cada caso.\nEvalen que tan bien cada evidencia apoya las dos hipotesis.\n\nUsen respuestas breves pero justificadas con datos."
   },
   {
     "objectID": "worksheets/w03-methods.html#hipotesis",
     "href": "worksheets/w03-methods.html#hipotesis",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
     "section": "3 Hipotesis",
     "text": "3 Hipotesis\n\nHipotesis A: la capacidad de re-inspirar aire surgio una sola vez y luego se heredo en el linaje correspondiente.\nHipotesis B: la capacidad de re-inspirar aire surgio varias veces de forma independiente en distintos linajes."
   },
   {
     "objectID": "worksheets/w03-methods.html#contexto-biologico",
     "href": "worksheets/w03-methods.html#contexto-biologico",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
     "section": "4 Contexto biologico",
     "text": "4 Contexto biologico\nAlgunas especies de Anolis pueden permanecer sumergidas y volver a inspirar aire debajo del agua desde una burbuja alrededor del hocico. Eso comportamiento da una ventaja para permanecer sumergidos por mas tiempo, y evitar depredadores. Pero no es claro si se trata de un comportamiento ancestral que se ha mantenido en unos linajes, o si se ha originado varias veces de forma independiente.\nSu grupo es un equipo de investigadores que quiere resolver esta pregunta, y han recolectado tres tipos de evidencia: comportamiento, fisiologia, y distribucion filogenetica. Analicen cada bloque de evidencia y decidan que hipotesis recibe mas apoyo.\n\n\n\nAnolis sumergido con burbuja de aire\n\n\nDetalles en el articulo original: https://www.sciencedirect.com/science/article/pii/S0960982221005753"
   },
   {
     "objectID": "worksheets/w03-methods.html#evidencia-1-observacion-del-comportamiento",
     "href": "worksheets/w03-methods.html#evidencia-1-observacion-del-comportamiento",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
     "section": "5 Evidencia 1: observacion del comportamiento",
     "text": "5 Evidencia 1: observacion del comportamiento\nEnsayo de comportamiento:\n\nSe realizaron pruebas de submersion en 32 especies de Anolis y 4 lagartijas no anolis.\nLas especies semi-acuaticas mostraron re-inspiracion, por lo menos una vez, con mayor frecuencia que las especies no acuaticas.\nLas especies semi-acuaticas tambien mostraron re-inspiracion sostenida en mas ensayos. La re-inspiracion sostenida se define como la capacidad de mantener la burbuja de aire para hacer varias respiraciones consecutivas.\n\n\n5.1 Interpretacion del comportamiento\n\nQue te permite inferir esta observacion sobre la funcion y distribucion del comportamiento a lo largo de las especies?\n\n\nCon solo esta evidencia, cual hipotesis recibe mas apoyo: A, B, o aun no se puede decidir? Expliquen brevemente."
   },
   {
     "objectID": "worksheets/w03-methods.html#evidencia-2-dinamica-del-oxigeno-en-la-burbuja",
     "href": "worksheets/w03-methods.html#evidencia-2-dinamica-del-oxigeno-en-la-burbuja",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
     "section": "6 Evidencia 2: dinamica del oxigeno en la burbuja",
     "text": "6 Evidencia 2: dinamica del oxigeno en la burbuja\nResultado fisiologico:\n\nEl pO2 de la burbuja de re-inspiracion inicia parecido al aire ambiente y disminuye de forma monotona durante la prueba.\n\n\n\n\nDisminucion del pO2 en la burbuja de re-inspiracion\n\n\n\n6.1 Interpretacion fisiologica\n\nQue sugiere este patron sobre la funcion respiratoria de la burbuja?\n\n\nEsta evidencia favorece mas a la hipotesis A, a la B, o no distingue bien entre ambas? Justifiquen."
   },
   {
     "objectID": "worksheets/w03-methods.html#evidencia-3-distribucion-filogenetica-del-comportamiento",
     "href": "worksheets/w03-methods.html#evidencia-3-distribucion-filogenetica-del-comportamiento",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
     "section": "7 Evidencia 3: distribucion filogenetica del comportamiento",
     "text": "7 Evidencia 3: distribucion filogenetica del comportamiento\nPatron evolutivo:\n\n\n\nArbol filogenetico con re-inspiracion en anolis semi-acuaticos\n\n\n\n7.1 Interpretacion evolutiva\n\nQue patron observan en la distribucion de las especies con re-inspiracion sostenida?\n\n\nCual hipotesis recibe mas apoyo con esta evidencia, A o B? Expliquen por que.\n\n\nEsta evidencia sugiere un origen unico, varios origenes independientes, o aun falta informacion? Justifiquen."
   },
   {
     "objectID": "worksheets/w03-methods.html#sintesis",
     "href": "worksheets/w03-methods.html#sintesis",
-    "title": "Hoja de trabajo: Respiracion subacuatica en anolis",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
     "section": "8 Sintesis",
     "text": "8 Sintesis\nCompleten la tabla con un juicio breve para cada evidencia.\nEscala: ++ (apoyo fuerte), + (apoyo moderado), 0 (neutral), - (debilita).\n\n\n\nEvidencia\nHipotesis A\nHipotesis B\nJustificacion corta\n\n\n\n\nObservacion del comportamiento\n\n\n\n\n\nDisminucion del pO2 en la burbuja\n\n\n\n\n\nDistribucion en el arbol filogenetico\n\n\n\n\n\n\n\nCual hipotesis recibe mayor apoyo global con la evidencia disponible?\n\n\nEscriban una conclusion breve (2-3 oraciones), incluyendo una nota de incertidumbre."
   },
   {
     "objectID": "worksheets/w05-mutation.html",
     "href": "worksheets/w05-mutation.html",
-    "title": "Hoja de trabajo: Mutación y origen de nuevos alelos",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
     "section": "",
     "text": "Comprender que la mutación es la fuente última de nuevos alelos.\nReconocer que las mutaciones ocurren de manera aleatoria.\nVisualizar cómo una mutación nueva comienza a frecuencias muy bajas en una población.\nConectar los conceptos de mutación, herencia mendeliana y evolución."
   },
   {
     "objectID": "worksheets/w05-mutation.html#registro",
     "href": "worksheets/w05-mutation.html#registro",
-    "title": "Hoja de trabajo: Mutación y origen de nuevos alelos",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
     "section": "Registro",
     "text": "Registro\n¿Obtuvieron 6 caras consecutivas?\n\nSí\nNo\n\nSi la respuesta es “No”, continúen con la discusión final.\nSi la respuesta es “Sí”, continúen con la Parte II."
   },
   {
     "objectID": "worksheets/w05-mutation.html#paso-1-elegir-el-locus",
     "href": "worksheets/w05-mutation.html#paso-1-elegir-el-locus",
-    "title": "Hoja de trabajo: Mutación y origen de nuevos alelos",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
     "section": "Paso 1: Elegir el locus",
     "text": "Paso 1: Elegir el locus\nExtraigan al azar un número entre 1 y 10.\nLocus afectado:"
   },
   {
     "objectID": "worksheets/w05-mutation.html#paso-2-elegir-la-copia-parental",
     "href": "worksheets/w05-mutation.html#paso-2-elegir-la-copia-parental",
-    "title": "Hoja de trabajo: Mutación y origen de nuevos alelos",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
     "section": "Paso 2: Elegir la copia parental",
     "text": "Paso 2: Elegir la copia parental\nLancen una moneda una vez.\n\nCara = copia materna\nCruz = copia paterna\n\nCopia afectada:"
   },
   {
     "objectID": "worksheets/w05-mutation.html#paso-3-elegir-la-posición-dentro-del-gen",
     "href": "worksheets/w05-mutation.html#paso-3-elegir-la-posición-dentro-del-gen",
-    "title": "Hoja de trabajo: Mutación y origen de nuevos alelos",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
     "section": "Paso 3: Elegir la posición dentro del gen",
     "text": "Paso 3: Elegir la posición dentro del gen\nExtraigan al azar un número entre 1 y 300.\nPosición mutada:"
   },
   {
     "objectID": "worksheets/w05-mutation.html#registro-de-la-mutación",
     "href": "worksheets/w05-mutation.html#registro-de-la-mutación",
-    "title": "Hoja de trabajo: Mutación y origen de nuevos alelos",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
     "section": "Registro de la mutación",
     "text": "Registro de la mutación\nEjemplo:\nA7\nCopia materna\nPosición 184\nMutación observada:"
   },
   {
     "objectID": "worksheets/w05-mutation.html#tamaño-de-la-población",
     "href": "worksheets/w05-mutation.html#tamaño-de-la-población",
-    "title": "Hoja de trabajo: Mutación y origen de nuevos alelos",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
     "section": "Tamaño de la población",
     "text": "Tamaño de la población\nNúmero total de grupos:\n\\[\nN = \\underline{\\hspace{2cm}}\n\\]"
   },
   {
     "objectID": "worksheets/w05-mutation.html#número-total-de-alelos",
     "href": "worksheets/w05-mutation.html#número-total-de-alelos",
-    "title": "Hoja de trabajo: Mutación y origen de nuevos alelos",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
     "section": "Número total de alelos",
     "text": "Número total de alelos\nCada individuo posee:\n\\[\n10 \\text{ loci} \\times 2 \\text{ copias} = 20 \\text{ alelos}\n\\]\nAlelos totales en la población:\n\\[\n20 \\times N =\n\\]"
   },
   {
     "objectID": "worksheets/w05-mutation.html#número-total-de-mutaciones-observadas",
     "href": "worksheets/w05-mutation.html#número-total-de-mutaciones-observadas",
-    "title": "Hoja de trabajo: Mutación y origen de nuevos alelos",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
     "section": "Número total de mutaciones observadas",
     "text": "Número total de mutaciones observadas\n\\[\nM = \\underline{\\hspace{2cm}}\n\\]"
   },
   {
     "objectID": "worksheets/w05-mutation.html#frecuencia-de-alelos-nuevos",
     "href": "worksheets/w05-mutation.html#frecuencia-de-alelos-nuevos",
-    "title": "Hoja de trabajo: Mutación y origen de nuevos alelos",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
     "section": "Frecuencia de alelos nuevos",
     "text": "Frecuencia de alelos nuevos\nFrecuencia observada:\n\\[\nf= \\frac{M}{20 \\times N} =\n\\]"
   },
   {
     "objectID": "worksheets/w05-mutation.html#frecuencia-de-nucleotidos-nuevos",
     "href": "worksheets/w05-mutation.html#frecuencia-de-nucleotidos-nuevos",
-    "title": "Hoja de trabajo: Mutación y origen de nuevos alelos",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
     "section": "Frecuencia de nucleotidos nuevos",
     "text": "Frecuencia de nucleotidos nuevos\n\\[\nf_n = \\frac{M}{6000 \\times N} =\n\\]"
   },
