@@ -1,5 +1,5 @@
 ---
-title: "Hoja de trabajo: Flujo genico (migracion)"
+title: "Hoja de trabajo 08: Flujo genico (migracion)"
 subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
 format:
   html:
@@ -56,7 +56,7 @@ En cada generacion:
 - El frijol enviado se selecciona al azar.
 - La migracion ocurre despues de generar la nueva poblacion por deriva.
 
-## Procedimiento (generaciones 1-4)
+## Procedimiento (generaciones 1-6)
 
 Para cada generacion:
 
@@ -72,10 +72,12 @@ Para cada generacion:
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
+| 5 | | | | |
+| 6 | | | | |
 
 ## Resultados de la clase
 
-Al finalizar, cada grupo reporta su frecuencia roja inicial y final:
+Al finalizar, cada grupo reporta su frecuencia roja inicial y final en la pizzara:
 
 | Grupo | Frecuencia inicial | Frecuencia final |
 | --- | ---: | ---: |
