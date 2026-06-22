@@ -1,0 +1,90 @@
+---
+title: "Hoja de trabajo: Mutacion y deriva genetica"
+subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
+format:
+  html:
+    toc: true
+    number-sections: false
+  docx: default
+  pdf: default
+lang: es
+---
+
+## Objetivos de la actividad
+
+- Investigar como aparecen nuevos alelos en una poblacion.
+- Explorar que ocurre con las mutaciones neutras en poblaciones pequenas.
+- Analizar el efecto de la deriva genetica en el destino de nuevas mutaciones.
+
+## Materiales por grupo
+
+- Su poblacion actual (20 frijoles)
+- 1 frijol blanco (representa una mutacion nueva)
+- Moneda
+
+## Situacion inicial
+
+Registre la composicion inicial de su poblacion:
+
+| Color | Cantidad |
+| --- | ---: |
+| Negro | |
+| Rojo | |
+| Blanco | 0 |
+
+## Procedimiento
+
+Evolucione su poblacion durante 10 generaciones. En cada generacion:
+
+1. **Intente obtener una mutacion** (solo si aun no ha ocurrido):
+   - Lance una moneda 3 veces.
+   - Si obtiene **3 caras consecutivas**: ocurre una mutacion. Seleccione un frijol al azar y reemplacelo por un frijol blanco.
+   - Si no obtiene 3 caras: continua sin mutacion.
+
+2. **Forme la nueva generacion**: realice 20 extracciones con reemplazo para mantener 20 individuos.
+
+3. **Registre**: anote el numero de frijoles blancos.
+
+4. **Detencion**: una vez que aparece una mutacion (frijol blanco), deje de intentar mutar en las generaciones siguientes. Solo siga el destino de esa mutacion hasta la generacion 10.
+
+## Resultados
+
+| Generacion | Blancos |
+| --- | ---: |
+| 0 | |
+| 1 | |
+| 2 | |
+| 3 | |
+| 4 | |
+| 5 | |
+| 6 | |
+| 7 | |
+| 8 | |
+| 9 | |
+| 10 | |
+
+## Grafico
+
+Grafique:
+
+- Eje X: generacion
+- Eje Y: numero de frijoles blancos
+
+---
+
+## Preguntas de analisis
+
+1. ¿Ocurrio una mutacion en su poblacion?
+
+2. Si ocurrio una mutacion en su poblacion, que sucedio con el alelo blanco?
+
+3. Si la mutacion era neutral, que proceso determino su destino?
+
+4. Compare sus resultados con otros grupos: ¿todas las mutaciones tuvieron el mismo destino? Explique por que o por que no.
+
+## Resumen
+
+- Las mutaciones son la fuente de toda variacion genetica nueva.
+- Las nuevas mutaciones comienzan en frecuencia muy baja.
+- Una mutacion neutral puede perderse simplemente por azar (deriva genetica).
+- El destino de una mutacion neutral es impredecible en poblaciones pequenas
