@@ -89,13 +89,13 @@ Al finalizar, cada grupo reporta su frecuencia roja inicial y final en la pizzar
 
 ## Preguntas de analisis
 
-1. Calcule la diferencia entre la mayor y la menor frecuencia roja al inicio de la actividad.
+1. Calcule la diferencia entre la mayor y la menor frecuencia alelica en su poblacion al inicio de la actividad.
 
-2. Calcule la misma diferencia al final de la generacion 4. Que cambio observo?
+2. Calcule la misma diferencia al final de la generacion 6. Que cambio observo?
 
 3. Compare esta actividad con la de deriva genetica: cual proceso tiende a aumentar diferencias entre poblaciones y cual tiende a reducirlas?
 
-4. Si en vez de 1 migrante por generacion hubiera 3, espera que las poblaciones converjan mas rapido o mas lento? Explique en una o dos oraciones.
+4. Si en vez de 1 migrante por generacion hubiera 3, que espera sobre el tiempo de convergencia entre los dos poblaciones? ¿Convergirian mas rapido o mas lento? Explique en una o dos oraciones.
 
 ## Resumen
 

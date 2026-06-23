@@ -145,11 +145,11 @@
 <section id="ser-capaces-de" class="slide level2 smaller">
 <h2>Ser capaces de</h2>
 <ul>
-<li class="fragment">Definir migracion como movimiento de alelos entre poblaciones.</li>
-<li class="fragment">Explicar como la migracion reduce diferencias geneticas entre poblaciones.</li>
-<li class="fragment">Diferenciar migracion de deriva genetica, seleccion y mutacion.</li>
-<li class="fragment">Predecir efectos de migracion en poblaciones aisladas.</li>
-<li class="fragment">Reconocer que la migracion tiende a homogenizar poblaciones.</li>
+<li>Definir migracion como movimiento de alelos entre poblaciones.</li>
+<li>Explicar como la migracion reduce diferencias geneticas entre poblaciones.</li>
+<li>Diferenciar migracion de deriva genetica, seleccion y mutacion.</li>
+<li>Predecir efectos de migracion en poblaciones aisladas.</li>
+<li>Reconocer que la migracion tiende a homogenizar poblaciones.</li>
 </ul>
 </section>
 <section id="pantera-de-florida-13" class="slide level2">
@@ -212,34 +212,49 @@
 <img data-src="08-assets/gene_flow_trajectories_m0p0500.png" class="r-stretch"></section>
 <section id="migracion-asimetrica" class="slide level2">
 <h2>Migracion asimetrica</h2>
-<ul>
-<li><span class="math inline">\(m_{1-&gt;2} = 0.05\)</span>, si <span class="math inline">\(N_{pop2} = 100\)</span> -&gt; 5 individuos cada generacion de Pop 1 a Pop 2</li>
-<li><span class="math inline">\(m_{2-&gt;1} = 0.005\)</span>, si <span class="math inline">\(N_{pop1} = 100\)</span> -&gt; 1 individuo cada 2 generaciones de Pop 2 a Pop 1</li>
-</ul>
+<!-- 
+* $m_{1->2} = 0.05$, si $N_{pop2} = 100$ -> 5 individuos cada generacion de Pop 1 a Pop 2
+* $m_{2->1} = 0.005$, si $N_{pop1} = 100$ -> 1 individuo cada 2 generaciones de Pop 2 a Pop 1 -->
 
 <img data-src="08-assets/gene_flow_trajectories_asymmetric_m12_m0p0500_m21_m0p0050.png" class="r-stretch"></section>
-<section id="calculo-del-efecto-de-migracion" class="slide level2">
+<section id="calculo-del-efecto-de-migracion" class="slide level2 smaller">
 <h2>Calculo del efecto de migracion</h2>
+<div class="columns">
+<div class="column">
+<div class="fragment">
 <ul>
-<li><p>Frecuencia de alelo en poblacion A despues de migracion: <span class="math display">\[p_{popA}' = (1 - m) p_{popA} + m p_{popB}\]</span></p></li>
-<li><p>Frecuencia de alelo en poblacion B despues de migracion: <span class="math display">\[p_{popB}' = (1 - m) p_{popB} + m p_{popA}\]</span></p></li>
+<li>Frecuencia de alelo en poblacion A despues de migracion: <span class="math display">\[p_{popA}' = (1 - m) p_{popA} + m p_{popB}\]</span></li>
 </ul>
+</div>
+</div><div class="column">
+<div class="fragment">
+<ul>
+<li>Frecuencia de alelo en poblacion B despues de migracion: <span class="math display">\[p_{popB}' = (1 - m) p_{popB} + m p_{popA}\]</span></li>
+</ul>
+</div>
+</div></div>
+<div class="fragment">
 <p>Donde:<br>
 - <span class="math inline">\(p_{popA}\)</span> y <span class="math inline">\(p_{popB}\)</span> son las frecuencias antes de migracion<br>
 - <span class="math inline">\(m\)</span> es la tasa de migracion (proporcion de individuos que migran cada generacion)<br>
 - <span class="math inline">\(p_{popA}'\)</span> y <span class="math inline">\(p_{popB}'\)</span> son las frecuencias despues de migracion</p>
+</div>
 </section>
 <section id="ejemplo-numerico" class="slide level2">
 <h2>Ejemplo numerico</h2>
 <p>Supongamos que <span class="math inline">\(p_{popA} = 0.9\)</span>, <span class="math inline">\(p_{popB} = 0.1\)</span> y <span class="math inline">\(m = 0.05\)</span> (5% de migracion):</p>
+<div class="fragment">
 <ul>
 <li>Para poblacion A: <span class="math display">\[p_{popA}' = (1 - 0.05) \cdot 0.9 + 0.05 \cdot 0.1 = 0.855\]</span></li>
 </ul>
 <p><strong>La frecuencia de A disminuyo ~5% en una generacion</strong></p>
+</div>
+<div class="fragment">
 <ul>
 <li>Para poblacion B: <span class="math display">\[p_{popB}' = (1 - 0.05) \cdot 0.1 + 0.05 \cdot 0.9 = 0.145\]</span></li>
 </ul>
-<p>*<strong>La frecuencia de A aumento ~5% en una generacion</strong></p>
+<p><strong>La frecuencia de A aumento ~5% en una generacion</strong></p>
+</div>
 </section>
 <section id="resumen" class="slide level2">
 <h2>Resumen</h2>
@@ -308,6 +323,9 @@
 </tr>
 </tbody>
 </table>
+<div class="fragment">
+<p>Normalmente, todas estas fuerzas actuan juntas en poblaciones naturales, y el resultado evolutivo depende de la interaccion entre ellas.</p>
+</div>
 </section>
 <section class="slide level2">
 

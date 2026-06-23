@@ -1985,21 +1985,21 @@
     "href": "lectures/08-migration.html#migracion-asimetrica",
     "title": "Migracion (flujo genico)",
     "section": "Migracion asimetrica",
-    "text": "Migracion asimetrica\n\n\\(m_{1-&gt;2} = 0.05\\), si \\(N_{pop2} = 100\\) -&gt; 5 individuos cada generacion de Pop 1 a Pop 2\n\\(m_{2-&gt;1} = 0.005\\), si \\(N_{pop1} = 100\\) -&gt; 1 individuo cada 2 generaciones de Pop 2 a Pop 1"
+    "text": "Migracion asimetrica"
   },
   {
     "objectID": "lectures/08-migration.html#calculo-del-efecto-de-migracion",
     "href": "lectures/08-migration.html#calculo-del-efecto-de-migracion",
     "title": "Migracion (flujo genico)",
     "section": "Calculo del efecto de migracion",
-    "text": "Calculo del efecto de migracion\n\nFrecuencia de alelo en poblacion A despues de migracion: \\[p_{popA}' = (1 - m) p_{popA} + m p_{popB}\\]\nFrecuencia de alelo en poblacion B despues de migracion: \\[p_{popB}' = (1 - m) p_{popB} + m p_{popA}\\]\n\nDonde:\n- \\(p_{popA}\\) y \\(p_{popB}\\) son las frecuencias antes de migracion\n- \\(m\\) es la tasa de migracion (proporcion de individuos que migran cada generacion)\n- \\(p_{popA}'\\) y \\(p_{popB}'\\) son las frecuencias despues de migracion"
+    "text": "Calculo del efecto de migracion\n\n\n\n\nFrecuencia de alelo en poblacion A despues de migracion: \\[p_{popA}' = (1 - m) p_{popA} + m p_{popB}\\]\n\n\n\n\n\nFrecuencia de alelo en poblacion B despues de migracion: \\[p_{popB}' = (1 - m) p_{popB} + m p_{popA}\\]\n\n\n\n\nDonde:\n- \\(p_{popA}\\) y \\(p_{popB}\\) son las frecuencias antes de migracion\n- \\(m\\) es la tasa de migracion (proporcion de individuos que migran cada generacion)\n- \\(p_{popA}'\\) y \\(p_{popB}'\\) son las frecuencias despues de migracion"
   },
   {
     "objectID": "lectures/08-migration.html#ejemplo-numerico",
     "href": "lectures/08-migration.html#ejemplo-numerico",
     "title": "Migracion (flujo genico)",
     "section": "Ejemplo numerico",
-    "text": "Ejemplo numerico\nSupongamos que \\(p_{popA} = 0.9\\), \\(p_{popB} = 0.1\\) y \\(m = 0.05\\) (5% de migracion):\n\nPara poblacion A: \\[p_{popA}' = (1 - 0.05) \\cdot 0.9 + 0.05 \\cdot 0.1 = 0.855\\]\n\nLa frecuencia de A disminuyo ~5% en una generacion\n\nPara poblacion B: \\[p_{popB}' = (1 - 0.05) \\cdot 0.1 + 0.05 \\cdot 0.9 = 0.145\\]\n\n*La frecuencia de A aumento ~5% en una generacion"
+    "text": "Ejemplo numerico\nSupongamos que \\(p_{popA} = 0.9\\), \\(p_{popB} = 0.1\\) y \\(m = 0.05\\) (5% de migracion):\n\n\nPara poblacion A: \\[p_{popA}' = (1 - 0.05) \\cdot 0.9 + 0.05 \\cdot 0.1 = 0.855\\]\n\nLa frecuencia de A disminuyo ~5% en una generacion\n\n\n\nPara poblacion B: \\[p_{popB}' = (1 - 0.05) \\cdot 0.1 + 0.05 \\cdot 0.9 = 0.145\\]\n\nLa frecuencia de A aumento ~5% en una generacion"
   },
   {
     "objectID": "lectures/08-migration.html#resumen",
@@ -2034,7 +2034,7 @@
     "href": "lectures/08-migration.html#las-cuatro-fuerzas-evolutivas",
     "title": "Migracion (flujo genico)",
     "section": "Las cuatro fuerzas evolutivas",
-    "text": "Las cuatro fuerzas evolutivas\n\n\n\nFuerza\nQue hace\n\n\n\n\nMutacion\nCrea nuevos alelos\n\n\nSeleccion\nFavorece algunos alelos\n\n\nDeriva\nCambios por azar\n\n\nMigracion\nMueve alelos entre poblaciones"
+    "text": "Las cuatro fuerzas evolutivas\n\n\n\nFuerza\nQue hace\n\n\n\n\nMutacion\nCrea nuevos alelos\n\n\nSeleccion\nFavorece algunos alelos\n\n\nDeriva\nCambios por azar\n\n\nMigracion\nMueve alelos entre poblaciones\n\n\n\n\nNormalmente, todas estas fuerzas actuan juntas en poblaciones naturales, y el resultado evolutivo depende de la interaccion entre ellas."
   },
   {
     "objectID": "worksheets/w03-methods.html",
@@ -2237,7 +2237,7 @@
     "href": "worksheets/w08-migration-drift.html#preguntas-de-analisis",
     "title": "Hoja de trabajo 08: Flujo genico (migracion)",
     "section": "Preguntas de analisis",
-    "text": "Preguntas de analisis\n\nCalcule la diferencia entre la mayor y la menor frecuencia roja al inicio de la actividad.\nCalcule la misma diferencia al final de la generacion 4. Que cambio observo?\nCompare esta actividad con la de deriva genetica: cual proceso tiende a aumentar diferencias entre poblaciones y cual tiende a reducirlas?\nSi en vez de 1 migrante por generacion hubiera 3, espera que las poblaciones converjan mas rapido o mas lento? Explique en una o dos oraciones."
+    "text": "Preguntas de analisis\n\nCalcule la diferencia entre la mayor y la menor frecuencia alelica en su poblacion al inicio de la actividad.\nCalcule la misma diferencia al final de la generacion 6. Que cambio observo?\nCompare esta actividad con la de deriva genetica: cual proceso tiende a aumentar diferencias entre poblaciones y cual tiende a reducirlas?\nSi en vez de 1 migrante por generacion hubiera 3, que espera sobre el tiempo de convergencia entre los dos poblaciones? ¿Convergirian mas rapido o mas lento? Explique en una o dos oraciones."
   },
   {
     "objectID": "worksheets/w08-migration-drift.html#resumen",

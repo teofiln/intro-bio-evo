@@ -19,15 +19,11 @@ Introducir:
 
 ## Ser capaces de {.smaller}
 
-::: {.incremental}
-
 - Definir migracion como movimiento de alelos entre poblaciones.
 - Explicar como la migracion reduce diferencias geneticas entre poblaciones.
 - Diferenciar migracion de deriva genetica, seleccion y mutacion.
 - Predecir efectos de migracion en poblaciones aisladas.
 - Reconocer que la migracion tiende a homogenizar poblaciones.
-
-:::
 
 
 ## Pantera de Florida (1/3)
@@ -127,38 +123,74 @@ Pregunta:
 ![](08-assets/gene_flow_trajectories_m0p0500.png)
 
 ## Migracion asimetrica
-
+<!-- 
 * $m_{1->2} = 0.05$, si $N_{pop2} = 100$ -> 5 individuos cada generacion de Pop 1 a Pop 2
-* $m_{2->1} = 0.005$, si $N_{pop1} = 100$ -> 1 individuo cada 2 generaciones de Pop 2 a Pop 1
+* $m_{2->1} = 0.005$, si $N_{pop1} = 100$ -> 1 individuo cada 2 generaciones de Pop 2 a Pop 1 -->
 
 ![](08-assets/gene_flow_trajectories_asymmetric_m12_m0p0500_m21_m0p0050.png)
 
-## Calculo del efecto de migracion
+## Calculo del efecto de migracion {.smaller}
+
+::: {.columns}
+
+::: {.column}
+
+::: {.fragment}
 
 - Frecuencia de alelo en poblacion A despues de migracion:
 $$p_{popA}' = (1 - m) p_{popA} + m p_{popB}$$
 
+:::
+
+:::
+
+::: {.column}
+
+
+::: {.fragment}
+
 - Frecuencia de alelo en poblacion B despues de migracion:
 $$p_{popB}' = (1 - m) p_{popB} + m p_{popA}$$  
+
+:::
+
+:::
+
+:::
+
+::: {.fragment}
 
 Donde:  
 - $p_{popA}$ y $p_{popB}$ son las frecuencias antes de migracion  
 - $m$ es la tasa de migracion (proporcion de individuos que migran cada generacion)  
 - $p_{popA}'$ y $p_{popB}'$ son las frecuencias despues de migracion  
 
+:::
+
 ## Ejemplo numerico
 
 Supongamos que $p_{popA} = 0.9$, $p_{popB} = 0.1$ y $m = 0.05$ (5% de migracion):
+
+
+::: {.fragment}
 
 - Para poblacion A:
 $$p_{popA}' = (1 - 0.05) \cdot 0.9 + 0.05 \cdot 0.1 = 0.855$$
 
 **La frecuencia de A disminuyo ~5% en una generacion**
 
+:::
+
+
+::: {.fragment}
+
 - Para poblacion B:
 $$p_{popB}' = (1 - 0.05) \cdot 0.1 + 0.05 \cdot 0.9 = 0.145$$
 
-***La frecuencia de A aumento ~5% en una generacion**
+**La frecuencia de A aumento ~5% en una generacion**
+
+:::
+
 
 ---
 
@@ -223,11 +255,17 @@ $$p_{popB}' = (1 - 0.05) \cdot 0.1 + 0.05 \cdot 0.9 = 0.145$$
 
 ## Las cuatro fuerzas evolutivas
 
-| Fuerza | Que hace |
-| --- | --- |
-| Mutacion | Crea nuevos alelos |
+| Fuerza    | Que hace |
+| --------- | -------- |
+| Mutacion  | Crea nuevos alelos |
 | Seleccion | Favorece algunos alelos |
-| Deriva | Cambios por azar |
+| Deriva    | Cambios por azar |
 | Migracion | Mueve alelos entre poblaciones |
+
+::: {.fragment}
+
+Normalmente, todas estas fuerzas actuan juntas en poblaciones naturales, y el resultado evolutivo depende de la interaccion entre ellas.
+
+:::
 
 ---
