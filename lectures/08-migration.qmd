@@ -253,18 +253,18 @@ $$p_{popB}' = (1 - 0.05) \cdot 0.1 + 0.05 \cdot 0.9 = 0.145$$
 
 ---
 
-## Las cuatro fuerzas evolutivas
+## Las fuerzas evolutivas {.smaller}
 
-| Fuerza    | Que hace |
-| --------- | -------- |
-| Mutacion  | Crea nuevos alelos |
-| Seleccion | Favorece algunos alelos |
-| Deriva    | Cambios por azar |
-| Migracion | Mueve alelos entre poblaciones |
+| Fuerza    | Que hace | Efecto para diversidad |
+| --------- | -------- | -------- |
+| Mutacion  | Crea nuevos alelos | Aumenta diversidad |
+| Seleccion | Favorece algunos alelos | Puede aumentar o disminuir diversidad |
+| Deriva    | Cambios por azar | Disminuye diversidad en poblaciones pequenas |
+| Migracion | Mueve alelos entre poblaciones | Tiende a homogenizar poblaciones |
 
 ::: {.fragment}
 
-Normalmente, todas estas fuerzas actuan juntas en poblaciones naturales, y el resultado evolutivo depende de la interaccion entre ellas.
+> Normalmente, todas estas fuerzas actuan juntas en poblaciones naturales, y el resultado evolutivo depende de la interaccion entre ellas.
 
 :::
 

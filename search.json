@@ -2245,5 +2245,243 @@
     "title": "Hoja de trabajo 08: Flujo genico (migracion)",
     "section": "Resumen",
     "text": "Resumen\n\nEl flujo genico introduce alelos entre poblaciones.\nLa migracion puede cambiar las frecuencias alelicas en pocas generaciones.\nCon flujo genico, las poblaciones tienden a parecerse mas entre si.\nEn la naturaleza, deriva y migracion actuan al mismo tiempo."
+  },
+  {
+    "objectID": "lectures/09-speciation.html#ser-capaces-de",
+    "href": "lectures/09-speciation.html#ser-capaces-de",
+    "title": "Especiacion",
+    "section": "Ser capaces de",
+    "text": "Ser capaces de\n\nDefinir linaje y especie.\nExplicar como divergen los linajes y como se relaciona con especiacion.\nExplicar el papel de la geografia, ecologia, fenologia, hibridacion y otros factores en especiacion.\nEntender la importancia de la evolucion para las unidades de conservacion."
+  },
+  {
+    "objectID": "lectures/09-speciation.html#las-cuatro-fuerzas-evolutivas",
+    "href": "lectures/09-speciation.html#las-cuatro-fuerzas-evolutivas",
+    "title": "Especiacion",
+    "section": "Las cuatro fuerzas evolutivas",
+    "text": "Las cuatro fuerzas evolutivas\n\n\n\nFuerza\nQue hace\n\n\n\n\nMutacion\nCrea nuevos alelos\n\n\nSeleccion\nFavorece algunos alelos\n\n\nDeriva\nCambios por azar\n\n\nMigracion\nMueve alelos entre poblaciones\n\n\n\n\nNormalmente, todas estas fuerzas actuan juntas en poblaciones naturales, y el resultado evolutivo depende de la interaccion entre ellas."
+  },
+  {
+    "objectID": "lectures/09-speciation.html#scaling-up",
+    "href": "lectures/09-speciation.html#scaling-up",
+    "title": "Especiacion",
+    "section": "Scaling up",
+    "text": "Scaling up\n\nLinaje es un grupo de\n\nindividuos\npoblaciones\nespecies\n\nque comparten un ancestro comun y evolucionan independientemente de otros grupos."
+  },
+  {
+    "objectID": "lectures/08-migration.html#las-fuerzas-evolutivas",
+    "href": "lectures/08-migration.html#las-fuerzas-evolutivas",
+    "title": "Migracion (flujo genico)",
+    "section": "Las fuerzas evolutivas",
+    "text": "Las fuerzas evolutivas\n\n\n\n\n\n\n\n\nFuerza\nQue hace\nEfecto neto para diversidad\n\n\n\n\nMutacion\nCrea nuevos alelos\nAumenta diversidad\n\n\nSeleccion\nFavorece algunos alelos\nPuede aumentar o disminuir diversidad\n\n\nDeriva\nCambios por azar\nDisminuye diversidad en poblaciones pequenas\n\n\nMigracion\nMueve alelos entre poblaciones\nTiende a homogenizar poblaciones\n\n\n\n\n\nNormalmente, todas estas fuerzas actuan juntas en poblaciones naturales, y el resultado evolutivo depende de la interaccion entre ellas."
+  },
+  {
+    "objectID": "lectures/09-speciation.html#las-fuerzas-evolutivas",
+    "href": "lectures/09-speciation.html#las-fuerzas-evolutivas",
+    "title": "Especiacion",
+    "section": "Las fuerzas evolutivas",
+    "text": "Las fuerzas evolutivas\n\n\n\n\n\n\n\n\nFuerza\nQue hace\nEfecto para diversidad\n\n\n\n\nMutacion\nCrea nuevos alelos\nAumenta diversidad\n\n\nSeleccion\nFavorece algunos alelos\nPuede aumentar o disminuir diversidad\n\n\nDeriva\nCambios por azar\nDisminuye diversidad en poblaciones pequenas\n\n\nMigracion\nMueve alelos entre poblaciones\nTiende a homogenizar poblaciones\n\n\n\n\n\nNormalmente, todas estas fuerzas actuan juntas en poblaciones naturales, y el resultado evolutivo depende de la interaccion entre ellas."
+  },
+  {
+    "objectID": "lectures/09-speciation.html#metas",
+    "href": "lectures/09-speciation.html#metas",
+    "title": "Especiacion",
+    "section": "Metas",
+    "text": "Metas\n\nIntoducir lineages, su divergencia y como se relaciona con especiacion.\nIntroducir el concepto de especie y especiacion.\nDiscutir el papel de la geografia, ecologia, fenologia, hibridacion y otros factores.\nIntroducir unidades de conservacion"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#fractal-de-linajes",
+    "href": "lectures/09-speciation.html#fractal-de-linajes",
+    "title": "Especiacion",
+    "section": "Fractal de linajes",
+    "text": "Fractal de linajes\n\n\n\n\n\nFractal:\n\nUn linaje puede contener muchos linajes más pequeños.\nUn linaje puede ser parte de un linaje más grande.\n\nonezoom.org"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#de-individuos-a-poblaciones-a-linajes",
+    "href": "lectures/09-speciation.html#de-individuos-a-poblaciones-a-linajes",
+    "title": "Especiacion",
+    "section": "De individuos a poblaciones a linajes",
+    "text": "De individuos a poblaciones a linajes"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#biological-species-concept",
+    "href": "lectures/09-speciation.html#biological-species-concept",
+    "title": "Especiacion",
+    "section": "Biological Species Concept",
+    "text": "Biological Species Concept\n\nEspecies = grupos de poblaciones naturales, que están reproductivamente aisladas de otros grupos, y que se cruzan entre si (o pueden cruzar potencialmente) y producen descendencia viable y fértil.\n\nComponentes: - Aislamiento reproductivo - Flujo genético - Cruzamiento - Viabilidad y fertilidad de la descendencia\n\nFortalezas\n\nSe centra en procesos evolutivos.\nSe puede aplicar a poblaciones vivas.\nSe puede probar experimentalmente.\n\nLimitaciones:\n\nFósiles\nOrganismos asexuales\nHibridización"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#concepto-de-especie-morfológica",
+    "href": "lectures/09-speciation.html#concepto-de-especie-morfológica",
+    "title": "Especiacion",
+    "section": "Concepto de especie morfológica",
+    "text": "Concepto de especie morfológica\n\nEspecies = grupo de organismos clasificados como una especie distinta basándose únicamente en sus características estructurales, anatómicas y físicas compartidas.\n\n\nComponentes:\n\nRasgos físicos\n\nCoincidencia visual\n\nIgnora la reproducción"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#concepto-de-especie-filogenética",
+    "href": "lectures/09-speciation.html#concepto-de-especie-filogenética",
+    "title": "Especiacion",
+    "section": "Concepto de especie filogenética",
+    "text": "Concepto de especie filogenética\n\nEspecies = el grupo más pequeño de organismos que comparten un ancestro común y que pueden distinguirse de otros grupos similares por rasgos genéticos o físicos únicos heredados.\n\n\nComponentes:\n\nAncestro común\n\nDatos genéticos\n\nMonofilia"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#evolutionary-lineage-concept",
+    "href": "lectures/09-speciation.html#evolutionary-lineage-concept",
+    "title": "Especiacion",
+    "section": "Evolutionary / Lineage Concept",
+    "text": "Evolutionary / Lineage Concept\n\nEspecies = Linaje de metapoblaciones que evolucionan independientemente.\n\nComponentes: - Continuidad de linaje - Estructura de metapoblaciones - Umbrales de evidencia\n\nFortalezas\n\nUnifica taxonomía\nFlexible\nRealista ecológicamente\n\n\nLimitaciones: - Diagnóstico retrasado - Integración de datos - Ambigüedad operacional"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#definiciones-diferentes-de-especie-contestan-diferentes-preguntas-biologicas",
+    "href": "lectures/09-speciation.html#definiciones-diferentes-de-especie-contestan-diferentes-preguntas-biologicas",
+    "title": "Especiacion",
+    "section": "Definiciones diferentes de especie contestan diferentes preguntas biologicas",
+    "text": "Definiciones diferentes de especie contestan diferentes preguntas biologicas\n\nBiologico =&gt; Aislamiento reproductivo\nMorfologico =&gt; Razgos diagnósticos compartidos\nFilogenetico =&gt; Ancestro común y rasgos únicos\nEvolutivo =&gt; Independencia evolutiva"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#concepto-de-especie-biologica",
+    "href": "lectures/09-speciation.html#concepto-de-especie-biologica",
+    "title": "Especiacion",
+    "section": "Concepto de especie biologica",
+    "text": "Concepto de especie biologica\n\nEspecies = grupos de poblaciones naturales, que están reproductivamente aisladas de otros grupos, y que se cruzan entre si (o pueden cruzar potencialmente) y producen descendencia viable y fértil.\n\n\nComponentes:\n\nAislamiento reproductivo\n\nFlujo genético\n\nCruzamiento\n\nViabilidad y fertilidad de la descendencia"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#concepto-de-especie-biologica-1",
+    "href": "lectures/09-speciation.html#concepto-de-especie-biologica-1",
+    "title": "Especiacion",
+    "section": "Concepto de especie biologica",
+    "text": "Concepto de especie biologica\n\nFortalezas\n\nSe centra en procesos evolutivos.\nSe puede aplicar a poblaciones vivas.\nSe puede probar experimentalmente.\n\nLimitaciones:\n\nFósiles\nOrganismos asexuales\nHibridización"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#concepto-de-especie-morfológica-1",
+    "href": "lectures/09-speciation.html#concepto-de-especie-morfológica-1",
+    "title": "Especiacion",
+    "section": "Concepto de especie morfológica",
+    "text": "Concepto de especie morfológica\n\nFortalezas\n\nÚtil para fósiles, organismos asexuales y en el campo.\nAplicable a organismos vivos y extintos.\nPractico y rápido.\n\nLimitaciones\n\nSubjetivo\nPuede confundir diferentes etapas de vida.\nNo distingue especies crípticas"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#concepto-de-especie-filogenética-1",
+    "href": "lectures/09-speciation.html#concepto-de-especie-filogenética-1",
+    "title": "Especiacion",
+    "section": "Concepto de especie filogenética",
+    "text": "Concepto de especie filogenética\n\nFortalezas\n\nAlta precisión\nContexto evolutivo\nAmpliamente aplicable\n\nLimitaciones\n\nDatos incompletos\nHuecos en el registro fósil\nSobre-especiación"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#concepto-de-especie-evolutiva",
+    "href": "lectures/09-speciation.html#concepto-de-especie-evolutiva",
+    "title": "Especiacion",
+    "section": "Concepto de especie evolutiva",
+    "text": "Concepto de especie evolutiva\n\nEspecies = Linaje de metapoblaciones que evolucionan independientemente.\n\n\nComponentes:\n\nContinuidad de linaje\n\nEstructura de metapoblaciones\n\nUmbrales de evidencia"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#concepto-de-especie-evolutiva-1",
+    "href": "lectures/09-speciation.html#concepto-de-especie-evolutiva-1",
+    "title": "Especiacion",
+    "section": "Concepto de especie evolutiva",
+    "text": "Concepto de especie evolutiva\n\nFortalezas\n\nUnifica taxonomía\nFlexible\nRealista ecológicamente\n\nLimitaciones:\n\nDiagnóstico retrasado\n\nIntegración de datos\n\nAmbigüedad operacional"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#definiciones-diferentes-contestan-diferentes-preguntas-biologicas",
+    "href": "lectures/09-speciation.html#definiciones-diferentes-contestan-diferentes-preguntas-biologicas",
+    "title": "Especiacion",
+    "section": "Definiciones diferentes contestan diferentes preguntas biologicas",
+    "text": "Definiciones diferentes contestan diferentes preguntas biologicas\n\n\n\nBiologico =&gt; Aislamiento reproductivo\nMorfologico =&gt; Razgos diagnósticos compartidos\nFilogenetico =&gt; Ancestro común y rasgos únicos\nEvolutivo =&gt; Independencia evolutiva"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#son-especies-distintas",
+    "href": "lectures/09-speciation.html#son-especies-distintas",
+    "title": "Especiacion",
+    "section": "Son especies distintas?",
+    "text": "Son especies distintas?"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#son-especies-distintas-1",
+    "href": "lectures/09-speciation.html#son-especies-distintas-1",
+    "title": "Especiacion",
+    "section": "Son especies distintas?",
+    "text": "Son especies distintas?"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#son-especies-distintas-2",
+    "href": "lectures/09-speciation.html#son-especies-distintas-2",
+    "title": "Especiacion",
+    "section": "Son especies distintas?",
+    "text": "Son especies distintas?"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#cuál-es-el-resultado-de-la-acción-acumulada-de-estas-fuerzas",
+    "href": "lectures/09-speciation.html#cuál-es-el-resultado-de-la-acción-acumulada-de-estas-fuerzas",
+    "title": "Especiacion",
+    "section": "¿Cuál es el resultado de la acción acumulada de estas fuerzas?",
+    "text": "¿Cuál es el resultado de la acción acumulada de estas fuerzas?\n\nLinaje es un grupo de\n\nindividuos\npoblaciones\nespecies\n\nque comparten un ancestro comun y evolucionan independientemente de otros grupos."
+  },
+  {
+    "objectID": "lectures/09-speciation.html#deriva-genetica-con-migracion",
+    "href": "lectures/09-speciation.html#deriva-genetica-con-migracion",
+    "title": "Especiacion",
+    "section": "Deriva genetica con migracion",
+    "text": "Deriva genetica con migracion"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#deriva-genitica-con-barrera-de-migracion",
+    "href": "lectures/09-speciation.html#deriva-genitica-con-barrera-de-migracion",
+    "title": "Especiacion",
+    "section": "Deriva genitica con barrera de migracion",
+    "text": "Deriva genitica con barrera de migracion"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#deriva-genitica-con-barrera-de-migracion-1",
+    "href": "lectures/09-speciation.html#deriva-genitica-con-barrera-de-migracion-1",
+    "title": "Especiacion",
+    "section": "Deriva genitica con barrera de migracion",
+    "text": "Deriva genitica con barrera de migracion"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#title",
+    "href": "lectures/09-speciation.html#title",
+    "title": "Especiacion",
+    "section": "title",
+    "text": "title\nCuales son los procesos que causan que linajes evolucionen independientemente ?\nAislamiento reproductivo puede evolucionar por factores: * geograficos * ecologicos * temporales"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#qué-puede-reducir-el-flujo-génico",
+    "href": "lectures/09-speciation.html#qué-puede-reducir-el-flujo-génico",
+    "title": "Especiacion",
+    "section": "¿Qué puede reducir el flujo génico?",
+    "text": "¿Qué puede reducir el flujo génico?\nLa evolución independiente y el aislamiento reproductivo aparecen cuando disminuye el intercambio de genes entre poblaciones.\nPuede comenzar por diferencias:\n- geográficas\n- ecológicas\n- temporales\n- conductuales - …"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#geografía-y-especiación",
+    "href": "lectures/09-speciation.html#geografía-y-especiación",
+    "title": "Especiacion",
+    "section": "Geografía y especiación",
+    "text": "Geografía y especiación\n\n\n\nBarrera\nMigración limitada\nDeriva, selección y mutación independientes\nDivergencia genética\nAislamiento reproductivo\n\n\n\nislas\ncordilleras\nglaciaciones\nríos"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#barrera-geográfica-ejemplo-1",
+    "href": "lectures/09-speciation.html#barrera-geográfica-ejemplo-1",
+    "title": "Especiacion",
+    "section": "Barrera geográfica ejemplo 1",
+    "text": "Barrera geográfica ejemplo 1\n\n\n\n\n\nIstmo de Panamá\n3 millones de años\n15 pares de especies hermanas\nDivergencia genética y morfológica"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#barrera-geográfica-ejemplo-2",
+    "href": "lectures/09-speciation.html#barrera-geográfica-ejemplo-2",
+    "title": "Especiacion",
+    "section": "Barrera geográfica ejemplo 2",
+    "text": "Barrera geográfica ejemplo 2\n\n\n\nGrand Canyon, Arizona\n5 millones de años\n2 especies hermanas (Abert’s y Kaibab Squirrel)\nDivergencia genética y morfológica"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#ecologia-y-especiacion",
+    "href": "lectures/09-speciation.html#ecologia-y-especiacion",
+    "title": "Especiacion",
+    "section": "Ecologia y especiacion",
+    "text": "Ecologia y especiacion\n\nEspecialización de nicho"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#fenologia-y-especiacion",
+    "href": "lectures/09-speciation.html#fenologia-y-especiacion",
+    "title": "Especiacion",
+    "section": "Fenologia y especiacion",
+    "text": "Fenologia y especiacion"
   }
 ]

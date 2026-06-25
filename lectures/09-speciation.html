@@ -9,7 +9,7 @@
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.7.33">
 
-  <title>Evolucion Intro Bio – Migracion (flujo genico)</title>
+  <title>Evolucion Intro Bio – Especiacion</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -126,174 +126,35 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Migracion (flujo genico)</h1>
+  <h1 class="title">Especiacion</h1>
   <p class="subtitle">Intro Bio I (B0160) - Modulo de Evolucion</p>
 
 <div class="quarto-title-authors">
 </div>
 
 </section>
-<section id="metas" class="slide level2">
+<section id="metas" class="slide level2" data-background-color="#E8F5E9">
 <h2>Metas</h2>
-<p>Introducir:</p>
-<ol type="1">
-<li>Que es la migracion (flujo genico) y como actua como fuerza evolutiva.</li>
-<li>Como la migracion cambia frecuencias alelicas entre poblaciones.</li>
-<li>La diferencia entre migracion y otras fuerzas evolutivas.</li>
-</ol>
+<ul>
+<li>Intoducir lineages, su divergencia y como se relaciona con especiacion.</li>
+<li>Introducir el concepto de especie y especiacion.</li>
+<li>Discutir el papel de la geografia, ecologia, fenologia, hibridacion y otros factores.</li>
+<li>Introducir unidades de conservacion</li>
+</ul>
 </section>
 <section id="ser-capaces-de" class="slide level2 smaller">
 <h2>Ser capaces de</h2>
 <ul>
-<li>Definir migracion como movimiento de alelos entre poblaciones.</li>
-<li>Explicar como la migracion reduce diferencias geneticas entre poblaciones.</li>
-<li>Diferenciar migracion de deriva genetica, seleccion y mutacion.</li>
-<li>Predecir efectos de migracion en poblaciones aisladas.</li>
-<li>Reconocer que la migracion tiende a homogenizar poblaciones.</li>
+<li>Definir linaje y especie.</li>
+<li>Explicar como divergen los linajes y como se relaciona con especiacion.</li>
+<li>Explicar el papel de la geografia, ecologia, fenologia, hibridacion y otros factores en especiacion.</li>
+<li>Entender la importancia de la evolucion para las unidades de conservacion.</li>
 </ul>
 </section>
-<section id="pantera-de-florida-13" class="slide level2">
-<h2>Pantera de Florida (1/3)</h2>
-<div class="columns">
-<div class="column">
-<p><img data-src="08-assets/panther-range-map.webp"></p>
-</div><div class="column">
-<p><strong>Caracteristicas:</strong><br>
-- Poblacion altamente aislada en el sur de Florida<br>
-- Pequeno tamaño poblacional (~30 individuos a los 1970s)<br>
-- Alto nivel de consanguinidad y defectos geneticos</p>
-</div></div>
-</section>
-<section id="pantera-de-florida-23" class="slide level2">
-<h2>Pantera de Florida (2/3)</h2>
-<div class="columns">
-<div class="column">
-<p><strong>Migracion como solucion:</strong><br>
-- Introduccion deliberada de panteras de Texas (poblacion geneticamente distinta)<br>
-- Resultado: aumento de variacion genetica y reduccion de enfermedades geneticas<br>
-- Mayor viabilidad poblacional</p>
-</div><div class="column">
-<p><img data-src="08-assets/panthers-rescue.webp"></p>
-</div></div>
-</section>
-<section id="pantera-de-florida-33" class="slide level2">
-<h2>Pantera de Florida (3/3)</h2>
-<div class="columns">
-<div class="column">
-<p><strong>Importancia evolutiva:</strong><br>
-- Demuestra como la deriva reduce diversidad en poblaciones pequenas<br>
-- Ilustra el papel positivo de la migracion en recuperacion de especies en peligro<br>
-- Ejemplo de manejo evolutivo basado en principios poblacionales</p>
-</div><div class="column">
-<p><img data-src="08-assets/florida-panther.jpg"></p>
-</div></div>
-</section>
-<section id="visualizacion-de-migracion" class="slide level2">
-<h2>Visualizacion de migracion</h2>
-<p>Dos poblaciones con diferentes frecuencias:</p>
-<p><strong>Poblacion A</strong>: 90% A, 10% a<br>
-<strong>Poblacion B</strong>: 10% A, 90% a</p>
-<p>Pregunta:</p>
-<blockquote>
-<p>¿Que ocurre si cada generacion algunos individuos se mueven entre poblaciones y se reproducen en ellas?</p>
-</blockquote>
-</section>
-<section id="sin-migracion" class="slide level2">
-<h2>Sin migracion</h2>
+<section>
+<section id="linajes" class="title-slide slide level1 center" data-background-color="#E8F5E9">
+<h1>Linajes</h1>
 
-<img data-src="08-assets/gene_flow_trajectories_m0p0000.png" class="r-stretch"></section>
-<section id="poca-migracion-1-individuo-por-generacion" class="slide level2">
-<h2>Poca migracion (1 individuo por generacion)</h2>
-
-<img data-src="08-assets/gene_flow_trajectories_m0p0100.png" class="r-stretch"></section>
-<section id="mucha-migracion-5-individuos-por-generacion" class="slide level2">
-<h2>Mucha migracion (5 individuos por generacion)</h2>
-
-<img data-src="08-assets/gene_flow_trajectories_m0p0500.png" class="r-stretch"></section>
-<section id="migracion-asimetrica" class="slide level2">
-<h2>Migracion asimetrica</h2>
-<!-- 
-* $m_{1->2} = 0.05$, si $N_{pop2} = 100$ -> 5 individuos cada generacion de Pop 1 a Pop 2
-* $m_{2->1} = 0.005$, si $N_{pop1} = 100$ -> 1 individuo cada 2 generaciones de Pop 2 a Pop 1 -->
-
-<img data-src="08-assets/gene_flow_trajectories_asymmetric_m12_m0p0500_m21_m0p0050.png" class="r-stretch"></section>
-<section id="calculo-del-efecto-de-migracion" class="slide level2 smaller">
-<h2>Calculo del efecto de migracion</h2>
-<div class="columns">
-<div class="column">
-<div class="fragment">
-<ul>
-<li>Frecuencia de alelo en poblacion A despues de migracion: <span class="math display">\[p_{popA}' = (1 - m) p_{popA} + m p_{popB}\]</span></li>
-</ul>
-</div>
-</div><div class="column">
-<div class="fragment">
-<ul>
-<li>Frecuencia de alelo en poblacion B despues de migracion: <span class="math display">\[p_{popB}' = (1 - m) p_{popB} + m p_{popA}\]</span></li>
-</ul>
-</div>
-</div></div>
-<div class="fragment">
-<p>Donde:<br>
-- <span class="math inline">\(p_{popA}\)</span> y <span class="math inline">\(p_{popB}\)</span> son las frecuencias antes de migracion<br>
-- <span class="math inline">\(m\)</span> es la tasa de migracion (proporcion de individuos que migran cada generacion)<br>
-- <span class="math inline">\(p_{popA}'\)</span> y <span class="math inline">\(p_{popB}'\)</span> son las frecuencias despues de migracion</p>
-</div>
-</section>
-<section id="ejemplo-numerico" class="slide level2">
-<h2>Ejemplo numerico</h2>
-<p>Supongamos que <span class="math inline">\(p_{popA} = 0.9\)</span>, <span class="math inline">\(p_{popB} = 0.1\)</span> y <span class="math inline">\(m = 0.05\)</span> (5% de migracion):</p>
-<div class="fragment">
-<ul>
-<li>Para poblacion A: <span class="math display">\[p_{popA}' = (1 - 0.05) \cdot 0.9 + 0.05 \cdot 0.1 = 0.855\]</span></li>
-</ul>
-<p><strong>La frecuencia de A disminuyo ~5% en una generacion</strong></p>
-</div>
-<div class="fragment">
-<ul>
-<li>Para poblacion B: <span class="math display">\[p_{popB}' = (1 - 0.05) \cdot 0.1 + 0.05 \cdot 0.9 = 0.145\]</span></li>
-</ul>
-<p><strong>La frecuencia de A aumento ~5% en una generacion</strong></p>
-</div>
-</section>
-<section id="resumen" class="slide level2">
-<h2>Resumen</h2>
-<blockquote>
-<p>Definicion: Migracion o flujo genico es el movimiento de alelos entre poblaciones.</p>
-</blockquote>
-<ul>
-<li class="fragment">Sin migracion -&gt; poblaciones divergentes, diferencias mantenidas o aumentadas</li>
-<li class="fragment">Con migracion -&gt; poblaciones convergen, diferencias disminuyen</li>
-<li class="fragment">El flujo genico homogeniza las poblaciones</li>
-</ul>
-</section>
-<section id="migracion-vs-deriva" class="slide level2">
-<h2>Migracion vs Deriva</h2>
-<p><strong>Deriva genetica</strong>:<br>
-- Aumenta diferencias entre poblaciones aisladas<br>
-- Efecto mas fuerte en poblaciones pequenas</p>
-<p><strong>Migracion</strong>:<br>
-- Reduce diferencias entre poblaciones<br>
-- Introduce variacion de otras poblaciones</p>
-</section>
-<section id="migracion-vs-seleccion" class="slide level2">
-<h2>Migracion vs Seleccion</h2>
-<p><strong>Seleccion</strong>:<br>
-- Favorece alelos adaptativos<br>
-- Puede aumentar diferencias entre poblaciones con ambientes distintos</p>
-<p><strong>Migracion</strong>:<br>
-- Mueve alelos entre poblaciones<br>
-- Puede introducir alelos no adaptativos o eliminar alelos adaptativos<br>
-- Tiende a homogenizar poblaciones</p>
-</section>
-<section id="migracion-vs-mutacion" class="slide level2">
-<h2>Migracion vs Mutacion</h2>
-<p><strong>Mutacion</strong>:<br>
-- Crea nuevos alelos<br>
-- Efecto muy lento en poblaciones grandes</p>
-<p><strong>Migracion</strong>:<br>
-- Mueve alelos existentes entre poblaciones<br>
-- Puede tener un efecto rapido en poblaciones pequenas</p>
 </section>
 <section id="las-fuerzas-evolutivas" class="slide level2 smaller">
 <h2>Las fuerzas evolutivas</h2>
@@ -307,7 +168,7 @@
 <tr class="header">
 <th>Fuerza</th>
 <th>Que hace</th>
-<th>Efecto neto para diversidad</th>
+<th>Efecto para diversidad</th>
 </tr>
 </thead>
 <tbody>
@@ -339,8 +200,345 @@
 </blockquote>
 </div>
 </section>
-<section class="slide level2">
+<section id="cuál-es-el-resultado-de-la-acción-acumulada-de-estas-fuerzas" class="slide level2">
+<h2>¿Cuál es el resultado de la acción acumulada de estas fuerzas?</h2>
+<blockquote>
+<p><strong>Linaje</strong> es un grupo de</p>
+<ul>
+<li>individuos</li>
+<li>poblaciones</li>
+<li>especies</li>
+</ul>
+<p>que comparten un <strong>ancestro comun</strong> y evolucionan <strong>independientemente</strong> de otros grupos.</p>
+</blockquote>
+</section>
+<section id="fractal-de-linajes" class="slide level2">
+<h2>Fractal de linajes</h2>
+<div class="columns">
+<div class="column">
+<p><img data-src="09-assets/fractal-fern.jpg"></p>
+</div><div class="column">
+<ul>
+<li>Fractal:
+<ul>
+<li>Un linaje puede contener muchos linajes más pequeños.</li>
+<li>Un linaje puede ser parte de un linaje más grande.</li>
+</ul></li>
+<li><strong>onezoom.org</strong></li>
+</ul>
+</div></div>
+</section>
+<section id="de-individuos-a-poblaciones-a-linajes" class="slide level2">
+<h2>De individuos a poblaciones a linajes</h2>
 
+<img data-src="09-assets/lineage-levels-3.png" style="width:100.0%" class="r-stretch"></section></section>
+<section>
+<section id="especies" class="title-slide slide level1 center" data-background-color="#E8F5E9">
+<h1>Especies</h1>
+<blockquote>
+<p><strong>Todos tenemos una idea intuitiva de lo que es una especie, pero definirlo formalmente es complicado.</strong></p>
+</blockquote>
+</section>
+<section id="son-especies-distintas" class="slide level2">
+<h2>Son especies distintas?</h2>
+
+<img data-src="09-assets/lions-tigers-ligers-tigons.webp" class="r-stretch"></section>
+<section id="son-especies-distintas-1" class="slide level2">
+<h2>Son especies distintas?</h2>
+
+<img data-src="09-assets/cryptic-butterflies-guanacaste.webp" class="r-stretch"></section>
+<section id="son-especies-distintas-2" class="slide level2">
+<h2>Son especies distintas?</h2>
+<div class="columns">
+<div class="column">
+<p><img data-src="09-assets/cryptic-butterflies-guanacaste.webp"></p>
+</div><div class="column">
+<p><img data-src="09-assets/butterflies-guanacaste-tree.png" style="width:50.0%"></p>
+</div></div>
+</section>
+<section id="concepto-de-especie-biologica" class="slide level2">
+<h2>Concepto de especie biologica</h2>
+<blockquote>
+<p>Especies = grupos de poblaciones naturales, que están reproductivamente aisladas de otros grupos, y que se cruzan entre si (o pueden cruzar potencialmente) y producen descendencia viable y fértil.</p>
+</blockquote>
+<ul>
+<li>Componentes:
+<ul>
+<li>Aislamiento reproductivo<br>
+</li>
+<li>Flujo genético<br>
+</li>
+<li>Cruzamiento<br>
+</li>
+<li>Viabilidad y fertilidad de la descendencia</li>
+</ul></li>
+</ul>
+</section>
+<section id="concepto-de-especie-biologica-1" class="slide level2">
+<h2>Concepto de especie biologica</h2>
+<ul>
+<li>Fortalezas
+<ul>
+<li>Se centra en procesos evolutivos.</li>
+<li>Se puede aplicar a poblaciones vivas.</li>
+<li>Se puede probar experimentalmente.</li>
+</ul></li>
+<li>Limitaciones:
+<ul>
+<li>Fósiles</li>
+<li>Organismos asexuales</li>
+<li>Hibridización</li>
+</ul></li>
+</ul>
+</section>
+<section id="concepto-de-especie-morfológica" class="slide level2">
+<h2>Concepto de especie morfológica</h2>
+<blockquote>
+<p>Especies = grupo de organismos clasificados como una especie distinta basándose únicamente en sus características estructurales, anatómicas y físicas compartidas.</p>
+</blockquote>
+<ul>
+<li>Componentes:
+<ul>
+<li>Rasgos físicos<br>
+</li>
+<li>Coincidencia visual<br>
+</li>
+<li>Ignora la reproducción</li>
+</ul></li>
+</ul>
+</section>
+<section id="concepto-de-especie-morfológica-1" class="slide level2">
+<h2>Concepto de especie morfológica</h2>
+<ul>
+<li>Fortalezas
+<ul>
+<li>Útil para fósiles, organismos asexuales y en el campo.</li>
+<li>Aplicable a organismos vivos y extintos.</li>
+<li>Practico y rápido.</li>
+</ul></li>
+<li>Limitaciones
+<ul>
+<li>Subjetivo</li>
+<li>Puede confundir diferentes etapas de vida.</li>
+<li>No distingue especies crípticas</li>
+</ul></li>
+</ul>
+</section>
+<section id="concepto-de-especie-filogenética" class="slide level2">
+<h2>Concepto de especie filogenética</h2>
+<blockquote>
+<p>Especies = el grupo más pequeño de organismos que comparten un ancestro común y que pueden distinguirse de otros grupos similares por rasgos genéticos o físicos únicos heredados.</p>
+</blockquote>
+<ul>
+<li>Componentes:
+<ul>
+<li>Ancestro común<br>
+</li>
+<li>Datos genéticos<br>
+</li>
+<li>Monofilia</li>
+</ul></li>
+</ul>
+</section>
+<section id="concepto-de-especie-filogenética-1" class="slide level2">
+<h2>Concepto de especie filogenética</h2>
+<ul>
+<li>Fortalezas
+<ul>
+<li>Alta precisión</li>
+<li>Contexto evolutivo</li>
+<li>Ampliamente aplicable</li>
+</ul></li>
+<li>Limitaciones
+<ul>
+<li>Datos incompletos</li>
+<li>Huecos en el registro fósil</li>
+<li>Sobre-especiación</li>
+</ul></li>
+</ul>
+</section>
+<section id="concepto-de-especie-evolutiva" class="slide level2">
+<h2>Concepto de especie evolutiva</h2>
+<blockquote>
+<p>Especies = Linaje de metapoblaciones que evolucionan independientemente.</p>
+</blockquote>
+<ul>
+<li>Componentes:
+<ul>
+<li>Continuidad de linaje<br>
+</li>
+<li>Estructura de metapoblaciones<br>
+</li>
+<li>Umbrales de evidencia</li>
+</ul></li>
+</ul>
+</section>
+<section id="concepto-de-especie-evolutiva-1" class="slide level2">
+<h2>Concepto de especie evolutiva</h2>
+<ul>
+<li>Fortalezas
+<ul>
+<li>Unifica taxonomía</li>
+<li>Flexible</li>
+<li>Realista ecológicamente</li>
+</ul></li>
+<li>Limitaciones:
+<ul>
+<li>Diagnóstico retrasado<br>
+</li>
+<li>Integración de datos<br>
+</li>
+<li>Ambigüedad operacional</li>
+</ul></li>
+</ul>
+</section>
+<section id="definiciones-diferentes-contestan-diferentes-preguntas-biologicas" class="slide level2">
+<h2>Definiciones diferentes contestan diferentes preguntas biologicas</h2>
+<div class="columns">
+<div class="column">
+<ul>
+<li>Biologico =&gt; Aislamiento reproductivo</li>
+<li>Morfologico =&gt; Razgos diagnósticos compartidos</li>
+<li>Filogenetico =&gt; Ancestro común y rasgos únicos</li>
+<li>Evolutivo =&gt; Independencia evolutiva</li>
+</ul>
+</div><div class="column">
+<p><img data-src="09-assets/quieroz.jpg"></p>
+</div></div>
+</section></section>
+<section>
+<section id="como-divergen-las-linajes" class="title-slide slide level1 center" data-background-color="#E8F5E9">
+<h1>Como divergen las linajes?</h1>
+
+</section>
+<section id="deriva-genetica-con-migracion" class="slide level2">
+<h2>Deriva genetica con migracion</h2>
+
+<img data-src="08-assets/gene_flow_trajectories_m0p0200.png" class="r-stretch"></section>
+<section id="deriva-genitica-con-barrera-de-migracion" class="slide level2">
+<h2>Deriva genitica con barrera de migracion</h2>
+
+<img data-src="09-assets/lineage_split_barrier_trajectories.png" class="r-stretch"></section>
+<section id="deriva-genitica-con-barrera-de-migracion-1" class="slide level2">
+<h2>Deriva genitica con barrera de migracion</h2>
+
+<img data-src="09-assets/lineage_split_barrier_vs_flow.png" class="r-stretch"></section>
+<section id="qué-puede-reducir-el-flujo-génico" class="slide level2">
+<h2>¿Qué puede reducir el flujo génico?</h2>
+<p>La evolución independiente y el aislamiento reproductivo aparecen cuando disminuye el intercambio de genes entre poblaciones.</p>
+<p>Puede comenzar por diferencias:<br>
+- geográficas<br>
+- ecológicas<br>
+- temporales<br>
+- conductuales - …</p>
+
+<img data-src="09-assets/divergence.webp" class="r-stretch"></section>
+<section id="geografía-y-especiación" class="slide level2">
+<h2>Geografía y especiación</h2>
+<div class="columns">
+<div class="column">
+<ul>
+<li class="fragment">Barrera</li>
+<li class="fragment">Migración limitada</li>
+<li class="fragment">Deriva, selección y mutación independientes</li>
+<li class="fragment">Divergencia genética</li>
+<li class="fragment">Aislamiento reproductivo</li>
+</ul>
+</div><div class="column">
+<ul>
+<li>islas</li>
+<li>cordilleras</li>
+<li>glaciaciones</li>
+<li>ríos</li>
+</ul>
+</div></div>
+</section>
+<section id="barrera-geográfica-ejemplo-1" class="slide level2">
+<h2>Barrera geográfica ejemplo 1</h2>
+<div class="columns">
+<div class="column">
+<p><img data-src="09-assets/snapping-shrimp-istmus-panama.jpg"></p>
+</div><div class="column">
+<ul>
+<li>Istmo de Panamá</li>
+<li>3 millones de años</li>
+<li>15 pares de especies hermanas</li>
+<li>Divergencia genética y morfológica</li>
+</ul>
+</div></div>
+</section>
+<section id="barrera-geográfica-ejemplo-2" class="slide level2">
+<h2>Barrera geográfica ejemplo 2</h2>
+<div class="columns">
+<div class="column">
+<ul>
+<li>Grand Canyon, Arizona</li>
+<li>5 millones de años</li>
+<li>2 especies hermanas (Abert’s y Kaibab Squirrel)</li>
+<li>Divergencia genética y morfológica</li>
+</ul>
+</div><div class="column">
+<p><img data-src="09-assets/squirrels.jpg"></p>
+</div></div>
+</section>
+<section id="ecologia-y-especiacion" class="slide level2">
+<h2>Ecologia y especiacion</h2>
+<ul>
+<li>Especialización de nicho</li>
+<li></li>
+</ul>
+</section>
+<section id="fenologia-y-especiacion" class="slide level2">
+<h2>Fenologia y especiacion</h2>
+</section></section>
+<section id="aislamiento-reproductivo" class="title-slide slide level1 center" data-background-color="#E8F5E9">
+<h1>Aislamiento reproductivo</h1>
+<p>¿Y exactamente cómo dejan de cruzarse?</p>
+<blockquote>
+<p>Aislamiento pre y post -zygotico</p>
+</blockquote>
+</section>
+
+<section id="hibridización" class="title-slide slide level1 center">
+<h1>Hibridización</h1>
+
+</section>
+
+<section id="contexto-geografico" class="title-slide slide level1 center">
+<h1>Contexto geografico</h1>
+
+</section>
+
+<section id="refuerzo" class="title-slide slide level1 center">
+<h1>Refuerzo</h1>
+
+</section>
+
+<section id="especies-anillo" class="title-slide slide level1 center">
+<h1>Especies anillo</h1>
+
+</section>
+
+<section id="radiacion-adaptativa" class="title-slide slide level1 center">
+<h1>Radiacion adaptativa</h1>
+
+</section>
+
+<section id="unidades-de-conservacion" class="title-slide slide level1 center">
+<h1>Unidades de conservacion</h1>
+
+</section>
+
+<section id="los-especies-no-son-imutables" class="title-slide slide level1 center">
+<h1>Los especies no son imutables</h1>
+
+</section>
+
+<section id="resumen" class="title-slide slide level1 center">
+<h1>Resumen</h1>
+<blockquote>
+<p>Speciation is the gradual evolution of reproductive isolation, causing populations to become independently evolving evolutionary lineages.</p>
+</blockquote>
 
 
 </section>

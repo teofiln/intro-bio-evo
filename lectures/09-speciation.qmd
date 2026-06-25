@@ -1,0 +1,357 @@
+---
+title: "Especiacion"
+subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
+format:
+  revealjs:
+    slide-number: true
+    incremental: false
+    theme: simple
+lang: es
+---
+
+## Metas {background-color="#E8F5E9"}
+
+* Intoducir lineages, su divergencia y como se relaciona con especiacion.
+* Introducir el concepto de especie y especiacion.
+* Discutir el papel de la geografia, ecologia, fenologia, hibridacion y otros factores.
+* Introducir unidades de conservacion 
+
+## Ser capaces de {.smaller}
+
+* Definir linaje y especie.
+* Explicar como divergen los linajes y como se relaciona con especiacion.
+* Explicar el papel de la geografia, ecologia, fenologia, hibridacion y otros factores en especiacion.
+* Entender la importancia de la evolucion para las unidades de conservacion.
+
+# Linajes {background-color="#E8F5E9"}
+
+## Las fuerzas evolutivas {.smaller}
+
+| Fuerza    | Que hace | Efecto para diversidad |
+| --------- | -------- | -------- |
+| Mutacion  | Crea nuevos alelos | Aumenta diversidad |
+| Seleccion | Favorece algunos alelos | Puede aumentar o disminuir diversidad |
+| Deriva    | Cambios por azar | Disminuye diversidad en poblaciones pequenas |
+| Migracion | Mueve alelos entre poblaciones | Tiende a homogenizar poblaciones |
+
+::: {.fragment}
+
+> Normalmente, todas estas fuerzas actuan juntas en poblaciones naturales, y el resultado evolutivo depende de la interaccion entre ellas.
+
+:::
+
+## ¿Cuál es el resultado de la acción acumulada de estas fuerzas?
+
+> **Linaje** es un grupo de 
+> 
+>   - individuos 
+>   - poblaciones
+>   - especies
+>     
+>   que comparten un **ancestro comun** y evolucionan **independientemente** de otros grupos. 
+
+## Fractal de linajes
+
+::: {.columns}
+
+::: {.column}
+
+![](09-assets/fractal-fern.jpg)
+
+:::
+
+::: {.column}
+
+* Fractal: 
+  * Un linaje puede contener muchos linajes más pequeños.
+  * Un linaje puede ser parte de un linaje más grande.
+* **onezoom.org**
+
+:::
+
+:::
+
+## De individuos a poblaciones a linajes
+
+![](09-assets/lineage-levels-3.png){width=100%}
+
+# Especies {background-color="#E8F5E9"}
+
+> **Todos tenemos una idea intuitiva de lo que es una especie, pero definirlo formalmente es complicado.**
+
+## Son especies distintas?
+
+![](09-assets/lions-tigers-ligers-tigons.webp)
+
+## Son especies distintas?
+
+![](09-assets/cryptic-butterflies-guanacaste.webp)
+
+## Son especies distintas?
+
+::: {.columns}
+
+::: {.column}
+
+![](09-assets/cryptic-butterflies-guanacaste.webp)
+
+
+:::
+
+::: {.column}
+
+![](09-assets/butterflies-guanacaste-tree.png){width=50%}
+
+:::
+
+:::
+
+## Concepto de especie biologica
+
+> Especies = grupos de poblaciones naturales, que están reproductivamente aisladas de otros grupos, y que se cruzan entre si (o pueden cruzar potencialmente) y producen descendencia viable y fértil.
+
+* Componentes:  
+  - Aislamiento reproductivo  
+  - Flujo genético  
+  - Cruzamiento   
+  - Viabilidad y fertilidad de la descendencia  
+
+## Concepto de especie biologica
+
+* Fortalezas
+  - Se centra en procesos evolutivos.
+  - Se puede aplicar a poblaciones vivas.
+  - Se puede probar experimentalmente.
+
+* Limitaciones: 
+  - Fósiles
+  - Organismos asexuales
+  - Hibridización
+
+## Concepto de especie morfológica
+
+> Especies = grupo de organismos clasificados como una especie distinta basándose únicamente en sus características estructurales, anatómicas y físicas compartidas.
+
+* Componentes:  
+  - Rasgos físicos  
+  - Coincidencia visual  
+  - Ignora la reproducción   
+
+## Concepto de especie morfológica
+
+* Fortalezas
+  - Útil para fósiles, organismos asexuales y en el campo.
+  - Aplicable a organismos vivos y extintos.
+  - Practico y rápido.
+
+* Limitaciones
+  - Subjetivo
+  - Puede confundir diferentes etapas de vida.
+  - No distingue especies crípticas
+
+## Concepto de especie filogenética
+  
+> Especies = el grupo más pequeño de organismos que comparten un ancestro común y que pueden distinguirse de otros grupos similares por rasgos genéticos o físicos únicos heredados.
+
+* Componentes:  
+  - Ancestro común  
+  - Datos genéticos  
+  - Monofilia  
+
+## Concepto de especie filogenética
+
+* Fortalezas
+  - Alta precisión
+  - Contexto evolutivo
+  - Ampliamente aplicable
+
+* Limitaciones
+  - Datos incompletos
+  - Huecos en el registro fósil
+  - Sobre-especiación
+
+## Concepto de especie evolutiva
+
+> Especies = Linaje de metapoblaciones que evolucionan independientemente.
+
+* Componentes:  
+  - Continuidad de linaje  
+  - Estructura de metapoblaciones  
+  - Umbrales de evidencia  
+
+## Concepto de especie evolutiva
+
+* Fortalezas
+  - Unifica taxonomía
+  - Flexible
+  - Realista ecológicamente
+
+* Limitaciones:  
+  - Diagnóstico retrasado  
+  - Integración de datos  
+  - Ambigüedad operacional  
+
+## Definiciones diferentes contestan diferentes preguntas biologicas
+
+::: {.columns}
+
+::: {.column}
+
+* Biologico => Aislamiento reproductivo
+* Morfologico => Razgos diagnósticos compartidos
+* Filogenetico => Ancestro común y rasgos únicos
+* Evolutivo => Independencia evolutiva
+
+:::
+
+::: {.column}
+
+![](09-assets/quieroz.jpg)
+
+:::
+
+:::
+
+# Como divergen las linajes? {background-color="#E8F5E9"}
+
+## Deriva genetica con migracion
+
+![](08-assets/gene_flow_trajectories_m0p0200.png)
+
+## Deriva genitica con barrera de migracion
+
+![](09-assets/lineage_split_barrier_trajectories.png)
+
+## Deriva genitica con barrera de migracion
+
+![](09-assets/lineage_split_barrier_vs_flow.png)
+
+## ¿Qué puede reducir el flujo génico?
+
+La evolución independiente y el aislamiento reproductivo aparecen cuando disminuye el intercambio de genes entre poblaciones.
+
+Puede comenzar por diferencias:  
+- geográficas  
+- ecológicas  
+- temporales  
+- conductuales
+- ...
+
+## Divergencia 
+
+![](09-assets/divergence.webp)
+
+## Geografía y especiación
+
+
+::: {.columns}
+
+::: {.column}
+
+::: {.incremental}
+* Barrera
+* Migración limitada
+* Deriva, selección y mutación independientes
+* Divergencia genética
+* Aislamiento reproductivo
+:::
+
+:::
+
+::: {.column}
+
+
+::: {.fragment}
+
+- islas
+- cordilleras
+- glaciaciones
+- ríos
+
+:::
+
+:::
+
+:::
+
+
+## Barrera geográfica ejemplo 1
+
+::: {.columns}
+
+::: {.column}
+
+![](09-assets/snapping-shrimp-istmus-panama.jpg)
+
+:::
+
+::: {.column}
+
+  - Istmo de Panamá
+  - 3 millones de años
+  - 15 pares de especies hermanas
+  - Divergencia genética y morfológica
+
+:::
+
+:::
+
+## Barrera geográfica ejemplo 2
+
+::: {.columns}
+
+::: {.column}
+
+- Grand Canyon, Arizona
+- 5 millones de años
+- 2 especies hermanas (Abert's y Kaibab Squirrel)
+- Divergencia genética y morfológica
+
+:::
+
+::: {.column}
+
+![](09-assets/squirrels.jpg)
+
+:::
+
+:::
+
+## Ecologia y especiacion
+
+* Especialización de nicho
+* 
+
+## Fenologia y especiacion
+
+
+
+
+
+
+# Aislamiento reproductivo {background-color="#E8F5E9"}
+
+¿Y exactamente cómo dejan de cruzarse?
+
+> Aislamiento pre y post -zygotico
+
+
+
+
+# Hibridización
+
+# Contexto geografico
+
+# Refuerzo
+
+# Especies anillo
+
+# Radiacion adaptativa
+
+# Unidades de conservacion
+
+# Los especies no son imutables
+
+# Resumen
+
+> Speciation is the gradual evolution of reproductive isolation, causing populations to become independently evolving evolutionary lineages.
