@@ -107,12 +107,12 @@ lang: es
 
 :::
 
-## Concepto de especie
+## Concepto de especie {.smaller}
 
-Si dos poblaciones o linajes son differentes especies, depende
-  - del organismo que estamos estudiando,
-  - de la pregunta que queramos contestar, o
-  - la propriedad que consideramos que define una especie.
+Si dos poblaciones o linajes son differentes especies, depende  
+  - del organismo que estamos estudiando,  
+  - de la pregunta que queramos contestar, o  
+  - la propriedad que consideramos que define una especie.  
 
 
 ::: {.columns}
@@ -549,15 +549,14 @@ La especiacion suele empezar cuando baja el flujo genico entre poblaciones.
 
 ::: {.column}
 
-* Divergencia en la misma region
-* Sin barrera geografica clara
-* Diferencias ecologicas, de conducta o de hospedero
+![](09-assets/Sympatric_Speciation_Schematic.svg)
 
 :::
 
 ::: {.column}
-
-![](09-assets/Sympatric_Speciation_Schematic.svg)
+* Divergencia en la misma region
+* Sin barrera geografica clara
+* Diferencias ecologicas, de conducta o de hospedero
 
 :::
 
@@ -571,15 +570,14 @@ La especiacion suele empezar cuando baja el flujo genico entre poblaciones.
 
 ::: {.column}
 
-* Separacion por una barrera geografica
-* Flujo genico cortado o muy reducido
-* Deriva y seleccion actuan por separado
+![](09-assets/Allopatric-Speciation-Process-diagram.jpg)
 
 :::
 
 ::: {.column}
-
-![](09-assets/Allopatric-Speciation-Process-diagram.jpg)
+* Separacion por una barrera geografica
+* Flujo genico cortado o muy reducido
+* Deriva y seleccion actuan por separado
 
 :::
 
@@ -594,15 +592,17 @@ La especiacion suele empezar cuando baja el flujo genico entre poblaciones.
 
 ::: {.column}
 
-* Poblacion pequena aislada en el borde
-* Efecto fundador y deriva intensos
-* Divergencia rapida en poblaciones perifericas
+![](09-assets/Peripatric_Speciation_Schematic.svg)
 
 :::
 
 ::: {.column}
 
-![](09-assets/Peripatric_Speciation_Schematic.svg)
+
+* Poblacion pequena aislada en el borde
+* Efecto fundador y deriva intensos
+* Divergencia rapida en poblaciones perifericas
+
 
 :::
 
@@ -610,13 +610,20 @@ La especiacion suele empezar cuando baja el flujo genico entre poblaciones.
 
 
 
-## Refuerzo del aislamiento reproductivo
+## Refuerzo del aislamiento reproductivo {.smaller}
+
+![](09-assets/Speciation_by_Reinforcement_Schematic.svg.png){fig-align="center"}
+
+
+::: {.fragment}
 
 > El refuerzo ocurre cuando linajes previamente separados vuelven a entrar en contacto
 >
-> La seleccion favorece un aislamiento reproductivo aun mas fuerte para evitar la formacion de hibridos de bajo rendimiento.
+> La seleccion favorece un aislamiento reproductivo aun mas fuerte para evitar la formacion de hibridos de baja aptitud.
 
-![](09-assets/Speciation_by_Reinforcement_Schematic.svg.png){fig-align="center"}
+:::
+
+
 
 ## Refuerzo del aislamiento reproductivo
 
