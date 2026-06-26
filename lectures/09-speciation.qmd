@@ -15,7 +15,7 @@ lang: es
 * Introducir el concepto de especie y especiacion.
 * Discutir el papel de la geografia, ecologia, fenologia, comportamiento.
 
-## Ser capaces de {.smaller}
+## Ser capaces de {background-color="#E8F5E9" .smaller}
 
 * Definir linaje y especie.
 * Explicar como divergen los linajes y como se relaciona con especiacion.
@@ -66,7 +66,7 @@ lang: es
 * Fractal: 
   * Un linaje puede contener muchos linajes más pequeños.
   * Un linaje puede ser parte de un linaje más grande.
-* **onezoom.org**
+* [**onezoom.org**](https://www.onezoom.org/life.html)
 
 :::
 
@@ -102,6 +102,39 @@ lang: es
 ::: {.column}
 
 ![](09-assets/butterflies-guanacaste-tree.png){width=50%}
+
+:::
+
+:::
+
+## Concepto de especie
+
+Si dos poblaciones o linajes son differentes especies, depende
+  - del organismo que estamos estudiando,
+  - de la pregunta que queramos contestar, o
+  - la propriedad que consideramos que define una especie.
+
+
+::: {.columns}
+
+::: {.column}
+
+::: {.fragment}
+
+Para un ornitologo, una especie puede ser un grupo de aves que se cruzan entre si y producen descendencia viable y fértil.
+
+:::
+
+
+:::
+
+::: {.column}
+
+::: {.fragment}
+
+Para un microbiólogo, una especie puede ser un grupo de bacterias que comparten un conjunto de genes y rasgos fenotípicos.
+
+:::
 
 :::
 

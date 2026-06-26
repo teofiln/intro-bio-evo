@@ -312,28 +312,28 @@
     "href": "lectures/08-migration.html#resumen",
     "title": "Migracion (flujo genico)",
     "section": "Resumen",
-    "text": "Resumen\n\nDefinicion: Migracion o flujo genico es el movimiento de alelos entre poblaciones.\n\n\n\nSin migracion -&gt; poblaciones divergentes, diferencias mantenidas o aumentadas\nCon migracion -&gt; poblaciones convergen, diferencias disminuyen\nEl flujo genico homogeniza las poblaciones"
+    "text": "Resumen\n\nDefinicion: Migracion o flujo genico es el movimiento de alelos entre poblaciones.\n\n\nSin migracion -&gt; poblaciones divergentes, diferencias mantenidas o aumentadas\nCon migracion -&gt; poblaciones convergen, diferencias disminuyen\nEl flujo genico homogeniza las poblaciones"
   },
   {
     "objectID": "lectures/08-migration.html#migracion-vs-deriva",
     "href": "lectures/08-migration.html#migracion-vs-deriva",
     "title": "Migracion (flujo genico)",
     "section": "Migracion vs Deriva",
-    "text": "Migracion vs Deriva\n\nDeriva genetica:\n- Aumenta diferencias entre poblaciones aisladas\n- Efecto mas fuerte en poblaciones pequenas\nMigracion:\n- Reduce diferencias entre poblaciones\n- Introduce variacion de otras poblaciones"
+    "text": "Migracion vs Deriva\nDeriva genetica:\n- Aumenta diferencias entre poblaciones aisladas\n- Efecto mas fuerte en poblaciones pequenas\nMigracion:\n- Reduce diferencias entre poblaciones\n- Introduce variacion de otras poblaciones"
   },
   {
     "objectID": "lectures/08-migration.html#migracion-vs-seleccion",
     "href": "lectures/08-migration.html#migracion-vs-seleccion",
     "title": "Migracion (flujo genico)",
     "section": "Migracion vs Seleccion",
-    "text": "Migracion vs Seleccion\n\nSeleccion:\n- Favorece alelos adaptativos\n- Puede aumentar diferencias entre poblaciones con ambientes distintos\nMigracion:\n- Mueve alelos entre poblaciones\n- Puede introducir alelos no adaptativos o eliminar alelos adaptativos\n- Tiende a homogenizar poblaciones"
+    "text": "Migracion vs Seleccion\nSeleccion:\n- Favorece alelos adaptativos\n- Puede aumentar diferencias entre poblaciones con ambientes distintos\nMigracion:\n- Mueve alelos entre poblaciones\n- Puede introducir alelos no adaptativos o eliminar alelos adaptativos\n- Tiende a homogenizar poblaciones"
   },
   {
     "objectID": "lectures/08-migration.html#migracion-vs-mutacion",
     "href": "lectures/08-migration.html#migracion-vs-mutacion",
     "title": "Migracion (flujo genico)",
     "section": "Migracion vs Mutacion",
-    "text": "Migracion vs Mutacion\n\nMutacion:\n- Crea nuevos alelos\n- Efecto muy lento en poblaciones grandes\nMigracion:\n- Mueve alelos existentes entre poblaciones\n- Puede tener un efecto rapido en poblaciones pequenas"
+    "text": "Migracion vs Mutacion\nMutacion:\n- Crea nuevos alelos\n- Efecto muy lento en poblaciones grandes\nMigracion:\n- Mueve alelos existentes entre poblaciones\n- Puede tener un efecto rapido en poblaciones pequenas"
   },
   {
     "objectID": "lectures/08-migration.html#las-fuerzas-evolutivas",
@@ -354,14 +354,14 @@
     "href": "lectures/06-selection.html#ser-capaces-de",
     "title": "Selección Natural",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nDefinir selección natural como cambio en frecuencias alélicas debido a diferencias en aptitud.\nDefinir algunos de los diferentes tipos de selección (balanceadora, disruptiva, direccional).\nReconocer cómo la selección mantiene alelos (diversidad genetica) a través de la ventaja del heterocigoto.\nDefinir adaptacion como un rasgo heredable que origino por seleccion natural y aumenta la aptitud relativa.\nEntender la diferencia entre evolucion y adaptacion."
+    "text": "Ser capaces de\n\nDefinir selección natural como cambio en frecuencias alélicas debido a diferencias en aptitud.\nDefinir algunos de los diferentes tipos de selección (balanceadora, disruptiva, direccional).\nReconocer cómo la selección mantiene alelos (diversidad genetica) a través de la ventaja del heterocigoto.\nDefinir adaptacion como un rasgo heredable que origino por seleccion natural y aumenta la aptitud relativa.\nEntender la diferencia entre evolucion y adaptacion."
   },
   {
     "objectID": "lectures/06-selection.html#qué-es-la-selección-natural",
     "href": "lectures/06-selection.html#qué-es-la-selección-natural",
     "title": "Selección Natural",
     "section": "¿Qué es la selección natural?",
-    "text": "¿Qué es la selección natural?\n\nSelección natural: proceso evolutivo donde los individuos con ciertos rasgos heredables tienen mayor supervivencia o reproducción que otros, causando cambios en las frecuencias alélicas dentro de poblaciones a lo largo del tiempo.\n\n\n\nRequiere variación heredable en la población.\nRequiere diferencias en aptitud (supervivencia o reproducción) entre genotipos.\nResultado: cambio en frecuencias alélicas de una generación a la siguiente."
+    "text": "¿Qué es la selección natural?\n\nSelección natural: proceso evolutivo donde los individuos con ciertos rasgos heredables tienen mayor supervivencia o reproducción que otros, causando cambios en las frecuencias alélicas dentro de poblaciones a lo largo del tiempo.\n\n\nRequiere variación heredable en la población.\nRequiere diferencias en aptitud (supervivencia o reproducción) entre genotipos.\nResultado: cambio en frecuencias alélicas de una generación a la siguiente."
   },
   {
     "objectID": "lectures/06-selection.html#anemia-falciforme",
@@ -403,7 +403,7 @@
     "href": "lectures/06-selection.html#anemia-falciforme-y-malaria",
     "title": "Selección Natural",
     "section": "Anemia falciforme y malaria",
-    "text": "Anemia falciforme y malaria\n\nLos heterocigotos para anemia falciforme (AS) presentan menor riesgo de malaria grave que los homocigotos normales (AA).\n\n\n\nLos heterocigotos producen principalmente eritrocitos normales, pero una fracción contiene hemoglobina S.\nCuando un eritrocito es infectado por Plasmodium falciparum, el estrés fisiológico dentro de la célula favorece la deformación falciforme.\nLos eritrocitos infectados y deformados son reconocidos y removidos más rápidamente por el bazo.\nComo consecuencia, la carga parasitaria suele mantenerse más baja que en individuos AA.\nEsto reduce el riesgo de malaria grave y aumenta la supervivencia en regiones donde la malaria es común."
+    "text": "Anemia falciforme y malaria\n\nLos heterocigotos para anemia falciforme (AS) presentan menor riesgo de malaria grave que los homocigotos normales (AA).\n\n\nLos heterocigotos producen principalmente eritrocitos normales, pero una fracción contiene hemoglobina S.\nCuando un eritrocito es infectado por Plasmodium falciparum, el estrés fisiológico dentro de la célula favorece la deformación falciforme.\nLos eritrocitos infectados y deformados son reconocidos y removidos más rápidamente por el bazo.\nComo consecuencia, la carga parasitaria suele mantenerse más baja que en individuos AA.\nEsto reduce el riesgo de malaria grave y aumenta la supervivencia en regiones donde la malaria es común."
   },
   {
     "objectID": "lectures/06-selection.html#combinando-las-dos-presiones-selectivas",
@@ -424,42 +424,42 @@
     "href": "lectures/06-selection.html#población-en-hardy-weinberg",
     "title": "Selección Natural",
     "section": "Población en Hardy-Weinberg",
-    "text": "Población en Hardy-Weinberg\n\n\n\n\\(p = 0.6; q = 0.4\\)\n\\(f(AA) = p^2 = 0.36; N_{AA} = 400 * 0.36 = 144\\)\n\\(f(AS) = 2pq = 0.48; N_{AS} = 400 * 0.48 = 192\\)\n\\(f(SS) = q^2 = 0.16; N_{SS} = 400 * 0.16 = 64\\)"
+    "text": "Población en Hardy-Weinberg\n\n\n\\(p = 0.6; q = 0.4\\)\n\\(f(AA) = p^2 = 0.36; N_{AA} = 400 * 0.36 = 144\\)\n\\(f(AS) = 2pq = 0.48; N_{AS} = 400 * 0.48 = 192\\)\n\\(f(SS) = q^2 = 0.16; N_{SS} = 400 * 0.16 = 64\\)"
   },
   {
     "objectID": "lectures/06-selection.html#selección-natural",
     "href": "lectures/06-selection.html#selección-natural",
     "title": "Selección Natural",
     "section": "Selección natural",
-    "text": "Selección natural\n\n\n\nSeleccion natural\nDe un lado la anemia falciforme selecciona fuerte contra SS\nDe otro lado la malaria selecciona mas fuerte contra AA\nAlgunos individuos no sobreviven"
+    "text": "Selección natural\n\n\nSeleccion natural\nDe un lado la anemia falciforme selecciona fuerte contra SS\nDe otro lado la malaria selecciona mas fuerte contra AA\nAlgunos individuos no sobreviven"
   },
   {
     "objectID": "lectures/06-selection.html#selección-natural-1",
     "href": "lectures/06-selection.html#selección-natural-1",
     "title": "Selección Natural",
     "section": "Selección natural",
-    "text": "Selección natural\n\n\n\nAlgunos individuos no sobreviven\nLa probabilidad de sobrevivir no es igual para todos los genotipos\nLa supervivencia diferencial cambia las frecuencias alélicas\nLa población en este momento no está en equilibrio Hardy-Weinberg"
+    "text": "Selección natural\n\n\nAlgunos individuos no sobreviven\nLa probabilidad de sobrevivir no es igual para todos los genotipos\nLa supervivencia diferencial cambia las frecuencias alélicas\nLa población en este momento no está en equilibrio Hardy-Weinberg"
   },
   {
     "objectID": "lectures/06-selection.html#selección-natural-2",
     "href": "lectures/06-selection.html#selección-natural-2",
     "title": "Selección Natural",
     "section": "Selección natural",
-    "text": "Selección natural\n\n\n\n\\(N_{A} = 397; p = f(A) = \\frac{N_{A}}{319 * 2} = 0.622\\)\n\\(N_{S} = 241; q = f(S) = \\frac{N_{S}}{319 * 2} = 0.378\\)\n\\(f(AA) = p^2 = 0.622^2 = 0.387; N_{AA} = 319 * 0.387 \\approx 123\\)\n\\(f(AS) = 2pq = 2 \\times 0.622 \\times 0.378 = 0.470; N_{AS} = 319 * 0.470 \\approx 150\\)\n\\(f(SS) = q^2 = 0.378^2 = 0.143; N_{SS} = 319 * 0.143 \\approx 46\\)"
+    "text": "Selección natural\n\n\n\\(N_{A} = 397; p = f(A) = \\frac{N_{A}}{319 * 2} = 0.622\\)\n\\(N_{S} = 241; q = f(S) = \\frac{N_{S}}{319 * 2} = 0.378\\)\n\\(f(AA) = p^2 = 0.622^2 = 0.387; N_{AA} = 319 * 0.387 \\approx 123\\)\n\\(f(AS) = 2pq = 2 \\times 0.622 \\times 0.378 = 0.470; N_{AS} = 319 * 0.470 \\approx 150\\)\n\\(f(SS) = q^2 = 0.378^2 = 0.143; N_{SS} = 319 * 0.143 \\approx 46\\)"
   },
   {
     "objectID": "lectures/06-selection.html#apareamiento-aleatorio",
     "href": "lectures/06-selection.html#apareamiento-aleatorio",
     "title": "Selección Natural",
     "section": "Apareamiento aleatorio",
-    "text": "Apareamiento aleatorio\n\n\n\nLos sobrevivientes se aparean al azar\nLos cigotos vuelven a estar en proporciones de Hardy-Weinberg\nPero ahora parten de frecuencias alélicas ligeramente distintas\nEs decir, están en euquilibrio Hardy-Weinberg pero para las nuevas frecuencias alélicas"
+    "text": "Apareamiento aleatorio\n\n\nLos sobrevivientes se aparean al azar\nLos cigotos vuelven a estar en proporciones de Hardy-Weinberg\nPero ahora parten de frecuencias alélicas ligeramente distintas\nEs decir, están en euquilibrio Hardy-Weinberg pero para las nuevas frecuencias alélicas"
   },
   {
     "objectID": "lectures/06-selection.html#apareamiento-aleatorio-1",
     "href": "lectures/06-selection.html#apareamiento-aleatorio-1",
     "title": "Selección Natural",
     "section": "Apareamiento aleatorio",
-    "text": "Apareamiento aleatorio\n\n\n\n\\(N_{A} = 498; p = f(A) = \\frac{N_{A}}{319 * 2} = 0.622\\)\n\\(N_{S} = 140; q = f(S) = \\frac{N_{S}}{319 * 2} = 0.378\\)\n\\(f(AA) = p^2 = 0.622^2 = 0.387; N_{AA} = 400 * 0.387 \\approx 155\\)\n\\(f(AS) = 2pq = 2 \\times 0.622 \\times 0.378 = 0.470; N_{AS} = 400 * 0.470 \\approx 188\\)\n\\(f(SS) = q^2 = 0.378^2 = 0.143; N_{SS} = 400 * 0.143 \\approx 57\\)"
+    "text": "Apareamiento aleatorio\n\n\n\\(N_{A} = 498; p = f(A) = \\frac{N_{A}}{319 * 2} = 0.622\\)\n\\(N_{S} = 140; q = f(S) = \\frac{N_{S}}{319 * 2} = 0.378\\)\n\\(f(AA) = p^2 = 0.622^2 = 0.387; N_{AA} = 400 * 0.387 \\approx 155\\)\n\\(f(AS) = 2pq = 2 \\times 0.622 \\times 0.378 = 0.470; N_{AS} = 400 * 0.470 \\approx 188\\)\n\\(f(SS) = q^2 = 0.378^2 = 0.143; N_{SS} = 400 * 0.143 \\approx 57\\)"
   },
   {
     "objectID": "lectures/06-selection.html#y-si-la-frecuencia-de-alelo-falciforme-s-empieza-muy-baja",
@@ -494,7 +494,7 @@
     "href": "lectures/06-selection.html#aproximación-hacia-el-equilibrio-alélico",
     "title": "Selección Natural",
     "section": "Aproximación hacia el equilibrio alélico",
-    "text": "Aproximación hacia el equilibrio alélico\n\n\n\n\n\n\n\n\nCon \\(w(AA)=0.7\\), \\(w(AS)=1.0\\) y \\(w(SS)=0.4\\), el equilibrio interno esperado es \\(q(S)=0.333\\).\nPartiendo de \\(q(S)=0.4\\) o \\(q(S) = 0.1\\), la frecuencia del alelo S se acerca a ese valor generación tras generación.\nAunque el alelo S es dañino en terminos absolutos, se mantiene en una frecuencia relativamente alta"
+    "text": "Aproximación hacia el equilibrio alélico\n\n\n\n\n\n\n\nCon \\(w(AA)=0.7\\), \\(w(AS)=1.0\\) y \\(w(SS)=0.4\\), el equilibrio interno esperado es \\(q(S)=0.333\\).\nPartiendo de \\(q(S)=0.4\\) o \\(q(S) = 0.1\\), la frecuencia del alelo S se acerca a ese valor generación tras generación.\nAunque el alelo S es dañino en terminos absolutos, se mantiene en una frecuencia relativamente alta"
   },
   {
     "objectID": "lectures/06-selection.html#aptitud-relativa-por-genotipo",
@@ -536,21 +536,21 @@
     "href": "lectures/06-selection.html#pinzones-de-daphne-major-1977",
     "title": "Selección Natural",
     "section": "Pinzones de Daphne Major (1977)",
-    "text": "Pinzones de Daphne Major (1977)\n\n\n\n\n\n\nLa sequía alteró la disponibilidad de semillas.\nLas semillas pequeñas se volvieron escasas, mientras que las semillas grandes permanecieron disponibles.\nLos individuos con picos pequeños presentaron una mortalidad más alta.\nComo resultado, aumentó la frecuencia de individuos con picos más grandes en la población."
+    "text": "Pinzones de Daphne Major (1977)\n\n\n\n\n\nLa sequía alteró la disponibilidad de semillas.\nLas semillas pequeñas se volvieron escasas, mientras que las semillas grandes permanecieron disponibles.\nLos individuos con picos pequeños presentaron una mortalidad más alta.\nComo resultado, aumentó la frecuencia de individuos con picos más grandes en la población."
   },
   {
     "objectID": "lectures/06-selection.html#polillas-de-manchester",
     "href": "lectures/06-selection.html#polillas-de-manchester",
     "title": "Selección Natural",
     "section": "Polillas de Manchester",
-    "text": "Polillas de Manchester\n\n\n\n\n\n\nLa industrialización provocó altos niveles de contaminación atmosférica.\nEl hollín oscureció los troncos de los árboles y modificó el hábitat de las polillas.\nLas polillas de color claro se volvieron más visibles para los depredadores.\nComo resultado, aumentó la frecuencia de polillas de color oscuro en la población."
+    "text": "Polillas de Manchester\n\n\n\n\n\nLa industrialización provocó altos niveles de contaminación atmosférica.\nEl hollín oscureció los troncos de los árboles y modificó el hábitat de las polillas.\nLas polillas de color claro se volvieron más visibles para los depredadores.\nComo resultado, aumentó la frecuencia de polillas de color oscuro en la población."
   },
   {
     "objectID": "lectures/06-selection.html#pinzones-otra-vez",
     "href": "lectures/06-selection.html#pinzones-otra-vez",
     "title": "Selección Natural",
     "section": "Pinzones! Otra vez?",
-    "text": "Pinzones! Otra vez?\n\n\n\n\n\n\nEl ambiente cambia.\nLas presiones de selección cambian.\nLa aptitud relativa de los distintos fenotipos cambia.\nComo consecuencia, cambia la distribución de rasgos dentro de la población.\n\n\n\n\n\nEl ambiente determina qué rasgos son ventajosos; cuando el ambiente cambia, la selección también puede cambiar."
+    "text": "Pinzones! Otra vez?\n\n\n\n\n\nEl ambiente cambia.\nLas presiones de selección cambian.\nLa aptitud relativa de los distintos fenotipos cambia.\nComo consecuencia, cambia la distribución de rasgos dentro de la población.\n\n\n\n\nEl ambiente determina qué rasgos son ventajosos; cuando el ambiente cambia, la selección también puede cambiar."
   },
   {
     "objectID": "lectures/06-selection.html#los-fenotipos-extremos-son-más-aptos-que-los-intermedios",
@@ -571,21 +571,21 @@
     "href": "lectures/06-selection.html#pinzón-semillero-africano",
     "title": "Selección Natural",
     "section": "Pinzón semillero africano",
-    "text": "Pinzón semillero africano\n\n\n\n\n\n\nIndividuos con picos grandes son mejores a romper semillas grandes\nIndividuos con picos pequeños son mejores a manejar semillas pequeñas\nIndividuos con picos intermedios tienen desventaja y menor aptitud.\nA lo largo del tiempo, la frecuencia de individuos con picos intermedios disminuye."
+    "text": "Pinzón semillero africano\n\n\n\n\n\nIndividuos con picos grandes son mejores a romper semillas grandes\nIndividuos con picos pequeños son mejores a manejar semillas pequeñas\nIndividuos con picos intermedios tienen desventaja y menor aptitud.\nA lo largo del tiempo, la frecuencia de individuos con picos intermedios disminuye."
   },
   {
     "objectID": "lectures/06-selection.html#threespine-stickleback",
     "href": "lectures/06-selection.html#threespine-stickleback",
     "title": "Selección Natural",
     "section": "Threespine stickleback",
-    "text": "Threespine stickleback\n\n\n\n\n\n\nLos individuos grandes se observan con mayor frecuencia cerca de la orilla del lago, donde consumen insectos grandes.\nLos individuos pequeños se observan con mayor frecuencia en la zona de agua abierta, asociados al consumo de zooplancton.\nLos fenotipos intermedios muestran menor aptitud, por lo que su frecuencia disminuye."
+    "text": "Threespine stickleback\n\n\n\n\n\nLos individuos grandes se observan con mayor frecuencia cerca de la orilla del lago, donde consumen insectos grandes.\nLos individuos pequeños se observan con mayor frecuencia en la zona de agua abierta, asociados al consumo de zooplancton.\nLos fenotipos intermedios muestran menor aptitud, por lo que su frecuencia disminuye."
   },
   {
     "objectID": "lectures/06-selection.html#definicion",
     "href": "lectures/06-selection.html#definicion",
     "title": "Selección Natural",
     "section": "Definicion",
-    "text": "Definicion\n\nUna adaptación es un rasgo heredable que aumenta la aptitud de los individuos en un ambiente determinado como resultado de la selección natural.\n\n\n\nLas adaptaciones evolucionan en poblaciones, no en individuos.\nUna adaptación aumenta la aptitud relativa en un ambiente particular.\nUn rasgo puede ser adaptativo en un ambiente y no en otro.\nLas adaptaciones no son necesariamente perfectas."
+    "text": "Definicion\n\nUna adaptación es un rasgo heredable que aumenta la aptitud de los individuos en un ambiente determinado como resultado de la selección natural.\n\n\nLas adaptaciones evolucionan en poblaciones, no en individuos.\nUna adaptación aumenta la aptitud relativa en un ambiente particular.\nUn rasgo puede ser adaptativo en un ambiente y no en otro.\nLas adaptaciones no son necesariamente perfectas."
   },
   {
     "objectID": "lectures/06-selection.html#por-qué-los-picos-grandes-son-una-adaptación",
@@ -606,7 +606,7 @@
     "href": "lectures/06-selection.html#no-todo-rasgo-es-una-adaptación",
     "title": "Selección Natural",
     "section": "No todo rasgo es una adaptación",
-    "text": "No todo rasgo es una adaptación\n\n\nAlgunos rasgos evolucionan por deriva genética.\nAlgunos rasgos son subproductos de otras adaptaciones.\nAlgunos rasgos fueron adaptativos en el pasado, pero ya no lo son.\nPara demostrar adaptación debemos mostrar una ventaja en aptitud."
+    "text": "No todo rasgo es una adaptación\n\nAlgunos rasgos evolucionan por deriva genética.\nAlgunos rasgos son subproductos de otras adaptaciones.\nAlgunos rasgos fueron adaptativos en el pasado, pero ya no lo son.\nPara demostrar adaptación debemos mostrar una ventaja en aptitud."
   },
   {
     "objectID": "lectures/06-selection.html#la-escala-importa",
@@ -634,14 +634,14 @@
     "href": "lectures/04-hw.html#ser-capaces-de",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nDefinir frecuencia alelica y frecuencia genotipica.\nAplicar \\(p + q = 1\\) y \\(p^2 + 2pq + q^2 = 1\\).\nCalcular genotipos esperados bajo Hardy-Weinberg.\nIdentificar casos cuando hay desviaciones de Hardy-Weinberg."
+    "text": "Ser capaces de\n\nDefinir frecuencia alelica y frecuencia genotipica.\nAplicar \\(p + q = 1\\) y \\(p^2 + 2pq + q^2 = 1\\).\nCalcular genotipos esperados bajo Hardy-Weinberg.\nIdentificar casos cuando hay desviaciones de Hardy-Weinberg."
   },
   {
     "objectID": "lectures/04-hw.html#el-problema-en-el-siglo-xix",
     "href": "lectures/04-hw.html#el-problema-en-el-siglo-xix",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "El problema en el siglo XIX",
-    "text": "El problema en el siglo XIX\n\n\n\n\n\nPortada de “El Origen de las Especies” (1859)\n\n\n\n\n\nDarwin y Wallace (1858-1859) propusieron seleccion natural.\nLa seleccion requiere variacion heredable.\nSin una buena teoria de herencia, la explicacion quedaba incompleta."
+    "text": "El problema en el siglo XIX\n\n\n\n\n\nPortada de “El Origen de las Especies” (1859)\n\n\n\n\nDarwin y Wallace (1858-1859) propusieron seleccion natural.\nLa seleccion requiere variacion heredable.\nSin una buena teoria de herencia, la explicacion quedaba incompleta."
   },
   {
     "objectID": "lectures/04-hw.html#herencia-por-mezcla-una-dificultad",
@@ -662,7 +662,7 @@
     "href": "lectures/04-hw.html#mendel-cambia-el-panorama-herencia-particulada",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Mendel cambia el panorama: herencia particulada",
-    "text": "Mendel cambia el panorama: herencia particulada\n\n\n\n\n\n\n\n\nLos descendientes son una combinación de ambos padres.\nLos rasgos de ambos padres se transmiten a la siguiente generación como entidades separadas.\nLa variación se mantiene a lo largo del tiempo.\nLos alelos se segregan y recombinan en cada generación."
+    "text": "Mendel cambia el panorama: herencia particulada\n\n\n\n\n\n\n\nLos descendientes son una combinación de ambos padres.\nLos rasgos de ambos padres se transmiten a la siguiente generación como entidades separadas.\nLa variación se mantiene a lo largo del tiempo.\nLos alelos se segregan y recombinan en cada generación."
   },
   {
     "objectID": "lectures/04-hw.html#segregacion-equitativa",
@@ -683,21 +683,21 @@
     "href": "lectures/04-hw.html#resumen-herencia-particulada-y-evolucion",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Resumen: Herencia particulada y evolucion",
-    "text": "Resumen: Herencia particulada y evolucion\n\n\nSegregacion + surtido permiten predecir proporciones esperadas.\nLa seleccion cambia frecuencias alelicas.\nLa variacion se conserva y se reorganiza cada generacion."
+    "text": "Resumen: Herencia particulada y evolucion\n\nSegregacion + surtido permiten predecir proporciones esperadas.\nLa seleccion cambia frecuencias alelicas.\nLa variacion se conserva y se reorganiza cada generacion."
   },
   {
     "objectID": "lectures/04-hw.html#modelo-nulo",
     "href": "lectures/04-hw.html#modelo-nulo",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Modelo nulo",
-    "text": "Modelo nulo\n\nQue esperamos observar si no actua ninguna fuerza evolutiva?\n\n\n\n\nFrecuencias alélicas permanecen constantes de una generación a otra.\nLas frecuencias genotípicas se estabilizan en las proporciones de Hardy-Weinberg.\nLa diversidad genética existente se mantiene.\nAunque las frecuencias en un locus no cambian, la recombinación puede generar nuevas combinaciones multilocus de alelos.\n\n\n\n\n\nHW describe estabilidad en las frecuencias alélicas de un locus, no ausencia de variación entre individuos."
+    "text": "Modelo nulo\n\nQue esperamos observar si no actua ninguna fuerza evolutiva?\n\n\n\nFrecuencias alélicas permanecen constantes de una generación a otra.\nLas frecuencias genotípicas se estabilizan en las proporciones de Hardy-Weinberg.\nLa diversidad genética existente se mantiene.\nAunque las frecuencias en un locus no cambian, la recombinación puede generar nuevas combinaciones multilocus de alelos.\n\n\n\n\nHW describe estabilidad en las frecuencias alélicas de un locus, no ausencia de variación entre individuos."
   },
   {
     "objectID": "lectures/04-hw.html#supuestos-de-hardy-weinberg",
     "href": "lectures/04-hw.html#supuestos-de-hardy-weinberg",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Supuestos de Hardy-Weinberg",
-    "text": "Supuestos de Hardy-Weinberg\n\n\nApareamiento aleatorio.\nPoblacion muy grande.\nSin seleccion natural.\nSin mutacion.\nSin migracion (flujo genico).\n\n\n\nSi los datos no ajustan, al menos un supuesto puede estar fallando."
+    "text": "Supuestos de Hardy-Weinberg\n\nApareamiento aleatorio.\nPoblacion muy grande.\nSin seleccion natural.\nSin mutacion.\nSin migracion (flujo genico).\n\n\nSi los datos no ajustan, al menos un supuesto puede estar fallando."
   },
   {
     "objectID": "lectures/04-hw.html#antes-de-cualquier-evento-allelos",
@@ -781,7 +781,7 @@
     "href": "lectures/04-hw.html#datos-y-ecuaciones",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Datos y ecuaciones",
-    "text": "Datos y ecuaciones\nPoblacion de plantas con dos alelos:\n\n\n\n\\(A\\) (morado)\n\\(a\\) (blanco)\n\nFrecuencias:\n\n\\(p = 0.6\\)\n\\(q = 0.4\\)\n\n\n\n\\[\np + q = 1\n\\]\n\\[\np^2 + 2pq + q^2 = 1\n\\]\n\n\n\n\n\\(AA = p^2 = 0.6^2 = 0.36\\)\n\\(Aa = 2pq = 2(0.6)(0.4) = 0.48\\)\n\\(aa = q^2 = 0.4^2 = 0.16\\)"
+    "text": "Datos y ecuaciones\nPoblacion de plantas con dos alelos:\n\n\n\n\\(A\\) (morado)\n\\(a\\) (blanco)\n\nFrecuencias:\n\n\\(p = 0.6\\)\n\\(q = 0.4\\)\n\n\n\n\\[\np + q = 1\n\\]\n\\[\np^2 + 2pq + q^2 = 1\n\\]\n\n\n\n\\(AA = p^2 = 0.6^2 = 0.36\\)\n\\(Aa = 2pq = 2(0.6)(0.4) = 0.48\\)\n\\(aa = q^2 = 0.4^2 = 0.16\\)"
   },
   {
     "objectID": "lectures/04-hw.html#comparar-esperado-vs-observado",
@@ -837,7 +837,7 @@
     "href": "lectures/04-hw.html#y-si-la-especie-es-poliploide",
     "title": "Equilibrio de Hardy-Weinberg",
     "section": "Y si la especie es poliploide?",
-    "text": "Y si la especie es poliploide?\n\n\nMuchas especies de plantas no son diploides.\nEjemplo: papa cultivada (Solanum tuberosum), frecuentemente tetraploide.\nEn tetraploides, para dos alelos se expande \\((p+q)^4\\)."
+    "text": "Y si la especie es poliploide?\n\nMuchas especies de plantas no son diploides.\nEjemplo: papa cultivada (Solanum tuberosum), frecuentemente tetraploide.\nEn tetraploides, para dos alelos se expande \\((p+q)^4\\)."
   },
   {
     "objectID": "lectures/04-hw.html#hardy-weinberg-en-tetraploides-papa",
@@ -865,7 +865,7 @@
     "href": "lectures/02-evidence.html#ser-capaces-de",
     "title": "Evidencia de la evolución",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nExplicar cómo el registro fósil documenta cambios en la biodiversidad a lo largo del tiempo y constituye evidencia de descendencia con modificación.\nInterpretar similitudes y diferencias anatómicas entre organismos como evidencia de ancestro común y adaptación a distintas funciones.\nExplicar cómo la distribución geográfica de los organismos refleja procesos evolutivos, historia geológica y aislamiento poblacional.\nInterpretar similitudes en ADN y proteínas como evidencia de parentesco evolutivo y ancestro común.\nExplicar cómo la evolución puede observarse y medirse en poblaciones contemporáneas.\nIntegrar múltiples líneas independientes de evidencia para sustentar la teoría evolutiva como explicación científica de la diversidad biológica."
+    "text": "Ser capaces de\n\nExplicar cómo el registro fósil documenta cambios en la biodiversidad a lo largo del tiempo y constituye evidencia de descendencia con modificación.\nInterpretar similitudes y diferencias anatómicas entre organismos como evidencia de ancestro común y adaptación a distintas funciones.\nExplicar cómo la distribución geográfica de los organismos refleja procesos evolutivos, historia geológica y aislamiento poblacional.\nInterpretar similitudes en ADN y proteínas como evidencia de parentesco evolutivo y ancestro común.\nExplicar cómo la evolución puede observarse y medirse en poblaciones contemporáneas.\nIntegrar múltiples líneas independientes de evidencia para sustentar la teoría evolutiva como explicación científica de la diversidad biológica."
   },
   {
     "objectID": "lectures/02-evidence.html#el-registro-fósil-muestra-una-secuencia-temporal",
@@ -886,7 +886,7 @@
     "href": "lectures/02-evidence.html#características-transicionales",
     "title": "Evidencia de la evolución",
     "section": "Características transicionales",
-    "text": "Características transicionales\n\n“Transicional” no significa “a medio formar”\n\n\n\ncombinaciones de rasgos ancestrales y derivados,\nconectan grupos mayores a través del tiempo,\nTiktaalik, Archaeopteryx, y los ancestros de las ballenas son ejemplos clásicos."
+    "text": "Características transicionales\n\n“Transicional” no significa “a medio formar”\n\n\ncombinaciones de rasgos ancestrales y derivados,\nconectan grupos mayores a través del tiempo,\nTiktaalik, Archaeopteryx, y los ancestros de las ballenas son ejemplos clásicos."
   },
   {
     "objectID": "lectures/02-evidence.html#tiktaalik",
@@ -907,7 +907,7 @@
     "href": "lectures/02-evidence.html#el-registro-fósil-es-consistente-con-descendencia-con-modificación",
     "title": "Evidencia de la evolución",
     "section": "El registro fósil es consistente con descendencia con modificación",
-    "text": "El registro fósil es consistente con descendencia con modificación\n\n\nlos organismos aparecen en orden temporal,\nlos grupos relacionados aparecen cerca entre sí en el tiempo,\nlas características transicionales conectan los grandes grupos,\nla extinción y la diversificación ocurren repetidamente."
+    "text": "El registro fósil es consistente con descendencia con modificación\n\nlos organismos aparecen en orden temporal,\nlos grupos relacionados aparecen cerca entre sí en el tiempo,\nlas características transicionales conectan los grandes grupos,\nla extinción y la diversificación ocurren repetidamente."
   },
   {
     "objectID": "lectures/02-evidence.html#el-registro-fósil-es-incompleto",
@@ -921,7 +921,7 @@
     "href": "lectures/02-evidence.html#mitos-sobre-el-registro-fósil",
     "title": "Evidencia de la evolución",
     "section": "Mitos sobre el registro fósil",
-    "text": "Mitos sobre el registro fósil\n\n\nLos fósiles son solo huesos y conchas\nLos “missing links” en el registro fósil desmienten la evolución\nCada fósil encontrado es un ancestro directo de una especie moderna\nLa evolución es lineal y en forma de escalera\nLos fósiles más antiguos son inherentemente “menos evolucionados” o primitivos"
+    "text": "Mitos sobre el registro fósil\n\nLos fósiles son solo huesos y conchas\nLos “missing links” en el registro fósil desmienten la evolución\nCada fósil encontrado es un ancestro directo de una especie moderna\nLa evolución es lineal y en forma de escalera\nLos fósiles más antiguos son inherentemente “menos evolucionados” o primitivos"
   },
   {
     "objectID": "lectures/02-evidence.html#resumen",
@@ -977,7 +977,7 @@
     "href": "lectures/02-evidence.html#resumen-qué-predice-la-evolución",
     "title": "Evidencia de la evolución",
     "section": "Resumen: ¿Qué predice la evolución?",
-    "text": "Resumen: ¿Qué predice la evolución?\nSi las especies comparten un ancestro común, debemos observar:\n\n\nsimilitudes anidadas\nestructuras homólogas\nestructuras vestigiales\nevolución convergente bajo ambientes similares\n\n\n\n\nY eso es exactamente lo que observamos."
+    "text": "Resumen: ¿Qué predice la evolución?\nSi las especies comparten un ancestro común, debemos observar:\n\nsimilitudes anidadas\nestructuras homólogas\nestructuras vestigiales\nevolución convergente bajo ambientes similares\n\n\n\nY eso es exactamente lo que observamos."
   },
   {
     "objectID": "lectures/02-evidence.html#la-historia-geológica",
@@ -998,14 +998,14 @@
     "href": "lectures/02-evidence.html#definiciones",
     "title": "Evidencia de la evolución",
     "section": "Definiciones",
-    "text": "Definiciones\n\n\nDispersión: una población coloniza una nueva región al cruzar una barrera geográfica.\nAislamiento: el flujo génico entre poblaciones se reduce o se corta, permitiendo divergencia evolutiva.\nVicariancia: una barrera geográfica divide una población ancestral y separa sus descendientes."
+    "text": "Definiciones\n\nDispersión: una población coloniza una nueva región al cruzar una barrera geográfica.\nAislamiento: el flujo génico entre poblaciones se reduce o se corta, permitiendo divergencia evolutiva.\nVicariancia: una barrera geográfica divide una población ancestral y separa sus descendientes."
   },
   {
     "objectID": "lectures/02-evidence.html#las-islas-son-laboratorios-evolutivos",
     "href": "lectures/02-evidence.html#las-islas-son-laboratorios-evolutivos",
     "title": "Evidencia de la evolución",
     "section": "Las islas son laboratorios evolutivos",
-    "text": "Las islas son laboratorios evolutivos\n\n\nCaracterísticas:\n\n\naisladas\npequeñas poblaciones fundadoras\nflujo génico limitado\nnuevas oportunidades ecológicas\n\n\n\n\nEjemplos:\n\nGalápagos\nHawaii\nMadagascar\n\n\n\n\n\nEl aislamiento promueve la divergencia."
+    "text": "Las islas son laboratorios evolutivos\n\n\nCaracterísticas:\n\naisladas\npequeñas poblaciones fundadoras\nflujo génico limitado\nnuevas oportunidades ecológicas\n\n\n\nEjemplos:\n\nGalápagos\nHawaii\nMadagascar\n\n\n\n\n\nEl aislamiento promueve la divergencia."
   },
   {
     "objectID": "lectures/02-evidence.html#galápagos",
@@ -1026,7 +1026,7 @@
     "href": "lectures/02-evidence.html#resumen-qué-predice-la-evolución-1",
     "title": "Evidencia de la evolución",
     "section": "Resumen: ¿Qué predice la evolución?",
-    "text": "Resumen: ¿Qué predice la evolución?\nSi las especies comparten un ancestro común y las poblaciones se aíslan, deberíamos observar:\n\n\nparientes geográficamente agrupados\nfloras y faunas insulares únicas\nradiaciones adaptativas\nefectos de la historia geológica\nevolución convergente en ambientes similares\n\n\n\n\nY eso es exactamente lo que observamos."
+    "text": "Resumen: ¿Qué predice la evolución?\nSi las especies comparten un ancestro común y las poblaciones se aíslan, deberíamos observar:\n\nparientes geográficamente agrupados\nfloras y faunas insulares únicas\nradiaciones adaptativas\nefectos de la historia geológica\nevolución convergente en ambientes similares\n\n\n\nY eso es exactamente lo que observamos."
   },
   {
     "objectID": "lectures/02-evidence.html#el-adn-guarda-historia-evolutiva",
@@ -1040,7 +1040,7 @@
     "href": "lectures/02-evidence.html#predicciones-de-ancestro-común",
     "title": "Evidencia de la evolución",
     "section": "Predicciones de ancestro común",
-    "text": "Predicciones de ancestro común\n\n\nespecies cercanas comparten más ADN,\nespecies lejanas comparten menos,\nel patrón genético debe coincidir con fósiles, anatomía y biogeografía."
+    "text": "Predicciones de ancestro común\n\nespecies cercanas comparten más ADN,\nespecies lejanas comparten menos,\nel patrón genético debe coincidir con fósiles, anatomía y biogeografía."
   },
   {
     "objectID": "lectures/02-evidence.html#código-genético-universal",
@@ -1075,7 +1075,7 @@
     "href": "lectures/02-evidence.html#resumen-qué-nos-dice-el-adn",
     "title": "Evidencia de la evolución",
     "section": "Resumen: ¿Qué nos dice el ADN?",
-    "text": "Resumen: ¿Qué nos dice el ADN?\n\n\ntodos los organismos usan maquinaria molecular compartida,\nespecies más cercanas comparten más información genética,\nel ADN conserva huellas de historia evolutiva,\nla evidencia molecular respalda de forma independiente el ancestro común.\n\n\n\n\nEl patrón importa más que un porcentaje exacto."
+    "text": "Resumen: ¿Qué nos dice el ADN?\n\ntodos los organismos usan maquinaria molecular compartida,\nespecies más cercanas comparten más información genética,\nel ADN conserva huellas de historia evolutiva,\nla evidencia molecular respalda de forma independiente el ancestro común.\n\n\n\nEl patrón importa más que un porcentaje exacto."
   },
   {
     "objectID": "lectures/02-evidence.html#qué-tendríamos-a-observar",
@@ -1089,21 +1089,21 @@
     "href": "lectures/02-evidence.html#resistencia-a-antibióticos",
     "title": "Evidencia de la evolución",
     "section": "Resistencia a antibióticos",
-    "text": "Resistencia a antibióticos\n\n\n\nel antibiotico no causa resistencia\nlas variantes resistentes ya existen en la población\nel antibiótico selecciona a los resistentes, que sobreviven y se reproducen mas\nresulando en cambio en la población a lo largo de generaciones"
+    "text": "Resistencia a antibióticos\n\n\nel antibiotico no causa resistencia\nlas variantes resistentes ya existen en la población\nel antibiótico selecciona a los resistentes, que sobreviven y se reproducen mas\nresulando en cambio en la población a lo largo de generaciones"
   },
   {
     "objectID": "lectures/02-evidence.html#pinzones-de-nuevo",
     "href": "lectures/02-evidence.html#pinzones-de-nuevo",
     "title": "Evidencia de la evolución",
     "section": "Pinzones de nuevo",
-    "text": "Pinzones de nuevo\n\n\n\ncambios en el ambiente (sequía) cambiaron la disponibilidad de alimentos\nlos pinzones con picos más grandes tenían ventaja\nlos picos más grandes se volvieron más comunes en la población"
+    "text": "Pinzones de nuevo\n\n\ncambios en el ambiente (sequía) cambiaron la disponibilidad de alimentos\nlos pinzones con picos más grandes tenían ventaja\nlos picos más grandes se volvieron más comunes en la población"
   },
   {
     "objectID": "lectures/02-evidence.html#experimentos-evolutivos",
     "href": "lectures/02-evidence.html#experimentos-evolutivos",
     "title": "Evidencia de la evolución",
     "section": "Experimentos evolutivos",
-    "text": "Experimentos evolutivos\n\n\n\nAdaptacion predicible y repetida\nEvolucion de nuevas funciones (ej: metabolizar citrato)"
+    "text": "Experimentos evolutivos\n\n\nAdaptacion predicible y repetida\nEvolucion de nuevas funciones (ej: metabolizar citrato)"
   },
   {
     "objectID": "course-materials/take-home-messages.html",
@@ -1313,14 +1313,14 @@
     "href": "lectures/01-variation-and-populations.html#ser-capaces-de",
     "title": "Variación biológica y pensamiento poblacional",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nDefinir evolución como cambio en poblaciones a lo largo de generaciones.\nDistinguir cambios en individuos de cambios en poblaciones.\nExplicar por qué la variación entre individuos es importante.\nReconocer que la aptitud depende del entorno.\nIdentificar errores comunes:\n\nlos individuos no evolucionan.\nlos organismos no evolucionan porque “necesitan” rasgos.\nla evolución no está dirigida hacia una meta."
+    "text": "Ser capaces de\n\nDefinir evolución como cambio en poblaciones a lo largo de generaciones.\nDistinguir cambios en individuos de cambios en poblaciones.\nExplicar por qué la variación entre individuos es importante.\nReconocer que la aptitud depende del entorno.\nIdentificar errores comunes:\n\nlos individuos no evolucionan.\nlos organismos no evolucionan porque “necesitan” rasgos.\nla evolución no está dirigida hacia una meta."
   },
   {
     "objectID": "lectures/01-variation-and-populations.html#variacion-adentro-y-entre-especies",
     "href": "lectures/01-variation-and-populations.html#variacion-adentro-y-entre-especies",
     "title": "Variación biológica y pensamiento poblacional",
     "section": "Variacion adentro y entre especies",
-    "text": "Variacion adentro y entre especies\n\n\nLa variacion es lo normal en la biologia\nNo existen especies ni poblaciones perfectamente uniformes\nLa variacion es la materia prima (raw material?) para la evolucion\nPero no toda variacion es hereditaria (genetica)\nLa variacion no hereditaria no contribuye a la evolucion"
+    "text": "Variacion adentro y entre especies\n\nLa variacion es lo normal en la biologia\nNo existen especies ni poblaciones perfectamente uniformes\nLa variacion es la materia prima (raw material?) para la evolucion\nPero no toda variacion es hereditaria (genetica)\nLa variacion no hereditaria no contribuye a la evolucion"
   },
   {
     "objectID": "lectures/01-variation-and-populations.html#que-es-lo-que-varia",
@@ -1404,7 +1404,7 @@
     "href": "lectures/01-variation-and-populations.html#ejemplos-1",
     "title": "Variación biológica y pensamiento poblacional",
     "section": "Ejemplos",
-    "text": "Ejemplos\n\n\n\nEscala de tiempo: horas, dias, semanas — no generaciones.\nEjemplos:\n\nProduccion de globulos rojos a mayor altitud (dias a semanas).\nPigmentacion de la piel por exposicion solar (horas a dias).\nRespuesta al calor: produccion de proteinas de choque termico (minutos a horas).\nCambio de pelaje estacional en mamiferos (semanas)."
+    "text": "Ejemplos\n\n\nEscala de tiempo: horas, dias, semanas — no generaciones.\nEjemplos:\n\nProduccion de globulos rojos a mayor altitud (dias a semanas).\nPigmentacion de la piel por exposicion solar (horas a dias).\nRespuesta al calor: produccion de proteinas de choque termico (minutos a horas).\nCambio de pelaje estacional en mamiferos (semanas)."
   },
   {
     "objectID": "lectures/01-variation-and-populations.html#aclimatacion-vs-evolucion",
@@ -1474,7 +1474,7 @@
     "href": "lectures/03-methods.html#ser-capaces-de",
     "title": "Como estudiamos la evolución",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nformular preguntas evolutivas\nproponer hipótesis evolutivas alternativas\nderivar predicciones de hipótesis\nentender suposiciones de estudios evolutivos\ninterpretar evidencia evolutiva\ncomparar hipótesis evolutivas\nreconocer límites de evidencia evolutiva"
+    "text": "Ser capaces de\n\nformular preguntas evolutivas\nproponer hipótesis evolutivas alternativas\nderivar predicciones de hipótesis\nentender suposiciones de estudios evolutivos\ninterpretar evidencia evolutiva\ncomparar hipótesis evolutivas\nreconocer límites de evidencia evolutiva"
   },
   {
     "objectID": "lectures/03-methods.html#observación-vs-explicación",
@@ -1502,7 +1502,7 @@
     "href": "lectures/03-methods.html#explicación-1-azar-1",
     "title": "Como estudiamos la evolución",
     "section": "Explicación 1: Azar",
-    "text": "Explicación 1: Azar\nHipótesis:\n\nEl cambio se debe a procesos aleatorios que resultan en un cambio en la frecuencia de variantes en la población.\n\n\nPredicción:\n\n\nNo debería existir una relación consistente entre tamaño del pico y tamaño de las semillas. (Ecología, Recursos)\nNo debería existir una relación consistente entre tamaño del pico y supervivencia. (Aptitud, Selección Natural)\nEl cambio podría ocurrir incluso sin cambios en los recursos disponibles. (Ecología, Recursos)"
+    "text": "Explicación 1: Azar\nHipótesis:\n\nEl cambio se debe a procesos aleatorios que resultan en un cambio en la frecuencia de variantes en la población.\n\n\nPredicción:\n\nNo debería existir una relación consistente entre tamaño del pico y tamaño de las semillas. (Ecología, Recursos)\nNo debería existir una relación consistente entre tamaño del pico y supervivencia. (Aptitud, Selección Natural)\nEl cambio podría ocurrir incluso sin cambios en los recursos disponibles. (Ecología, Recursos)"
   },
   {
     "objectID": "lectures/03-methods.html#explicación-2-adaptación-a-la-dieta",
@@ -1516,14 +1516,14 @@
     "href": "lectures/03-methods.html#explicación-2-adaptación-a-la-dieta-1",
     "title": "Como estudiamos la evolución",
     "section": "Explicación 2: Adaptación a la dieta",
-    "text": "Explicación 2: Adaptación a la dieta\nHipótesis:\n\nEl cambio se debe a que individuos con picos más grandes sobrevivieron y se reprodujeron más durante la sequía.\n\n\nPredicción:\n\n\nDebería existir una relación entre tamaño del pico y tamaño de las semillas disponibles. (Ecología, Recursos)\nDebería existir una relación consistente entre el tamaño del pico y la dieta. (Ecología, Recursos)\nParte de la variación en el tamaño del pico debería ser heredable. (Genética)\nEl tamaño promedio del pico debería aumentar generación tras generación. (Aptitud, Selección Natural)\nLos individuos con picos más grandes deberían sobrevivir más frecuentemente. (Aptitud, Selección Natural)"
+    "text": "Explicación 2: Adaptación a la dieta\nHipótesis:\n\nEl cambio se debe a que individuos con picos más grandes sobrevivieron y se reprodujeron más durante la sequía.\n\n\nPredicción:\n\nDebería existir una relación entre tamaño del pico y tamaño de las semillas disponibles. (Ecología, Recursos)\nDebería existir una relación consistente entre el tamaño del pico y la dieta. (Ecología, Recursos)\nParte de la variación en el tamaño del pico debería ser heredable. (Genética)\nEl tamaño promedio del pico debería aumentar generación tras generación. (Aptitud, Selección Natural)\nLos individuos con picos más grandes deberían sobrevivir más frecuentemente. (Aptitud, Selección Natural)"
   },
   {
     "objectID": "lectures/03-methods.html#comparación-de-hipótesis",
     "href": "lectures/03-methods.html#comparación-de-hipótesis",
     "title": "Como estudiamos la evolución",
     "section": "Comparación de hipótesis",
-    "text": "Comparación de hipótesis\n¿Qué datos serían útiles para distinguir entre estas explicaciones?\n\n\nTamaño de pico\nTamaño de semillas\nDieta\nSupervivencia\nNúmero de hijos\nHerencia padres–hijos\nCambios en la población a través del tiempo"
+    "text": "Comparación de hipótesis\n¿Qué datos serían útiles para distinguir entre estas explicaciones?\n\nTamaño de pico\nTamaño de semillas\nDieta\nSupervivencia\nNúmero de hijos\nHerencia padres–hijos\nCambios en la población a través del tiempo"
   },
   {
     "objectID": "lectures/03-methods.html#picos-y-semillas",
@@ -1586,14 +1586,14 @@
     "href": "lectures/03-methods.html#más-allá-de-los-pinzones",
     "title": "Como estudiamos la evolución",
     "section": "Más allá de los pinzones",
-    "text": "Más allá de los pinzones\nEste ejemplo usa pinzones, pero la lógica aplica a cualquier rasgo en cualquier población:\n\n\nResistencia a antibióticos en bacterias → variación en el rasgo (tolerancia), heredable (mutación), relación con sobrevivencia (antibiótico como agente selectivo)\nCamuflaje en polillas → color del ala, heredable, depredadores como agente selectivo\nTolerancia a metales en plantas → plantas en suelos contaminados, variación heredable en tolerancia, metales como filtro selectivo\nCualquier rasgo morfológico, fisiológico o de comportamiento en cualquier especie\n\n\n\n\nLa pregunta siempre es la misma: ¿hay variación heredable en el rasgo, y esa variación afecta la reproducción o sobrevivencia?"
+    "text": "Más allá de los pinzones\nEste ejemplo usa pinzones, pero la lógica aplica a cualquier rasgo en cualquier población:\n\nResistencia a antibióticos en bacterias → variación en el rasgo (tolerancia), heredable (mutación), relación con sobrevivencia (antibiótico como agente selectivo)\nCamuflaje en polillas → color del ala, heredable, depredadores como agente selectivo\nTolerancia a metales en plantas → plantas en suelos contaminados, variación heredable en tolerancia, metales como filtro selectivo\nCualquier rasgo morfológico, fisiológico o de comportamiento en cualquier especie\n\n\n\nLa pregunta siempre es la misma: ¿hay variación heredable en el rasgo, y esa variación afecta la reproducción o sobrevivencia?"
   },
   {
     "objectID": "lectures/03-methods.html#se-puede-estudiar-el-pasado",
     "href": "lectures/03-methods.html#se-puede-estudiar-el-pasado",
     "title": "Como estudiamos la evolución",
     "section": "¿Se puede estudiar el pasado?",
-    "text": "¿Se puede estudiar el pasado?\n\n\nAstronomía: ¿cómo se formaron las galaxias?\nGeología: ¿cómo se formaron las montañas?\nBiología evolutiva: ¿cuándo divergieron estas especies?\n\n\n\n\nNo podemos repetir el pasado en el laboratorio.\nPero podemos inferirlo a partir de evidencia presente."
+    "text": "¿Se puede estudiar el pasado?\n\nAstronomía: ¿cómo se formaron las galaxias?\nGeología: ¿cómo se formaron las montañas?\nBiología evolutiva: ¿cuándo divergieron estas especies?\n\n\n\nNo podemos repetir el pasado en el laboratorio.\nPero podemos inferirlo a partir de evidencia presente."
   },
   {
     "objectID": "lectures/03-methods.html#la-ciencia-histórica-también-usa-hipótesis",
@@ -1628,28 +1628,28 @@
     "href": "lectures/03-methods.html#evidencia-tres-fuentes-independientes",
     "title": "Como estudiamos la evolución",
     "section": "Evidencia: tres fuentes independientes",
-    "text": "Evidencia: tres fuentes independientes\n\n\n\n\nFósil clave del clado X datado por C¹⁴:\n12 650 ± 150 años AP (rango: 12 500–12 800)\nSedimentos del Lago Y datados por C¹⁴:\n12 250 ± 150 años AP (rango: 12 100–12 400)\nFilogenia molecular de varios loci:\nEdad estimada del clado: 12 500 años AP (rango: 11 800–13 200)"
+    "text": "Evidencia: tres fuentes independientes\n\n\n\nFósil clave del clado X datado por C¹⁴:\n12 650 ± 150 años AP (rango: 12 500–12 800)\nSedimentos del Lago Y datados por C¹⁴:\n12 250 ± 150 años AP (rango: 12 100–12 400)\nFilogenia molecular de varios loci:\nEdad estimada del clado: 12 500 años AP (rango: 11 800–13 200)"
   },
   {
     "objectID": "lectures/03-methods.html#suposiciones-de-cada-método",
     "href": "lectures/03-methods.html#suposiciones-de-cada-método",
     "title": "Como estudiamos la evolución",
     "section": "Suposiciones de cada método",
-    "text": "Suposiciones de cada método\nCada método descansa en suposiciones que pueden no cumplirse perfectamente:\n\n\nDatación C¹⁴ asume:\n\nla tasa de desintegración del carbono-14 es constante\nel sistema estuvo cerrado después de la muerte (sin intercambio de carbono)\n\nFilogenia molecular asume:\n\nlas tasas de sustitución de ADN son relativamente constantes a lo largo del tiempo (reloj molecular)\nel modelo de evolución molecular elegido es correcto\n\nRegistro fósil asume:\n\nlos fósiles encontrados son representativos de los organismos que existieron\nla ausencia de fósiles más antiguos no implica que no existieran\n\n\n\n\n\nSi las suposiciones no se cumplen, las estimaciones pueden estar sesgadas.\nPor eso integramos múltiples métodos independientes."
+    "text": "Suposiciones de cada método\nCada método descansa en suposiciones que pueden no cumplirse perfectamente:\n\nDatación C¹⁴ asume:\n\nla tasa de desintegración del carbono-14 es constante\nel sistema estuvo cerrado después de la muerte (sin intercambio de carbono)\n\nFilogenia molecular asume:\n\nlas tasas de sustitución de ADN son relativamente constantes a lo largo del tiempo (reloj molecular)\nel modelo de evolución molecular elegido es correcto\n\nRegistro fósil asume:\n\nlos fósiles encontrados son representativos de los organismos que existieron\nla ausencia de fósiles más antiguos no implica que no existieran\n\n\n\n\nSi las suposiciones no se cumplen, las estimaciones pueden estar sesgadas.\nPor eso integramos múltiples métodos independientes."
   },
   {
     "objectID": "lectures/03-methods.html#límites-e-incertidumbre",
     "href": "lectures/03-methods.html#límites-e-incertidumbre",
     "title": "Como estudiamos la evolución",
     "section": "Límites e incertidumbre",
-    "text": "Límites e incertidumbre\n\n\nCada fuente de evidencia tiene límites:\n\n\nEl registro fósil es incompleto → el fósil más antiguo conocido no es necesariamente el primero que existió.\nLas dataciones tienen error → ±150 años en este caso; no son valores exactos.\nLas reconstrucciones filogenéticas son estimaciones → reflejan incertidumbre estadística.\n\n\n\n\n\nPor eso los científicos reportan intervalos, no valores puntuales.\nTrabajamos con incertidumbre cuantificada, no la ignoramos."
+    "text": "Límites e incertidumbre\n\n\nCada fuente de evidencia tiene límites:\n\nEl registro fósil es incompleto → el fósil más antiguo conocido no es necesariamente el primero que existió.\nLas dataciones tienen error → ±150 años en este caso; no son valores exactos.\nLas reconstrucciones filogenéticas son estimaciones → reflejan incertidumbre estadística.\n\n\n\n\nPor eso los científicos reportan intervalos, no valores puntuales.\nTrabajamos con incertidumbre cuantificada, no la ignoramos."
   },
   {
     "objectID": "lectures/03-methods.html#comparación-de-hipótesis-1",
     "href": "lectures/03-methods.html#comparación-de-hipótesis-1",
     "title": "Como estudiamos la evolución",
     "section": "Comparación de hipótesis",
-    "text": "Comparación de hipótesis\n\n\nConsistencia con H₁ (clado más antiguo)\n\n\nEl fósil (12 500–12 800) es anterior al rango del lago (12 100–12 400)\nEl origen filogenético (11 800–13 200) incluye edades anteriores al lago\n\n\n\nConsistencia con H₂ (clado más joven)\n\n\nEl fósil no es posterior al lago\nEl origen filogenético no está claramente después del lago\n\n\n\n\n\nLos datos son más consistentes con H₁.\nLa evidencia favorece una hipótesis, pero rara vez la prueba de forma absoluta."
+    "text": "Comparación de hipótesis\n\n\nConsistencia con H₁ (clado más antiguo)\n\nEl fósil (12 500–12 800) es anterior al rango del lago (12 100–12 400)\nEl origen filogenético (11 800–13 200) incluye edades anteriores al lago\n\n\nConsistencia con H₂ (clado más joven)\n\nEl fósil no es posterior al lago\nEl origen filogenético no está claramente después del lago\n\n\n\n\nLos datos son más consistentes con H₁.\nLa evidencia favorece una hipótesis, pero rara vez la prueba de forma absoluta."
   },
   {
     "objectID": "lectures/03-methods.html#inferencia-y-conclusión-provisional",
@@ -1663,14 +1663,14 @@
     "href": "lectures/03-methods.html#resumen-inferencia-histórica-con-incertidumbre",
     "title": "Como estudiamos la evolución",
     "section": "Resumen: inferencia histórica con incertidumbre",
-    "text": "Resumen: inferencia histórica con incertidumbre\n\n\nLos biólogos evolutivos estudian el pasado mediante inferencia, no experimentos directos.\nUsamos el mismo marco lógico: pregunta → hipótesis → predicciones → evidencia → comparación.\nToda evidencia histórica tiene límites cuantificables: registro incompleto, error en dataciones, incertidumbre estadística.\nReportamos intervalos, no certezas.\nAun con incertidumbre, podemos hacer inferencias bien fundamentadas integrando múltiples líneas de evidencia."
+    "text": "Resumen: inferencia histórica con incertidumbre\n\nLos biólogos evolutivos estudian el pasado mediante inferencia, no experimentos directos.\nUsamos el mismo marco lógico: pregunta → hipótesis → predicciones → evidencia → comparación.\nToda evidencia histórica tiene límites cuantificables: registro incompleto, error en dataciones, incertidumbre estadística.\nReportamos intervalos, no certezas.\nAun con incertidumbre, podemos hacer inferencias bien fundamentadas integrando múltiples líneas de evidencia."
   },
   {
     "objectID": "lectures/03-methods.html#más-allá-del-clado-y-el-lago",
     "href": "lectures/03-methods.html#más-allá-del-clado-y-el-lago",
     "title": "Como estudiamos la evolución",
     "section": "Más allá del clado y el lago",
-    "text": "Más allá del clado y el lago\nEste ejemplo usa un grupo de especies y un lago, pero la misma lógica aplica a muchos contextos:\n\n\nBiogeografía de islas → ¿el grupo colonizó la isla antes o después del aislamiento geográfico?\nVirus en un nuevo huésped → ¿el linaje viral es anterior o posterior al primer contacto con esa especie?\nDiversificación en montañas → ¿el clado se originó antes o después del levantamiento de la cordillera?\nOrigen de una enfermedad → ¿cuándo divergió el patógeno de su ancestro común con una cepa conocida?\n\n\n\n\nEn todos los casos: usamos fósiles, filogenias y dataciones para inferir el pasado, reconociendo las suposiciones y los límites de cada método."
+    "text": "Más allá del clado y el lago\nEste ejemplo usa un grupo de especies y un lago, pero la misma lógica aplica a muchos contextos:\n\nBiogeografía de islas → ¿el grupo colonizó la isla antes o después del aislamiento geográfico?\nVirus en un nuevo huésped → ¿el linaje viral es anterior o posterior al primer contacto con esa especie?\nDiversificación en montañas → ¿el clado se originó antes o después del levantamiento de la cordillera?\nOrigen de una enfermedad → ¿cuándo divergió el patógeno de su ancestro común con una cepa conocida?\n\n\n\nEn todos los casos: usamos fósiles, filogenias y dataciones para inferir el pasado, reconociendo las suposiciones y los límites de cada método."
   },
   {
     "objectID": "lectures/05-mutation.html#metas",
@@ -1684,7 +1684,7 @@
     "href": "lectures/05-mutation.html#ser-capaces-de",
     "title": "Mutación",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nExplicar por qué la mutación es la única fuente de nuevas variantes alélicas.\nDescribir los tipos básicos de mutaciones y cómo afectan el ADN.\nReconocer que las mutaciones son procesos aleatorios, no dirigidos por necesidades del organismo.\nIntegrar el concepto de mutación con el equilibrio de Hardy-Weinberg para entender cómo se introducen nuevas variantes en las poblaciones.\nIntegrar el concepto de mutación con el modelo de herencia poligénica para explicar la variación continua."
+    "text": "Ser capaces de\n\nExplicar por qué la mutación es la única fuente de nuevas variantes alélicas.\nDescribir los tipos básicos de mutaciones y cómo afectan el ADN.\nReconocer que las mutaciones son procesos aleatorios, no dirigidos por necesidades del organismo.\nIntegrar el concepto de mutación con el equilibrio de Hardy-Weinberg para entender cómo se introducen nuevas variantes en las poblaciones.\nIntegrar el concepto de mutación con el modelo de herencia poligénica para explicar la variación continua."
   },
   {
     "objectID": "lectures/05-mutation.html#hasta-ahora-hemos-visto-que",
@@ -1796,7 +1796,7 @@
     "href": "lectures/05-mutation.html#resumen-herencia-poligenica",
     "title": "Mutación",
     "section": "Resumen: Herencia poligenica",
-    "text": "Resumen: Herencia poligenica\n\n\nNo hay contradicción: la herencia mendeliana es particulada en cada locus.\nMuchos loci con efectos pequeños se suman para construir el fenotipo.\nAl combinarse en muchos individuos, esas contribuciones discretas generan una distribución aparentemente continua.\nGenética mendeliana (nivel de gen) y variación cuantitativa (nivel poblacional) son dos escalas del mismo proceso."
+    "text": "Resumen: Herencia poligenica\n\nNo hay contradicción: la herencia mendeliana es particulada en cada locus.\nMuchos loci con efectos pequeños se suman para construir el fenotipo.\nAl combinarse en muchos individuos, esas contribuciones discretas generan una distribución aparentemente continua.\nGenética mendeliana (nivel de gen) y variación cuantitativa (nivel poblacional) son dos escalas del mismo proceso."
   },
   {
     "objectID": "lectures/05-mutation.html#cómo-aparecen-nuevas-variantes",
@@ -1880,7 +1880,7 @@
     "href": "lectures/05-mutation.html#sustituciones-tres-resultados",
     "title": "Mutación",
     "section": "Sustituciones: tres resultados",
-    "text": "Sustituciones: tres resultados\n\n\n\n\nSilenciosa (silent): cambia el codón pero no cambia el aminoácido.\nCon cambio de sentido (missense): cambia el aminoácido.\nSin sentido (nonsense): convierte un codón en stop prematuro."
+    "text": "Sustituciones: tres resultados\n\n\n\nSilenciosa (silent): cambia el codón pero no cambia el aminoácido.\nCon cambio de sentido (missense): cambia el aminoácido.\nSin sentido (nonsense): convierte un codón en stop prematuro."
   },
   {
     "objectID": "lectures/05-mutation.html#inserciones-y-deleciones",
@@ -1950,7 +1950,7 @@
     "href": "lectures/07-drift.html#ser-capaces-de",
     "title": "Deriva genética",
     "section": "Ser capaces de",
-    "text": "Ser capaces de\n\n\nDefinir deriva genética como cambio aleatorio en frecuencias alélicas.\nExplicar por qué ocurre deriva incluso cuando no hay diferencias de aptitud.\nComparar selección natural vs deriva genética en términos de causa y resultados.\nInterpretar los patrones de deriva en poblaciones con distinto tamaño (\\(N = 20, 200, 2000\\)).\nReconocer cómo cuello de botella y efecto fundador amplifican la deriva."
+    "text": "Ser capaces de\n\nDefinir deriva genética como cambio aleatorio en frecuencias alélicas.\nExplicar por qué ocurre deriva incluso cuando no hay diferencias de aptitud.\nComparar selección natural vs deriva genética en términos de causa y resultados.\nInterpretar los patrones de deriva en poblaciones con distinto tamaño (\\(N = 20, 200, 2000\\)).\nReconocer cómo cuello de botella y efecto fundador amplifican la deriva."
   },
   {
     "objectID": "lectures/07-drift.html#selección-vs.-deriva",
@@ -2006,21 +2006,21 @@
     "href": "lectures/07-drift.html#qué-observamos",
     "title": "Deriva genética",
     "section": "¿Qué observamos?",
-    "text": "¿Qué observamos?\n\n\nTodas las poblaciones empiezan iguales.\nLas trayectorias divergen por azar.\nAlgunas poblaciones fijan el alelo A.\nAlgunas poblaciones pierden el alelo A.\nLa divergencia es mayor cuando N es pequeño."
+    "text": "¿Qué observamos?\n\nTodas las poblaciones empiezan iguales.\nLas trayectorias divergen por azar.\nAlgunas poblaciones fijan el alelo A.\nAlgunas poblaciones pierden el alelo A.\nLa divergencia es mayor cuando N es pequeño."
   },
   {
     "objectID": "lectures/07-drift.html#experimento-tipo-buri-500-poblaciones",
     "href": "lectures/07-drift.html#experimento-tipo-buri-500-poblaciones",
     "title": "Deriva genética",
     "section": "Experimento tipo Buri: 500 poblaciones",
-    "text": "Experimento tipo Buri: 500 poblaciones\n\n\nObservar: - Gen 0: todos centrados en 0.5 - Generaciones posteriores: aumenta la dispersión - Algunas poblaciones fijan un alelo, otras lo pierden"
+    "text": "Experimento tipo Buri: 500 poblaciones\n\nObservar: - Gen 0: todos centrados en 0.5 - Generaciones posteriores: aumenta la dispersión - Algunas poblaciones fijan un alelo, otras lo pierden"
   },
   {
     "objectID": "lectures/07-drift.html#consecuencias-de-la-deriva",
     "href": "lectures/07-drift.html#consecuencias-de-la-deriva",
     "title": "Deriva genética",
     "section": "Consecuencias de la deriva",
-    "text": "Consecuencias de la deriva\n\n\nPérdida de diversidad genética.\nFijación o pérdida de alelos.\nDiferenciación entre poblaciones.\nEvolución incluso en ausencia de selección natural."
+    "text": "Consecuencias de la deriva\n\nPérdida de diversidad genética.\nFijación o pérdida de alelos.\nDiferenciación entre poblaciones.\nEvolución incluso en ausencia de selección natural."
   },
   {
     "objectID": "lectures/07-drift.html#cuello-de-botella-y-efecto-fundador",
@@ -2034,7 +2034,7 @@
     "href": "lectures/07-drift.html#resumen",
     "title": "Deriva genética",
     "section": "Resumen",
-    "text": "Resumen\n\n\nLa deriva genética es evolución por azar.\nOcurre en todas las poblaciones.\nEs más intensa en poblaciones pequeñas.\nReduce la diversidad genética.\nPuede causar fijación o pérdida de alelos.\nCuellos de botella y efectos fundadores amplifican la deriva."
+    "text": "Resumen\n\nLa deriva genética es evolución por azar.\nOcurre en todas las poblaciones.\nEs más intensa en poblaciones pequeñas.\nReduce la diversidad genética.\nPuede causar fijación o pérdida de alelos.\nCuellos de botella y efectos fundadores amplifican la deriva."
   },
   {
     "objectID": "lectures/09-speciation.html#metas",
@@ -2091,6 +2091,13 @@
     "title": "Especiacion",
     "section": "Son especies distintas?",
     "text": "Son especies distintas?"
+  },
+  {
+    "objectID": "lectures/09-speciation.html#concepto-de-especie",
+    "href": "lectures/09-speciation.html#concepto-de-especie",
+    "title": "Especiacion",
+    "section": "Concepto de especie",
+    "text": "Concepto de especie\nSi dos poblaciones o linajes son differentes especies, depende - del organismo que estamos estudiando, - de la pregunta que queramos contestar, o - la propriedad que consideramos que define una especie.\n\n\n\nPara un ornitologo, una especie puede ser un grupo de aves que se cruzan entre si y producen descendencia viable y fértil.\n\n\n\nPara un microbiólogo, una especie puede ser un grupo de bacterias que comparten un conjunto de genes y rasgos fenotípicos."
   },
   {
     "objectID": "lectures/09-speciation.html#concepto-de-especie-biologica",
@@ -2195,7 +2202,7 @@
     "href": "lectures/09-speciation.html#geografía-y-especiación",
     "title": "Especiacion",
     "section": "Geografía y especiación",
-    "text": "Geografía y especiación\n\n\n\n\nBarrera\nMigración limitada\nDeriva, selección y mutación independientes\nDivergencia genética\nAislamiento reproductivo\n\n\n\n\nEjemplos:\n- islas\n- cordilleras\n- glaciaciones\n- ríos"
+    "text": "Geografía y especiación\n\n\n\nBarrera\nMigración limitada\nDeriva, selección y mutación independientes\nDivergencia genética\nAislamiento reproductivo\n\n\n\nEjemplos:\n- islas\n- cordilleras\n- glaciaciones\n- ríos"
   },
   {
     "objectID": "lectures/09-speciation.html#istmo-de-panamá",
@@ -2216,7 +2223,7 @@
     "href": "lectures/09-speciation.html#ecologia-y-especiacion",
     "title": "Especiacion",
     "section": "Ecologia y especiacion",
-    "text": "Ecologia y especiacion\n\n\n\n\nAmbientes distintos dentro de la misma region\nSeleccion favorece rasgos diferentes\nFlujo genico reducido entre nichos\nDivergencia genetica y fenotipica\nAislamiento reproductivo\n\n\n\n\nEjemplos:\n- lagos profundos vs someros\n- hospederos distintos\n- suelos metalicos vs normales\n- gradientes altitudinales"
+    "text": "Ecologia y especiacion\n\n\n\nAmbientes distintos dentro de la misma region\nSeleccion favorece rasgos diferentes\nFlujo genico reducido entre nichos\nDivergencia genetica y fenotipica\nAislamiento reproductivo\n\n\n\nEjemplos:\n- lagos profundos vs someros\n- hospederos distintos\n- suelos metalicos vs normales\n- gradientes altitudinales"
   },
   {
     "objectID": "lectures/09-speciation.html#whitefish-en-lagos-postglaciales",
