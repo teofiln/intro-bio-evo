@@ -4,7 +4,7 @@ subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
 format:
   revealjs:
     slide-number: true
-    incremental: false
+    incremental: true
     theme: simple
 lang: es
 ---
@@ -13,15 +13,16 @@ lang: es
 
 * Intoducir lineages, su divergencia y como se relaciona con especiacion.
 * Introducir el concepto de especie y especiacion.
-* Discutir el papel de la geografia, ecologia, fenologia, hibridacion y otros factores.
-* Introducir unidades de conservacion 
+* Discutir el papel de la geografia, ecologia, fenologia, comportamiento.
 
 ## Ser capaces de {.smaller}
 
 * Definir linaje y especie.
 * Explicar como divergen los linajes y como se relaciona con especiacion.
-* Explicar el papel de la geografia, ecologia, fenologia, hibridacion y otros factores en especiacion.
-* Entender la importancia de la evolucion para las unidades de conservacion.
+* Explicar el papel de la geografia, ecologia, fenologia, en especiacion.
+* Describir algunos conceptos de especie y sus fortalezas y limitaciones.
+* Entender los diferentes tipos de especiacion geografica (alopatrica, simpatrica, peripatrica).
+* Explicar el concepto de refuerzo y especies anillo.
 
 # Linajes {background-color="#E8F5E9"}
 
@@ -40,7 +41,7 @@ lang: es
 
 :::
 
-## ¿Cuál es el resultado de la acción acumulada de estas fuerzas?
+---
 
 > **Linaje** es un grupo de 
 > 
@@ -73,7 +74,7 @@ lang: es
 
 ## De individuos a poblaciones a linajes
 
-![](09-assets/lineage-levels-3.png){width=100%}
+![](09-assets/lineage-levels-3.png){width=100% fig-align="center"}
 
 # Especies {background-color="#E8F5E9"}
 
@@ -110,86 +111,145 @@ lang: es
 
 > Especies = grupos de poblaciones naturales, que están reproductivamente aisladas de otros grupos, y que se cruzan entre si (o pueden cruzar potencialmente) y producen descendencia viable y fértil.
 
+::: {.fragment}
+
 * Componentes:  
   - Aislamiento reproductivo  
   - Flujo genético  
   - Cruzamiento   
   - Viabilidad y fertilidad de la descendencia  
 
+:::
+
+
 ## Concepto de especie biologica
 
-* Fortalezas
-  - Se centra en procesos evolutivos.
-  - Se puede aplicar a poblaciones vivas.
-  - Se puede probar experimentalmente.
+::: {.columns}
 
-* Limitaciones: 
-  - Fósiles
-  - Organismos asexuales
-  - Hibridización
+::: {.column}
+
+* Lo mejor
+  - Se enfoca en el aislamiento reproductivo, que es el proceso central de la especiacion.
+
+:::
+
+::: {.column}
+
+* Lo mas problemático
+  - No funciona bien para fósiles, organismos asexuales o casos con hibridización.
+
+:::
+
+:::
+
 
 ## Concepto de especie morfológica
 
 > Especies = grupo de organismos clasificados como una especie distinta basándose únicamente en sus características estructurales, anatómicas y físicas compartidas.
+
+
+::: {.fragment}
 
 * Componentes:  
   - Rasgos físicos  
   - Coincidencia visual  
   - Ignora la reproducción   
 
+:::
+
 ## Concepto de especie morfológica
 
-* Fortalezas
-  - Útil para fósiles, organismos asexuales y en el campo.
-  - Aplicable a organismos vivos y extintos.
-  - Practico y rápido.
+::: {.columns}
 
-* Limitaciones
-  - Subjetivo
-  - Puede confundir diferentes etapas de vida.
-  - No distingue especies crípticas
+::: {.column}
+
+* Lo mejor
+  - Es rapido y util cuando solo tenemos observacion externa, como en el campo o con fosiles.
+
+:::
+
+::: {.column}
+
+* Lo mas problemático
+  - Puede confundir variacion normal con especies distintas y no detecta especies crípticas.
+
+:::
+
+:::
+
 
 ## Concepto de especie filogenética
   
 > Especies = el grupo más pequeño de organismos que comparten un ancestro común y que pueden distinguirse de otros grupos similares por rasgos genéticos o físicos únicos heredados.
+
+
+::: {.fragment}
 
 * Componentes:  
   - Ancestro común  
   - Datos genéticos  
   - Monofilia  
 
+:::
+
 ## Concepto de especie filogenética
 
-* Fortalezas
-  - Alta precisión
-  - Contexto evolutivo
-  - Ampliamente aplicable
+::: {.columns}
 
-* Limitaciones
-  - Datos incompletos
-  - Huecos en el registro fósil
-  - Sobre-especiación
+::: {.column}
+
+* Lo mejor
+  - Usa relaciones evolutivas y ayuda a reconocer linajes distintos con datos geneticos o rasgos heredados.
+
+:::
+
+::: {.column}
+
+* Lo mas problemático
+  - Puede depender de datos incompletos y terminar dividiendo demasiado.
+
+:::
+
+:::
+
 
 ## Concepto de especie evolutiva
 
 > Especies = Linaje de metapoblaciones que evolucionan independientemente.
+
+
+::: {.fragment}
 
 * Componentes:  
   - Continuidad de linaje  
   - Estructura de metapoblaciones  
   - Umbrales de evidencia  
 
+:::
+
 ## Concepto de especie evolutiva
 
-* Fortalezas
-  - Unifica taxonomía
-  - Flexible
-  - Realista ecológicamente
+::: {.columns}
 
-* Limitaciones:  
-  - Diagnóstico retrasado  
-  - Integración de datos  
-  - Ambigüedad operacional  
+::: {.column}
+
+* Lo mejor
+  - Integra la historia completa del linaje y su independencia evolutiva.
+
+:::
+
+::: {.column}
+
+* Lo mas problemático
+  - Puede ser difícil de aplicar porque la independencia evolutiva no siempre se ve de inmediato.
+
+:::
+
+:::
+
+::: {.fragment}
+
+:::
 
 ## Definiciones diferentes contestan diferentes preguntas biologicas
 
@@ -198,7 +258,7 @@ lang: es
 ::: {.column}
 
 * Biologico => Aislamiento reproductivo
-* Morfologico => Razgos diagnósticos compartidos
+* Morfologico => Rasgos diagnósticos compartidos
 * Filogenetico => Ancestro común y rasgos únicos
 * Evolutivo => Independencia evolutiva
 
@@ -234,14 +294,13 @@ Puede comenzar por diferencias:
 - geográficas  
 - ecológicas  
 - temporales  
-- conductuales
-- ...
+- conductuales  
 
 ## Divergencia 
 
 ![](09-assets/divergence.webp)
 
-## Geografía y especiación
+## Geografía y especiación {.smaller}
 
 
 ::: {.columns}
@@ -262,20 +321,20 @@ Puede comenzar por diferencias:
 
 
 ::: {.fragment}
-
-- islas
-- cordilleras
-- glaciaciones
-- ríos
-
-:::
+Ejemplos:  
+- islas  
+- cordilleras  
+- glaciaciones  
+- ríos  
 
 :::
 
 :::
 
+:::
 
-## Barrera geográfica ejemplo 1
+
+## Istmo de Panamá
 
 ::: {.columns}
 
@@ -296,7 +355,7 @@ Puede comenzar por diferencias:
 
 :::
 
-## Barrera geográfica ejemplo 2
+## Grand Canyon
 
 ::: {.columns}
 
@@ -317,41 +376,270 @@ Puede comenzar por diferencias:
 
 :::
 
-## Ecologia y especiacion
+## Ecologia y especiacion {.smaller}
 
-* Especialización de nicho
-* 
+::: {.columns}
 
-## Fenologia y especiacion
+::: {.column}
 
+::: {.incremental}
+* Ambientes distintos dentro de la misma region
+* Seleccion favorece rasgos diferentes
+* Flujo genico reducido entre nichos
+* Divergencia genetica y fenotipica
+* Aislamiento reproductivo
+:::
 
+:::
 
+::: {.column}
 
+::: {.fragment}
+Ejemplos:  
+  - lagos profundos vs someros  
+  - hospederos distintos  
+  - suelos metalicos vs normales  
+  - gradientes altitudinales  
 
+:::
 
-# Aislamiento reproductivo {background-color="#E8F5E9"}
+:::
+
+:::
+
+## Whitefish en lagos postglaciales {.smaller}
+
+::: {.columns}
+
+::: {.column}
+
+![](09-assets/pike-whitefish-eco-spec.jpg)
+
+:::
+
+::: {.column}
+
+- Dos ecotipos: limnetico (grande) y bentico (pequeno)
+- Normalmente, ambos desovan en la misma profundidad
+- Presencia de Pike refuerza divergencia en tamano y comportamiento
+- Los benticos desovan en aguas someras
+- Los limneticos desovan en aguas profundas o arroyos
+- Flujo genico entre ecotipos reducido (aislamiento reproductivo)
+- Divergencia genetica y fenotipica
+
+:::
+
+:::
+
+## Whitefish resumen visual
+
+![](09-assets/whitefish-diagram.png){fig-align="center"}
+
+## Mosca de la manzana (Rhagoletis) {.smaller}
+
+::: {.columns}
+
+::: {.column}
+
+- Cambio de hospedero: espino a manzano
+- Apareamiento sobre la planta hospedera
+- Diferencias de tiempo de emergencia (manzanas antes que espinos)
+- Diferencias de comportamiento y fenologia reducen flujo genico (aislamiento reproductivo)
+
+:::
+
+::: {.column}
+
+![](09-assets/apple-maggot-fly.png)
+
+:::
+
+:::
+
+## Mosca de la manzana resumen visual
+
+![](09-assets/apple-flies-diagram.png){fig-align="center"}
+
+## Aislamiento reproductivo
 
 ¿Y exactamente cómo dejan de cruzarse?
 
-> Aislamiento pre y post -zygotico
+> Aislamiento pre y post -zigotico
+
+
+::: {.columns}
+
+::: {.column}
+
+
+::: {.fragment}
+
+* Prezigótico
+  * no se encuentran
+  * no se aparean
+  * no se fecundan
+
+:::
+
+:::
+
+::: {.column}
+
+
+::: {.fragment}
+
+* Postzigótico
+  * híbridos inviables
+  * híbridos estériles
+
+:::
+
+
+:::
+
+:::
+
+# Contexto geografico {background-color="#E8F5E9"}
+
+## Antes de ver los modos geográficos
+
+La especiacion suele empezar cuando baja el flujo genico entre poblaciones.
+
+* A veces la causa principal es una barrera geografica.
+* Otras veces el separador es el ambiente, el tiempo o el comportamiento.
+* En todos los casos, el resultado es el mismo: menos cruce y mas divergencia.
+
+## Especiacion simpatrica
+
+
+::: {.columns}
+
+::: {.column}
+
+* Divergencia en la misma region
+* Sin barrera geografica clara
+* Diferencias ecologicas, de conducta o de hospedero
+
+:::
+
+::: {.column}
+
+![](09-assets/Sympatric_Speciation_Schematic.svg)
+
+:::
+
+:::
 
 
 
+## Especiacion alopatrica
 
-# Hibridización
+::: {.columns}
 
-# Contexto geografico
+::: {.column}
 
-# Refuerzo
+* Separacion por una barrera geografica
+* Flujo genico cortado o muy reducido
+* Deriva y seleccion actuan por separado
 
-# Especies anillo
+:::
 
-# Radiacion adaptativa
+::: {.column}
 
-# Unidades de conservacion
+![](09-assets/Allopatric-Speciation-Process-diagram.jpg)
 
-# Los especies no son imutables
+:::
 
-# Resumen
+:::
 
-> Speciation is the gradual evolution of reproductive isolation, causing populations to become independently evolving evolutionary lineages.
+
+
+## Especiacion peripatrica
+
+
+::: {.columns}
+
+::: {.column}
+
+* Poblacion pequena aislada en el borde
+* Efecto fundador y deriva intensos
+* Divergencia rapida en poblaciones perifericas
+
+:::
+
+::: {.column}
+
+![](09-assets/Peripatric_Speciation_Schematic.svg)
+
+:::
+
+:::
+
+
+
+## Refuerzo del aislamiento reproductivo
+
+> El refuerzo ocurre cuando linajes previamente separados vuelven a entrar en contacto
+>
+> La seleccion favorece un aislamiento reproductivo aun mas fuerte para evitar la formacion de hibridos de bajo rendimiento.
+
+![](09-assets/Speciation_by_Reinforcement_Schematic.svg.png){fig-align="center"}
+
+## Refuerzo del aislamiento reproductivo
+
+::: {.columns}
+
+::: {.column}
+
+* Contacto secundario despues de la divergencia
+* Hibridos inviables o poco fertiles
+* Seleccion favorece mecanismos prezigoticos mas fuertes
+
+:::
+
+::: {.column}
+
+* Resultado: menor flujo genico tras el reencuentro
+* Aislamiento reproductivo mas fuerte que antes del contacto
+* Puede actuar sobre conducta, fenologia o preferencias de apareamiento
+
+:::
+
+:::
+
+## Especies anillo {.smaller}
+
+
+::: {.columns}
+
+::: {.column}
+
+* Poblaciones vecinas se cruzan entre si a lo largo de una distribucion continua.
+* El flujo genico ocurre localmente, pero disminuye con la distancia.
+* La divergencia se acumula gradualmente alrededor de una barrera geografica o ecologica.
+* En los extremos del anillo, las poblaciones pueden coexistir y ya no cruzarse.
+* Ilustran como la especiacion puede emerger de cambios graduales en un linaje continuo.
+
+:::
+
+::: {.column}
+
+![](09-assets/Ring_Species_(gene_flow_around_a_barrier).png)
+
+:::
+
+:::
+
+## California salamanders (Ensatina)
+
+![](09-assets/salamander-ring-eco.webp)
+
+## Resumen
+
+> La especiacion es un proceso gradual impulsado por la reduccion del flujo genico y la acumulacion de diferencias que conducen al aislamiento reproductivo. 
+
+> La geografia, ecologia, fenologia y conducta pueden contribuir a la divergencia de linajes y la formacion de nuevas especies.
+
+---
+
+![](09-assets/speciation-diagram.png){fig-align="center"}
