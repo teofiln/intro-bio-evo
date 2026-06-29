@@ -1,0 +1,176 @@
+---
+title: "Macroevolucion"
+subtitle: "Del cambio en poblaciones a la historia de la vida"
+format:
+  revealjs:
+    slide-number: true
+    incremental: true
+    theme: simple
+lang: es
+---
+
+## Metas {background-color="#E8F5E9"}
+
+* Conectar microevolucion con patrones macroevolutivos.
+* Introducir tasas de especiacion, extincion y diversificacion.
+* Construir intuicion visual de por que las tasas son probabilisticas.
+
+
+## Ser capaces de {background-color="#E8F5E9" .smaller}
+
+* Definir tasa de especiacion, tasa de extincion y tasa neta de diversificacion.
+* Explicar por que una tasa no implica un resultado fijo en un tiempo dado.
+* Interpretar graficos de numero de especies vs tiempo con eventos de especiacion y extincion.
+* Diferenciar entre una trayectoria individual y el patron promedio entre muchas trayectorias.
+
+
+# Macroevolución {background-color="#E8F5E9"}
+
+**Microevolución** explica el cambio dentro de poblaciones o linajes
+
+**Macroevolución** explica los patrones que emergen cuando esos procesos actúan repetidamente a lo largo de millones de años.
+
+## Que estudiamos en macroevolución
+
+::: {.columns}
+
+::: {.column}
+
+Micro:
+
+- generaciones  
+- poblaciones  
+- frecuencias alélicas  
+
+:::
+
+::: {.column}
+
+Macro:  
+
+- millones de años  
+- linajes  
+- especies  
+- clados  
+
+:::
+
+:::
+
+## Preguntas tipicas de macroevolución
+
+::: {.incremental}
+* ¿Cómo se originan nuevas especies?
+* ¿Por qué algunas especies se extinguen mientras otras prosperan?
+* ¿Cómo se forman grandes patrones de diversidad a lo largo del tiempo?
+* ¿Qué factores impulsan la evolución de nuevas formas y funciones?
+:::
+
+
+## Cambio en el numero de especies
+
+> La **probabilidad** de que un linaje *origine un nuevo linaje* **o** *desaparezca* por unidad de tiempo.
+
+- No significa que cada especie se divide después de cierto tiempo. 
+- Significa que, en **promedio**, esperamos cierto numero de eventos por unidad de tiempo.  
+- Algunas especies tienen mayor probabilidad de originar nuevas especies que otras.
+- Algunas especies tienen mayor probabilidad de extinguirse que otras.
+
+## Analogia con dado
+
+- La probabilidad de obtener un 6 al lanzar un dado es 1/6.
+- No significa que si lanzamos un dado 6 veces, obtendremos un 6 exactamente una vez.
+- Significa que, en promedio, si lanzamos un dado muchas veces, obtendremos un 6 una vez cada 6 lanzamientos.
+- La tasa de obtener un 6 es 1/6, pero el numero de 6s que obtenemos en un numero finito de lanzamientos puede variar.
+
+# Intuicion Visual de Tasas {background-color="#E8F5E9"}
+
+## Paso 1: First-last appearance (sin arbol)
+
+![](10-assets/fossil_first_last_appearance_toy.png){width=100%}
+
+::: {.fragment}
+
+Observacion clave: primero solo miramos apariciones y desapariciones en el tiempo, sin phylogeny ni ramas.
+
+:::
+
+## Paso 2: Contar eventos y derivar tasas
+
+![](10-assets/fossil_event_counts_and_rates_toy.png){width=100%}
+
+::: {.incremental}
+
+- En esta ventana: 1 evento de especiacion y 1 evento de extincion.
+- Exposicion total: lineage-time = 10 linaje-Myr.
+- Estimacion didactica: $\hat{\lambda} = 1/10$, $\hat{\mu} = 1/10$, $\hat{r} = 0$.
+
+:::
+
+## Paso 3: Definiciones formales {background-color="#E8F5E9"}
+
+> Tasa de especiacion ($\lambda$): probabilidad de que un linaje se divida por unidad de tiempo.
+
+> Tasa de extincion ($\mu$): probabilidad de que un linaje desaparezca por unidad de tiempo.
+
+> Tasa de diversificacion neta: diferencia entre especiacion y extincion.
+
+$$r = \lambda - \mu$$
+
+> Unidad: eventos por linaje por unidad de tiempo.
+
+## Paso 4: Una realizacion estocastica
+
+![](10-assets/birth_death_single_realization_marks.png){width=100%}
+
+::: {.incremental}
+
+- Empezamos con 3 especies.
+- Triangulo verde: evento de especiacion (+1 especie).
+- Triangulo rojo: evento de extincion (-1 especie).
+- Misma tasa durante toda la simulacion, pero eventos en tiempos irregulares.
+
+:::
+
+## Mensaje central
+
+> Tener 2 o 3 especies ahora **no** significa duplicar en un tiempo fijo.
+
+::: {.incremental}
+
+- Las tasas son probabilidades por linaje y por unidad de tiempo.
+- En ventanas cortas, puede no pasar nada.
+- En otras ventanas, pueden ocurrir varios eventos seguidos.
+
+:::
+
+## Paso 5: Mismas tasas, resultados distintos
+
+![](10-assets/birth_death_same_rates_many_paths.png){width=100%}
+
+::: {.fragment}
+
+Todas las lineas usan exactamente los mismos parametros ($\lambda = 0.25$, $\mu = 0.15$) y parten de 3 especies.
+
+:::
+
+## Entonces, para que sirve un LTT?
+
+::: {.incremental}
+
+- Un LTT (lineages-through-time) resume el patron de acumulacion de linajes.
+- Es util para comparar escenarios y detectar cambios de ritmo.
+- Pero pedagogicamente, primero conviene entender eventos discretos en el tiempo.
+
+:::
+
+## Resumen
+
+1. Secuencia first-last: partimos del registro fosil sin arbol.
+2. Conteo de eventos + lineage-time: derivamos tasas de forma transparente.
+3. Definimos formalmente $\lambda$, $\mu$ y $r$.
+4. Con esas tasas, vemos trayectorias estocasticas distintas.
+5. LTT: una capa de resumen, no el punto de partida conceptual.
+
+
+

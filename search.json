@@ -2532,5 +2532,138 @@
     "title": "Hoja de trabajo 08: Flujo genico (migracion)",
     "section": "Resumen",
     "text": "Resumen\n\nEl flujo genico introduce alelos entre poblaciones.\nLa migracion puede cambiar las frecuencias alelicas en pocas generaciones.\nCon flujo genico, las poblaciones tienden a parecerse mas entre si.\nEn la naturaleza, deriva y migracion actuan al mismo tiempo."
+  },
+  {
+    "objectID": "lectures/10-macro.html#metas",
+    "href": "lectures/10-macro.html#metas",
+    "title": "Macroevolucion",
+    "section": "Metas",
+    "text": "Metas\n\nConectar microevolucion con patrones macroevolutivos.\nIntroducir tasas de especiacion, extincion y diversificacion.\nConstruir intuicion visual de por que las tasas son probabilisticas."
+  },
+  {
+    "objectID": "lectures/10-macro.html#ser-capaces-de",
+    "href": "lectures/10-macro.html#ser-capaces-de",
+    "title": "Macroevolucion",
+    "section": "Ser capaces de",
+    "text": "Ser capaces de\n\nDefinir tasa de especiacion, tasa de extincion y tasa neta de diversificacion.\nExplicar por que una tasa no implica un resultado fijo en un tiempo dado.\nInterpretar graficos de numero de especies vs tiempo con eventos de especiacion y extincion.\nDiferenciar entre una trayectoria individual y el patron promedio entre muchas trayectorias."
+  },
+  {
+    "objectID": "lectures/10-macro.html#que-estudiamos-en-macroevolución",
+    "href": "lectures/10-macro.html#que-estudiamos-en-macroevolución",
+    "title": "Macroevolucion",
+    "section": "Que estudiamos en macroevolución",
+    "text": "Que estudiamos en macroevolución\n\n\nMicro:\n\ngeneraciones\n\npoblaciones\n\nfrecuencias alélicas\n\n\nMacro:\n\nmillones de años\n\nlinajes\n\nespecies\n\nclados"
+  },
+  {
+    "objectID": "lectures/10-macro.html#preguntas-tipicas-de-macroevolución",
+    "href": "lectures/10-macro.html#preguntas-tipicas-de-macroevolución",
+    "title": "Macroevolucion",
+    "section": "Preguntas tipicas de macroevolución",
+    "text": "Preguntas tipicas de macroevolución\n\n\n¿Cómo se originan nuevas especies?\n¿Por qué algunas especies se extinguen mientras otras prosperan?\n¿Cómo se forman grandes patrones de diversidad a lo largo del tiempo?\n¿Qué factores impulsan la evolución de nuevas formas y funciones?"
+  },
+  {
+    "objectID": "lectures/10-macro.html#cambio-en-el-numero-de-especie",
+    "href": "lectures/10-macro.html#cambio-en-el-numero-de-especie",
+    "title": "Macroevolucion",
+    "section": "Cambio en el numero de especie",
+    "text": "Cambio en el numero de especie\n\nLa probabilidad de que un linaje origine un nuevo linaje o desaparezca por unidad de tiempo.\n\nNo significa que cada especie se divide después de cierto tiempo. Significa que, en promedio, esperamos cierto numero de eventos por unidad de tiempo.\n\nAlgunas especies tienen mayor probabilidad de originar nuevas especies que otras.\nAlgunas especies tienen mayor probabilidad de extinguirse que otras."
+  },
+  {
+    "objectID": "lectures/10-macro.html#analogia-con-dado",
+    "href": "lectures/10-macro.html#analogia-con-dado",
+    "title": "Macroevolucion",
+    "section": "Analogia con dado",
+    "text": "Analogia con dado\n\nLa probabilidad de obtener un 6 al lanzar un dado es 1/6.\nNo significa que si lanzamos un dado 6 veces, obtendremos un 6 exactamente una vez.\nSignifica que, en promedio, si lanzamos un dado muchas veces, obtendremos un 6 una vez cada 6 lanzamientos.\nLa tasa de obtener un 6 es 1/6, pero el numero de 6s que obtenemos en un numero finito de lanzamientos puede variar."
+  },
+  {
+    "objectID": "lectures/10-macro.html#definiciones",
+    "href": "lectures/10-macro.html#definiciones",
+    "title": "Macroevolucion",
+    "section": "Definiciones",
+    "text": "Definiciones\n\nTasa de especiacion = La probabilidad de que un linaje se divida por unidad de tiempo.\n\n\nTasa de extincion = La probabilidad de que un linaje desaparezca por unidad de tiempo.\n\n\nTasa de diversificacion = La diferencia entre la tasa de especiacion y la tasa de extincion.\n\n\\[diversificacion = especiación - extinción\\] \\[r = \\lambda - \\mu \\]\n\nUnidad = eventos por unidad de tiempo por linaje"
+  },
+  {
+    "objectID": "lectures/10-macro.html#cambio-en-el-numero-de-especies",
+    "href": "lectures/10-macro.html#cambio-en-el-numero-de-especies",
+    "title": "Macroevolucion",
+    "section": "Cambio en el numero de especies",
+    "text": "Cambio en el numero de especies\n\nLa probabilidad de que un linaje origine un nuevo linaje o desaparezca por unidad de tiempo.\n\n\nNo significa que cada especie se divide después de cierto tiempo.\nSignifica que, en promedio, esperamos cierto numero de eventos por unidad de tiempo.\n\nAlgunas especies tienen mayor probabilidad de originar nuevas especies que otras.\nAlgunas especies tienen mayor probabilidad de extinguirse que otras."
+  },
+  {
+    "objectID": "lectures/10-macro.html#paso-1-secuencia-fosil",
+    "href": "lectures/10-macro.html#paso-1-secuencia-fosil",
+    "title": "Macroevolucion",
+    "section": "Paso 1: Secuencia fosil",
+    "text": "Paso 1: Secuencia fosil\n\n\nObservacion clave: en el registro fosil vemos apariciones y desapariciones en distintos momentos, no “relojes exactos” por especie."
+  },
+  {
+    "objectID": "lectures/10-macro.html#paso-2-del-registro-a-eventos-en-el-tiempo",
+    "href": "lectures/10-macro.html#paso-2-del-registro-a-eventos-en-el-tiempo",
+    "title": "Macroevolucion",
+    "section": "Paso 2: Del registro a eventos en el tiempo",
+    "text": "Paso 2: Del registro a eventos en el tiempo\n\n\n\nEmpezamos con 3 especies.\nTriangulo verde: evento de especiacion (+1 especie).\nTriangulo rojo: evento de extincion (-1 especie).\nMisma tasa durante toda la simulacion, pero eventos en tiempos irregulares."
+  },
+  {
+    "objectID": "lectures/10-macro.html#mensaje-central",
+    "href": "lectures/10-macro.html#mensaje-central",
+    "title": "Macroevolucion",
+    "section": "Mensaje central",
+    "text": "Mensaje central\n\nTener 2 o 3 especies ahora no significa duplicar en un tiempo fijo.\n\n\n\nLas tasas son probabilidades por linaje y por unidad de tiempo.\nEn ventanas cortas, puede no pasar nada.\nEn otras ventanas, pueden ocurrir varios eventos seguidos."
+  },
+  {
+    "objectID": "lectures/10-macro.html#paso-3-mismas-tasas-resultados-distintos",
+    "href": "lectures/10-macro.html#paso-3-mismas-tasas-resultados-distintos",
+    "title": "Macroevolucion",
+    "section": "Paso 3: Mismas tasas, resultados distintos",
+    "text": "Paso 3: Mismas tasas, resultados distintos\n\n\nTodas las lineas usan exactamente los mismos parametros (\\(\\lambda = 0.25\\), \\(\\mu = 0.15\\)) y parten de 3 especies."
+  },
+  {
+    "objectID": "lectures/10-macro.html#entonces-para-que-sirve-un-ltt",
+    "href": "lectures/10-macro.html#entonces-para-que-sirve-un-ltt",
+    "title": "Macroevolucion",
+    "section": "Entonces, para que sirve un LTT?",
+    "text": "Entonces, para que sirve un LTT?\n\n\nUn LTT (lineages-through-time) resume el patron de acumulacion de linajes.\nEs util para comparar escenarios y detectar cambios de ritmo.\nPero pedagogicamente, primero conviene entender eventos discretos en el tiempo."
+  },
+  {
+    "objectID": "lectures/10-macro.html#resumen",
+    "href": "lectures/10-macro.html#resumen",
+    "title": "Macroevolucion",
+    "section": "Resumen",
+    "text": "Resumen\n\nSecuencia first-last: partimos del registro fosil sin arbol.\nConteo de eventos + lineage-time: derivamos tasas de forma transparente.\nDefinimos formalmente \\(\\lambda\\), \\(\\mu\\) y \\(r\\).\nCon esas tasas, vemos trayectorias estocasticas distintas.\nLTT: una capa de resumen, no el punto de partida conceptual."
+  },
+  {
+    "objectID": "lectures/10-macro.html#paso-1-first-last-appearance-sin-arbol",
+    "href": "lectures/10-macro.html#paso-1-first-last-appearance-sin-arbol",
+    "title": "Macroevolucion",
+    "section": "Paso 1: First-last appearance (sin arbol)",
+    "text": "Paso 1: First-last appearance (sin arbol)\n\n\nObservacion clave: primero solo miramos apariciones y desapariciones en el tiempo, sin phylogeny ni ramas."
+  },
+  {
+    "objectID": "lectures/10-macro.html#paso-2-contar-eventos-y-derivar-tasas",
+    "href": "lectures/10-macro.html#paso-2-contar-eventos-y-derivar-tasas",
+    "title": "Macroevolucion",
+    "section": "Paso 2: Contar eventos y derivar tasas",
+    "text": "Paso 2: Contar eventos y derivar tasas\n\n\n\nEn esta ventana: 1 evento de especiacion y 1 evento de extincion.\nExposicion total: lineage-time = 10 linaje-Myr.\nEstimacion didactica: \\(\\hat{\\lambda} = 1/10\\), \\(\\hat{\\mu} = 1/10\\), \\(\\hat{r} = 0\\)."
+  },
+  {
+    "objectID": "lectures/10-macro.html#paso-3-definiciones-formales",
+    "href": "lectures/10-macro.html#paso-3-definiciones-formales",
+    "title": "Macroevolucion",
+    "section": "Paso 3: Definiciones formales",
+    "text": "Paso 3: Definiciones formales\n\nTasa de especiacion (\\(\\lambda\\)): probabilidad de que un linaje se divida por unidad de tiempo.\n\n\nTasa de extincion (\\(\\mu\\)): probabilidad de que un linaje desaparezca por unidad de tiempo.\n\n\nTasa de diversificacion neta: diferencia entre especiacion y extincion.\n\n\\[r = \\lambda - \\mu\\]\n\nUnidad: eventos por linaje por unidad de tiempo."
+  },
+  {
+    "objectID": "lectures/10-macro.html#paso-4-una-realizacion-estocastica",
+    "href": "lectures/10-macro.html#paso-4-una-realizacion-estocastica",
+    "title": "Macroevolucion",
+    "section": "Paso 4: Una realizacion estocastica",
+    "text": "Paso 4: Una realizacion estocastica\n\n\n\nEmpezamos con 3 especies.\nTriangulo verde: evento de especiacion (+1 especie).\nTriangulo rojo: evento de extincion (-1 especie).\nMisma tasa durante toda la simulacion, pero eventos en tiempos irregulares."
+  },
+  {
+    "objectID": "lectures/10-macro.html#paso-5-mismas-tasas-resultados-distintos",
+    "href": "lectures/10-macro.html#paso-5-mismas-tasas-resultados-distintos",
+    "title": "Macroevolucion",
+    "section": "Paso 5: Mismas tasas, resultados distintos",
+    "text": "Paso 5: Mismas tasas, resultados distintos\n\n\nTodas las lineas usan exactamente los mismos parametros (\\(\\lambda = 0.25\\), \\(\\mu = 0.15\\)) y parten de 3 especies."
   }
 ]
