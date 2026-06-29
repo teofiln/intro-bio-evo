@@ -1,6 +1,6 @@
 ---
 title: "Como estudiamos la evolución"
-subtitle: "Intro Bio I (B0160): Modulo Evolución"
+subtitle: "Evidencia, inferencia y comparacion de hipotesis"
 format:
   revealjs:
     slide-number: true

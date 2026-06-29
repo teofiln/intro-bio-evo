@@ -1,6 +1,6 @@
 ---
 title: "Variación biológica y pensamiento poblacional"
-subtitle: "Intro Bio I (B0160): Modulo Evolución"
+subtitle: "Que cambia cuando evoluciona una poblacion"
 format:
   revealjs:
     slide-number: true

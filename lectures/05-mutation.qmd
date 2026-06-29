@@ -1,6 +1,6 @@
 ---
 title: "Mutación"
-subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
+subtitle: "De nuevas variantes a rasgos continuos"
 format:
   revealjs:
     slide-number: true

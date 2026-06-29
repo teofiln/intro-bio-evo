@@ -1,6 +1,6 @@
 ---
 title: "Migracion (flujo genico)"
-subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
+subtitle: "Intercambio genetico entre poblaciones"
 format:
   revealjs:
     slide-number: true

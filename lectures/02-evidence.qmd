@@ -1,6 +1,6 @@
 ---
 title: "Evidencia de la evolución"
-subtitle: "Intro Bio I (B0160): Modulo Evolución"
+subtitle: "Lineas de evidencia que convergen"
 format:
   revealjs:
     slide-number: true

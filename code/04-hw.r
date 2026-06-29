@@ -1,23 +1,41 @@
-# barchart with 4 alleles, A1 - A4 with different frequencies summing to 1.0
-
 library(ggplot2)
 library(cowplot)
 
-# Diagram-like style: no axes/grid, boxed panel, and breathing room.
-theme_diagram <- function() {
-  theme_void(base_size = 13) +
-    theme(
-      plot.title = element_text(hjust = 0.5, face = "bold"),
-      panel.background = element_rect(fill = "white", color = NA),
-      panel.border = element_rect(color = "grey40", fill = NA, linewidth = 0.9),
-      plot.margin = margin(14, 14, 14, 14)
-    )
-}
+utils_path <- local({
+  file_arg <- grep("^--file=", commandArgs(trailingOnly = FALSE), value = TRUE)
+  if (length(file_arg) > 0) {
+    return(file.path(
+      dirname(normalizePath(
+        sub("^--file=", "", file_arg[1]),
+        mustWork = FALSE
+      )),
+      "utils.R"
+    ))
+  }
+
+  if (!is.null(sys.frames()[[1]]$ofile)) {
+    return(file.path(
+      dirname(normalizePath(sys.frames()[[1]]$ofile, mustWork = FALSE)),
+      "utils.R"
+    ))
+  }
+
+  cwd <- normalizePath(getwd(), mustWork = FALSE)
+  code_candidate <- file.path(cwd, "code", "utils.R")
+  if (file.exists(code_candidate)) {
+    return(code_candidate)
+  }
+
+  file.path(cwd, "utils.R")
+})
+source(utils_path)
+
+out_dir <- ensure_asset_dir("04-assets")
 
 # Create a data frame with allele frequencies
 allele_data <- data.frame(
   Allele = c("A1", "A2", "A3", "A4"),
-  Frequency = c(0.4, 0.3, 0.2, 0.1) # Example frequencies that sum to 1
+  Frequency = c(0.4, 0.3, 0.2, 0.1)
 )
 allele_freq_base <- allele_data
 
@@ -33,76 +51,61 @@ p_bar_left <- ggplot(
   theme(legend.position = "none")
 
 ggsave(
-  "lectures/04-assets/allele_frequencies-left.png",
+  file.path(out_dir, "allele_frequencies-left.png"),
   plot = p_bar_left,
   width = 4,
   height = 4
 )
 
 # Scatterplot for alleles A1-A4
-# one point per allele, assiming 50 individuals in population,
-# randomly placed in a 2D space, colored by allele
-# same data as above, but with random x and y coordinates
-
-set.seed(123) # For reproducibility
-# 50 individuals
+set.seed(123)
 alleles <- rep(allele_data$Allele, times = round(allele_data$Frequency * 50))
-x_coords <- runif(length(alleles), min = 0, max = 10) # Random x coordinates
-y_coords <- runif(length(alleles), min = 0, max = 10) # Random y coordinates
+x_coords <- runif(length(alleles), min = 0, max = 10)
+y_coords <- runif(length(alleles), min = 0, max = 10)
 allele_data <- data.frame(Allele = alleles, x = x_coords, y = y_coords)
 allele_data_base <- allele_data
 
 p_scatter <- ggplot(allele_data, aes(x = x, y = y, color = Allele)) +
   geom_point(size = 5) +
-  labs(
-    title = "Alelos",
-  ) +
+  labs(title = "Alelos") +
   scale_color_brewer(palette = "Set2") +
   theme_diagram() +
   theme(legend.position = "none")
 
-p_scatter
-
 ggsave(
-  "lectures/04-assets/allele_spatial-left.png",
+  file.path(out_dir, "allele_spatial-left.png"),
   plot = p_scatter,
   width = 4,
   height = 4
 )
 
-# Reshufle the alleles in space and plot again
-set.seed(456) # For reproducibility
-x_coords <- runif(length(alleles), min = 0, max = 10) # New random x coordinates
-y_coords <- runif(length(alleles), min = 0, max = 10) # New random y coordinates
+# Reshuffle the alleles in space and plot again
+set.seed(456)
+x_coords <- runif(length(alleles), min = 0, max = 10)
+y_coords <- runif(length(alleles), min = 0, max = 10)
 allele_data <- data.frame(Allele = alleles, x = x_coords, y = y_coords)
 
 p_scatter_shuffled <- ggplot(allele_data, aes(x = x, y = y, color = Allele)) +
   geom_point(size = 5) +
-  labs(
-    title = "Alelos"
-  ) +
+  labs(title = "Alelos") +
   scale_color_brewer(palette = "Set2") +
   theme_diagram() +
   theme(legend.position = "none")
 
-p_scatter_shuffled
-
 ggsave(
-  "lectures/04-assets/allele_spatial-right.png",
+  file.path(out_dir, "allele_spatial-right.png"),
   plot = p_scatter_shuffled,
   width = 4,
   height = 4
 )
 
-
-# 4 panels
 library(patchwork)
 hw_2panels <- p_scatter +
   p_bar_left +
   plot_layout(ncol = 2, nrow = 1, widths = c(1, 1))
 
 ggsave(
-  "lectures/04-assets/hw_2panels.png",
+  file.path(out_dir, "hw_2panels.png"),
   plot = hw_2panels,
   width = 5.4,
   height = 3
@@ -115,7 +118,6 @@ hw_4panels <- p_scatter +
   p_bar_left +
   plot_layout(ncol = 5, nrow = 1, widths = c(1, 1, 0.45, 1, 1))
 
-# Overlay one labeled arrow only in the gap between panels 2 and 3.
 hw_4panels_arrows <- ggdraw(hw_4panels) +
   draw_line(
     x = c(0.465, 0.535),
@@ -134,14 +136,14 @@ hw_4panels_arrows <- ggdraw(hw_4panels) +
   )
 
 ggsave(
-  "lectures/04-assets/hw_4panels.png",
+  file.path(out_dir, "hw_4panels.png"),
   plot = hw_4panels,
   width = 12,
   height = 3
 )
 
 ggsave(
-  "lectures/04-assets/hw_4panels-arrows.png",
+  file.path(out_dir, "hw_4panels-arrows.png"),
   plot = hw_4panels_arrows,
   width = 12,
   height = 3
@@ -163,7 +165,7 @@ p_bar_selected <- ggplot(
   theme_diagram() +
   theme(legend.position = "none")
 
-set.seed(789) # For reproducibility
+set.seed(789)
 alleles_selected <- rep(
   selected_freq$Allele,
   times = round(selected_freq$Frequency * 50)
@@ -209,14 +211,14 @@ not_hw_4panels_arrows <- ggdraw(not_hw_4panels) +
   )
 
 ggsave(
-  "lectures/04-assets/not_hw_4panels-selection.png",
+  file.path(out_dir, "not_hw_4panels-selection.png"),
   plot = not_hw_4panels,
   width = 12,
   height = 3
 )
 
 ggsave(
-  "lectures/04-assets/not_hw_4panels-selection-arrows.png",
+  file.path(out_dir, "not_hw_4panels-selection-arrows.png"),
   plot = not_hw_4panels_arrows,
   width = 12,
   height = 3
@@ -238,7 +240,7 @@ p_bar_drift <- ggplot(
   theme_diagram() +
   theme(legend.position = "none")
 
-set.seed(246) # For reproducibility
+set.seed(246)
 alleles_drift <- rep(
   drift_freq$Allele,
   times = round(drift_freq$Frequency * 50)
@@ -284,14 +286,14 @@ drift_4panels_arrows <- ggdraw(drift_4panels) +
   )
 
 ggsave(
-  "lectures/04-assets/not_hw_4panels-drift.png",
+  file.path(out_dir, "not_hw_4panels-drift.png"),
   plot = drift_4panels,
   width = 12,
   height = 3
 )
 
 ggsave(
-  "lectures/04-assets/not_hw_4panels-drift-arrows.png",
+  file.path(out_dir, "not_hw_4panels-drift-arrows.png"),
   plot = drift_4panels_arrows,
   width = 12,
   height = 3
@@ -389,14 +391,14 @@ mutation_4panels_arrows <- ggdraw(mutation_4panels) +
   )
 
 ggsave(
-  "lectures/04-assets/not_hw_4panels-mutation.png",
+  file.path(out_dir, "not_hw_4panels-mutation.png"),
   plot = mutation_4panels,
   width = 12,
   height = 3
 )
 
 ggsave(
-  "lectures/04-assets/not_hw_4panels-mutation-arrows.png",
+  file.path(out_dir, "not_hw_4panels-mutation-arrows.png"),
   plot = mutation_4panels_arrows,
   width = 12,
   height = 3
@@ -413,7 +415,7 @@ migration_palette <- c(
 
 migration_source <- allele_data_base
 migration_target <- allele_data_base
-set.seed(321) # For reproducibility
+set.seed(321)
 migrant_points <- data.frame(
   Allele = c("A6", "A6"),
   x = runif(2, min = 0.8, max = 9.2),
@@ -500,14 +502,14 @@ migration_4panels_arrows <- ggdraw(migration_4panels) +
   )
 
 ggsave(
-  "lectures/04-assets/not_hw_4panels-migration.png",
+  file.path(out_dir, "not_hw_4panels-migration.png"),
   plot = migration_4panels,
   width = 12,
   height = 3
 )
 
 ggsave(
-  "lectures/04-assets/not_hw_4panels-migration-arrows.png",
+  file.path(out_dir, "not_hw_4panels-migration-arrows.png"),
   plot = migration_4panels_arrows,
   width = 12,
   height = 3
