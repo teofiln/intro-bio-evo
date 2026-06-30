@@ -1,6 +1,6 @@
 ---
 title: "Hoja de trabajo 02: Evidencia de la evolución"
-subtitle: "Intro Bio I (B0160) — Módulo de Evolución"
+subtitle: "Patrones y pruebas del cambio evolutivo"
 format:
   html:
     toc: true

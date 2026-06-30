@@ -108,19 +108,7 @@ Macro:
 - Significa que, en promedio, si lanzamos un dado muchas veces, obtendremos un 6 una vez cada 6 lanzamientos.
 - La tasa de obtener un 6 es 1/6, pero el numero de 6s que obtenemos en un numero finito de lanzamientos puede variar.
 
-## Resumen tasas
-
-::: {.incremental}
-
-- Una tasa describe probabilidad por unidad de tiempo, no un resultado fijo.
-- Una tasa no funciona como un horario: no dice que "cada X anos" deba ocurrir un evento.
-- Por eso, dos intervalos con la misma tasa pueden verse muy diferentes.
-
-:::
-
-# Intuicion Visual de Tasas {background-color="#E8F5E9"}
-
-## La misma historia como primeras y ultimas apariciones
+## Primeras y ultimas apariciones
 
 ![](10-assets/fossil_first_last_appearance_toy.png){width=100%}
 
@@ -182,6 +170,16 @@ $$r = \lambda - \mu$$
 
 :::
 
+## Cuidado: el registro fosil no es completo
+
+::: {.incremental}
+
+- Las primeras y ultimas apariciones observadas no siempre coinciden con el origen o la extincion reales.
+- La preservacion fosil es desigual: algunos ambientes, organismos y periodos dejan mejor registro que otros.
+- Por eso, una parte del patron que vemos refleja biologia real y otra parte refleja muestreo y preservacion.
+
+:::
+
 ## Una realizacion estocastica
 
 ::: {.columns}
@@ -218,15 +216,14 @@ Todas las lineas usan exactamente los mismos parametros ($\lambda = 0.25$, $\mu 
 
 :::
 
-## Resumen intuicion visual de tasas
-
-> Las tasas no significan que el numero de linajes se duplicará en un tiempo fijo.
+## Resumen tasas
 
 ::: {.incremental}
 
-- Las tasas son probabilidades por linaje y por unidad de tiempo.
-- En ventanas cortas, puede no pasar nada.
-- En otras ventanas, pueden ocurrir varios eventos seguidos.
+- Las tasas son probabilidades por linaje y por unidad de tiempo, no resultados fijos.
+- No funcionan como un horario: no dicen que "cada X anos" deba ocurrir un evento.
+- En ventanas cortas puede no pasar nada, y en otras pueden ocurrir varios eventos seguidos.
+- Por eso, dos intervalos con la misma tasa pueden verse muy diferentes.
 
 :::
 
@@ -324,6 +321,17 @@ Todas las lineas usan exactamente los mismos parametros ($\lambda = 0.25$, $\mu 
 > Adaptativa: cuando un linaje se diversifica en muchas especies con diferentes adaptaciones. El aumento en numero de especies esta acompañado de un aumento en diversidad funcional (variacion grande en el rasgo focal).
 
 > No adaptativa: cuando un linaje se diversifica en muchas especies con adaptaciones similares. El aumento en numero de especies no esta acompañado de un aumento en diversidad funcional (variacion pequeña en el rasgo focal).
+
+## Como distinguirlas?
+
+::: {.incremental}
+
+- Pregunta 1: aumento el numero de especies?
+- Pregunta 2: tambien aumento la diversidad de rasgos, nichos o funciones?
+- Si aumentan especies y diversidad funcional, pensamos en radiacion adaptativa.
+- Si aumentan especies pero los rasgos observables cambian poco, podria ser no adaptativa o adaptativa en otros rasgos que no estamos midiendo.
+
+:::
 
 ## Castores de montaña
 
@@ -483,4 +491,15 @@ Todas las lineas usan exactamente los mismos parametros ($\lambda = 0.25$, $\mu 
 * En otras palabras, **alrededor del 10% de la diversidad por cada 1000 años**. 
 * La tasa en el futuro según modelos de extinción proyectada puede ser 10 veces mayor que la tasa actual.
 * Causas: actividad humana, destrucción de hábitat, cambio climático, contaminación, sobreexplotación de especies, introducción de especies invasoras.
+
+## Sintesis final
+
+::: {.incremental}
+
+- La macroevolucion conecta cambios en poblaciones con patrones de diversidad, radiacion y extincion a gran escala.
+- Las tasas ayudan a describir esos procesos, pero no funcionan como horarios fijos.
+- El patron observado depende de historia real, muestreo, preservacion y escala temporal.
+- Entender macroevolucion nos ayuda a interpretar tanto la historia profunda de la vida como los cambios que observamos hoy.
+
+:::
 

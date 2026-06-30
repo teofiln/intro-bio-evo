@@ -2394,18 +2394,11 @@
     "text": "Analogia con dado\n\nLa probabilidad de obtener un 6 al lanzar un dado es 1/6.\nNo significa que si lanzamos un dado 6 veces, obtendremos un 6 exactamente una vez.\nSignifica que, en promedio, si lanzamos un dado muchas veces, obtendremos un 6 una vez cada 6 lanzamientos.\nLa tasa de obtener un 6 es 1/6, pero el numero de 6s que obtenemos en un numero finito de lanzamientos puede variar."
   },
   {
-    "objectID": "lectures/10-macro.html#resumen-tasas",
-    "href": "lectures/10-macro.html#resumen-tasas",
+    "objectID": "lectures/10-macro.html#primeras-y-ultimas-apariciones",
+    "href": "lectures/10-macro.html#primeras-y-ultimas-apariciones",
     "title": "Macroevolucion",
-    "section": "Resumen tasas",
-    "text": "Resumen tasas\n\nUna tasa describe probabilidad por unidad de tiempo, no un resultado fijo.\nUna tasa no funciona como un horario: no dice que “cada X anos” deba ocurrir un evento.\nPor eso, dos intervalos con la misma tasa pueden verse muy diferentes."
-  },
-  {
-    "objectID": "lectures/10-macro.html#la-misma-historia-como-primeras-y-ultimas-apariciones",
-    "href": "lectures/10-macro.html#la-misma-historia-como-primeras-y-ultimas-apariciones",
-    "title": "Macroevolucion",
-    "section": "La misma historia como primeras y ultimas apariciones",
-    "text": "La misma historia como primeras y ultimas apariciones"
+    "section": "Primeras y ultimas apariciones",
+    "text": "Primeras y ultimas apariciones"
   },
   {
     "objectID": "lectures/10-macro.html#la-misma-historia-como-filogenia",
@@ -2429,6 +2422,13 @@
     "text": "Contar eventos y derivar tasas\n\n\n\n\n\nEn esta ventana temporal: 1 evento de especiacion y 1 evento de extincion.\nEspeciacion (\\(\\lambda\\)): 1 evento en 10 unidades de tiempo. \\(\\lambda = 0.1\\) eventos por unidad de tiempo.\nExtincion (\\(\\mu\\)): 1 evento en 10 unidades de tiempo. \\(\\mu = 0.1\\) eventos por unidad de tiempo.\nTasa neta de diversificacion: \\(\\lambda - \\mu = 0.1 - 0.1 = 0\\) eventos por unidad de tiempo."
   },
   {
+    "objectID": "lectures/10-macro.html#cuidado-el-registro-fosil-no-es-completo",
+    "href": "lectures/10-macro.html#cuidado-el-registro-fosil-no-es-completo",
+    "title": "Macroevolucion",
+    "section": "Cuidado: el registro fosil no es completo",
+    "text": "Cuidado: el registro fosil no es completo\n\nLas primeras y ultimas apariciones observadas no siempre coinciden con el origen o la extincion reales.\nLa preservacion fosil es desigual: algunos ambientes, organismos y periodos dejan mejor registro que otros.\nPor eso, una parte del patron que vemos refleja biologia real y otra parte refleja muestreo y preservacion."
+  },
+  {
     "objectID": "lectures/10-macro.html#una-realizacion-estocastica",
     "href": "lectures/10-macro.html#una-realizacion-estocastica",
     "title": "Macroevolucion",
@@ -2443,11 +2443,11 @@
     "text": "Mismas tasas, resultados distintos\n\n\nTodas las lineas usan exactamente los mismos parametros (\\(\\lambda = 0.25\\), \\(\\mu = 0.15\\)) y parten de 3 especies."
   },
   {
-    "objectID": "lectures/10-macro.html#resumen-intuicion-visual-de-tasas",
-    "href": "lectures/10-macro.html#resumen-intuicion-visual-de-tasas",
+    "objectID": "lectures/10-macro.html#resumen-tasas",
+    "href": "lectures/10-macro.html#resumen-tasas",
     "title": "Macroevolucion",
-    "section": "Resumen intuicion visual de tasas",
-    "text": "Resumen intuicion visual de tasas\n\nLas tasas no significan que el numero de linajes se duplicará en un tiempo fijo.\n\n\nLas tasas son probabilidades por linaje y por unidad de tiempo.\nEn ventanas cortas, puede no pasar nada.\nEn otras ventanas, pueden ocurrir varios eventos seguidos."
+    "section": "Resumen tasas",
+    "text": "Resumen tasas\n\nLas tasas son probabilidades por linaje y por unidad de tiempo, no resultados fijos.\nNo funcionan como un horario: no dicen que “cada X anos” deba ocurrir un evento.\nEn ventanas cortas puede no pasar nada, y en otras pueden ocurrir varios eventos seguidos.\nPor eso, dos intervalos con la misma tasa pueden verse muy diferentes."
   },
   {
     "objectID": "lectures/10-macro.html#rasgos-en-un-especie",
@@ -2541,6 +2541,13 @@
     "text": "Tipos de radiaciones\n\nAdaptativa: cuando un linaje se diversifica en muchas especies con diferentes adaptaciones. El aumento en numero de especies esta acompañado de un aumento en diversidad funcional (variacion grande en el rasgo focal).\n\n\nNo adaptativa: cuando un linaje se diversifica en muchas especies con adaptaciones similares. El aumento en numero de especies no esta acompañado de un aumento en diversidad funcional (variacion pequeña en el rasgo focal)."
   },
   {
+    "objectID": "lectures/10-macro.html#como-distinguirlas",
+    "href": "lectures/10-macro.html#como-distinguirlas",
+    "title": "Macroevolucion",
+    "section": "Como distinguirlas?",
+    "text": "Como distinguirlas?\n\nPregunta 1: aumento el numero de especies?\nPregunta 2: tambien aumento la diversidad de rasgos, nichos o funciones?\nSi aumentan especies y diversidad funcional, pensamos en radiacion adaptativa.\nSi aumentan especies pero los rasgos observables cambian poco, podria ser no adaptativa o adaptativa en otros rasgos que no estamos midiendo."
+  },
+  {
     "objectID": "lectures/10-macro.html#castores-de-montaña",
     "href": "lectures/10-macro.html#castores-de-montaña",
     "title": "Macroevolucion",
@@ -2616,6 +2623,13 @@
     "title": "Macroevolucion",
     "section": "Extinción masiva 6 (actualidad)",
     "text": "Extinción masiva 6 (actualidad)\n\nLa tasa actual de extinción es alrededor de 1000 veces mayor que la tasa de fondo promedio.\nEstimada alrededor de 100 especies por 1000 especies por 1000 años.\nEn otras palabras, alrededor del 10% de la diversidad por cada 1000 años.\nLa tasa en el futuro según modelos de extinción proyectada puede ser 10 veces mayor que la tasa actual.\nCausas: actividad humana, destrucción de hábitat, cambio climático, contaminación, sobreexplotación de especies, introducción de especies invasoras."
+  },
+  {
+    "objectID": "lectures/10-macro.html#sintesis-final",
+    "href": "lectures/10-macro.html#sintesis-final",
+    "title": "Macroevolucion",
+    "section": "Sintesis final",
+    "text": "Sintesis final\n\nLa macroevolucion conecta cambios en poblaciones con patrones de diversidad, radiacion y extincion a gran escala.\nLas tasas ayudan a describir esos procesos, pero no funcionan como horarios fijos.\nEl patron observado depende de historia real, muestreo, preservacion y escala temporal.\nEntender macroevolucion nos ayuda a interpretar tanto la historia profunda de la vida como los cambios que observamos hoy."
   },
   {
     "objectID": "worksheets/w03-methods.html",
