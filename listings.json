@@ -1,5 +1,18 @@
 [
   {
+    "listing": "/worksheets/index.html",
+    "items": [
+      "/worksheets/w02-evidence.html",
+      "/worksheets/w03-methods.html",
+      "/worksheets/w04-hw.html",
+      "/worksheets/w05-mutation.html",
+      "/worksheets/w07-drift.html",
+      "/worksheets/w08-migration-drift.html",
+      "/worksheets/w09-mutation-drift.html",
+      "/worksheets/w10-rates.html"
+    ]
+  },
+  {
     "listing": "/lectures/index.html",
     "items": [
       "/lectures/01-variation-and-populations.html",
@@ -15,18 +28,6 @@
     ]
   },
   {
-    "listing": "/worksheets/index.html",
-    "items": [
-      "/worksheets/w02-evidence.html",
-      "/worksheets/w03-methods.html",
-      "/worksheets/w04-hw.html",
-      "/worksheets/w05-mutation.html",
-      "/worksheets/w07-drift.html",
-      "/worksheets/w08-migration-drift.html",
-      "/worksheets/w09-mutation-drift.html"
-    ]
-  },
-  {
     "listing": "/worksheets/index.pdf",
     "items": [
       "/worksheets/w02-evidence.html",
@@ -35,7 +36,8 @@
       "/worksheets/w05-mutation.html",
       "/worksheets/w07-drift.html",
       "/worksheets/w08-migration-drift.html",
-      "/worksheets/w09-mutation-drift.html"
+      "/worksheets/w09-mutation-drift.html",
+      "/worksheets/w10-rates.html"
     ]
   },
   {
@@ -47,7 +49,8 @@
       "/worksheets/w05-mutation.html",
       "/worksheets/w07-drift.html",
       "/worksheets/w08-migration-drift.html",
-      "/worksheets/w09-mutation-drift.html"
+      "/worksheets/w09-mutation-drift.html",
+      "/worksheets/w10-rates.html"
     ]
   }
 ]

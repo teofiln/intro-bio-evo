@@ -139,13 +139,11 @@ Macro:
 
 > Tasa de diversificacion neta: diferencia entre especiacion y extincion.
 
-> Caveat: estas tasas no son un horario fijo de eventos.
-
 $$r = \lambda - \mu$$
 
 > Unidad: eventos por linaje por unidad de tiempo.
 
-## Contar eventos y derivar tasas
+## Contar eventos y derivar tasas {.smaller}
 
 ::: {.columns}
 
@@ -247,14 +245,14 @@ Todas las lineas usan exactamente los mismos parametros ($\lambda = 0.25$, $\mu 
 
 ![](10-assets/tree-trait-patterns.png)
 
-## Rasgos en varias especies
+## Rasgos en varias especies {.incremental}
 
 ::: {.incremental}
 
-- Selecion direccional: rasgos cambian consistentemente en una direccion a lo largo del tiempo en varias especies.
-- Punctuated change: rasgos cambian poco durante largos periodos de tiempo, pero con cambios grandes en periodos cortos en varias especies.
-- Convergencia: rasgos similares evolucionan independientemente en varias especies. (Piensan de las aletas de delfines y tiburones, o de Anolis y su comportamiento de snorkelear)
-- Divergencia: rasgos similares evolucionan de forma diferente en varias especies. (Piensan de los picos de pinzones de Darwin, o de los dientes de los mamiferos)
+- Selecion direccional: rasgos cambian consistentemente en una direccion a lo largo del tiempo.
+- Punctuated change: rasgos cambian poco durante largos periodos de tiempo, pero con cambios grandes en periodos cortos.
+- Convergencia: rasgos similares evolucionan independientemente. (Piensan de las aletas de delfines y tiburones)
+- Divergencia: rasgos similares evolucionan de forma diferente en varias especies. (Piensan de los picos de pinzones de Darwin)
 - Siempre, parte del patron actual refleja historia compartida, no solo adaptacion independiente.
 
 :::
@@ -306,7 +304,7 @@ Todas las lineas usan exactamente los mismos parametros ($\lambda = 0.25$, $\mu 
 
 - El mismo proceso puede parecer gradual o abrupto segun la escala temporal de muestreo.
 - Los modelos de ritmo son descripciones de patrones, no reglas universales.
-- Antes de inferir saltos, conviene evaluar resolucion temporal y cobertura de datos.
+- Secuencias fosiles y patrones filogeneticos de rasgos y especies pueden dejar huellas distintas, consistentes con diferentes ritmos evolutivos.
 
 :::
 
@@ -333,7 +331,7 @@ Todas las lineas usan exactamente los mismos parametros ($\lambda = 0.25$, $\mu 
 
 :::
 
-## Castores de montaña
+## Castores de montaña {.smaller}
 
 ::: {.columns}
 
@@ -364,7 +362,7 @@ Todas las lineas usan exactamente los mismos parametros ($\lambda = 0.25$, $\mu 
 :::
 
 ::: {.column}
-
+Radiacion adaptativa en tres etapas:
 - Estado I: Habitat (roca/arena); 
 - Estado II: Morfología trófica (mandíbulas); 
 - Estado III: Preferencia de pareja (color de macho)
@@ -427,7 +425,7 @@ Todas las lineas usan exactamente los mismos parametros ($\lambda = 0.25$, $\mu 
 
 :::
 
-## Variacion en la tasa de extincion taxonomica
+## Variacion en la tasa de extincion taxonomica {.smaller}
 
 ::: {.columns}
 
@@ -472,7 +470,7 @@ Todas las lineas usan exactamente los mismos parametros ($\lambda = 0.25$, $\mu 
 
 ![](10-assets/big-five-plus-now-extinction.webp)
 
-## Extinciones masivas (The big five)
+## Extinciones masivas (The big five) {.smaller}
 
 * Generalmente extinction de > 75% de especies en un periodo geologico corto (menos de 2 millones de años).
 * Causas: cambios ambientales rapidos, impactos de meteoritos, actividad volcanica intensa, cambios en el nivel del mar, cambios climaticos extremos.
@@ -484,7 +482,7 @@ Todas las lineas usan exactamente los mismos parametros ($\lambda = 0.25$, $\mu 
 
 ![](10-assets/extinction-rate-future.png)
 
-## Extinción masiva 6 (actualidad)
+## Extinción masiva 6 (actualidad) {.smaller}
 
 * La tasa actual de extinción es alrededor de 1000 veces mayor que la tasa de fondo promedio.
 * Estimada alrededor de 100 especies por 1000 especies por 1000 años.
@@ -492,7 +490,7 @@ Todas las lineas usan exactamente los mismos parametros ($\lambda = 0.25$, $\mu 
 * La tasa en el futuro según modelos de extinción proyectada puede ser 10 veces mayor que la tasa actual.
 * Causas: actividad humana, destrucción de hábitat, cambio climático, contaminación, sobreexplotación de especies, introducción de especies invasoras.
 
-## Sintesis final
+## Resumen {background-color="#E8F5E9"}
 
 ::: {.incremental}
 

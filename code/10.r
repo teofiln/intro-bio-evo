@@ -528,7 +528,22 @@ make_scale_sampling_contrast_plot <- function(seed = 812) {
     panel = "Muestreo muy escaso (cada 40 anos)"
   )
 
-  plot_df <- rbind(yearly_df, every20_df, every40_df)
+  preservation_panel <- "Muestreo denso, preservacion fosil pobre"
+  dense_poor_pres_df <- tibble(
+    time = true_time,
+    trait = true_trait,
+    panel = preservation_panel
+  )
+
+  fossil_idx <- sort(sample(seq_along(true_time), size = 18))
+  fossil_df <- tibble(
+    time = true_time[fossil_idx],
+    trait = true_trait[fossil_idx],
+    panel = preservation_panel
+  )
+
+  plot_df <- rbind(yearly_df, every20_df, every40_df, dense_poor_pres_df)
+  standard_point_df <- plot_df[plot_df$panel != preservation_panel, ]
 
   ggplot(plot_df, aes(x = trait, y = time)) +
     geom_step(
@@ -538,11 +553,20 @@ make_scale_sampling_contrast_plot <- function(seed = 812) {
       direction = "hv"
     ) +
     geom_line(linewidth = 0.55, color = "#1f4e79") +
-    geom_point(size = 1.6, color = "#1f4e79") +
-    facet_wrap(~panel, ncol = 3) +
+    geom_point(data = standard_point_df, size = 1.6, color = "#1f4e79") +
+    geom_point(
+      data = dense_poor_pres_df,
+      shape = 21,
+      size = 1.55,
+      stroke = 0.5,
+      color = "#6b7280",
+      fill = "white"
+    ) +
+    geom_point(data = fossil_df, size = 1.8, color = "#1f4e79") +
+    facet_wrap(~panel, nrow = 1, ncol = 4) +
     labs(
       title = "La misma trayectoria puede verse gradual o abrupta",
-      subtitle = "Misma dinamica subyacente; solo cambia la resolucion temporal del muestreo (1, 20 o 40 anos)",
+      subtitle = "Misma dinamica subyacente; cambia la resolucion temporal del muestreo o que fraccion del registro se preserva",
       x = "Rasgo (tamano relativo)",
       y = "Tiempo (anos)"
     ) +
