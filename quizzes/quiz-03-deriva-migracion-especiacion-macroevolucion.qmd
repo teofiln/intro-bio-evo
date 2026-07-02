@@ -1,0 +1,93 @@
+---
+title: "Quiz 3: Deriva, Migracion, Especiacion y Macroevolucion"
+subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+lang: es
+---
+
+**Nombre:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ &emsp; **Carne:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Instrucciones: Elige la unica respuesta correcta para cada pregunta.*
+
+**1.** La deriva genetica se define mejor como:
+
+a) Cambio aleatorio en frecuencias alelicas por muestreo entre generaciones.
+b) Cambio dirigido por el ambiente para producir adaptaciones.
+c) Movimiento de alelos entre poblaciones.
+d) Aparicion de alelos nuevos.
+e) Aumento obligatorio de diversidad genetica.
+
+**2.** Comparando poblaciones con el mismo punto de partida alelico, ¿en cual se espera mayor efecto de deriva genetica en pocas generaciones?
+
+a) N = 2000
+b) N = 200
+c) N = 20
+d) El efecto es igual en todos los N
+e) Solo depende de la tasa de mutacion
+
+**3.** ¿Cual escenario describe mejor un efecto fundador?
+
+a) Una poblacion grande recibe migrantes cada generacion.
+b) Una poblacion grande se mantiene estable por miles de generaciones.
+c) Un pequeno grupo coloniza una isla y forma una poblacion nueva con frecuencias alelicas distintas.
+d) Dos poblaciones se mezclan completamente y homogenizan frecuencias.
+e) Una poblacion incrementa su tamano sin cambios en flujo genico.
+
+**4.** En dos poblaciones, antes de migracion: $p_A = 0.9$ y $p_B = 0.1$. Si la tasa de migracion es $m = 0.05$, usando $p_A' = (1-m)p_A + mp_B$, el valor de $p_A'$ es:
+
+a) 0.950
+b) 0.900
+c) 0.855
+d) 0.145
+e) 0.500
+
+**5.** El efecto evolutivo mas general de la migracion entre poblaciones es:
+
+a) Aumentar sistematicamente la divergencia genetica entre poblaciones.
+b) Reducir diferencias geneticas y tender a la homogeneizacion.
+c) Eliminar por completo el efecto de la seleccion natural.
+d) Crear alelos completamente nuevos.
+e) Forzar aislamiento reproductivo.
+
+**6.** Segun la clase de especiacion, el inicio tipico de la divergencia entre linajes ocurre cuando:
+
+a) Aumenta el flujo genico entre poblaciones.
+b) Disminuye el flujo genico por barreras geograficas, ecologicas, temporales o conductuales.
+c) Todas las poblaciones mantienen apareamiento aleatorio total.
+d) No hay variacion genetica en rasgos.
+e) Las poblaciones se fusionan en una sola panmictica.
+
+**7.** ¿Cual opcion corresponde mejor a especiacion alopatrica?
+
+a) Divergencia en la misma region sin barrera geografica clara.
+b) Divergencia tras separacion por una barrera geografica que reduce fuertemente el flujo genico.
+c) Divergencia causada exclusivamente por mutaciones somaticas.
+d) Divergencia sin cambios en flujo genico ni seleccion.
+e) Divergencia que ocurre solo en microorganismos asexuales.
+
+**8.** El refuerzo del aislamiento reproductivo ocurre cuando:
+
+a) Linajes en contacto secundario producen hibridos de baja aptitud y la seleccion favorece barreras prezigoticas mas fuertes.
+b) La migracion aumenta y elimina toda divergencia previa.
+c) Se produce una barrera geografica inicial entre poblaciones.
+d) No existe hibridacion posible entre linajes cercanos.
+e) Una poblacion pequena coloniza un nuevo habitat periferico.
+
+**9.** En macroevolucion, si $\lambda = 0.25$ y $\mu = 0.15$, la tasa neta de diversificacion es:
+
+a) $r = 0.10$
+b) $r = 0.40$
+c) $r = -0.10$
+d) $r = 0.25$
+e) $r = 0.15$
+
+**10.** ¿Cual afirmacion interpreta mejor las tasas de especiacion y extincion?
+
+a) Una tasa fija implica el mismo numero de eventos en cada ventana corta de tiempo.
+b) Si $\lambda > \mu$, entonces cada linaje necesariamente se divide en un tiempo fijo.
+c) Las tasas son probabilidades por linaje y por unidad de tiempo; trayectorias individuales pueden variar aunque parametros sean iguales.
+d) Las tasas solo pueden estimarse si se conoce el arbol filogenetico completo.
+e) Si dos sistemas tienen las mismas tasas, deben producir exactamente la misma trayectoria temporal.
