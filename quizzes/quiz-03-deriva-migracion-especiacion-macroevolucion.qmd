@@ -1,6 +1,6 @@
 ---
-title: "Quiz 3: Deriva, Migracion, Especiacion y Macroevolucion"
-subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
+title: "Quiz 3: Deriva, Migración, Especiación y Macroevolución"
+subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
 format:
   pdf:
     toc: false
@@ -10,84 +10,84 @@ lang: es
 
 **Nombre:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ &emsp; **Carne:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*Instrucciones: Elige la unica respuesta correcta para cada pregunta.*
+*Instrucciones: Elige la única respuesta correcta para cada pregunta.*
 
-**1.** La deriva genetica se define mejor como:
+**1.** La deriva genética se define mejor como:
 
-a) Cambio aleatorio en frecuencias alelicas por muestreo entre generaciones.
+a) Cambio aleatorio en frecuencias alélicas por muestreo entre generaciones.
 b) Cambio dirigido por el ambiente para producir adaptaciones.
 c) Movimiento de alelos entre poblaciones.
-d) Aparicion de alelos nuevos.
-e) Aumento obligatorio de diversidad genetica.
+d) Aparición de alelos nuevos.
+e) Aumento de diversidad genética.
 
-**2.** Comparando poblaciones con el mismo punto de partida alelico, ¿en cual se espera mayor efecto de deriva genetica en pocas generaciones?
+**2.** Comparando poblaciones con el mismo punto de partida alélico, ¿en cuál se espera mayor efecto de deriva genética en pocas generaciones cuando ninguna otra fuerza evolutiva está presente?
 
-a) N = 2000
-b) N = 200
-c) N = 20
-d) El efecto es igual en todos los N
-e) Solo depende de la tasa de mutacion
+a) Depende de la tasa de mutación
+b) Población de N = 40
+c) Población de N = 200
+d) Población de N = 2400
+e) El efecto no depende del tamaño poblacional
 
-**3.** ¿Cual escenario describe mejor un efecto fundador?
+**3.** ¿Cuál escenario describe mejor un efecto fundador?
 
-a) Una poblacion grande recibe migrantes cada generacion.
-b) Una poblacion grande se mantiene estable por miles de generaciones.
-c) Un pequeno grupo coloniza una isla y forma una poblacion nueva con frecuencias alelicas distintas.
+a) Una población grande recibe migrantes cada generación.
+b) Una población grande se mantiene estable por miles de generaciones.
+c) Un pequeño grupo coloniza una isla y forma una población nueva con frecuencias alélicas distintas.
 d) Dos poblaciones se mezclan completamente y homogenizan frecuencias.
-e) Una poblacion incrementa su tamano sin cambios en flujo genico.
+e) Una población incrementa su tamaño sin cambios en flujo génico.
 
-**4.** En dos poblaciones, antes de migracion: $p_A = 0.9$ y $p_B = 0.1$. Si la tasa de migracion es $m = 0.05$, usando $p_A' = (1-m)p_A + mp_B$, el valor de $p_A'$ es:
+**4.** Selecciona el conjunto de mecanismos de aislamiento reproductivo postcigótico que pueden contribuir a la especiación:
 
-a) 0.950
-b) 0.900
-c) 0.855
-d) 0.145
-e) 0.500
+a) Inviabilidad del híbrido, esterilidad del híbrido y menor aptitud de los híbridos.
+b) Aislamiento temporal, aislamiento etológico y aislamiento mecánico.
+c) Aislamiento de hábitat, incompatibilidad gamética y aislamiento temporal.
+d) Selección direccional, deriva genética y flujo génico.
+e) b y c son correctas.
 
-**5.** El efecto evolutivo mas general de la migracion entre poblaciones es:
+**5.** El efecto evolutivo más general de la migración entre poblaciones es:
 
-a) Aumentar sistematicamente la divergencia genetica entre poblaciones.
-b) Reducir diferencias geneticas y tender a la homogeneizacion.
-c) Eliminar por completo el efecto de la seleccion natural.
+a) Aumentar sistemáticamente la divergencia genética entre poblaciones.
+b) Reducir diferencias genéticas y tender a la homogeneización.
+c) Eliminar por completo el efecto de la selección natural.
 d) Crear alelos completamente nuevos.
-e) Forzar aislamiento reproductivo.
+e) a y d son correctas.
 
-**6.** Segun la clase de especiacion, el inicio tipico de la divergencia entre linajes ocurre cuando:
+**6.** Según la clase de especiación, el inicio típico de la divergencia entre linajes ocurre cuando:
 
-a) Aumenta el flujo genico entre poblaciones.
-b) Disminuye el flujo genico por barreras geograficas, ecologicas, temporales o conductuales.
-c) Todas las poblaciones mantienen apareamiento aleatorio total.
-d) No hay variacion genetica en rasgos.
-e) Las poblaciones se fusionan en una sola panmictica.
+a) Aumenta el flujo génico entre poblaciones por mejor conectividad o cambios en el ambiente.
+b) Disminuye el flujo génico por barreras geográficas, ecológicas, temporales o conductuales.
+c) Las poblaciones mantienen apareamiento aleatorio total.
+d) No hay variación genética en rasgos.
+e) a y c son correctas.
 
-**7.** ¿Cual opcion corresponde mejor a especiacion alopatrica?
+**7.** ¿Cuál opción corresponde mejor a especiación alopátrica?
 
-a) Divergencia en la misma region sin barrera geografica clara.
-b) Divergencia tras separacion por una barrera geografica que reduce fuertemente el flujo genico.
-c) Divergencia causada exclusivamente por mutaciones somaticas.
-d) Divergencia sin cambios en flujo genico ni seleccion.
+a) Divergencia tras separación por razones temporales o ecológicas dentro de la misma región.
+b) Divergencia tras separación por una barrera geográfica que reduce fuertemente el flujo génico.
+c) Divergencia causada por mutaciones somáticas.
+d) Divergencia sin cambios en flujo génico ni selección.
 e) Divergencia que ocurre solo en microorganismos asexuales.
 
 **8.** El refuerzo del aislamiento reproductivo ocurre cuando:
 
-a) Linajes en contacto secundario producen hibridos de baja aptitud y la seleccion favorece barreras prezigoticas mas fuertes.
-b) La migracion aumenta y elimina toda divergencia previa.
-c) Se produce una barrera geografica inicial entre poblaciones.
-d) No existe hibridacion posible entre linajes cercanos.
-e) Una poblacion pequena coloniza un nuevo habitat periferico.
+a) Linajes en contacto secundario producen híbridos con baja aptitud y la selección favorece barreras prezigóticas más fuertes.
+b) La migración aumenta y elimina toda divergencia previa.
+c) Se produce una barrera geográfica inicial entre poblaciones.
+d) No existe hibridación posible entre linajes cercanos.
+e) Una población pequeña coloniza un nuevo hábitat periférico.
 
-**9.** En macroevolucion, si $\lambda = 0.25$ y $\mu = 0.15$, la tasa neta de diversificacion es:
+**9.** ¿Cuál de los grupos de especies descritos abajo corresponde a un ejemplo de radiación adaptativa?
 
-a) $r = 0.10$
-b) $r = 0.40$
-c) $r = -0.10$
-d) $r = 0.25$
-e) $r = 0.15$
+a) Un grupo de especies de peces que colonizan un lago nuevo y se diversifican en varias especies especializadas en diferentes dietas y morfologías.
+b) Un grupo de especies de aves que se mantiene estable en un bosque sin cambios en dieta o morfología.
+c) Un grupo de especies crípticas de insectos con tasa de especiación muy alta y poca diferenciación ecológica y morfológica.
+d) b y c son correctas.
+e) Ninguna de las anteriores.
 
-**10.** ¿Cual afirmacion interpreta mejor las tasas de especiacion y extincion?
+**10.** ¿Cuál afirmación interpreta mejor las tasas de especiación y extinción?
 
-a) Una tasa fija implica el mismo numero de eventos en cada ventana corta de tiempo.
+a) Una tasa fija implica exactamente el mismo número de eventos en cualquier intervalo de tiempo.
 b) Si $\lambda > \mu$, entonces cada linaje necesariamente se divide en un tiempo fijo.
-c) Las tasas son probabilidades por linaje y por unidad de tiempo; trayectorias individuales pueden variar aunque parametros sean iguales.
-d) Las tasas solo pueden estimarse si se conoce el arbol filogenetico completo.
+c) Las tasas representan probabilidades por linaje y por unidad de tiempo; por ello, distintas historias evolutivas pueden surgir incluso con los mismos parámetros.
+d) Las tasas solo pueden estimarse si se conoce el árbol filogenético completo.
 e) Si dos sistemas tienen las mismas tasas, deben producir exactamente la misma trayectoria temporal.

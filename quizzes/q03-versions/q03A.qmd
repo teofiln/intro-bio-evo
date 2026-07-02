@@ -1,0 +1,93 @@
+---
+title: "Quiz 3: Deriva, Migración, Especiación y Macroevolución"
+subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+lang: es
+---
+
+**Nombre:** _________________________________ &emsp; **Carne:** __________________
+
+*Instrucciones: Elige la única respuesta correcta para cada pregunta.*
+
+**1.** El refuerzo del aislamiento reproductivo ocurre cuando:
+
+a) Linajes en contacto secundario producen híbridos con baja aptitud y la selección favorece barreras prezigóticas más fuertes.
+b) La migración aumenta y elimina toda divergencia previa.
+c) Se produce una barrera geográfica inicial entre poblaciones.
+d) No existe hibridación posible entre linajes cercanos.
+e) Una población pequeña coloniza un nuevo hábitat periférico.
+
+**2.** ¿Cuál escenario describe mejor un efecto fundador?
+
+a) Una población grande recibe migrantes cada generación.
+b) Una población grande se mantiene estable por miles de generaciones.
+c) Un pequeño grupo coloniza una isla y forma una población nueva con frecuencias alélicas distintas.
+d) Dos poblaciones se mezclan completamente y homogenizan frecuencias.
+e) Una población incrementa su tamaño sin cambios en flujo génico.
+
+**3.** Comparando poblaciones con el mismo punto de partida alélico, ¿en cuál se espera mayor efecto de deriva genética en pocas generaciones cuando ninguna otra fuerza evolutiva está presente?
+
+a) Depende de la tasa de mutación
+b) Población de N = 40
+c) Población de N = 200
+d) Población de N = 2400
+e) El efecto no depende del tamaño poblacional
+
+**4.** ¿Cuál de los grupos de especies descritos abajo corresponde a un ejemplo de radiación adaptativa?
+
+a) Un grupo de especies de peces que colonizan un lago nuevo y se diversifican en varias especies especializadas en diferentes dietas y morfologías.
+b) Un grupo de especies de aves que se mantiene estable en un bosque sin cambios en dieta o morfología.
+c) Un grupo de especies crípticas de insectos con tasa de especiación muy alta y poca diferenciación ecológica y morfológica.
+d) b y c son correctas.
+e) Ninguna de las anteriores.
+
+**5.** Selecciona el conjunto de mecanismos de aislamiento reproductivo postcigótico que pueden contribuir a la especiación:
+
+a) Inviabilidad del híbrido, esterilidad del híbrido y menor aptitud de los híbridos.
+b) Aislamiento temporal, aislamiento etológico y aislamiento mecánico.
+c) Aislamiento de hábitat, incompatibilidad gamética y aislamiento temporal.
+d) Selección direccional, deriva genética y flujo génico.
+e) b y c son correctas.
+
+**6.** La deriva genética se define mejor como:
+
+a) Cambio aleatorio en frecuencias alélicas por muestreo entre generaciones.
+b) Cambio dirigido por el ambiente para producir adaptaciones.
+c) Movimiento de alelos entre poblaciones.
+d) Aparición de alelos nuevos.
+e) Aumento de diversidad genética.
+
+**7.** ¿Cuál afirmación interpreta mejor las tasas de especiación y extinción?
+
+a) Una tasa fija implica exactamente el mismo número de eventos en cualquier intervalo de tiempo.
+b) Si $\lambda > \mu$, entonces cada linaje necesariamente se divide en un tiempo fijo.
+c) Las tasas representan probabilidades por linaje y por unidad de tiempo; por ello, distintas historias evolutivas pueden surgir incluso con los mismos parámetros.
+d) Las tasas solo pueden estimarse si se conoce el árbol filogenético completo.
+e) Si dos sistemas tienen las mismas tasas, deben producir exactamente la misma trayectoria temporal.
+
+**8.** Según la clase de especiación, el inicio típico de la divergencia entre linajes ocurre cuando:
+
+a) Aumenta el flujo génico entre poblaciones por mejor conectividad o cambios en el ambiente.
+b) Disminuye el flujo génico por barreras geográficas, ecológicas, temporales o conductuales.
+c) Las poblaciones mantienen apareamiento aleatorio total.
+d) No hay variación genética en rasgos.
+e) a y c son correctas.
+
+**9.** ¿Cuál opción corresponde mejor a especiación alopátrica?
+
+a) Divergencia tras separación por razones temporales o ecológicas dentro de la misma región.
+b) Divergencia tras separación por una barrera geográfica que reduce fuertemente el flujo génico.
+c) Divergencia causada por mutaciones somáticas.
+d) Divergencia sin cambios en flujo génico ni selección.
+e) Divergencia que ocurre solo en microorganismos asexuales.
+
+**10.** El efecto evolutivo más general de la migración entre poblaciones es:
+
+a) Aumentar sistemáticamente la divergencia genética entre poblaciones.
+b) Reducir diferencias genéticas y tender a la homogeneización.
+c) Eliminar por completo el efecto de la selección natural.
+d) Crear alelos completamente nuevos.
+e) a y d son correctas.

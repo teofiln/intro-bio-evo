@@ -1,0 +1,33 @@
+---
+title: "Quiz 3D - CLAVE DE RESPUESTAS"
+subtitle: "Deriva, Migración, Especiación y Macroevolución · Intro Bio I (B0160)"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+lang: es
+---
+
+| Pregunta | Respuesta correcta | Concepto clave |
+|:---:|:---:|---|
+| 1 | **a** | Deriva genética: cambio aleatorio en frecuencias alélicas por muestreo |
+| 2 | **a** | Radiación adaptativa: diversificación ecológica y morfológica |
+| 3 | **c** | Tasas son probabilísticas; una realización no representa el promedio |
+| 4 | **a** | Refuerzo: contacto secundario + híbridos de baja aptitud + barreras prezigóticas |
+| 5 | **b** | Especiación inicia con reducción de flujo génico |
+| 6 | **b** | Flujo génico tiende a homogeneizar poblaciones |
+| 7 | **a** | Aislamiento postcigótico: inviabilidad, esterilidad y menor aptitud de híbridos |
+| 8 | **b** | Deriva más intensa en poblaciones pequeñas (N bajo) |
+| 9 | **c** | Efecto fundador: muestra pequeña inicial con frecuencias distintas |
+| 10 | **b** | Alopatría: barrera geográfica y divergencia independiente |
+## Notas para el docente
+
+- Cobertura por clase:
+  - Preguntas 1-3: Clase 7 (deriva genética, tamaño poblacional, efecto fundador).
+  - Pregunta 5: Clase 8 (migración y homogeneización).
+  - Preguntas 4, 6-8: Clase 9 (aislamiento reproductivo, flujo génico, alopatría, refuerzo).
+  - Preguntas 9-10: Clase 10 (radiación adaptativa y tasas de macroevolución).
+- Distractores principales:
+  - Confundir flujo génico con aparición de alelos nuevos por mutación.
+  - Interpretar tasas evolutivas como relojes deterministas.
+  - Mezclar barreras prezigóticas con procesos postcigóticos.
