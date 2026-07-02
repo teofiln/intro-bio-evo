@@ -1,6 +1,6 @@
 ---
 title: "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)"
-subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
+subtitle: "Comparar especies, rasgos y parentesco"
 format:
   html:
     toc: true

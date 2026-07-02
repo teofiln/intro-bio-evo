@@ -1,6 +1,6 @@
 ---
 title: "Equilibrio de Hardy-Weinberg"
-subtitle: "Intro Bio I (B0160): Modulo Evolucion"
+subtitle: "Una expectativa nula para poblaciones"
 format:
   revealjs:
     slide-number: true

@@ -1,6 +1,6 @@
 ---
 title: "Hoja de trabajo 04: Simulación de Hardy-Weinberg"
-subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
+subtitle: "Frecuencias alélicas y equilibrio poblacional"
 format:
   html:
     toc: true

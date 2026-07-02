@@ -1,6 +1,6 @@
 ---
 title: "Hoja de trabajo 09: Mutacion y deriva genetica"
-subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
+subtitle: "Interaccion entre nueva variacion y azar"
 format:
   html:
     toc: true

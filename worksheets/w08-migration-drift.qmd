@@ -1,6 +1,6 @@
 ---
 title: "Hoja de trabajo 08: Flujo genico (migracion)"
-subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
+subtitle: "Migracion, mezcla y cambio poblacional"
 format:
   html:
     toc: true

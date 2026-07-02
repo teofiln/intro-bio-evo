@@ -1,6 +1,6 @@
 ---
 title: "Selección Natural"
-subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
+subtitle: "Adaptacion por diferencias en exito reproductivo"
 format:
   revealjs:
     slide-number: true

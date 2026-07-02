@@ -1,6 +1,6 @@
 ---
 title: "Deriva genética"
-subtitle: "Intro Bio I (B0160) - Módulo de Evolución"
+subtitle: "Cambio evolutivo por azar entre generaciones"
 format:
   revealjs:
     slide-number: true

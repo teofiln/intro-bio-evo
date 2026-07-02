@@ -1,54 +1,34 @@
 library(ggplot2)
 library(tibble)
 
-# Resolve project root regardless of invocation directory.
-get_script_dir <- function() {
+utils_path <- local({
   file_arg <- grep("^--file=", commandArgs(trailingOnly = FALSE), value = TRUE)
   if (length(file_arg) > 0) {
-    return(dirname(normalizePath(
-      sub("^--file=", "", file_arg[1]),
-      mustWork = FALSE
-    )))
+    return(file.path(
+      dirname(normalizePath(
+        sub("^--file=", "", file_arg[1]),
+        mustWork = FALSE
+      )),
+      "utils.R"
+    ))
   }
 
   if (!is.null(sys.frames()[[1]]$ofile)) {
-    return(dirname(normalizePath(sys.frames()[[1]]$ofile, mustWork = FALSE)))
+    return(file.path(
+      dirname(normalizePath(sys.frames()[[1]]$ofile, mustWork = FALSE)),
+      "utils.R"
+    ))
   }
 
-  normalizePath(getwd(), mustWork = FALSE)
-}
-
-find_project_root <- function(start_dirs) {
-  for (start_dir in start_dirs) {
-    current <- normalizePath(start_dir, mustWork = FALSE)
-
-    repeat {
-      if (file.exists(file.path(current, "_quarto.yml"))) {
-        return(current)
-      }
-
-      parent <- dirname(current)
-      if (identical(parent, current)) {
-        break
-      }
-      current <- parent
-    }
+  cwd <- normalizePath(getwd(), mustWork = FALSE)
+  code_candidate <- file.path(cwd, "code", "utils.R")
+  if (file.exists(code_candidate)) {
+    return(code_candidate)
   }
 
-  NULL
-}
-
-theme_diagram <- function() {
-  theme_bw(base_size = 11) +
-    theme(
-      plot.title = element_text(hjust = 0.5, face = "bold", size = 12),
-      plot.subtitle = element_text(hjust = 0.5, size = 10),
-      panel.grid.minor = element_blank(),
-      panel.grid.major = element_blank(),
-      axis.title = element_text(size = 10),
-      axis.text = element_text(size = 9)
-    )
-}
+  file.path(cwd, "utils.R")
+})
+source(utils_path)
 
 rate_to_token <- function(migration_rate, digits = 4) {
   formatted <- formatC(migration_rate, format = "f", digits = digits)
@@ -307,14 +287,7 @@ make_scenario_plot_asymmetric <- function(scenario_df) {
     theme_diagram()
 }
 
-script_dir <- get_script_dir()
-project_root <- find_project_root(c(script_dir, getwd()))
-if (is.null(project_root)) {
-  stop("Could not find project root (_quarto.yml)")
-}
-
-out_dir <- file.path(project_root, "lectures", "08-assets")
-dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
+out_dir <- ensure_asset_dir("08-assets")
 
 # Default setup: with N = 100, migration_rate = 0.01 is ~1 migrant per generation.
 pop_size <- 100

@@ -1,227 +1,563 @@
 [
   {
-    "objectID": "worksheets/w09-mutation-drift.html",
-    "href": "worksheets/w09-mutation-drift.html",
-    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
+    "objectID": "worksheets/w10-rates.html",
+    "href": "worksheets/w10-rates.html",
+    "title": "Hoja de trabajo 10: contar eventos y estimar tasas",
     "section": "",
-    "text": "Investigar como aparecen nuevos alelos en una poblacion.\nExplorar que ocurre con las mutaciones neutras en poblaciones pequenas.\nAnalizar el efecto de la deriva genetica en el destino de nuevas mutaciones."
+    "text": "Contar eventos de especiacion y extincion a partir de un conjunto de linajes.\nCalcular el tiempo total de exposicion de los linajes (suma de sus duraciones) y la duracion promedio de los linajes.\nEstimar \\(\\lambda\\), \\(\\mu\\) y \\(r\\) a partir de esos conteos.\nInterpretar biologicamente que significa una tasa positiva, negativa o cercana a cero."
   },
   {
-    "objectID": "worksheets/w09-mutation-drift.html#objetivos-de-la-actividad",
-    "href": "worksheets/w09-mutation-drift.html#objetivos-de-la-actividad",
-    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
+    "objectID": "worksheets/w10-rates.html#objetivos-de-la-actividad",
+    "href": "worksheets/w10-rates.html#objetivos-de-la-actividad",
+    "title": "Hoja de trabajo 10: contar eventos y estimar tasas",
     "section": "",
-    "text": "Investigar como aparecen nuevos alelos en una poblacion.\nExplorar que ocurre con las mutaciones neutras en poblaciones pequenas.\nAnalizar el efecto de la deriva genetica en el destino de nuevas mutaciones."
+    "text": "Contar eventos de especiacion y extincion a partir de un conjunto de linajes.\nCalcular el tiempo total de exposicion de los linajes (suma de sus duraciones) y la duracion promedio de los linajes.\nEstimar \\(\\lambda\\), \\(\\mu\\) y \\(r\\) a partir de esos conteos.\nInterpretar biologicamente que significa una tasa positiva, negativa o cercana a cero."
   },
   {
-    "objectID": "worksheets/w09-mutation-drift.html#materiales-por-grupo",
-    "href": "worksheets/w09-mutation-drift.html#materiales-por-grupo",
-    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
-    "section": "Materiales por grupo",
-    "text": "Materiales por grupo\n\nSu poblacion actual (20 frijoles)\n1 frijol blanco (representa una mutacion nueva)\nMoneda"
+    "objectID": "worksheets/w10-rates.html#introduccion",
+    "href": "worksheets/w10-rates.html#introduccion",
+    "title": "Hoja de trabajo 10: contar eventos y estimar tasas",
+    "section": "Introduccion",
+    "text": "Introduccion\nEn esta actividad no vamos a seguir genes dentro de una poblacion. En cambio, vamos a resumir una historia macroevolutiva sencilla usando:\n\nlas primeras y ultimas apariciones de los linajes\neventos de especiacion y extincion\nel tiempo total durante el cual existieron los linajes (lineage-time total)\n\nLa pregunta es:\n\nA partir de un registro simple de linajes, ¿podemos estimar tasas de especiacion, extincion y diversificacion neta?"
   },
   {
-    "objectID": "worksheets/w09-mutation-drift.html#situacion-inicial",
-    "href": "worksheets/w09-mutation-drift.html#situacion-inicial",
-    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
-    "section": "Situacion inicial",
-    "text": "Situacion inicial\nRegistre la composicion inicial de su poblacion:\n\n\n\nColor\nCantidad\n\n\n\n\nNegro\n\n\n\nRojo\n\n\n\nBlanco\n0"
-  },
-  {
-    "objectID": "worksheets/w09-mutation-drift.html#procedimiento",
-    "href": "worksheets/w09-mutation-drift.html#procedimiento",
-    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
-    "section": "Procedimiento",
-    "text": "Procedimiento\nEvolucione su poblacion durante 10 generaciones. En cada generacion:\n\nIntente obtener una mutacion (solo si aun no ha ocurrido):\n\nLance una moneda 3 veces.\nSi obtiene 3 caras consecutivas: ocurre una mutacion. Seleccione un frijol al azar y reemplacelo por un frijol blanco.\nSi no obtiene 3 caras: continua sin mutacion.\n\nForme la nueva generacion: realice 20 extracciones con reemplazo para mantener 20 individuos.\nRegistre: anote el numero de frijoles blancos.\nDetencion: una vez que aparece una mutacion (frijol blanco), deje de intentar mutar en las generaciones siguientes. Solo siga el destino de esa mutacion hasta la generacion 10."
-  },
-  {
-    "objectID": "worksheets/w09-mutation-drift.html#resultados",
-    "href": "worksheets/w09-mutation-drift.html#resultados",
-    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
-    "section": "Resultados",
-    "text": "Resultados\n\n\n\nGeneracion\nBlancos\n\n\n\n\n0\n\n\n\n1\n\n\n\n2\n\n\n\n3\n\n\n\n4\n\n\n\n5\n\n\n\n6\n\n\n\n7\n\n\n\n8\n\n\n\n9\n\n\n\n10"
-  },
-  {
-    "objectID": "worksheets/w09-mutation-drift.html#grafico",
-    "href": "worksheets/w09-mutation-drift.html#grafico",
-    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
-    "section": "Grafico",
-    "text": "Grafico\nGrafique:\n\nEje X: generacion\nEje Y: numero de frijoles blancos"
-  },
-  {
-    "objectID": "worksheets/w09-mutation-drift.html#preguntas-de-analisis",
-    "href": "worksheets/w09-mutation-drift.html#preguntas-de-analisis",
-    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
-    "section": "Preguntas de analisis",
-    "text": "Preguntas de analisis\n\n¿Ocurrio una mutacion en su poblacion?\nSi ocurrio una mutacion en su poblacion, que sucedio con el alelo blanco?\nSi la mutacion era neutral, que proceso determino su destino?\nCompare sus resultados con otros grupos: ¿todas las mutaciones tuvieron el mismo destino? Explique por que o por que no."
-  },
-  {
-    "objectID": "worksheets/w09-mutation-drift.html#resumen",
-    "href": "worksheets/w09-mutation-drift.html#resumen",
-    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
-    "section": "Resumen",
-    "text": "Resumen\n\nLas mutaciones son la fuente de toda variacion genetica nueva.\nLas nuevas mutaciones comienzan en frecuencia muy baja.\nUna mutacion neutral puede perderse simplemente por azar (deriva genetica).\nEl destino de una mutacion neutral es impredecible en poblaciones pequenas"
-  },
-  {
-    "objectID": "worksheets/w07-drift.html",
-    "href": "worksheets/w07-drift.html",
-    "title": "Hoja de trabajo 07: Simulación de deriva genética",
-    "section": "",
-    "text": "Explorar cómo las frecuencias alélicas pueden cambiar por azar entre generaciones, incluso cuando no existen diferencias de aptitud entre los alelos."
-  },
-  {
-    "objectID": "worksheets/w07-drift.html#objetivos-de-la-actividad",
-    "href": "worksheets/w07-drift.html#objetivos-de-la-actividad",
-    "title": "Hoja de trabajo 07: Simulación de deriva genética",
-    "section": "",
-    "text": "Explorar cómo las frecuencias alélicas pueden cambiar por azar entre generaciones, incluso cuando no existen diferencias de aptitud entre los alelos."
-  },
-  {
-    "objectID": "worksheets/w07-drift.html#introducción",
-    "href": "worksheets/w07-drift.html#introducción",
-    "title": "Hoja de trabajo 07: Simulación de deriva genética",
-    "section": "Introducción",
-    "text": "Introducción\nLa deriva genética es el cambio en la frecuencia de alelos debido al azar.\nEn esta actividad simularemos una población pequeña con dos alelos:\n\nFrijol negro = alelo A\nFrijol rojo = alelo a\n\nAsumiremos que ambos alelos tienen exactamente la misma aptitud. Cualquier cambio observado será consecuencia únicamente del azar."
-  },
-  {
-    "objectID": "worksheets/w07-drift.html#materiales-por-pareja",
-    "href": "worksheets/w07-drift.html#materiales-por-pareja",
-    "title": "Hoja de trabajo 07: Simulación de deriva genética",
-    "section": "Materiales por pareja",
-    "text": "Materiales por pareja\nPor pareja:\n\n10 frijoles negros\n10 frijoles rojos\nBolsa opaca\nCalculadora"
-  },
-  {
-    "objectID": "worksheets/w07-drift.html#procedimiento",
-    "href": "worksheets/w07-drift.html#procedimiento",
-    "title": "Hoja de trabajo 07: Simulación de deriva genética",
-    "section": "Procedimiento",
-    "text": "Procedimiento\n\nGeneración 0\nColoque los 20 frijoles en la bolsa.\nRegistre la composición inicial:\n\n\n\nGeneración\nNegros\nRojos\nFrecuencia rojo\n\n\n\n\n0\n10\n10\n0.50\n\n\n\n\n\n\nGeneración 1\n\nMezcle bien los frijoles.\nExtraiga un frijol al azar.\nRegistre su color.\nDevuelva el frijol a la bolsa.\nRepita hasta obtener 20 extracciones (10 cigotes).\n\nEstas 20 extracciones representan los individuos de la siguiente generación.\nCuente cuántos fueron:\n\nNegros: ______\nRojos: ______\n\nRegistre la nueva frecuencia del alelo rojo:\n\\[\np_{rojo}=\\frac{\\text{Número de rojos}}{20}\n\\]\n\n\n\nGeneraciones 2–10\nRepita el procedimiento anterior.\nAl finalizar cada generación:\n\nReemplace la población anterior por la nueva composición observada.\nColoque en la bolsa el número correspondiente de frijoles negros y rojos.\nRealice nuevamente 20 extracciones con reemplazo para generar la siguiente generación."
-  },
-  {
-    "objectID": "worksheets/w07-drift.html#resultados",
-    "href": "worksheets/w07-drift.html#resultados",
-    "title": "Hoja de trabajo 07: Simulación de deriva genética",
-    "section": "Resultados",
-    "text": "Resultados\n\n\n\nGeneración\nNegros\nRojos\nFrecuencia rojo\n\n\n\n\n0\n10\n10\n0.50\n\n\n1\n\n\n\n\n\n2\n\n\n\n\n\n3\n\n\n\n\n\n4\n\n\n\n\n\n5\n\n\n\n\n\n6\n\n\n\n\n\n7\n\n\n\n\n\n8\n\n\n\n\n\n9\n\n\n\n\n\n10"
-  },
-  {
-    "objectID": "worksheets/w07-drift.html#gráfico",
-    "href": "worksheets/w07-drift.html#gráfico",
-    "title": "Hoja de trabajo 07: Simulación de deriva genética",
-    "section": "Gráfico",
-    "text": "Gráfico\nGrafique:\n\nEje X: generación\nEje Y: frecuencia del alelo rojo"
-  },
-  {
-    "objectID": "worksheets/w07-drift.html#preguntas",
-    "href": "worksheets/w07-drift.html#preguntas",
-    "title": "Hoja de trabajo 07: Simulación de deriva genética",
+    "objectID": "worksheets/w10-rates.html#preguntas",
+    "href": "worksheets/w10-rates.html#preguntas",
+    "title": "Hoja de trabajo 10: contar eventos y estimar tasas",
     "section": "Preguntas",
-    "text": "Preguntas\n\n¿La frecuencia del alelo rojo permaneció constante durante toda la simulación?\n¿Los cambios observados ocurrieron por selección natural o por azar?\nCompare sus resultados con los de otros grupos. ¿Todas las poblaciones siguieron la misma trayectoria?\n¿Alguna población perdió completamente uno de los alelos?\n¿Qué efecto tendría aumentar el tamaño poblacional de 20 a 200 individuos?"
+    "text": "Preguntas\nEn esta actividad, “tiempo total de exposicion de los linajes” significa la suma de las duraciones de todos los linajes del conjunto (lineage-time total).\n\n¿Cual es el tiempo total de exposicion de los linajes en este intervalo?\n¿Cual es la duracion promedio de los linajes en este conjunto?\n¿Que linaje tuvo la mayor duracion? ¿Y cual tuvo la menor?\n¿Por que para calcular tasas no basta con contar especies al inicio y al final?"
   },
   {
-    "objectID": "worksheets/w07-drift.html#discusión",
-    "href": "worksheets/w07-drift.html#discusión",
-    "title": "Hoja de trabajo 07: Simulación de deriva genética",
-    "section": "Discusión",
-    "text": "Discusión\nExplique cómo esta actividad ilustra los siguientes conceptos:\n\nDeriva genética\nFijación de alelos\nPérdida de diversidad genética\nImportancia del tamaño poblacional"
+    "objectID": "worksheets/w10-rates.html#interpretacion",
+    "href": "worksheets/w10-rates.html#interpretacion",
+    "title": "Hoja de trabajo 10: contar eventos y estimar tasas",
+    "section": "Interpretacion",
+    "text": "Interpretacion\n\nSi \\(r &gt; 0\\), ¿que significa biologicamente?\nSi \\(r &lt; 0\\), ¿que significa biologicamente?\n¿Que significa si \\(r\\) es igual o cercano a 0?\n¿Es posible que dos grupos tengan el mismo valor de \\(r\\), pero tasas de especiacion y extincion muy diferentes? Expliquen."
   },
   {
-    "objectID": "worksheets/w04-hw.html",
-    "href": "worksheets/w04-hw.html",
-    "title": "Hoja de trabajo 04: Simulación de Hardy-Weinberg",
+    "objectID": "worksheets/w10-rates.html#para-discutir-al-final",
+    "href": "worksheets/w10-rates.html#para-discutir-al-final",
+    "title": "Hoja de trabajo 10: contar eventos y estimar tasas",
+    "section": "Para discutir al final",
+    "text": "Para discutir al final\n\n¿Que pasaria con las estimaciones si el registro fosil fuera incompleto?\n¿Como cambiarian las tasas si faltara el linaje C en el registro?\n¿Como cambiarian si no observaramos bien el origen de B1 y B2?"
+  },
+  {
+    "objectID": "worksheets/w08-migration-drift.html",
+    "href": "worksheets/w08-migration-drift.html",
+    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
     "section": "",
-    "text": "Comprender Hardy-Weinberg como una expectativa nula para una población sin fuerzas evolutivas.\nEstimar frecuencias alélicas a partir de datos genotípicos.\nComparar observaciones reales con expectativas bajo apareamiento aleatorio.\nInterpretar biológicamente desviaciones del equilibrio."
+    "text": "Investigar como la migracion modifica las frecuencias alelicas entre poblaciones.\nComparar el efecto del flujo genico con el efecto de la deriva genetica.\nEvaluar si las poblaciones se vuelven mas similares o mas diferentes a traves del tiempo."
   },
   {
-    "objectID": "worksheets/w04-hw.html#objetivos-de-la-actividad",
-    "href": "worksheets/w04-hw.html#objetivos-de-la-actividad",
-    "title": "Hoja de trabajo 04: Simulación de Hardy-Weinberg",
+    "objectID": "worksheets/w08-migration-drift.html#objetivos-de-la-actividad",
+    "href": "worksheets/w08-migration-drift.html#objetivos-de-la-actividad",
+    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
     "section": "",
-    "text": "Comprender Hardy-Weinberg como una expectativa nula para una población sin fuerzas evolutivas.\nEstimar frecuencias alélicas a partir de datos genotípicos.\nComparar observaciones reales con expectativas bajo apareamiento aleatorio.\nInterpretar biológicamente desviaciones del equilibrio."
+    "text": "Investigar como la migracion modifica las frecuencias alelicas entre poblaciones.\nComparar el efecto del flujo genico con el efecto de la deriva genetica.\nEvaluar si las poblaciones se vuelven mas similares o mas diferentes a traves del tiempo."
   },
   {
-    "objectID": "worksheets/w04-hw.html#materiales-por-grupo",
-    "href": "worksheets/w04-hw.html#materiales-por-grupo",
-    "title": "Hoja de trabajo 04: Simulación de Hardy-Weinberg",
+    "objectID": "worksheets/w08-migration-drift.html#introduccion",
+    "href": "worksheets/w08-migration-drift.html#introduccion",
+    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
+    "section": "Introduccion",
+    "text": "Introduccion\nEn la actividad anterior, la deriva genetica hizo que poblaciones inicialmente parecidas empezaran a diferenciarse.\nEn esta actividad analizaremos la migracion (flujo genico), es decir, el movimiento de individuos o gametos entre poblaciones.\nPregunta central:\n\nQue ocurre con las frecuencias alelicas cuando hay intercambio de individuos entre poblaciones?"
+  },
+  {
+    "objectID": "worksheets/w08-migration-drift.html#materiales-por-grupo",
+    "href": "worksheets/w08-migration-drift.html#materiales-por-grupo",
+    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
     "section": "Materiales por grupo",
-    "text": "Materiales por grupo\n\n1 bolsa de papel | 140 frijoles negros (alelo \\(A\\)) | 60 frijoles rojos (alelo \\(a\\))"
+    "text": "Materiales por grupo\n\nSu poblacion final de la actividad de deriva genetica.\nTabla de registro.\nCalculadora."
   },
   {
-    "objectID": "worksheets/w04-hw.html#procedimiento",
-    "href": "worksheets/w04-hw.html#procedimiento",
-    "title": "Hoja de trabajo 04: Simulación de Hardy-Weinberg",
-    "section": "Procedimiento",
-    "text": "Procedimiento\nRepitan 100 veces:\n\nMezclen bien la bolsa.\nExtraigan dos frijoles al azar.\nRegistren el genotipo resultante.\nDevuelvan ambos frijoles a la bolsa.\nRepitan.\n\n\nClasificación\n\n\n\nFrijoles extraídos\nGenotipo\nObservado\nSimulado\n\n\n\n\nNegro + Negro\nAA\n60\n\n\n\nNegro + Rojo\nAa\n20\n\n\n\nRojo + Rojo\naa\n20\n\n\n\nTotal\n\n100\n100\n\n\n\nUn integrante de cada pareja anotará en la pizarra el número de heterocigotos (\\(Aa\\)) obtenidos.\nEl conjunto de resultados de la clase mostrará la distribución esperada bajo apareamiento aleatorio."
+    "objectID": "worksheets/w08-migration-drift.html#situacion-inicial",
+    "href": "worksheets/w08-migration-drift.html#situacion-inicial",
+    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
+    "section": "Situacion inicial",
+    "text": "Situacion inicial\nCada grupo representa una poblacion distinta.\nRegistren la composicion actual de su poblacion:\n\n\n\nPoblacion\nNegros\nRojos\nFrecuencia rojo\n\n\n\n\nInicial"
   },
   {
-    "objectID": "worksheets/w02-evidence.html",
-    "href": "worksheets/w02-evidence.html",
-    "title": "Hoja de trabajo 02: Evidencia de la evolución",
+    "objectID": "worksheets/w08-migration-drift.html#organizacion-de-la-migracion",
+    "href": "worksheets/w08-migration-drift.html#organizacion-de-la-migracion",
+    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
+    "section": "Organizacion de la migracion",
+    "text": "Organizacion de la migracion\nLos grupos se organizaran en una cadena:\nGrupo A &lt;-&gt; Grupo B &lt;-&gt; Grupo C &lt;-&gt; Grupo D &lt;-&gt; Grupo E ...\nEn cada generacion:\n\nCada grupo intercambia 1 individuo (frijol) con un grupo vecino.\nEl frijol enviado se selecciona al azar.\nLa migracion ocurre despues de generar la nueva poblacion por deriva."
+  },
+  {
+    "objectID": "worksheets/w08-migration-drift.html#procedimiento-generaciones-1-6",
+    "href": "worksheets/w08-migration-drift.html#procedimiento-generaciones-1-6",
+    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
+    "section": "Procedimiento (generaciones 1-6)",
+    "text": "Procedimiento (generaciones 1-6)\nPara cada generacion:\n\nMezclen los frijoles y realicen 20 extracciones con reemplazo para formar la nueva generacion.\nRegistren negros, rojos y frecuencia roja antes de migracion.\nSeleccionen un frijol al azar y envienlo al grupo vecino.\nReciban un frijol de un grupo vecino y actualicen la composicion.\nRegistren la frecuencia roja despues de migracion.\n\n\n\n\n\n\n\n\n\n\n\nGeneracion\nNegros (antes)\nRojos (antes)\nFrecuencia roja (antes)\nFrecuencia roja (despues)\n\n\n\n\n1\n\n\n\n\n\n\n2\n\n\n\n\n\n\n3\n\n\n\n\n\n\n4\n\n\n\n\n\n\n5\n\n\n\n\n\n\n6"
+  },
+  {
+    "objectID": "worksheets/w08-migration-drift.html#resultados-de-la-clase",
+    "href": "worksheets/w08-migration-drift.html#resultados-de-la-clase",
+    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
+    "section": "Resultados de la clase",
+    "text": "Resultados de la clase\nAl finalizar, cada grupo reporta su frecuencia roja inicial y final en la pizzara:\n\n\n\nGrupo\nFrecuencia inicial\nFrecuencia final\n\n\n\n\nA\n\n\n\n\nB\n\n\n\n\nC\n\n\n\n\nD\n\n\n\n\nE"
+  },
+  {
+    "objectID": "worksheets/w08-migration-drift.html#preguntas-de-analisis",
+    "href": "worksheets/w08-migration-drift.html#preguntas-de-analisis",
+    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
+    "section": "Preguntas de analisis",
+    "text": "Preguntas de analisis\n\nCalcule la diferencia entre la mayor y la menor frecuencia alelica en su poblacion al inicio de la actividad.\nCalcule la misma diferencia al final de la generacion 6. Que cambio observo?\nCompare esta actividad con la de deriva genetica: cual proceso tiende a aumentar diferencias entre poblaciones y cual tiende a reducirlas?\nSi en vez de 1 migrante por generacion hubiera 3, que espera sobre el tiempo de convergencia entre los dos poblaciones? ¿Convergirian mas rapido o mas lento? Explique en una o dos oraciones."
+  },
+  {
+    "objectID": "worksheets/w08-migration-drift.html#resumen",
+    "href": "worksheets/w08-migration-drift.html#resumen",
+    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
+    "section": "Resumen",
+    "text": "Resumen\n\nEl flujo genico introduce alelos entre poblaciones.\nLa migracion puede cambiar las frecuencias alelicas en pocas generaciones.\nCon flujo genico, las poblaciones tienden a parecerse mas entre si.\nEn la naturaleza, deriva y migracion actuan al mismo tiempo."
+  },
+  {
+    "objectID": "worksheets/w05-mutation.html",
+    "href": "worksheets/w05-mutation.html",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
     "section": "",
-    "text": "Al finalizar esta actividad, el grupo debería ser capaz de usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica."
+    "text": "Comprender que la mutación es la fuente última de nuevos alelos.\nReconocer que las mutaciones ocurren de manera aleatoria.\nVisualizar cómo una mutación nueva comienza a frecuencias muy bajas en una población.\nConectar los conceptos de mutación, herencia mendeliana y evolución."
   },
   {
-    "objectID": "worksheets/w02-evidence.html#objetivo-de-la-actividad",
-    "href": "worksheets/w02-evidence.html#objetivo-de-la-actividad",
-    "title": "Hoja de trabajo 02: Evidencia de la evolución",
+    "objectID": "worksheets/w05-mutation.html#registro",
+    "href": "worksheets/w05-mutation.html#registro",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
+    "section": "Registro",
+    "text": "Registro\n¿Obtuvieron 6 caras consecutivas?\n\nSí\nNo\n\nSi la respuesta es “No”, continúen con la discusión final.\nSi la respuesta es “Sí”, continúen con la Parte II."
+  },
+  {
+    "objectID": "worksheets/w05-mutation.html#paso-1-elegir-el-locus",
+    "href": "worksheets/w05-mutation.html#paso-1-elegir-el-locus",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
+    "section": "Paso 1: Elegir el locus",
+    "text": "Paso 1: Elegir el locus\nExtraigan al azar un número entre 1 y 10.\nLocus afectado:"
+  },
+  {
+    "objectID": "worksheets/w05-mutation.html#paso-2-elegir-la-copia-parental",
+    "href": "worksheets/w05-mutation.html#paso-2-elegir-la-copia-parental",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
+    "section": "Paso 2: Elegir la copia parental",
+    "text": "Paso 2: Elegir la copia parental\nLancen una moneda una vez.\n\nCara = copia materna\nCruz = copia paterna\n\nCopia afectada:"
+  },
+  {
+    "objectID": "worksheets/w05-mutation.html#paso-3-elegir-la-posición-dentro-del-gen",
+    "href": "worksheets/w05-mutation.html#paso-3-elegir-la-posición-dentro-del-gen",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
+    "section": "Paso 3: Elegir la posición dentro del gen",
+    "text": "Paso 3: Elegir la posición dentro del gen\nExtraigan al azar un número entre 1 y 300.\nPosición mutada:"
+  },
+  {
+    "objectID": "worksheets/w05-mutation.html#registro-de-la-mutación",
+    "href": "worksheets/w05-mutation.html#registro-de-la-mutación",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
+    "section": "Registro de la mutación",
+    "text": "Registro de la mutación\nEjemplo:\nA7\nCopia materna\nPosición 184\nMutación observada:"
+  },
+  {
+    "objectID": "worksheets/w05-mutation.html#tamaño-de-la-población",
+    "href": "worksheets/w05-mutation.html#tamaño-de-la-población",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
+    "section": "Tamaño de la población",
+    "text": "Tamaño de la población\nNúmero total de grupos:\n\\[\nN = \\underline{\\hspace{2cm}}\n\\]"
+  },
+  {
+    "objectID": "worksheets/w05-mutation.html#número-total-de-alelos",
+    "href": "worksheets/w05-mutation.html#número-total-de-alelos",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
+    "section": "Número total de alelos",
+    "text": "Número total de alelos\nCada individuo posee:\n\\[\n10 \\text{ loci} \\times 2 \\text{ copias} = 20 \\text{ alelos}\n\\]\nAlelos totales en la población:\n\\[\n20 \\times N =\n\\]"
+  },
+  {
+    "objectID": "worksheets/w05-mutation.html#número-total-de-mutaciones-observadas",
+    "href": "worksheets/w05-mutation.html#número-total-de-mutaciones-observadas",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
+    "section": "Número total de mutaciones observadas",
+    "text": "Número total de mutaciones observadas\n\\[\nM = \\underline{\\hspace{2cm}}\n\\]"
+  },
+  {
+    "objectID": "worksheets/w05-mutation.html#frecuencia-de-alelos-nuevos",
+    "href": "worksheets/w05-mutation.html#frecuencia-de-alelos-nuevos",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
+    "section": "Frecuencia de alelos nuevos",
+    "text": "Frecuencia de alelos nuevos\nFrecuencia observada:\n\\[\nf= \\frac{M}{20 \\times N} =\n\\]"
+  },
+  {
+    "objectID": "worksheets/w05-mutation.html#frecuencia-de-nucleotidos-nuevos",
+    "href": "worksheets/w05-mutation.html#frecuencia-de-nucleotidos-nuevos",
+    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
+    "section": "Frecuencia de nucleotidos nuevos",
+    "text": "Frecuencia de nucleotidos nuevos\n\\[\nf_n = \\frac{M}{6000 \\times N} =\n\\]"
+  },
+  {
+    "objectID": "worksheets/w03-methods.html",
+    "href": "worksheets/w03-methods.html",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
     "section": "",
-    "text": "Al finalizar esta actividad, el grupo debería ser capaz de usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica."
+    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de interpretar evidencia en el contexto de las hipotesis, y decidir que hipotesis recibe mayor apoyo relativo."
   },
   {
-    "objectID": "worksheets/w02-evidence.html#instrucciones-generales",
-    "href": "worksheets/w02-evidence.html#instrucciones-generales",
-    "title": "Hoja de trabajo 02: Evidencia de la evolución",
+    "objectID": "worksheets/w03-methods.html#objetivo-de-la-actividad",
+    "href": "worksheets/w03-methods.html#objetivo-de-la-actividad",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
+    "section": "",
+    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de interpretar evidencia en el contexto de las hipotesis, y decidir que hipotesis recibe mayor apoyo relativo."
+  },
+  {
+    "objectID": "worksheets/w03-methods.html#instrucciones-generales",
+    "href": "worksheets/w03-methods.html#instrucciones-generales",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
     "section": "2 Instrucciones generales",
-    "text": "2 Instrucciones generales\nTrabajen en grupos de 4–6 personas. Lean el escenario y discutan cada pregunta antes de escribir la respuesta. No se espera una respuesta larga, pero sí una justificación clara."
+    "text": "2 Instrucciones generales\n\nLean cada bloque de evidencia.\nIdentifiquen el patron principal en cada caso.\nEvalen que tan bien cada evidencia apoya las dos hipotesis.\n\nUsen respuestas breves pero justificadas con datos."
   },
   {
-    "objectID": "worksheets/w02-evidence.html#escenario-isla-verde",
-    "href": "worksheets/w02-evidence.html#escenario-isla-verde",
-    "title": "Hoja de trabajo 02: Evidencia de la evolución",
-    "section": "3 Escenario: Isla Verde",
-    "text": "3 Escenario: Isla Verde\nUn equipo de biólogos estudia una isla oceánica llamada Isla Verde. La isla está a unos 800 km del continente más cercano y tiene varios ambientes: bosque seco, bosque húmedo, costa rocosa y zonas abiertas.\nEn la isla se encuentran cuatro especies animales que parecen muy diferentes entre sí:\n\n\n\nEspecie\nDescripción breve\n\n\n\n\nEspecie A\nMamífero pequeño, terrestre, nocturno, con patas cortas\n\n\nEspecie B\nMamífero grande, terrestre, diurno, con patas largas\n\n\nEspecie C\nAnimal volador con alas membranosas\n\n\nEspecie D\nAnimal volador con alas rígidas cubiertas de plumas\n\n\n\nEl objetivo del grupo es usar la evidencia disponible para responder:\n\n¿Qué especies parecen estar más cercanamente relacionadas y qué tipo de evidencia apoya esa conclusión?"
+    "objectID": "worksheets/w03-methods.html#hipotesis",
+    "href": "worksheets/w03-methods.html#hipotesis",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
+    "section": "3 Hipotesis",
+    "text": "3 Hipotesis\n\nHipotesis A: la capacidad de re-inspirar aire surgio una sola vez y luego se heredo en el linaje correspondiente.\nHipotesis B: la capacidad de re-inspirar aire surgio varias veces de forma independiente en distintos linajes."
   },
   {
-    "objectID": "worksheets/w02-evidence.html#parte-1.-evidencias-disponibles",
-    "href": "worksheets/w02-evidence.html#parte-1.-evidencias-disponibles",
-    "title": "Hoja de trabajo 02: Evidencia de la evolución",
-    "section": "4 Parte 1. Evidencias disponibles",
-    "text": "4 Parte 1. Evidencias disponibles\nLean las siguientes evidencias. Para cada una, identifiquen qué tipo de evidencia representa.\nTipos posibles de evidencia:\n\nRegistro fósil\nAnatomía comparada\nBiogeografía\nBiología molecular\nEmbriología comparada\nEvolución observada directamente\n\n\n\n\n\n\n\n\n\nEvidencia\nTipo de evidencia\n¿Qué sugiere?\n\n\n\n\n1. La Especie A y la Especie B tienen una estructura ósea muy similar en las patas delanteras, aunque las usan de manera diferente.\n\n\n\n\n2. La Especie C y la Especie D vuelan, pero sus alas tienen estructuras internas muy distintas.\n\n\n\n\n3. El ADN de la Especie A y la Especie B es mucho más similar entre sí que al ADN de las especies C y D.\n\n\n\n\n4. En rocas antiguas de la isla se encontraron fósiles de un mamífero pequeño con rasgos intermedios entre la Especie A y la Especie B.\n\n\n\n\n5. Las especies A y B solo viven en Isla Verde, pero sus parientes más cercanos conocidos viven en el continente cercano.\n\n\n\n\n6. En los últimos 20 años, una población de insectos de la isla se volvió resistente a un pesticida usado en cultivos locales."
+    "objectID": "worksheets/w03-methods.html#contexto-biologico",
+    "href": "worksheets/w03-methods.html#contexto-biologico",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
+    "section": "4 Contexto biologico",
+    "text": "4 Contexto biologico\nAlgunas especies de Anolis pueden permanecer sumergidas y volver a inspirar aire debajo del agua desde una burbuja alrededor del hocico. Eso comportamiento da una ventaja para permanecer sumergidos por mas tiempo, y evitar depredadores. Pero no es claro si se trata de un comportamiento ancestral que se ha mantenido en unos linajes, o si se ha originado varias veces de forma independiente.\nSu grupo es un equipo de investigadores que quiere resolver esta pregunta, y han recolectado tres tipos de evidencia: comportamiento, fisiologia, y distribucion filogenetica. Analicen cada bloque de evidencia y decidan que hipotesis recibe mas apoyo.\n\n\n\nAnolis sumergido con burbuja de aire\n\n\nDetalles en el articulo original: https://www.sciencedirect.com/science/article/pii/S0960982221005753"
   },
   {
-    "objectID": "worksheets/w02-evidence.html#parte-2.-homología-analogía-y-ancestro-común",
-    "href": "worksheets/w02-evidence.html#parte-2.-homología-analogía-y-ancestro-común",
-    "title": "Hoja de trabajo 02: Evidencia de la evolución",
-    "section": "5 Parte 2. Homología, analogía y ancestro común",
-    "text": "5 Parte 2. Homología, analogía y ancestro común\nLas especies A y B tienen patas delanteras con una estructura ósea similar, pero las usan de forma diferente.\n¿Esta similitud es más probablemente una homología o una analogía? Justifiquen.\nLas especies C y D tienen alas y pueden volar, pero sus alas tienen estructuras internas muy diferentes.\n¿Esta similitud es más probablemente una homología o una analogía? Justifiquen.\n¿Qué diferencia hay entre decir que dos especies son similares por ancestro común y decir que son similares por adaptación a una función parecida?"
+    "objectID": "worksheets/w03-methods.html#evidencia-1-observacion-del-comportamiento",
+    "href": "worksheets/w03-methods.html#evidencia-1-observacion-del-comportamiento",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
+    "section": "5 Evidencia 1: observacion del comportamiento",
+    "text": "5 Evidencia 1: observacion del comportamiento\nEnsayo de comportamiento:\n\nSe realizaron pruebas de submersion en 32 especies de Anolis y 4 lagartijas no anolis.\nLas especies semi-acuaticas mostraron re-inspiracion, por lo menos una vez, con mayor frecuencia que las especies no acuaticas.\nLas especies semi-acuaticas tambien mostraron re-inspiracion sostenida en mas ensayos. La re-inspiracion sostenida se define como la capacidad de mantener la burbuja de aire para hacer varias respiraciones consecutivas.\n\n\n5.1 Interpretacion del comportamiento\n\nQue te permite inferir esta observacion sobre la funcion y distribucion del comportamiento a lo largo de las especies?\n\n\nCon solo esta evidencia, cual hipotesis recibe mas apoyo: A, B, o aun no se puede decidir? Expliquen brevemente."
   },
   {
-    "objectID": "worksheets/w02-evidence.html#parte-3.-inferencia-evolutiva",
-    "href": "worksheets/w02-evidence.html#parte-3.-inferencia-evolutiva",
-    "title": "Hoja de trabajo 02: Evidencia de la evolución",
-    "section": "6 Parte 3. Inferencia evolutiva",
-    "text": "6 Parte 3. Inferencia evolutiva\nCon base en todas las evidencias, respondan:\n¿Cuáles dos especies parecen estar más cercanamente relacionadas?\n¿Cuáles son las dos evidencias más fuertes que apoyan esa conclusión?\nConstruyan un esquema simple de relaciones evolutivas entre las cuatro especies. No tiene que ser un árbol formal; puede ser un diagrama sencillo."
+    "objectID": "worksheets/w03-methods.html#evidencia-2-dinamica-del-oxigeno-en-la-burbuja",
+    "href": "worksheets/w03-methods.html#evidencia-2-dinamica-del-oxigeno-en-la-burbuja",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
+    "section": "6 Evidencia 2: dinamica del oxigeno en la burbuja",
+    "text": "6 Evidencia 2: dinamica del oxigeno en la burbuja\nResultado fisiologico:\n\nEl pO2 de la burbuja de re-inspiracion inicia parecido al aire ambiente y disminuye de forma monotona durante la prueba.\n\n\n\n\nDisminucion del pO2 en la burbuja de re-inspiracion\n\n\n\n6.1 Interpretacion fisiologica\n\nQue sugiere este patron sobre la funcion respiratoria de la burbuja?\n\n\nEsta evidencia favorece mas a la hipotesis A, a la B, o no distingue bien entre ambas? Justifiquen."
   },
   {
-    "objectID": "worksheets/w02-evidence.html#parte-4.-variación-y-evolución-observada",
-    "href": "worksheets/w02-evidence.html#parte-4.-variación-y-evolución-observada",
-    "title": "Hoja de trabajo 02: Evidencia de la evolución",
-    "section": "7 Parte 4. Variación y evolución observada",
-    "text": "7 Parte 4. Variación y evolución observada\nRecuerden el mapa conceptual básico:\n\nVariación heredable → diferencias en aptitud → cambio en la composición de la población entre generaciones\n\nEn el caso de los insectos resistentes al pesticida, ¿cuál podría ser la variación heredable inicial?\n¿Por qué el pesticida no “crea” directamente la resistencia, sino que cambia la frecuencia de individuos resistentes en la población?\n¿Este ejemplo representa cambio individual o cambio poblacional? Expliquen."
+    "objectID": "worksheets/w03-methods.html#evidencia-3-distribucion-filogenetica-del-comportamiento",
+    "href": "worksheets/w03-methods.html#evidencia-3-distribucion-filogenetica-del-comportamiento",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
+    "section": "7 Evidencia 3: distribucion filogenetica del comportamiento",
+    "text": "7 Evidencia 3: distribucion filogenetica del comportamiento\nPatron evolutivo:\n\n\n\nArbol filogenetico con re-inspiracion en anolis semi-acuaticos\n\n\n\n7.1 Interpretacion evolutiva\n\nQue patron observan en la distribucion de las especies con re-inspiracion sostenida?\n\n\nCual hipotesis recibe mas apoyo con esta evidencia, A o B? Expliquen por que.\n\n\nEsta evidencia sugiere un origen unico, varios origenes independientes, o aun falta informacion? Justifiquen."
   },
   {
-    "objectID": "worksheets/w02-evidence.html#parte-5.-síntesis",
-    "href": "worksheets/w02-evidence.html#parte-5.-síntesis",
-    "title": "Hoja de trabajo 02: Evidencia de la evolución",
-    "section": "8 Parte 5. Síntesis",
-    "text": "8 Parte 5. Síntesis\n¿Por qué es más fuerte una explicación evolutiva cuando diferentes tipos de evidencia apoyan la misma conclusión?"
+    "objectID": "worksheets/w03-methods.html#sintesis",
+    "href": "worksheets/w03-methods.html#sintesis",
+    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
+    "section": "8 Sintesis",
+    "text": "8 Sintesis\nCompleten la tabla con un juicio breve para cada evidencia.\nEscala: ++ (apoyo fuerte), + (apoyo moderado), 0 (neutral), - (debilita).\n\n\n\nEvidencia\nHipotesis A\nHipotesis B\nJustificacion corta\n\n\n\n\nObservacion del comportamiento\n\n\n\n\n\nDisminucion del pO2 en la burbuja\n\n\n\n\n\nDistribucion en el arbol filogenetico\n\n\n\n\n\n\n\nCual hipotesis recibe mayor apoyo global con la evidencia disponible?\n\n\nEscriban una conclusion breve (2-3 oraciones), incluyendo una nota de incertidumbre."
   },
   {
-    "objectID": "worksheets/w02-evidence.html#cierre-para-discusión-en-clase",
-    "href": "worksheets/w02-evidence.html#cierre-para-discusión-en-clase",
-    "title": "Hoja de trabajo 02: Evidencia de la evolución",
-    "section": "9 Cierre para discusión en clase",
-    "text": "9 Cierre para discusión en clase\nCada grupo debe estar preparado para compartir brevemente:\n\nQué especies consideran más cercanamente relacionadas.\nQué evidencia usaron para justificarlo.\nUn ejemplo de homología y uno de analogía en el escenario.\nPor qué la evolución observada directamente es evidencia importante."
+    "objectID": "lectures/10-macro.html#metas",
+    "href": "lectures/10-macro.html#metas",
+    "title": "Macroevolucion",
+    "section": "Metas",
+    "text": "Metas\n\nConectar microevolucion con patrones macroevolutivos observados en escalas largas.\nIntroducir tasas de especiacion, extincion y diversificacion como descripciones probabilisticas.\nConstruir intuicion visual sobre como el muestreo y la escala temporal afectan inferencias sobre ritmo evolutivo.\nDistinguir radiaciones y patrones de extincion a lo largo del tiempo geologico."
+  },
+  {
+    "objectID": "lectures/10-macro.html#ser-capaces-de",
+    "href": "lectures/10-macro.html#ser-capaces-de",
+    "title": "Macroevolucion",
+    "section": "Ser capaces de",
+    "text": "Ser capaces de\n\nDefinir tasa de especiacion, tasa de extincion y tasa neta de diversificacion.\nExplicar por que una tasa no implica un resultado fijo ni un horario de eventos.\nInterpretar graficos de numero de especies vs tiempo en procesos de nacimiento-muerte.\nEvaluar cuando un patron aparente abrupto puede surgir por resolucion temporal de muestreo.\nDiferenciar radiaciones adaptativas y no adaptativas, y reconocer patrones de extincion masiva."
+  },
+  {
+    "objectID": "lectures/10-macro.html#repaso",
+    "href": "lectures/10-macro.html#repaso",
+    "title": "Macroevolucion",
+    "section": "Repaso",
+    "text": "Repaso"
+  },
+  {
+    "objectID": "lectures/10-macro.html#que-estudiamos-en-macroevolución",
+    "href": "lectures/10-macro.html#que-estudiamos-en-macroevolución",
+    "title": "Macroevolucion",
+    "section": "Que estudiamos en macroevolución",
+    "text": "Que estudiamos en macroevolución\n\n\nMicro:\n\ngeneraciones\n\npoblaciones\n\nfrecuencias alélicas\n\n\nMacro:\n\nmillones de años\n\nlinajes\n\nespecies\n\nclados"
+  },
+  {
+    "objectID": "lectures/10-macro.html#preguntas-tipicas-de-macroevolución",
+    "href": "lectures/10-macro.html#preguntas-tipicas-de-macroevolución",
+    "title": "Macroevolucion",
+    "section": "Preguntas tipicas de macroevolución",
+    "text": "Preguntas tipicas de macroevolución\n\n¿Cómo se originan nuevas especies?\n¿Por qué algunas especies se extinguen mientras otras prosperan?\n¿Cómo se forman grandes patrones de diversidad a lo largo del tiempo?\n¿Qué factores impulsan la evolución de nuevas formas y funciones?"
+  },
+  {
+    "objectID": "lectures/10-macro.html#diversidad-de-plantas",
+    "href": "lectures/10-macro.html#diversidad-de-plantas",
+    "title": "Macroevolucion",
+    "section": "Diversidad de plantas",
+    "text": "Diversidad de plantas"
+  },
+  {
+    "objectID": "lectures/10-macro.html#diversidad-de-invertebrados-marinos",
+    "href": "lectures/10-macro.html#diversidad-de-invertebrados-marinos",
+    "title": "Macroevolucion",
+    "section": "Diversidad de invertebrados marinos",
+    "text": "Diversidad de invertebrados marinos"
+  },
+  {
+    "objectID": "lectures/10-macro.html#resumen-macroevolucion",
+    "href": "lectures/10-macro.html#resumen-macroevolucion",
+    "title": "Macroevolucion",
+    "section": "Resumen macroevolucion",
+    "text": "Resumen macroevolucion\n\nMacroevolucion conecta procesos microevolutivos con patrones de diversidad a gran escala.\nLas preguntas centrales son origen de especies, extincion y cambios en la diversidad.\nPara estudiar estos patrones usamos tasas y evidencia historica."
+  },
+  {
+    "objectID": "lectures/10-macro.html#cambio-en-diversidad",
+    "href": "lectures/10-macro.html#cambio-en-diversidad",
+    "title": "Macroevolucion",
+    "section": "Cambio en diversidad",
+    "text": "Cambio en diversidad\n\nLa probabilidad de que un linaje origine un nuevo linaje o desaparezca por unidad de tiempo.\n\n\nNo significa que cada especie se divide después de cierto tiempo.\nSignifica que, en promedio, esperamos cierto numero de eventos por unidad de tiempo.\n\nAlgunas especies tienen mayor probabilidad de originar nuevas especies que otras.\nAlgunas especies tienen mayor probabilidad de extinguirse que otras."
+  },
+  {
+    "objectID": "lectures/10-macro.html#analogia-con-dado",
+    "href": "lectures/10-macro.html#analogia-con-dado",
+    "title": "Macroevolucion",
+    "section": "Analogia con dado",
+    "text": "Analogia con dado\n\nLa probabilidad de obtener un 6 al lanzar un dado es 1/6.\nNo significa que si lanzamos un dado 6 veces, obtendremos un 6 exactamente una vez.\nSignifica que, en promedio, si lanzamos un dado muchas veces, obtendremos un 6 una vez cada 6 lanzamientos.\nLa tasa de obtener un 6 es 1/6, pero el numero de 6s que obtenemos en un numero finito de lanzamientos puede variar."
+  },
+  {
+    "objectID": "lectures/10-macro.html#primeras-y-ultimas-apariciones",
+    "href": "lectures/10-macro.html#primeras-y-ultimas-apariciones",
+    "title": "Macroevolucion",
+    "section": "Primeras y ultimas apariciones",
+    "text": "Primeras y ultimas apariciones"
+  },
+  {
+    "objectID": "lectures/10-macro.html#la-misma-historia-como-filogenia",
+    "href": "lectures/10-macro.html#la-misma-historia-como-filogenia",
+    "title": "Macroevolucion",
+    "section": "La misma historia como filogenia",
+    "text": "La misma historia como filogenia"
+  },
+  {
+    "objectID": "lectures/10-macro.html#definiciones",
+    "href": "lectures/10-macro.html#definiciones",
+    "title": "Macroevolucion",
+    "section": "Definiciones",
+    "text": "Definiciones\n\nTasa de especiacion (\\(\\lambda\\)): probabilidad de que un linaje se divida por unidad de tiempo.\n\n\nTasa de extincion (\\(\\mu\\)): probabilidad de que un linaje desaparezca por unidad de tiempo.\n\n\nTasa de diversificacion neta: diferencia entre especiacion y extincion.\n\n\\[r = \\lambda - \\mu\\]\n\nUnidad: eventos por linaje por unidad de tiempo."
+  },
+  {
+    "objectID": "lectures/10-macro.html#contar-eventos-y-derivar-tasas",
+    "href": "lectures/10-macro.html#contar-eventos-y-derivar-tasas",
+    "title": "Macroevolucion",
+    "section": "Contar eventos y derivar tasas",
+    "text": "Contar eventos y derivar tasas\n\n\n\n\n\nEn esta ventana temporal: 1 evento de especiacion y 1 evento de extincion.\nEspeciacion (\\(\\lambda\\)): 1 evento en 10 unidades de tiempo. \\(\\lambda = 0.1\\) eventos por unidad de tiempo.\nExtincion (\\(\\mu\\)): 1 evento en 10 unidades de tiempo. \\(\\mu = 0.1\\) eventos por unidad de tiempo.\nTasa neta de diversificacion: \\(\\lambda - \\mu = 0.1 - 0.1 = 0\\) eventos por unidad de tiempo."
+  },
+  {
+    "objectID": "lectures/10-macro.html#cuidado-el-registro-fosil-no-es-completo",
+    "href": "lectures/10-macro.html#cuidado-el-registro-fosil-no-es-completo",
+    "title": "Macroevolucion",
+    "section": "Cuidado: el registro fosil no es completo",
+    "text": "Cuidado: el registro fosil no es completo\n\nLas primeras y ultimas apariciones observadas no siempre coinciden con el origen o la extincion reales.\nLa preservacion fosil es desigual: algunos ambientes, organismos y periodos dejan mejor registro que otros.\nPor eso, una parte del patron que vemos refleja biologia real y otra parte refleja muestreo y preservacion."
+  },
+  {
+    "objectID": "lectures/10-macro.html#una-realizacion-estocastica",
+    "href": "lectures/10-macro.html#una-realizacion-estocastica",
+    "title": "Macroevolucion",
+    "section": "Una realizacion estocastica",
+    "text": "Una realizacion estocastica\n\n\n\n\n\nEmpezamos con 3 especies.\nTriangulo verde: evento de especiacion (+1 especie).\nTriangulo rojo: evento de extincion (-1 especie).\nMisma tasa durante toda la simulacion, pero eventos en tiempos irregulares."
+  },
+  {
+    "objectID": "lectures/10-macro.html#mismas-tasas-resultados-distintos",
+    "href": "lectures/10-macro.html#mismas-tasas-resultados-distintos",
+    "title": "Macroevolucion",
+    "section": "Mismas tasas, resultados distintos",
+    "text": "Mismas tasas, resultados distintos\n\n\nTodas las lineas usan exactamente los mismos parametros (\\(\\lambda = 0.25\\), \\(\\mu = 0.15\\)) y parten de 3 especies."
+  },
+  {
+    "objectID": "lectures/10-macro.html#resumen-tasas",
+    "href": "lectures/10-macro.html#resumen-tasas",
+    "title": "Macroevolucion",
+    "section": "Resumen tasas",
+    "text": "Resumen tasas\n\nLas tasas son probabilidades por linaje y por unidad de tiempo, no resultados fijos.\nNo funcionan como un horario: no dicen que “cada X anos” deba ocurrir un evento.\nEn ventanas cortas puede no pasar nada, y en otras pueden ocurrir varios eventos seguidos.\nPor eso, dos intervalos con la misma tasa pueden verse muy diferentes."
+  },
+  {
+    "objectID": "lectures/10-macro.html#rasgos-en-un-especie",
+    "href": "lectures/10-macro.html#rasgos-en-un-especie",
+    "title": "Macroevolucion",
+    "section": "Rasgos en un especie",
+    "text": "Rasgos en un especie"
+  },
+  {
+    "objectID": "lectures/10-macro.html#rasgos-en-un-especie-1",
+    "href": "lectures/10-macro.html#rasgos-en-un-especie-1",
+    "title": "Macroevolucion",
+    "section": "Rasgos en un especie",
+    "text": "Rasgos en un especie\n\nStasis: rasgos cambian poco durante largos periodos de tiempo.\nRandom walk: rasgos cambian de forma acumulativa a lo largo del tiempo.\nDirectional change: rasgos cambian consistentemente en una direccion a lo largo del tiempo\nPunctuated change: rasgos cambian poco durante largos periodos de tiempo, pero con cambios grandes en periodos cortos."
+  },
+  {
+    "objectID": "lectures/10-macro.html#rasgos-en-varias-especies",
+    "href": "lectures/10-macro.html#rasgos-en-varias-especies",
+    "title": "Macroevolucion",
+    "section": "Rasgos en varias especies",
+    "text": "Rasgos en varias especies"
+  },
+  {
+    "objectID": "lectures/10-macro.html#rasgos-en-varias-especies-1",
+    "href": "lectures/10-macro.html#rasgos-en-varias-especies-1",
+    "title": "Macroevolucion",
+    "section": "Rasgos en varias especies",
+    "text": "Rasgos en varias especies\n\nSelecion direccional: rasgos cambian consistentemente en una direccion a lo largo del tiempo.\nPunctuated change: rasgos cambian poco durante largos periodos de tiempo, pero con cambios grandes en periodos cortos.\nConvergencia: rasgos similares evolucionan independientemente. (Piensan de las aletas de delfines y tiburones)\nDivergencia: rasgos similares evolucionan de forma diferente en varias especies. (Piensan de los picos de pinzones de Darwin)\nSiempre, parte del patron actual refleja historia compartida, no solo adaptacion independiente."
+  },
+  {
+    "objectID": "lectures/10-macro.html#tasas-de-diversificacion",
+    "href": "lectures/10-macro.html#tasas-de-diversificacion",
+    "title": "Macroevolucion",
+    "section": "Tasas de diversificacion",
+    "text": "Tasas de diversificacion"
+  },
+  {
+    "objectID": "lectures/10-macro.html#tasas-de-diversificacion-1",
+    "href": "lectures/10-macro.html#tasas-de-diversificacion-1",
+    "title": "Macroevolucion",
+    "section": "Tasas de diversificacion",
+    "text": "Tasas de diversificacion\n\nLos clados no necesariamente acumulan especies al mismo ritmo.\nUn aumento en diversidad puede reflejar mas especiacion, menos extincion, o ambas cosas.\nEl patron visible hoy resume procesos que ocurrieron a lo largo de mucho tiempo.\nTasas altas, tasas bajas, estasis, y early bursts dejan huellas distinctas en las filogenias que vemos hoy."
+  },
+  {
+    "objectID": "lectures/10-macro.html#gradualismo-vs.-saltacion",
+    "href": "lectures/10-macro.html#gradualismo-vs.-saltacion",
+    "title": "Macroevolucion",
+    "section": "Gradualismo vs. saltacion",
+    "text": "Gradualismo vs. saltacion"
+  },
+  {
+    "objectID": "lectures/10-macro.html#misma-trayectoria-distinta-resolucion-temporal-de-muestreo",
+    "href": "lectures/10-macro.html#misma-trayectoria-distinta-resolucion-temporal-de-muestreo",
+    "title": "Macroevolucion",
+    "section": "Misma trayectoria, distinta resolucion temporal de muestreo",
+    "text": "Misma trayectoria, distinta resolucion temporal de muestreo"
+  },
+  {
+    "objectID": "lectures/10-macro.html#pinzones-y-seqia",
+    "href": "lectures/10-macro.html#pinzones-y-seqia",
+    "title": "Macroevolucion",
+    "section": "Pinzones y seqia",
+    "text": "Pinzones y seqia\n\n\nImaginan si solo tuvieramos datos de picos cada 10,000 años.\nObservariamos cambios grandes en picos de forma abrupta, y podriamos inferir que la evolucion ocurre en saltos."
+  },
+  {
+    "objectID": "lectures/10-macro.html#gradualismo-vs.-saltacion-1",
+    "href": "lectures/10-macro.html#gradualismo-vs.-saltacion-1",
+    "title": "Macroevolucion",
+    "section": "Gradualismo vs. saltacion",
+    "text": "Gradualismo vs. saltacion\n\nEl cambio evolutivo puede verse como mas continuo o mas concentrado en ciertos intervalos.\nEstos modelos describen patrones observados, no leyes absolutas que siempre se cumplan.\nLa pregunta central es cuando se concentra el cambio, no si la evolucion ocurre o no.\nDepende de la escala temporal y de la escala taxonomica que se considere."
+  },
+  {
+    "objectID": "lectures/10-macro.html#resumen-ritmo-de-evolucion",
+    "href": "lectures/10-macro.html#resumen-ritmo-de-evolucion",
+    "title": "Macroevolucion",
+    "section": "Resumen ritmo de evolucion",
+    "text": "Resumen ritmo de evolucion\n\nEl mismo proceso puede parecer gradual o abrupto segun la escala temporal de muestreo.\nLos modelos de ritmo son descripciones de patrones, no reglas universales.\nSecuencias fosiles y patrones filogeneticos de rasgos y especies pueden dejar huellas distintas, consistentes con diferentes ritmos evolutivos."
+  },
+  {
+    "objectID": "lectures/10-macro.html#tipos-de-radiaciones",
+    "href": "lectures/10-macro.html#tipos-de-radiaciones",
+    "title": "Macroevolucion",
+    "section": "Tipos de radiaciones",
+    "text": "Tipos de radiaciones"
+  },
+  {
+    "objectID": "lectures/10-macro.html#tipos-de-radiaciones-1",
+    "href": "lectures/10-macro.html#tipos-de-radiaciones-1",
+    "title": "Macroevolucion",
+    "section": "Tipos de radiaciones",
+    "text": "Tipos de radiaciones\n\nAdaptativa: cuando un linaje se diversifica en muchas especies con diferentes adaptaciones. El aumento en numero de especies esta acompañado de un aumento en diversidad funcional (variacion grande en el rasgo focal).\n\n\nNo adaptativa: cuando un linaje se diversifica en muchas especies con adaptaciones similares. El aumento en numero de especies no esta acompañado de un aumento en diversidad funcional (variacion pequeña en el rasgo focal)."
+  },
+  {
+    "objectID": "lectures/10-macro.html#como-distinguirlas",
+    "href": "lectures/10-macro.html#como-distinguirlas",
+    "title": "Macroevolucion",
+    "section": "Como distinguirlas?",
+    "text": "Como distinguirlas?\n\nPregunta 1: aumento el numero de especies?\nPregunta 2: tambien aumento la diversidad de rasgos, nichos o funciones?\nSi aumentan especies y diversidad funcional, pensamos en radiacion adaptativa.\nSi aumentan especies pero los rasgos observables cambian poco, podria ser no adaptativa o adaptativa en otros rasgos que no estamos midiendo."
+  },
+  {
+    "objectID": "lectures/10-macro.html#castores-de-montaña",
+    "href": "lectures/10-macro.html#castores-de-montaña",
+    "title": "Macroevolucion",
+    "section": "Castores de montaña",
+    "text": "Castores de montaña\n\n\n\n\n\nEn los últimos 35 millones de años, han existido unas 30 especies de castores de montaña en el oeste de América del Norte.\nLa majoria de las nuevas líneas evolutivas surgió hace unos 15 millones de años.\nTodos excepto una de estas especies se extinguieron, dejando solo a Aplodontia rufa, la especie que conocemos hoy."
+  },
+  {
+    "objectID": "lectures/10-macro.html#cichlidos-de-lago-malawi",
+    "href": "lectures/10-macro.html#cichlidos-de-lago-malawi",
+    "title": "Macroevolucion",
+    "section": "Cichlidos de Lago Malawi",
+    "text": "Cichlidos de Lago Malawi\n\n\n\n\nRadiacion adaptativa en tres etapas: - Estado I: Habitat (roca/arena); - Estado II: Morfología trófica (mandíbulas); - Estado III: Preferencia de pareja (color de macho)"
+  },
+  {
+    "objectID": "lectures/10-macro.html#pinzones-de-darwin",
+    "href": "lectures/10-macro.html#pinzones-de-darwin",
+    "title": "Macroevolucion",
+    "section": "Pinzones de Darwin",
+    "text": "Pinzones de Darwin\n\n\n\n\n\nColonización de las islas Galápagos por un ancestro común hace 1-2 millones de años.\nDiversificación en 14 especies con diferentes adaptaciones a la dieta.\nLa diversidad de picos refleja la diversidad de nichos ecológicos ocupados por cada especie."
+  },
+  {
+    "objectID": "lectures/10-macro.html#resumen-radiaciones",
+    "href": "lectures/10-macro.html#resumen-radiaciones",
+    "title": "Macroevolucion",
+    "section": "Resumen radiaciones",
+    "text": "Resumen radiaciones\n\nUna radiacion aumenta el numero de especies dentro de un clado.\nPuede ser adaptativa (con diversificacion funcional) o no adaptativa.\nPara distinguirlas hay que mirar especies y rasgos al mismo tiempo."
+  },
+  {
+    "objectID": "lectures/10-macro.html#cuanto-tiempo-existen-las-especies",
+    "href": "lectures/10-macro.html#cuanto-tiempo-existen-las-especies",
+    "title": "Macroevolucion",
+    "section": "Cuanto tiempo existen las especies?",
+    "text": "Cuanto tiempo existen las especies?\n\n\n\n\n\nGeneralmente, las especies extinguen después de unos pocos millones de años.\nSolo algunas especies persisten durante decenas de millones de años.\nLa tasa de extinción puede variar a lo largo del tiempo y entre grupos taxonómicos."
+  },
+  {
+    "objectID": "lectures/10-macro.html#variacion-en-la-tasa-de-extincion-taxonomica",
+    "href": "lectures/10-macro.html#variacion-en-la-tasa-de-extincion-taxonomica",
+    "title": "Macroevolucion",
+    "section": "Variacion en la tasa de extincion taxonomica",
+    "text": "Variacion en la tasa de extincion taxonomica\n\n\n\n\n\nAlgunos grupos taxonómicos tienen tasas de extinción más altas que otros.\nPor ejemplo, las estimaciones actuales indican que los anfibios tienen una tasa de extinción más alta que los reptiles, los mamíferos, y las aves.\nEsto puede deberse a factores como la sensibilidad a cambios ambientales, la pérdida de hábitat, y la exposición a enfermedades."
+  },
+  {
+    "objectID": "lectures/10-macro.html#variacion-en-la-tasa-de-extincion-temporal",
+    "href": "lectures/10-macro.html#variacion-en-la-tasa-de-extincion-temporal",
+    "title": "Macroevolucion",
+    "section": "Variacion en la tasa de extincion temporal",
+    "text": "Variacion en la tasa de extincion temporal\n\n\n\n\n\nLa tasa de extinción global ha variado a lo largo del tiempo geológico.\nPeriodos de extinción masiva, donde la tasa de extinción fue significativamente más alta que el promedio\nPeriodos de relativa estabilidad, donde la tasa de extinción fue más baja."
+  },
+  {
+    "objectID": "lectures/10-macro.html#extinciones-masivas-the-big-five",
+    "href": "lectures/10-macro.html#extinciones-masivas-the-big-five",
+    "title": "Macroevolucion",
+    "section": "Extinciones masivas (The big five)",
+    "text": "Extinciones masivas (The big five)"
+  },
+  {
+    "objectID": "lectures/10-macro.html#extinciones-masivas-the-big-five-1",
+    "href": "lectures/10-macro.html#extinciones-masivas-the-big-five-1",
+    "title": "Macroevolucion",
+    "section": "Extinciones masivas (The big five)",
+    "text": "Extinciones masivas (The big five)\n\nGeneralmente extinction de &gt; 75% de especies en un periodo geologico corto (menos de 2 millones de años).\nCausas: cambios ambientales rapidos, impactos de meteoritos, actividad volcanica intensa, cambios en el nivel del mar, cambios climaticos extremos.\nEjemplos de grupos afectados: trilobites, braquiópodos, corales, ammonites, dinosaurios, mamíferos marinos.\nConsecuencias: perdida de biodiversidad, cambios en la estructura de los ecosistemas, oportunidades para radiaciones adaptativas de linajes sobrevivientes.\nLa más famosa: Cretácico-Paleógeno (KT) hace 66 millones de años, que extinguió a los dinosaurios no avianos y permitió la diversificación de mamíferos y aves."
+  },
+  {
+    "objectID": "lectures/10-macro.html#extinción-masiva-6-actualidad",
+    "href": "lectures/10-macro.html#extinción-masiva-6-actualidad",
+    "title": "Macroevolucion",
+    "section": "Extinción masiva 6 (actualidad)",
+    "text": "Extinción masiva 6 (actualidad)"
+  },
+  {
+    "objectID": "lectures/10-macro.html#extinción-masiva-6-actualidad-1",
+    "href": "lectures/10-macro.html#extinción-masiva-6-actualidad-1",
+    "title": "Macroevolucion",
+    "section": "Extinción masiva 6 (actualidad)",
+    "text": "Extinción masiva 6 (actualidad)\n\nLa tasa actual de extinción es alrededor de 1000 veces mayor que la tasa de fondo promedio.\nEstimada alrededor de 100 especies por 1000 especies por 1000 años.\nEn otras palabras, alrededor del 10% de la diversidad por cada 1000 años.\nLa tasa en el futuro según modelos de extinción proyectada puede ser 10 veces mayor que la tasa actual.\nCausas: actividad humana, destrucción de hábitat, cambio climático, contaminación, sobreexplotación de especies, introducción de especies invasoras."
+  },
+  {
+    "objectID": "lectures/10-macro.html#resumen",
+    "href": "lectures/10-macro.html#resumen",
+    "title": "Macroevolucion",
+    "section": "Resumen",
+    "text": "Resumen\n\nLa macroevolucion conecta cambios en poblaciones con patrones de diversidad, radiacion y extincion a gran escala.\nLas tasas ayudan a describir esos procesos, pero no funcionan como horarios fijos.\nEl patron observado depende de historia real, muestreo, preservacion y escala temporal.\nEntender macroevolucion nos ayuda a interpretar tanto la historia profunda de la vida como los cambios que observamos hoy."
   },
   {
     "objectID": "lectures/08-migration.html#metas",
@@ -2324,346 +2660,227 @@
     "text": "Resumen\n\nLa especiacion es un proceso gradual impulsado por la reduccion del flujo genico y la acumulacion de diferencias que conducen al aislamiento reproductivo.\n\n\nLa geografia, ecologia, fenologia y conducta pueden contribuir a la divergencia de linajes y la formacion de nuevas especies."
   },
   {
-    "objectID": "worksheets/w03-methods.html",
-    "href": "worksheets/w03-methods.html",
-    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
+    "objectID": "worksheets/w02-evidence.html",
+    "href": "worksheets/w02-evidence.html",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
     "section": "",
-    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de interpretar evidencia en el contexto de las hipotesis, y decidir que hipotesis recibe mayor apoyo relativo."
+    "text": "Al finalizar esta actividad, el grupo debería ser capaz de usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica."
   },
   {
-    "objectID": "worksheets/w03-methods.html#objetivo-de-la-actividad",
-    "href": "worksheets/w03-methods.html#objetivo-de-la-actividad",
-    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
+    "objectID": "worksheets/w02-evidence.html#objetivo-de-la-actividad",
+    "href": "worksheets/w02-evidence.html#objetivo-de-la-actividad",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
     "section": "",
-    "text": "Al finalizar esta actividad, el grupo deberia ser capaz de interpretar evidencia en el contexto de las hipotesis, y decidir que hipotesis recibe mayor apoyo relativo."
+    "text": "Al finalizar esta actividad, el grupo debería ser capaz de usar múltiples líneas de evidencia para inferir relaciones evolutivas y justificar una conclusión científica."
   },
   {
-    "objectID": "worksheets/w03-methods.html#instrucciones-generales",
-    "href": "worksheets/w03-methods.html#instrucciones-generales",
-    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
+    "objectID": "worksheets/w02-evidence.html#instrucciones-generales",
+    "href": "worksheets/w02-evidence.html#instrucciones-generales",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
     "section": "2 Instrucciones generales",
-    "text": "2 Instrucciones generales\n\nLean cada bloque de evidencia.\nIdentifiquen el patron principal en cada caso.\nEvalen que tan bien cada evidencia apoya las dos hipotesis.\n\nUsen respuestas breves pero justificadas con datos."
+    "text": "2 Instrucciones generales\nTrabajen en grupos de 4–6 personas. Lean el escenario y discutan cada pregunta antes de escribir la respuesta. No se espera una respuesta larga, pero sí una justificación clara."
   },
   {
-    "objectID": "worksheets/w03-methods.html#hipotesis",
-    "href": "worksheets/w03-methods.html#hipotesis",
-    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
-    "section": "3 Hipotesis",
-    "text": "3 Hipotesis\n\nHipotesis A: la capacidad de re-inspirar aire surgio una sola vez y luego se heredo en el linaje correspondiente.\nHipotesis B: la capacidad de re-inspirar aire surgio varias veces de forma independiente en distintos linajes."
+    "objectID": "worksheets/w02-evidence.html#escenario-isla-verde",
+    "href": "worksheets/w02-evidence.html#escenario-isla-verde",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
+    "section": "3 Escenario: Isla Verde",
+    "text": "3 Escenario: Isla Verde\nUn equipo de biólogos estudia una isla oceánica llamada Isla Verde. La isla está a unos 800 km del continente más cercano y tiene varios ambientes: bosque seco, bosque húmedo, costa rocosa y zonas abiertas.\nEn la isla se encuentran cuatro especies animales que parecen muy diferentes entre sí:\n\n\n\nEspecie\nDescripción breve\n\n\n\n\nEspecie A\nMamífero pequeño, terrestre, nocturno, con patas cortas\n\n\nEspecie B\nMamífero grande, terrestre, diurno, con patas largas\n\n\nEspecie C\nAnimal volador con alas membranosas\n\n\nEspecie D\nAnimal volador con alas rígidas cubiertas de plumas\n\n\n\nEl objetivo del grupo es usar la evidencia disponible para responder:\n\n¿Qué especies parecen estar más cercanamente relacionadas y qué tipo de evidencia apoya esa conclusión?"
   },
   {
-    "objectID": "worksheets/w03-methods.html#contexto-biologico",
-    "href": "worksheets/w03-methods.html#contexto-biologico",
-    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
-    "section": "4 Contexto biologico",
-    "text": "4 Contexto biologico\nAlgunas especies de Anolis pueden permanecer sumergidas y volver a inspirar aire debajo del agua desde una burbuja alrededor del hocico. Eso comportamiento da una ventaja para permanecer sumergidos por mas tiempo, y evitar depredadores. Pero no es claro si se trata de un comportamiento ancestral que se ha mantenido en unos linajes, o si se ha originado varias veces de forma independiente.\nSu grupo es un equipo de investigadores que quiere resolver esta pregunta, y han recolectado tres tipos de evidencia: comportamiento, fisiologia, y distribucion filogenetica. Analicen cada bloque de evidencia y decidan que hipotesis recibe mas apoyo.\n\n\n\nAnolis sumergido con burbuja de aire\n\n\nDetalles en el articulo original: https://www.sciencedirect.com/science/article/pii/S0960982221005753"
+    "objectID": "worksheets/w02-evidence.html#parte-1.-evidencias-disponibles",
+    "href": "worksheets/w02-evidence.html#parte-1.-evidencias-disponibles",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
+    "section": "4 Parte 1. Evidencias disponibles",
+    "text": "4 Parte 1. Evidencias disponibles\nLean las siguientes evidencias. Para cada una, identifiquen qué tipo de evidencia representa.\nTipos posibles de evidencia:\n\nRegistro fósil\nAnatomía comparada\nBiogeografía\nBiología molecular\nEmbriología comparada\nEvolución observada directamente\n\n\n\n\n\n\n\n\n\nEvidencia\nTipo de evidencia\n¿Qué sugiere?\n\n\n\n\n1. La Especie A y la Especie B tienen una estructura ósea muy similar en las patas delanteras, aunque las usan de manera diferente.\n\n\n\n\n2. La Especie C y la Especie D vuelan, pero sus alas tienen estructuras internas muy distintas.\n\n\n\n\n3. El ADN de la Especie A y la Especie B es mucho más similar entre sí que al ADN de las especies C y D.\n\n\n\n\n4. En rocas antiguas de la isla se encontraron fósiles de un mamífero pequeño con rasgos intermedios entre la Especie A y la Especie B.\n\n\n\n\n5. Las especies A y B solo viven en Isla Verde, pero sus parientes más cercanos conocidos viven en el continente cercano.\n\n\n\n\n6. En los últimos 20 años, una población de insectos de la isla se volvió resistente a un pesticida usado en cultivos locales."
   },
   {
-    "objectID": "worksheets/w03-methods.html#evidencia-1-observacion-del-comportamiento",
-    "href": "worksheets/w03-methods.html#evidencia-1-observacion-del-comportamiento",
-    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
-    "section": "5 Evidencia 1: observacion del comportamiento",
-    "text": "5 Evidencia 1: observacion del comportamiento\nEnsayo de comportamiento:\n\nSe realizaron pruebas de submersion en 32 especies de Anolis y 4 lagartijas no anolis.\nLas especies semi-acuaticas mostraron re-inspiracion, por lo menos una vez, con mayor frecuencia que las especies no acuaticas.\nLas especies semi-acuaticas tambien mostraron re-inspiracion sostenida en mas ensayos. La re-inspiracion sostenida se define como la capacidad de mantener la burbuja de aire para hacer varias respiraciones consecutivas.\n\n\n5.1 Interpretacion del comportamiento\n\nQue te permite inferir esta observacion sobre la funcion y distribucion del comportamiento a lo largo de las especies?\n\n\nCon solo esta evidencia, cual hipotesis recibe mas apoyo: A, B, o aun no se puede decidir? Expliquen brevemente."
+    "objectID": "worksheets/w02-evidence.html#parte-2.-homología-analogía-y-ancestro-común",
+    "href": "worksheets/w02-evidence.html#parte-2.-homología-analogía-y-ancestro-común",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
+    "section": "5 Parte 2. Homología, analogía y ancestro común",
+    "text": "5 Parte 2. Homología, analogía y ancestro común\nLas especies A y B tienen patas delanteras con una estructura ósea similar, pero las usan de forma diferente.\n¿Esta similitud es más probablemente una homología o una analogía? Justifiquen.\nLas especies C y D tienen alas y pueden volar, pero sus alas tienen estructuras internas muy diferentes.\n¿Esta similitud es más probablemente una homología o una analogía? Justifiquen.\n¿Qué diferencia hay entre decir que dos especies son similares por ancestro común y decir que son similares por adaptación a una función parecida?"
   },
   {
-    "objectID": "worksheets/w03-methods.html#evidencia-2-dinamica-del-oxigeno-en-la-burbuja",
-    "href": "worksheets/w03-methods.html#evidencia-2-dinamica-del-oxigeno-en-la-burbuja",
-    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
-    "section": "6 Evidencia 2: dinamica del oxigeno en la burbuja",
-    "text": "6 Evidencia 2: dinamica del oxigeno en la burbuja\nResultado fisiologico:\n\nEl pO2 de la burbuja de re-inspiracion inicia parecido al aire ambiente y disminuye de forma monotona durante la prueba.\n\n\n\n\nDisminucion del pO2 en la burbuja de re-inspiracion\n\n\n\n6.1 Interpretacion fisiologica\n\nQue sugiere este patron sobre la funcion respiratoria de la burbuja?\n\n\nEsta evidencia favorece mas a la hipotesis A, a la B, o no distingue bien entre ambas? Justifiquen."
+    "objectID": "worksheets/w02-evidence.html#parte-3.-inferencia-evolutiva",
+    "href": "worksheets/w02-evidence.html#parte-3.-inferencia-evolutiva",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
+    "section": "6 Parte 3. Inferencia evolutiva",
+    "text": "6 Parte 3. Inferencia evolutiva\nCon base en todas las evidencias, respondan:\n¿Cuáles dos especies parecen estar más cercanamente relacionadas?\n¿Cuáles son las dos evidencias más fuertes que apoyan esa conclusión?\nConstruyan un esquema simple de relaciones evolutivas entre las cuatro especies. No tiene que ser un árbol formal; puede ser un diagrama sencillo."
   },
   {
-    "objectID": "worksheets/w03-methods.html#evidencia-3-distribucion-filogenetica-del-comportamiento",
-    "href": "worksheets/w03-methods.html#evidencia-3-distribucion-filogenetica-del-comportamiento",
-    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
-    "section": "7 Evidencia 3: distribucion filogenetica del comportamiento",
-    "text": "7 Evidencia 3: distribucion filogenetica del comportamiento\nPatron evolutivo:\n\n\n\nArbol filogenetico con re-inspiracion en anolis semi-acuaticos\n\n\n\n7.1 Interpretacion evolutiva\n\nQue patron observan en la distribucion de las especies con re-inspiracion sostenida?\n\n\nCual hipotesis recibe mas apoyo con esta evidencia, A o B? Expliquen por que.\n\n\nEsta evidencia sugiere un origen unico, varios origenes independientes, o aun falta informacion? Justifiquen."
+    "objectID": "worksheets/w02-evidence.html#parte-4.-variación-y-evolución-observada",
+    "href": "worksheets/w02-evidence.html#parte-4.-variación-y-evolución-observada",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
+    "section": "7 Parte 4. Variación y evolución observada",
+    "text": "7 Parte 4. Variación y evolución observada\nRecuerden el mapa conceptual básico:\n\nVariación heredable → diferencias en aptitud → cambio en la composición de la población entre generaciones\n\nEn el caso de los insectos resistentes al pesticida, ¿cuál podría ser la variación heredable inicial?\n¿Por qué el pesticida no “crea” directamente la resistencia, sino que cambia la frecuencia de individuos resistentes en la población?\n¿Este ejemplo representa cambio individual o cambio poblacional? Expliquen."
   },
   {
-    "objectID": "worksheets/w03-methods.html#sintesis",
-    "href": "worksheets/w03-methods.html#sintesis",
-    "title": "Hoja de trabajo 03: Métodos evolutivos (anolis como ejemplo)",
-    "section": "8 Sintesis",
-    "text": "8 Sintesis\nCompleten la tabla con un juicio breve para cada evidencia.\nEscala: ++ (apoyo fuerte), + (apoyo moderado), 0 (neutral), - (debilita).\n\n\n\nEvidencia\nHipotesis A\nHipotesis B\nJustificacion corta\n\n\n\n\nObservacion del comportamiento\n\n\n\n\n\nDisminucion del pO2 en la burbuja\n\n\n\n\n\nDistribucion en el arbol filogenetico\n\n\n\n\n\n\n\nCual hipotesis recibe mayor apoyo global con la evidencia disponible?\n\n\nEscriban una conclusion breve (2-3 oraciones), incluyendo una nota de incertidumbre."
+    "objectID": "worksheets/w02-evidence.html#parte-5.-síntesis",
+    "href": "worksheets/w02-evidence.html#parte-5.-síntesis",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
+    "section": "8 Parte 5. Síntesis",
+    "text": "8 Parte 5. Síntesis\n¿Por qué es más fuerte una explicación evolutiva cuando diferentes tipos de evidencia apoyan la misma conclusión?"
   },
   {
-    "objectID": "worksheets/w05-mutation.html",
-    "href": "worksheets/w05-mutation.html",
-    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
+    "objectID": "worksheets/w02-evidence.html#cierre-para-discusión-en-clase",
+    "href": "worksheets/w02-evidence.html#cierre-para-discusión-en-clase",
+    "title": "Hoja de trabajo 02: Evidencia de la evolución",
+    "section": "9 Cierre para discusión en clase",
+    "text": "9 Cierre para discusión en clase\nCada grupo debe estar preparado para compartir brevemente:\n\nQué especies consideran más cercanamente relacionadas.\nQué evidencia usaron para justificarlo.\nUn ejemplo de homología y uno de analogía en el escenario.\nPor qué la evolución observada directamente es evidencia importante."
+  },
+  {
+    "objectID": "worksheets/w04-hw.html",
+    "href": "worksheets/w04-hw.html",
+    "title": "Hoja de trabajo 04: Simulación de Hardy-Weinberg",
     "section": "",
-    "text": "Comprender que la mutación es la fuente última de nuevos alelos.\nReconocer que las mutaciones ocurren de manera aleatoria.\nVisualizar cómo una mutación nueva comienza a frecuencias muy bajas en una población.\nConectar los conceptos de mutación, herencia mendeliana y evolución."
+    "text": "Comprender Hardy-Weinberg como una expectativa nula para una población sin fuerzas evolutivas.\nEstimar frecuencias alélicas a partir de datos genotípicos.\nComparar observaciones reales con expectativas bajo apareamiento aleatorio.\nInterpretar biológicamente desviaciones del equilibrio."
   },
   {
-    "objectID": "worksheets/w05-mutation.html#registro",
-    "href": "worksheets/w05-mutation.html#registro",
-    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
-    "section": "Registro",
-    "text": "Registro\n¿Obtuvieron 6 caras consecutivas?\n\nSí\nNo\n\nSi la respuesta es “No”, continúen con la discusión final.\nSi la respuesta es “Sí”, continúen con la Parte II."
-  },
-  {
-    "objectID": "worksheets/w05-mutation.html#paso-1-elegir-el-locus",
-    "href": "worksheets/w05-mutation.html#paso-1-elegir-el-locus",
-    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
-    "section": "Paso 1: Elegir el locus",
-    "text": "Paso 1: Elegir el locus\nExtraigan al azar un número entre 1 y 10.\nLocus afectado:"
-  },
-  {
-    "objectID": "worksheets/w05-mutation.html#paso-2-elegir-la-copia-parental",
-    "href": "worksheets/w05-mutation.html#paso-2-elegir-la-copia-parental",
-    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
-    "section": "Paso 2: Elegir la copia parental",
-    "text": "Paso 2: Elegir la copia parental\nLancen una moneda una vez.\n\nCara = copia materna\nCruz = copia paterna\n\nCopia afectada:"
-  },
-  {
-    "objectID": "worksheets/w05-mutation.html#paso-3-elegir-la-posición-dentro-del-gen",
-    "href": "worksheets/w05-mutation.html#paso-3-elegir-la-posición-dentro-del-gen",
-    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
-    "section": "Paso 3: Elegir la posición dentro del gen",
-    "text": "Paso 3: Elegir la posición dentro del gen\nExtraigan al azar un número entre 1 y 300.\nPosición mutada:"
-  },
-  {
-    "objectID": "worksheets/w05-mutation.html#registro-de-la-mutación",
-    "href": "worksheets/w05-mutation.html#registro-de-la-mutación",
-    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
-    "section": "Registro de la mutación",
-    "text": "Registro de la mutación\nEjemplo:\nA7\nCopia materna\nPosición 184\nMutación observada:"
-  },
-  {
-    "objectID": "worksheets/w05-mutation.html#tamaño-de-la-población",
-    "href": "worksheets/w05-mutation.html#tamaño-de-la-población",
-    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
-    "section": "Tamaño de la población",
-    "text": "Tamaño de la población\nNúmero total de grupos:\n\\[\nN = \\underline{\\hspace{2cm}}\n\\]"
-  },
-  {
-    "objectID": "worksheets/w05-mutation.html#número-total-de-alelos",
-    "href": "worksheets/w05-mutation.html#número-total-de-alelos",
-    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
-    "section": "Número total de alelos",
-    "text": "Número total de alelos\nCada individuo posee:\n\\[\n10 \\text{ loci} \\times 2 \\text{ copias} = 20 \\text{ alelos}\n\\]\nAlelos totales en la población:\n\\[\n20 \\times N =\n\\]"
-  },
-  {
-    "objectID": "worksheets/w05-mutation.html#número-total-de-mutaciones-observadas",
-    "href": "worksheets/w05-mutation.html#número-total-de-mutaciones-observadas",
-    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
-    "section": "Número total de mutaciones observadas",
-    "text": "Número total de mutaciones observadas\n\\[\nM = \\underline{\\hspace{2cm}}\n\\]"
-  },
-  {
-    "objectID": "worksheets/w05-mutation.html#frecuencia-de-alelos-nuevos",
-    "href": "worksheets/w05-mutation.html#frecuencia-de-alelos-nuevos",
-    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
-    "section": "Frecuencia de alelos nuevos",
-    "text": "Frecuencia de alelos nuevos\nFrecuencia observada:\n\\[\nf= \\frac{M}{20 \\times N} =\n\\]"
-  },
-  {
-    "objectID": "worksheets/w05-mutation.html#frecuencia-de-nucleotidos-nuevos",
-    "href": "worksheets/w05-mutation.html#frecuencia-de-nucleotidos-nuevos",
-    "title": "Hoja de trabajo 05: Mutación y origen de nuevos alelos",
-    "section": "Frecuencia de nucleotidos nuevos",
-    "text": "Frecuencia de nucleotidos nuevos\n\\[\nf_n = \\frac{M}{6000 \\times N} =\n\\]"
-  },
-  {
-    "objectID": "worksheets/w08-migration-drift.html",
-    "href": "worksheets/w08-migration-drift.html",
-    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
+    "objectID": "worksheets/w04-hw.html#objetivos-de-la-actividad",
+    "href": "worksheets/w04-hw.html#objetivos-de-la-actividad",
+    "title": "Hoja de trabajo 04: Simulación de Hardy-Weinberg",
     "section": "",
-    "text": "Investigar como la migracion modifica las frecuencias alelicas entre poblaciones.\nComparar el efecto del flujo genico con el efecto de la deriva genetica.\nEvaluar si las poblaciones se vuelven mas similares o mas diferentes a traves del tiempo."
+    "text": "Comprender Hardy-Weinberg como una expectativa nula para una población sin fuerzas evolutivas.\nEstimar frecuencias alélicas a partir de datos genotípicos.\nComparar observaciones reales con expectativas bajo apareamiento aleatorio.\nInterpretar biológicamente desviaciones del equilibrio."
   },
   {
-    "objectID": "worksheets/w08-migration-drift.html#objetivos-de-la-actividad",
-    "href": "worksheets/w08-migration-drift.html#objetivos-de-la-actividad",
-    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
-    "section": "",
-    "text": "Investigar como la migracion modifica las frecuencias alelicas entre poblaciones.\nComparar el efecto del flujo genico con el efecto de la deriva genetica.\nEvaluar si las poblaciones se vuelven mas similares o mas diferentes a traves del tiempo."
-  },
-  {
-    "objectID": "worksheets/w08-migration-drift.html#introduccion",
-    "href": "worksheets/w08-migration-drift.html#introduccion",
-    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
-    "section": "Introduccion",
-    "text": "Introduccion\nEn la actividad anterior, la deriva genetica hizo que poblaciones inicialmente parecidas empezaran a diferenciarse.\nEn esta actividad analizaremos la migracion (flujo genico), es decir, el movimiento de individuos o gametos entre poblaciones.\nPregunta central:\n\nQue ocurre con las frecuencias alelicas cuando hay intercambio de individuos entre poblaciones?"
-  },
-  {
-    "objectID": "worksheets/w08-migration-drift.html#materiales-por-grupo",
-    "href": "worksheets/w08-migration-drift.html#materiales-por-grupo",
-    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
+    "objectID": "worksheets/w04-hw.html#materiales-por-grupo",
+    "href": "worksheets/w04-hw.html#materiales-por-grupo",
+    "title": "Hoja de trabajo 04: Simulación de Hardy-Weinberg",
     "section": "Materiales por grupo",
-    "text": "Materiales por grupo\n\nSu poblacion final de la actividad de deriva genetica.\nTabla de registro.\nCalculadora."
+    "text": "Materiales por grupo\n\n1 bolsa de papel | 140 frijoles negros (alelo \\(A\\)) | 60 frijoles rojos (alelo \\(a\\))"
   },
   {
-    "objectID": "worksheets/w08-migration-drift.html#situacion-inicial",
-    "href": "worksheets/w08-migration-drift.html#situacion-inicial",
-    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
+    "objectID": "worksheets/w04-hw.html#procedimiento",
+    "href": "worksheets/w04-hw.html#procedimiento",
+    "title": "Hoja de trabajo 04: Simulación de Hardy-Weinberg",
+    "section": "Procedimiento",
+    "text": "Procedimiento\nRepitan 100 veces:\n\nMezclen bien la bolsa.\nExtraigan dos frijoles al azar.\nRegistren el genotipo resultante.\nDevuelvan ambos frijoles a la bolsa.\nRepitan.\n\n\nClasificación\n\n\n\nFrijoles extraídos\nGenotipo\nObservado\nSimulado\n\n\n\n\nNegro + Negro\nAA\n60\n\n\n\nNegro + Rojo\nAa\n20\n\n\n\nRojo + Rojo\naa\n20\n\n\n\nTotal\n\n100\n100\n\n\n\nUn integrante de cada pareja anotará en la pizarra el número de heterocigotos (\\(Aa\\)) obtenidos.\nEl conjunto de resultados de la clase mostrará la distribución esperada bajo apareamiento aleatorio."
+  },
+  {
+    "objectID": "worksheets/w07-drift.html",
+    "href": "worksheets/w07-drift.html",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
+    "section": "",
+    "text": "Explorar cómo las frecuencias alélicas pueden cambiar por azar entre generaciones, incluso cuando no existen diferencias de aptitud entre los alelos."
+  },
+  {
+    "objectID": "worksheets/w07-drift.html#objetivos-de-la-actividad",
+    "href": "worksheets/w07-drift.html#objetivos-de-la-actividad",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
+    "section": "",
+    "text": "Explorar cómo las frecuencias alélicas pueden cambiar por azar entre generaciones, incluso cuando no existen diferencias de aptitud entre los alelos."
+  },
+  {
+    "objectID": "worksheets/w07-drift.html#introducción",
+    "href": "worksheets/w07-drift.html#introducción",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
+    "section": "Introducción",
+    "text": "Introducción\nLa deriva genética es el cambio en la frecuencia de alelos debido al azar.\nEn esta actividad simularemos una población pequeña con dos alelos:\n\nFrijol negro = alelo A\nFrijol rojo = alelo a\n\nAsumiremos que ambos alelos tienen exactamente la misma aptitud. Cualquier cambio observado será consecuencia únicamente del azar."
+  },
+  {
+    "objectID": "worksheets/w07-drift.html#materiales-por-pareja",
+    "href": "worksheets/w07-drift.html#materiales-por-pareja",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
+    "section": "Materiales por pareja",
+    "text": "Materiales por pareja\nPor pareja:\n\n10 frijoles negros\n10 frijoles rojos\nBolsa opaca\nCalculadora"
+  },
+  {
+    "objectID": "worksheets/w07-drift.html#procedimiento",
+    "href": "worksheets/w07-drift.html#procedimiento",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
+    "section": "Procedimiento",
+    "text": "Procedimiento\n\nGeneración 0\nColoque los 20 frijoles en la bolsa.\nRegistre la composición inicial:\n\n\n\nGeneración\nNegros\nRojos\nFrecuencia rojo\n\n\n\n\n0\n10\n10\n0.50\n\n\n\n\n\n\nGeneración 1\n\nMezcle bien los frijoles.\nExtraiga un frijol al azar.\nRegistre su color.\nDevuelva el frijol a la bolsa.\nRepita hasta obtener 20 extracciones (10 cigotes).\n\nEstas 20 extracciones representan los individuos de la siguiente generación.\nCuente cuántos fueron:\n\nNegros: ______\nRojos: ______\n\nRegistre la nueva frecuencia del alelo rojo:\n\\[\np_{rojo}=\\frac{\\text{Número de rojos}}{20}\n\\]\n\n\n\nGeneraciones 2–10\nRepita el procedimiento anterior.\nAl finalizar cada generación:\n\nReemplace la población anterior por la nueva composición observada.\nColoque en la bolsa el número correspondiente de frijoles negros y rojos.\nRealice nuevamente 20 extracciones con reemplazo para generar la siguiente generación."
+  },
+  {
+    "objectID": "worksheets/w07-drift.html#resultados",
+    "href": "worksheets/w07-drift.html#resultados",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
+    "section": "Resultados",
+    "text": "Resultados\n\n\n\nGeneración\nNegros\nRojos\nFrecuencia rojo\n\n\n\n\n0\n10\n10\n0.50\n\n\n1\n\n\n\n\n\n2\n\n\n\n\n\n3\n\n\n\n\n\n4\n\n\n\n\n\n5\n\n\n\n\n\n6\n\n\n\n\n\n7\n\n\n\n\n\n8\n\n\n\n\n\n9\n\n\n\n\n\n10"
+  },
+  {
+    "objectID": "worksheets/w07-drift.html#gráfico",
+    "href": "worksheets/w07-drift.html#gráfico",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
+    "section": "Gráfico",
+    "text": "Gráfico\nGrafique:\n\nEje X: generación\nEje Y: frecuencia del alelo rojo"
+  },
+  {
+    "objectID": "worksheets/w07-drift.html#preguntas",
+    "href": "worksheets/w07-drift.html#preguntas",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
+    "section": "Preguntas",
+    "text": "Preguntas\n\n¿La frecuencia del alelo rojo permaneció constante durante toda la simulación?\n¿Los cambios observados ocurrieron por selección natural o por azar?\nCompare sus resultados con los de otros grupos. ¿Todas las poblaciones siguieron la misma trayectoria?\n¿Alguna población perdió completamente uno de los alelos?\n¿Qué efecto tendría aumentar el tamaño poblacional de 20 a 200 individuos?"
+  },
+  {
+    "objectID": "worksheets/w07-drift.html#discusión",
+    "href": "worksheets/w07-drift.html#discusión",
+    "title": "Hoja de trabajo 07: Simulación de deriva genética",
+    "section": "Discusión",
+    "text": "Discusión\nExplique cómo esta actividad ilustra los siguientes conceptos:\n\nDeriva genética\nFijación de alelos\nPérdida de diversidad genética\nImportancia del tamaño poblacional"
+  },
+  {
+    "objectID": "worksheets/w09-mutation-drift.html",
+    "href": "worksheets/w09-mutation-drift.html",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
+    "section": "",
+    "text": "Investigar como aparecen nuevos alelos en una poblacion.\nExplorar que ocurre con las mutaciones neutras en poblaciones pequenas.\nAnalizar el efecto de la deriva genetica en el destino de nuevas mutaciones."
+  },
+  {
+    "objectID": "worksheets/w09-mutation-drift.html#objetivos-de-la-actividad",
+    "href": "worksheets/w09-mutation-drift.html#objetivos-de-la-actividad",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
+    "section": "",
+    "text": "Investigar como aparecen nuevos alelos en una poblacion.\nExplorar que ocurre con las mutaciones neutras en poblaciones pequenas.\nAnalizar el efecto de la deriva genetica en el destino de nuevas mutaciones."
+  },
+  {
+    "objectID": "worksheets/w09-mutation-drift.html#materiales-por-grupo",
+    "href": "worksheets/w09-mutation-drift.html#materiales-por-grupo",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
+    "section": "Materiales por grupo",
+    "text": "Materiales por grupo\n\nSu poblacion actual (20 frijoles)\n1 frijol blanco (representa una mutacion nueva)\nMoneda"
+  },
+  {
+    "objectID": "worksheets/w09-mutation-drift.html#situacion-inicial",
+    "href": "worksheets/w09-mutation-drift.html#situacion-inicial",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
     "section": "Situacion inicial",
-    "text": "Situacion inicial\nCada grupo representa una poblacion distinta.\nRegistren la composicion actual de su poblacion:\n\n\n\nPoblacion\nNegros\nRojos\nFrecuencia rojo\n\n\n\n\nInicial"
+    "text": "Situacion inicial\nRegistre la composicion inicial de su poblacion:\n\n\n\nColor\nCantidad\n\n\n\n\nNegro\n\n\n\nRojo\n\n\n\nBlanco\n0"
   },
   {
-    "objectID": "worksheets/w08-migration-drift.html#organizacion-de-la-migracion",
-    "href": "worksheets/w08-migration-drift.html#organizacion-de-la-migracion",
-    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
-    "section": "Organizacion de la migracion",
-    "text": "Organizacion de la migracion\nLos grupos se organizaran en una cadena:\nGrupo A &lt;-&gt; Grupo B &lt;-&gt; Grupo C &lt;-&gt; Grupo D &lt;-&gt; Grupo E ...\nEn cada generacion:\n\nCada grupo intercambia 1 individuo (frijol) con un grupo vecino.\nEl frijol enviado se selecciona al azar.\nLa migracion ocurre despues de generar la nueva poblacion por deriva."
+    "objectID": "worksheets/w09-mutation-drift.html#procedimiento",
+    "href": "worksheets/w09-mutation-drift.html#procedimiento",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
+    "section": "Procedimiento",
+    "text": "Procedimiento\nEvolucione su poblacion durante 10 generaciones. En cada generacion:\n\nIntente obtener una mutacion (solo si aun no ha ocurrido):\n\nLance una moneda 3 veces.\nSi obtiene 3 caras consecutivas: ocurre una mutacion. Seleccione un frijol al azar y reemplacelo por un frijol blanco.\nSi no obtiene 3 caras: continua sin mutacion.\n\nForme la nueva generacion: realice 20 extracciones con reemplazo para mantener 20 individuos.\nRegistre: anote el numero de frijoles blancos.\nDetencion: una vez que aparece una mutacion (frijol blanco), deje de intentar mutar en las generaciones siguientes. Solo siga el destino de esa mutacion hasta la generacion 10."
   },
   {
-    "objectID": "worksheets/w08-migration-drift.html#procedimiento-generaciones-1-6",
-    "href": "worksheets/w08-migration-drift.html#procedimiento-generaciones-1-6",
-    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
-    "section": "Procedimiento (generaciones 1-6)",
-    "text": "Procedimiento (generaciones 1-6)\nPara cada generacion:\n\nMezclen los frijoles y realicen 20 extracciones con reemplazo para formar la nueva generacion.\nRegistren negros, rojos y frecuencia roja antes de migracion.\nSeleccionen un frijol al azar y envienlo al grupo vecino.\nReciban un frijol de un grupo vecino y actualicen la composicion.\nRegistren la frecuencia roja despues de migracion.\n\n\n\n\n\n\n\n\n\n\n\nGeneracion\nNegros (antes)\nRojos (antes)\nFrecuencia roja (antes)\nFrecuencia roja (despues)\n\n\n\n\n1\n\n\n\n\n\n\n2\n\n\n\n\n\n\n3\n\n\n\n\n\n\n4\n\n\n\n\n\n\n5\n\n\n\n\n\n\n6"
+    "objectID": "worksheets/w09-mutation-drift.html#resultados",
+    "href": "worksheets/w09-mutation-drift.html#resultados",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
+    "section": "Resultados",
+    "text": "Resultados\n\n\n\nGeneracion\nBlancos\n\n\n\n\n0\n\n\n\n1\n\n\n\n2\n\n\n\n3\n\n\n\n4\n\n\n\n5\n\n\n\n6\n\n\n\n7\n\n\n\n8\n\n\n\n9\n\n\n\n10"
   },
   {
-    "objectID": "worksheets/w08-migration-drift.html#resultados-de-la-clase",
-    "href": "worksheets/w08-migration-drift.html#resultados-de-la-clase",
-    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
-    "section": "Resultados de la clase",
-    "text": "Resultados de la clase\nAl finalizar, cada grupo reporta su frecuencia roja inicial y final en la pizzara:\n\n\n\nGrupo\nFrecuencia inicial\nFrecuencia final\n\n\n\n\nA\n\n\n\n\nB\n\n\n\n\nC\n\n\n\n\nD\n\n\n\n\nE"
+    "objectID": "worksheets/w09-mutation-drift.html#grafico",
+    "href": "worksheets/w09-mutation-drift.html#grafico",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
+    "section": "Grafico",
+    "text": "Grafico\nGrafique:\n\nEje X: generacion\nEje Y: numero de frijoles blancos"
   },
   {
-    "objectID": "worksheets/w08-migration-drift.html#preguntas-de-analisis",
-    "href": "worksheets/w08-migration-drift.html#preguntas-de-analisis",
-    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
+    "objectID": "worksheets/w09-mutation-drift.html#preguntas-de-analisis",
+    "href": "worksheets/w09-mutation-drift.html#preguntas-de-analisis",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
     "section": "Preguntas de analisis",
-    "text": "Preguntas de analisis\n\nCalcule la diferencia entre la mayor y la menor frecuencia alelica en su poblacion al inicio de la actividad.\nCalcule la misma diferencia al final de la generacion 6. Que cambio observo?\nCompare esta actividad con la de deriva genetica: cual proceso tiende a aumentar diferencias entre poblaciones y cual tiende a reducirlas?\nSi en vez de 1 migrante por generacion hubiera 3, que espera sobre el tiempo de convergencia entre los dos poblaciones? ¿Convergirian mas rapido o mas lento? Explique en una o dos oraciones."
+    "text": "Preguntas de analisis\n\n¿Ocurrio una mutacion en su poblacion?\nSi ocurrio una mutacion en su poblacion, que sucedio con el alelo blanco?\nSi la mutacion era neutral, que proceso determino su destino?\nCompare sus resultados con otros grupos: ¿todas las mutaciones tuvieron el mismo destino? Explique por que o por que no."
   },
   {
-    "objectID": "worksheets/w08-migration-drift.html#resumen",
-    "href": "worksheets/w08-migration-drift.html#resumen",
-    "title": "Hoja de trabajo 08: Flujo genico (migracion)",
+    "objectID": "worksheets/w09-mutation-drift.html#resumen",
+    "href": "worksheets/w09-mutation-drift.html#resumen",
+    "title": "Hoja de trabajo 09: Mutacion y deriva genetica",
     "section": "Resumen",
-    "text": "Resumen\n\nEl flujo genico introduce alelos entre poblaciones.\nLa migracion puede cambiar las frecuencias alelicas en pocas generaciones.\nCon flujo genico, las poblaciones tienden a parecerse mas entre si.\nEn la naturaleza, deriva y migracion actuan al mismo tiempo."
-  },
-  {
-    "objectID": "lectures/10-macro.html#metas",
-    "href": "lectures/10-macro.html#metas",
-    "title": "Macroevolucion",
-    "section": "Metas",
-    "text": "Metas\n\nConectar microevolucion con patrones macroevolutivos.\nIntroducir tasas de especiacion, extincion y diversificacion.\nConstruir intuicion visual de por que las tasas son probabilisticas."
-  },
-  {
-    "objectID": "lectures/10-macro.html#ser-capaces-de",
-    "href": "lectures/10-macro.html#ser-capaces-de",
-    "title": "Macroevolucion",
-    "section": "Ser capaces de",
-    "text": "Ser capaces de\n\nDefinir tasa de especiacion, tasa de extincion y tasa neta de diversificacion.\nExplicar por que una tasa no implica un resultado fijo en un tiempo dado.\nInterpretar graficos de numero de especies vs tiempo con eventos de especiacion y extincion.\nDiferenciar entre una trayectoria individual y el patron promedio entre muchas trayectorias."
-  },
-  {
-    "objectID": "lectures/10-macro.html#que-estudiamos-en-macroevolución",
-    "href": "lectures/10-macro.html#que-estudiamos-en-macroevolución",
-    "title": "Macroevolucion",
-    "section": "Que estudiamos en macroevolución",
-    "text": "Que estudiamos en macroevolución\n\n\nMicro:\n\ngeneraciones\n\npoblaciones\n\nfrecuencias alélicas\n\n\nMacro:\n\nmillones de años\n\nlinajes\n\nespecies\n\nclados"
-  },
-  {
-    "objectID": "lectures/10-macro.html#preguntas-tipicas-de-macroevolución",
-    "href": "lectures/10-macro.html#preguntas-tipicas-de-macroevolución",
-    "title": "Macroevolucion",
-    "section": "Preguntas tipicas de macroevolución",
-    "text": "Preguntas tipicas de macroevolución\n\n\n¿Cómo se originan nuevas especies?\n¿Por qué algunas especies se extinguen mientras otras prosperan?\n¿Cómo se forman grandes patrones de diversidad a lo largo del tiempo?\n¿Qué factores impulsan la evolución de nuevas formas y funciones?"
-  },
-  {
-    "objectID": "lectures/10-macro.html#cambio-en-el-numero-de-especie",
-    "href": "lectures/10-macro.html#cambio-en-el-numero-de-especie",
-    "title": "Macroevolucion",
-    "section": "Cambio en el numero de especie",
-    "text": "Cambio en el numero de especie\n\nLa probabilidad de que un linaje origine un nuevo linaje o desaparezca por unidad de tiempo.\n\nNo significa que cada especie se divide después de cierto tiempo. Significa que, en promedio, esperamos cierto numero de eventos por unidad de tiempo.\n\nAlgunas especies tienen mayor probabilidad de originar nuevas especies que otras.\nAlgunas especies tienen mayor probabilidad de extinguirse que otras."
-  },
-  {
-    "objectID": "lectures/10-macro.html#analogia-con-dado",
-    "href": "lectures/10-macro.html#analogia-con-dado",
-    "title": "Macroevolucion",
-    "section": "Analogia con dado",
-    "text": "Analogia con dado\n\nLa probabilidad de obtener un 6 al lanzar un dado es 1/6.\nNo significa que si lanzamos un dado 6 veces, obtendremos un 6 exactamente una vez.\nSignifica que, en promedio, si lanzamos un dado muchas veces, obtendremos un 6 una vez cada 6 lanzamientos.\nLa tasa de obtener un 6 es 1/6, pero el numero de 6s que obtenemos en un numero finito de lanzamientos puede variar."
-  },
-  {
-    "objectID": "lectures/10-macro.html#definiciones",
-    "href": "lectures/10-macro.html#definiciones",
-    "title": "Macroevolucion",
-    "section": "Definiciones",
-    "text": "Definiciones\n\nTasa de especiacion = La probabilidad de que un linaje se divida por unidad de tiempo.\n\n\nTasa de extincion = La probabilidad de que un linaje desaparezca por unidad de tiempo.\n\n\nTasa de diversificacion = La diferencia entre la tasa de especiacion y la tasa de extincion.\n\n\\[diversificacion = especiación - extinción\\] \\[r = \\lambda - \\mu \\]\n\nUnidad = eventos por unidad de tiempo por linaje"
-  },
-  {
-    "objectID": "lectures/10-macro.html#cambio-en-el-numero-de-especies",
-    "href": "lectures/10-macro.html#cambio-en-el-numero-de-especies",
-    "title": "Macroevolucion",
-    "section": "Cambio en el numero de especies",
-    "text": "Cambio en el numero de especies\n\nLa probabilidad de que un linaje origine un nuevo linaje o desaparezca por unidad de tiempo.\n\n\nNo significa que cada especie se divide después de cierto tiempo.\nSignifica que, en promedio, esperamos cierto numero de eventos por unidad de tiempo.\n\nAlgunas especies tienen mayor probabilidad de originar nuevas especies que otras.\nAlgunas especies tienen mayor probabilidad de extinguirse que otras."
-  },
-  {
-    "objectID": "lectures/10-macro.html#paso-1-secuencia-fosil",
-    "href": "lectures/10-macro.html#paso-1-secuencia-fosil",
-    "title": "Macroevolucion",
-    "section": "Paso 1: Secuencia fosil",
-    "text": "Paso 1: Secuencia fosil\n\n\nObservacion clave: en el registro fosil vemos apariciones y desapariciones en distintos momentos, no “relojes exactos” por especie."
-  },
-  {
-    "objectID": "lectures/10-macro.html#paso-2-del-registro-a-eventos-en-el-tiempo",
-    "href": "lectures/10-macro.html#paso-2-del-registro-a-eventos-en-el-tiempo",
-    "title": "Macroevolucion",
-    "section": "Paso 2: Del registro a eventos en el tiempo",
-    "text": "Paso 2: Del registro a eventos en el tiempo\n\n\n\nEmpezamos con 3 especies.\nTriangulo verde: evento de especiacion (+1 especie).\nTriangulo rojo: evento de extincion (-1 especie).\nMisma tasa durante toda la simulacion, pero eventos en tiempos irregulares."
-  },
-  {
-    "objectID": "lectures/10-macro.html#mensaje-central",
-    "href": "lectures/10-macro.html#mensaje-central",
-    "title": "Macroevolucion",
-    "section": "Mensaje central",
-    "text": "Mensaje central\n\nTener 2 o 3 especies ahora no significa duplicar en un tiempo fijo.\n\n\n\nLas tasas son probabilidades por linaje y por unidad de tiempo.\nEn ventanas cortas, puede no pasar nada.\nEn otras ventanas, pueden ocurrir varios eventos seguidos."
-  },
-  {
-    "objectID": "lectures/10-macro.html#paso-3-mismas-tasas-resultados-distintos",
-    "href": "lectures/10-macro.html#paso-3-mismas-tasas-resultados-distintos",
-    "title": "Macroevolucion",
-    "section": "Paso 3: Mismas tasas, resultados distintos",
-    "text": "Paso 3: Mismas tasas, resultados distintos\n\n\nTodas las lineas usan exactamente los mismos parametros (\\(\\lambda = 0.25\\), \\(\\mu = 0.15\\)) y parten de 3 especies."
-  },
-  {
-    "objectID": "lectures/10-macro.html#entonces-para-que-sirve-un-ltt",
-    "href": "lectures/10-macro.html#entonces-para-que-sirve-un-ltt",
-    "title": "Macroevolucion",
-    "section": "Entonces, para que sirve un LTT?",
-    "text": "Entonces, para que sirve un LTT?\n\n\nUn LTT (lineages-through-time) resume el patron de acumulacion de linajes.\nEs util para comparar escenarios y detectar cambios de ritmo.\nPero pedagogicamente, primero conviene entender eventos discretos en el tiempo."
-  },
-  {
-    "objectID": "lectures/10-macro.html#resumen",
-    "href": "lectures/10-macro.html#resumen",
-    "title": "Macroevolucion",
-    "section": "Resumen",
-    "text": "Resumen\n\nSecuencia first-last: partimos del registro fosil sin arbol.\nConteo de eventos + lineage-time: derivamos tasas de forma transparente.\nDefinimos formalmente \\(\\lambda\\), \\(\\mu\\) y \\(r\\).\nCon esas tasas, vemos trayectorias estocasticas distintas.\nLTT: una capa de resumen, no el punto de partida conceptual."
-  },
-  {
-    "objectID": "lectures/10-macro.html#paso-1-first-last-appearance-sin-arbol",
-    "href": "lectures/10-macro.html#paso-1-first-last-appearance-sin-arbol",
-    "title": "Macroevolucion",
-    "section": "Paso 1: First-last appearance (sin arbol)",
-    "text": "Paso 1: First-last appearance (sin arbol)\n\n\nObservacion clave: primero solo miramos apariciones y desapariciones en el tiempo, sin phylogeny ni ramas."
-  },
-  {
-    "objectID": "lectures/10-macro.html#paso-2-contar-eventos-y-derivar-tasas",
-    "href": "lectures/10-macro.html#paso-2-contar-eventos-y-derivar-tasas",
-    "title": "Macroevolucion",
-    "section": "Paso 2: Contar eventos y derivar tasas",
-    "text": "Paso 2: Contar eventos y derivar tasas\n\n\n\nEn esta ventana: 1 evento de especiacion y 1 evento de extincion.\nExposicion total: lineage-time = 10 linaje-Myr.\nEstimacion didactica: \\(\\hat{\\lambda} = 1/10\\), \\(\\hat{\\mu} = 1/10\\), \\(\\hat{r} = 0\\)."
-  },
-  {
-    "objectID": "lectures/10-macro.html#paso-3-definiciones-formales",
-    "href": "lectures/10-macro.html#paso-3-definiciones-formales",
-    "title": "Macroevolucion",
-    "section": "Paso 3: Definiciones formales",
-    "text": "Paso 3: Definiciones formales\n\nTasa de especiacion (\\(\\lambda\\)): probabilidad de que un linaje se divida por unidad de tiempo.\n\n\nTasa de extincion (\\(\\mu\\)): probabilidad de que un linaje desaparezca por unidad de tiempo.\n\n\nTasa de diversificacion neta: diferencia entre especiacion y extincion.\n\n\\[r = \\lambda - \\mu\\]\n\nUnidad: eventos por linaje por unidad de tiempo."
-  },
-  {
-    "objectID": "lectures/10-macro.html#paso-4-una-realizacion-estocastica",
-    "href": "lectures/10-macro.html#paso-4-una-realizacion-estocastica",
-    "title": "Macroevolucion",
-    "section": "Paso 4: Una realizacion estocastica",
-    "text": "Paso 4: Una realizacion estocastica\n\n\n\nEmpezamos con 3 especies.\nTriangulo verde: evento de especiacion (+1 especie).\nTriangulo rojo: evento de extincion (-1 especie).\nMisma tasa durante toda la simulacion, pero eventos en tiempos irregulares."
-  },
-  {
-    "objectID": "lectures/10-macro.html#paso-5-mismas-tasas-resultados-distintos",
-    "href": "lectures/10-macro.html#paso-5-mismas-tasas-resultados-distintos",
-    "title": "Macroevolucion",
-    "section": "Paso 5: Mismas tasas, resultados distintos",
-    "text": "Paso 5: Mismas tasas, resultados distintos\n\n\nTodas las lineas usan exactamente los mismos parametros (\\(\\lambda = 0.25\\), \\(\\mu = 0.15\\)) y parten de 3 especies."
+    "text": "Resumen\n\nLas mutaciones son la fuente de toda variacion genetica nueva.\nLas nuevas mutaciones comienzan en frecuencia muy baja.\nUna mutacion neutral puede perderse simplemente por azar (deriva genetica).\nEl destino de una mutacion neutral es impredecible en poblaciones pequenas"
   }
 ]

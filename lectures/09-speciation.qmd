@@ -1,6 +1,6 @@
 ---
 title: "Especiacion"
-subtitle: "Intro Bio I (B0160) - Modulo de Evolucion"
+subtitle: "De linajes divergentes a nuevas especies"
 format:
   revealjs:
     slide-number: true

@@ -6,8 +6,8 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.6.40">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.7.33">
 
   <title>Evolucion Intro Bio – Macroevolucion</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -28,7 +28,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-423d414d36ce366a9d05f36d06304417.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-2c1b5f745a11cfad616ebade4a4a7d24.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -136,20 +136,26 @@
 <section id="metas" class="slide level2" data-background-color="#E8F5E9">
 <h2>Metas</h2>
 <ul>
-<li class="fragment">Conectar microevolucion con patrones macroevolutivos.</li>
-<li class="fragment">Introducir tasas de especiacion, extincion y diversificacion.</li>
-<li class="fragment">Construir intuicion visual de por que las tasas son probabilisticas.</li>
+<li class="fragment">Conectar microevolucion con patrones macroevolutivos observados en escalas largas.</li>
+<li class="fragment">Introducir tasas de especiacion, extincion y diversificacion como descripciones probabilisticas.</li>
+<li class="fragment">Construir intuicion visual sobre como el muestreo y la escala temporal afectan inferencias sobre ritmo evolutivo.</li>
+<li class="fragment">Distinguir radiaciones y patrones de extincion a lo largo del tiempo geologico.</li>
 </ul>
 </section>
 <section id="ser-capaces-de" class="slide level2 smaller" data-background-color="#E8F5E9">
 <h2>Ser capaces de</h2>
 <ul>
 <li class="fragment">Definir tasa de especiacion, tasa de extincion y tasa neta de diversificacion.</li>
-<li class="fragment">Explicar por que una tasa no implica un resultado fijo en un tiempo dado.</li>
-<li class="fragment">Interpretar graficos de numero de especies vs tiempo con eventos de especiacion y extincion.</li>
-<li class="fragment">Diferenciar entre una trayectoria individual y el patron promedio entre muchas trayectorias.</li>
+<li class="fragment">Explicar por que una tasa no implica un resultado fijo ni un horario de eventos.</li>
+<li class="fragment">Interpretar graficos de numero de especies vs tiempo en procesos de nacimiento-muerte.</li>
+<li class="fragment">Evaluar cuando un patron aparente abrupto puede surgir por resolucion temporal de muestreo.</li>
+<li class="fragment">Diferenciar radiaciones adaptativas y no adaptativas, y reconocer patrones de extincion masiva.</li>
 </ul>
 </section>
+<section id="repaso" class="slide level2">
+<h2>Repaso</h2>
+
+<img data-src="09-assets/speciation-diagram.png" class="quarto-figure quarto-figure-center r-stretch"></section>
 <section>
 <section id="macroevolución" class="title-slide slide level1 center" data-background-color="#E8F5E9">
 <h1>Macroevolución</h1>
@@ -183,17 +189,36 @@
 </section>
 <section id="preguntas-tipicas-de-macroevolución" class="slide level2">
 <h2>Preguntas tipicas de macroevolución</h2>
-<div>
 <ul>
 <li class="fragment">¿Cómo se originan nuevas especies?</li>
 <li class="fragment">¿Por qué algunas especies se extinguen mientras otras prosperan?</li>
 <li class="fragment">¿Cómo se forman grandes patrones de diversidad a lo largo del tiempo?</li>
 <li class="fragment">¿Qué factores impulsan la evolución de nuevas formas y funciones?</li>
 </ul>
-</div>
 </section>
-<section id="cambio-en-el-numero-de-especies" class="slide level2">
-<h2>Cambio en el numero de especies</h2>
+<section id="diversidad-de-plantas" class="slide level2">
+<h2>Diversidad de plantas</h2>
+
+<img data-src="10-assets/plant-diversity.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="diversidad-de-invertebrados-marinos" class="slide level2">
+<h2>Diversidad de invertebrados marinos</h2>
+
+<img data-src="10-assets/marine-inverts.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="resumen-macroevolucion" class="slide level2">
+<h2>Resumen macroevolucion</h2>
+<ul>
+<li class="fragment">Macroevolucion conecta procesos microevolutivos con patrones de diversidad a gran escala.</li>
+<li class="fragment">Las preguntas centrales son origen de especies, extincion y cambios en la diversidad.</li>
+<li class="fragment">Para estudiar estos patrones usamos tasas y evidencia historica.</li>
+</ul>
+</section></section>
+<section>
+<section id="tasas" class="title-slide slide level1 center" data-background-color="#E8F5E9">
+<h1>Tasas</h1>
+
+</section>
+<section id="cambio-en-diversidad" class="slide level2">
+<h2>Cambio en diversidad</h2>
 <blockquote>
 <p>La <strong>probabilidad</strong> de que un linaje <em>origine un nuevo linaje</em> <strong>o</strong> <em>desaparezca</em> por unidad de tiempo.</p>
 </blockquote>
@@ -213,32 +238,22 @@
 <li class="fragment">Significa que, en promedio, si lanzamos un dado muchas veces, obtendremos un 6 una vez cada 6 lanzamientos.</li>
 <li class="fragment">La tasa de obtener un 6 es 1/6, pero el numero de 6s que obtenemos en un numero finito de lanzamientos puede variar.</li>
 </ul>
-</section></section>
-<section>
-<section id="intuicion-visual-de-tasas" class="title-slide slide level1 center" data-background-color="#E8F5E9">
-<h1>Intuicion Visual de Tasas</h1>
-
 </section>
-<section id="paso-1-first-last-appearance-sin-arbol" class="slide level2">
-<h2>Paso 1: First-last appearance (sin arbol)</h2>
+<section id="primeras-y-ultimas-apariciones" class="slide level2">
+<h2>Primeras y ultimas apariciones</h2>
 
-<img data-src="10-assets/fossil_first_last_appearance_toy.png" style="width:100.0%" class="r-stretch"><div class="fragment">
-<p>Observacion clave: primero solo miramos apariciones y desapariciones en el tiempo, sin phylogeny ni ramas.</p>
-</div>
+<img data-src="10-assets/fossil_first_last_appearance_toy.png" style="width:100.0%" class="r-stretch"></section>
+<section id="la-misma-historia-como-filogenia" class="slide level2">
+<h2>La misma historia como filogenia</h2>
+<div class="columns">
+<div class="column">
+<p><img data-src="10-assets/fossil_first_last_appearance_toy.png" style="width:100.0%"></p>
+</div><div class="column">
+<p><img data-src="10-assets/fossil_phylogeny_toy.png" style="width:100.0%"></p>
+</div></div>
 </section>
-<section id="paso-2-contar-eventos-y-derivar-tasas" class="slide level2">
-<h2>Paso 2: Contar eventos y derivar tasas</h2>
-
-<img data-src="10-assets/fossil_event_counts_and_rates_toy.png" style="width:100.0%" class="r-stretch"><div>
-<ul>
-<li class="fragment">En esta ventana: 1 evento de especiacion y 1 evento de extincion.</li>
-<li class="fragment">Exposicion total: lineage-time = 10 linaje-Myr.</li>
-<li class="fragment">Estimacion didactica: <span class="math inline">\(\hat{\lambda} = 1/10\)</span>, <span class="math inline">\(\hat{\mu} = 1/10\)</span>, <span class="math inline">\(\hat{r} = 0\)</span>.</li>
-</ul>
-</div>
-</section>
-<section id="paso-3-definiciones-formales" class="slide level2" data-background-color="#E8F5E9">
-<h2>Paso 3: Definiciones formales</h2>
+<section id="definiciones" class="slide level2 smaller" data-background-color="#E8F5E9">
+<h2>Definiciones</h2>
 <blockquote>
 <p>Tasa de especiacion (<span class="math inline">\(\lambda\)</span>): probabilidad de que un linaje se divida por unidad de tiempo.</p>
 </blockquote>
@@ -253,57 +268,286 @@
 <p>Unidad: eventos por linaje por unidad de tiempo.</p>
 </blockquote>
 </section>
-<section id="paso-4-una-realizacion-estocastica" class="slide level2">
-<h2>Paso 4: Una realizacion estocastica</h2>
-
-<img data-src="10-assets/birth_death_single_realization_marks.png" style="width:100.0%" class="r-stretch"><div>
+<section id="contar-eventos-y-derivar-tasas" class="slide level2 smaller">
+<h2>Contar eventos y derivar tasas</h2>
+<div class="columns">
+<div class="column">
+<p><img data-src="10-assets/fossil_event_counts_and_rates_toy.png" style="width:100.0%"></p>
+</div><div class="column">
+<ul>
+<li class="fragment">En esta ventana temporal: 1 evento de especiacion y 1 evento de extincion.</li>
+<li class="fragment">Especiacion (<span class="math inline">\(\lambda\)</span>): 1 evento en 10 unidades de tiempo. <span class="math inline">\(\lambda = 0.1\)</span> eventos por unidad de tiempo.</li>
+<li class="fragment">Extincion (<span class="math inline">\(\mu\)</span>): 1 evento en 10 unidades de tiempo. <span class="math inline">\(\mu = 0.1\)</span> eventos por unidad de tiempo.</li>
+<li class="fragment">Tasa neta de diversificacion: <span class="math inline">\(\lambda - \mu = 0.1 - 0.1 = 0\)</span> eventos por unidad de tiempo.</li>
+</ul>
+</div></div>
+</section>
+<section id="cuidado-el-registro-fosil-no-es-completo" class="slide level2">
+<h2>Cuidado: el registro fosil no es completo</h2>
+<ul>
+<li class="fragment">Las primeras y ultimas apariciones observadas no siempre coinciden con el origen o la extincion reales.</li>
+<li class="fragment">La preservacion fosil es desigual: algunos ambientes, organismos y periodos dejan mejor registro que otros.</li>
+<li class="fragment">Por eso, una parte del patron que vemos refleja biologia real y otra parte refleja muestreo y preservacion.</li>
+</ul>
+</section>
+<section id="una-realizacion-estocastica" class="slide level2">
+<h2>Una realizacion estocastica</h2>
+<div class="columns">
+<div class="column">
+<p><img data-src="10-assets/birth_death_single_realization_marks.png" style="width:100.0%"></p>
+</div><div class="column">
 <ul>
 <li class="fragment">Empezamos con 3 especies.</li>
 <li class="fragment">Triangulo verde: evento de especiacion (+1 especie).</li>
 <li class="fragment">Triangulo rojo: evento de extincion (-1 especie).</li>
 <li class="fragment">Misma tasa durante toda la simulacion, pero eventos en tiempos irregulares.</li>
 </ul>
-</div>
+</div></div>
 </section>
-<section id="mensaje-central" class="slide level2">
-<h2>Mensaje central</h2>
-<blockquote>
-<p>Tener 2 o 3 especies ahora <strong>no</strong> significa duplicar en un tiempo fijo.</p>
-</blockquote>
-<div>
-<ul>
-<li class="fragment">Las tasas son probabilidades por linaje y por unidad de tiempo.</li>
-<li class="fragment">En ventanas cortas, puede no pasar nada.</li>
-<li class="fragment">En otras ventanas, pueden ocurrir varios eventos seguidos.</li>
-</ul>
-</div>
-</section>
-<section id="paso-5-mismas-tasas-resultados-distintos" class="slide level2">
-<h2>Paso 5: Mismas tasas, resultados distintos</h2>
+<section id="mismas-tasas-resultados-distintos" class="slide level2">
+<h2>Mismas tasas, resultados distintos</h2>
 
 <img data-src="10-assets/birth_death_same_rates_many_paths.png" style="width:100.0%" class="r-stretch"><div class="fragment">
 <p>Todas las lineas usan exactamente los mismos parametros (<span class="math inline">\(\lambda = 0.25\)</span>, <span class="math inline">\(\mu = 0.15\)</span>) y parten de 3 especies.</p>
 </div>
 </section>
-<section id="entonces-para-que-sirve-un-ltt" class="slide level2">
-<h2>Entonces, para que sirve un LTT?</h2>
-<div>
+<section id="resumen-tasas" class="slide level2">
+<h2>Resumen tasas</h2>
 <ul>
-<li class="fragment">Un LTT (lineages-through-time) resume el patron de acumulacion de linajes.</li>
-<li class="fragment">Es util para comparar escenarios y detectar cambios de ritmo.</li>
-<li class="fragment">Pero pedagogicamente, primero conviene entender eventos discretos en el tiempo.</li>
+<li class="fragment">Las tasas son probabilidades por linaje y por unidad de tiempo, no resultados fijos.</li>
+<li class="fragment">No funcionan como un horario: no dicen que “cada X anos” deba ocurrir un evento.</li>
+<li class="fragment">En ventanas cortas puede no pasar nada, y en otras pueden ocurrir varios eventos seguidos.</li>
+<li class="fragment">Por eso, dos intervalos con la misma tasa pueden verse muy diferentes.</li>
 </ul>
-</div>
+</section></section>
+<section>
+<section id="ritmo-de-evolucion" class="title-slide slide level1 center" data-background-color="#E8F5E9">
+<h1>Ritmo de evolucion</h1>
+
 </section>
-<section id="resumen" class="slide level2">
+<section id="rasgos-en-un-especie" class="slide level2">
+<h2>Rasgos en un especie</h2>
+
+<img data-src="10-assets/trait-evo.png" class="r-stretch"></section>
+<section id="rasgos-en-un-especie-1" class="slide level2">
+<h2>Rasgos en un especie</h2>
+<ul>
+<li class="fragment">Stasis: rasgos cambian poco durante largos periodos de tiempo.</li>
+<li class="fragment">Random walk: rasgos cambian de forma acumulativa a lo largo del tiempo.</li>
+<li class="fragment">Directional change: rasgos cambian consistentemente en una direccion a lo largo del tiempo</li>
+<li class="fragment">Punctuated change: rasgos cambian poco durante largos periodos de tiempo, pero con cambios grandes en periodos cortos.</li>
+</ul>
+</section>
+<section id="rasgos-en-varias-especies" class="slide level2">
+<h2>Rasgos en varias especies</h2>
+
+<img data-src="10-assets/tree-trait-patterns.png" class="r-stretch"></section>
+<section id="rasgos-en-varias-especies-1" class="slide level2 incremental">
+<h2>Rasgos en varias especies</h2>
+<ul>
+<li class="fragment">Selecion direccional: rasgos cambian consistentemente en una direccion a lo largo del tiempo.</li>
+<li class="fragment">Punctuated change: rasgos cambian poco durante largos periodos de tiempo, pero con cambios grandes en periodos cortos.</li>
+<li class="fragment">Convergencia: rasgos similares evolucionan independientemente. (Piensan de las aletas de delfines y tiburones)</li>
+<li class="fragment">Divergencia: rasgos similares evolucionan de forma diferente en varias especies. (Piensan de los picos de pinzones de Darwin)</li>
+<li class="fragment">Siempre, parte del patron actual refleja historia compartida, no solo adaptacion independiente.</li>
+</ul>
+</section>
+<section id="tasas-de-diversificacion" class="slide level2">
+<h2>Tasas de diversificacion</h2>
+
+<img data-src="10-assets/diversification-patterns.png" class="r-stretch"></section>
+<section id="tasas-de-diversificacion-1" class="slide level2">
+<h2>Tasas de diversificacion</h2>
+<ul>
+<li class="fragment">Los clados no necesariamente acumulan especies al mismo ritmo.</li>
+<li class="fragment">Un aumento en diversidad puede reflejar mas especiacion, menos extincion, o ambas cosas.</li>
+<li class="fragment">El patron visible hoy resume procesos que ocurrieron a lo largo de mucho tiempo.</li>
+<li class="fragment">Tasas altas, tasas bajas, estasis, y early bursts dejan huellas distinctas en las filogenias que vemos hoy.</li>
+</ul>
+</section>
+<section id="gradualismo-vs.-saltacion" class="slide level2">
+<h2>Gradualismo vs.&nbsp;saltacion</h2>
+
+<img data-src="10-assets/gradualism-vs-punctuated-equilibrium.jpg" class="r-stretch"></section>
+<section id="misma-trayectoria-distinta-resolucion-temporal-de-muestreo" class="slide level2">
+<h2>Misma trayectoria, distinta resolucion temporal de muestreo</h2>
+
+<img data-src="10-assets/trait_sampling_scale_millennia.png" style="width:95.0%" class="r-stretch"></section>
+<section id="pinzones-y-seqia" class="slide level2">
+<h2>Pinzones y seqia</h2>
+
+<img data-src="10-assets/finch-beak-time-series.avif" class="r-stretch"><ul>
+<li class="fragment">Imaginan si solo tuvieramos datos de picos cada 10,000 años.</li>
+<li class="fragment">Observariamos cambios grandes en picos de forma abrupta, y podriamos inferir que la evolucion ocurre en saltos.</li>
+</ul>
+</section>
+<section id="gradualismo-vs.-saltacion-1" class="slide level2">
+<h2>Gradualismo vs.&nbsp;saltacion</h2>
+<ul>
+<li class="fragment">El cambio evolutivo puede verse como mas continuo o mas concentrado en ciertos intervalos.</li>
+<li class="fragment">Estos modelos describen patrones observados, no leyes absolutas que siempre se cumplan.</li>
+<li class="fragment">La pregunta central es cuando se concentra el cambio, no si la evolucion ocurre o no.</li>
+<li class="fragment">Depende de la escala temporal y de la escala taxonomica que se considere.</li>
+</ul>
+</section>
+<section id="resumen-ritmo-de-evolucion" class="slide level2">
+<h2>Resumen ritmo de evolucion</h2>
+<ul>
+<li class="fragment">El mismo proceso puede parecer gradual o abrupto segun la escala temporal de muestreo.</li>
+<li class="fragment">Los modelos de ritmo son descripciones de patrones, no reglas universales.</li>
+<li class="fragment">Secuencias fosiles y patrones filogeneticos de rasgos y especies pueden dejar huellas distintas, consistentes con diferentes ritmos evolutivos.</li>
+</ul>
+</section></section>
+<section>
+<section id="radiaciones" class="title-slide slide level1 center" data-background-color="#E8F5E9">
+<h1>Radiaciones</h1>
+
+</section>
+<section id="tipos-de-radiaciones" class="slide level2">
+<h2>Tipos de radiaciones</h2>
+
+<img data-src="10-assets/radiation-pattern.png" class="r-stretch"></section>
+<section id="tipos-de-radiaciones-1" class="slide level2">
+<h2>Tipos de radiaciones</h2>
+<blockquote>
+<p>Adaptativa: cuando un linaje se diversifica en muchas especies con diferentes adaptaciones. El aumento en numero de especies esta acompañado de un aumento en diversidad funcional (variacion grande en el rasgo focal).</p>
+</blockquote>
+<blockquote>
+<p>No adaptativa: cuando un linaje se diversifica en muchas especies con adaptaciones similares. El aumento en numero de especies no esta acompañado de un aumento en diversidad funcional (variacion pequeña en el rasgo focal).</p>
+</blockquote>
+</section>
+<section id="como-distinguirlas" class="slide level2">
+<h2>Como distinguirlas?</h2>
+<ul>
+<li class="fragment">Pregunta 1: aumento el numero de especies?</li>
+<li class="fragment">Pregunta 2: tambien aumento la diversidad de rasgos, nichos o funciones?</li>
+<li class="fragment">Si aumentan especies y diversidad funcional, pensamos en radiacion adaptativa.</li>
+<li class="fragment">Si aumentan especies pero los rasgos observables cambian poco, podria ser no adaptativa o adaptativa en otros rasgos que no estamos midiendo.</li>
+</ul>
+</section>
+<section id="castores-de-montaña" class="slide level2 smaller">
+<h2>Castores de montaña</h2>
+<div class="columns">
+<div class="column">
+<p><img data-src="10-assets/beavers.png"></p>
+</div><div class="column">
+<ul>
+<li class="fragment">En los últimos 35 millones de años, han existido unas 30 especies de castores de montaña en el oeste de América del Norte.</li>
+<li class="fragment">La majoria de las nuevas líneas evolutivas surgió hace unos 15 millones de años.</li>
+<li class="fragment">Todos excepto una de estas especies se extinguieron, dejando solo a Aplodontia rufa, la especie que conocemos hoy.</li>
+</ul>
+</div></div>
+</section>
+<section id="cichlidos-de-lago-malawi" class="slide level2">
+<h2>Cichlidos de Lago Malawi</h2>
+<div class="columns">
+<div class="column">
+<p><img data-src="10-assets/malawi-cichlids-radiation-3-stages.png"></p>
+</div><div class="column">
+<p>Radiacion adaptativa en tres etapas: - Estado I: Habitat (roca/arena); - Estado II: Morfología trófica (mandíbulas); - Estado III: Preferencia de pareja (color de macho)</p>
+</div></div>
+</section>
+<section id="pinzones-de-darwin" class="slide level2">
+<h2>Pinzones de Darwin</h2>
+<div class="columns">
+<div class="column">
+<p><img data-src="10-assets/finches-Galapagos-ancestor-bills-shapes-adaptive.webp"></p>
+</div><div class="column">
+<ul>
+<li class="fragment">Colonización de las islas Galápagos por un ancestro común hace 1-2 millones de años.</li>
+<li class="fragment">Diversificación en 14 especies con diferentes adaptaciones a la dieta.</li>
+<li class="fragment">La diversidad de picos refleja la diversidad de nichos ecológicos ocupados por cada especie.</li>
+</ul>
+</div></div>
+</section>
+<section id="resumen-radiaciones" class="slide level2">
+<h2>Resumen radiaciones</h2>
+<ul>
+<li class="fragment">Una radiacion aumenta el numero de especies dentro de un clado.</li>
+<li class="fragment">Puede ser adaptativa (con diversificacion funcional) o no adaptativa.</li>
+<li class="fragment">Para distinguirlas hay que mirar especies y rasgos al mismo tiempo.</li>
+</ul>
+</section></section>
+<section>
+<section id="extincion-y-extinciones-masivas" class="title-slide slide level1 center" data-background-color="#E8F5E9">
+<h1>Extincion y extinciones masivas</h1>
+
+</section>
+<section id="cuanto-tiempo-existen-las-especies" class="slide level2">
+<h2>Cuanto tiempo existen las especies?</h2>
+<div class="columns">
+<div class="column">
+<p><img data-src="10-assets/molusks-rise-and-fall.png"></p>
+</div><div class="column">
+<ul>
+<li class="fragment">Generalmente, las especies extinguen después de unos pocos millones de años.</li>
+<li class="fragment">Solo algunas especies persisten durante decenas de millones de años.</li>
+<li class="fragment">La tasa de extinción puede variar a lo largo del tiempo y entre grupos taxonómicos.</li>
+</ul>
+</div></div>
+</section>
+<section id="variacion-en-la-tasa-de-extincion-taxonomica" class="slide level2 smaller">
+<h2>Variacion en la tasa de extincion taxonomica</h2>
+<div class="columns">
+<div class="column">
+<p><img data-src="10-assets/Extinction-EOINDEX.png"></p>
+</div><div class="column">
+<ul>
+<li class="fragment">Algunos grupos taxonómicos tienen tasas de extinción más altas que otros.</li>
+<li class="fragment">Por ejemplo, las estimaciones actuales indican que los anfibios tienen una tasa de extinción más alta que los reptiles, los mamíferos, y las aves.</li>
+<li class="fragment">Esto puede deberse a factores como la sensibilidad a cambios ambientales, la pérdida de hábitat, y la exposición a enfermedades.</li>
+</ul>
+</div></div>
+</section>
+<section id="variacion-en-la-tasa-de-extincion-temporal" class="slide level2">
+<h2>Variacion en la tasa de extincion temporal</h2>
+<div class="columns">
+<div class="column">
+<p><img data-src="10-assets/extinction-rate-global.png"></p>
+</div><div class="column">
+<ul>
+<li class="fragment">La tasa de extinción global ha variado a lo largo del tiempo geológico.</li>
+<li class="fragment">Periodos de extinción masiva, donde la tasa de extinción fue significativamente más alta que el promedio</li>
+<li class="fragment">Periodos de relativa estabilidad, donde la tasa de extinción fue más baja.</li>
+</ul>
+</div></div>
+</section>
+<section id="extinciones-masivas-the-big-five" class="slide level2">
+<h2>Extinciones masivas (The big five)</h2>
+
+<img data-src="10-assets/big-five-plus-now-extinction.webp" class="r-stretch"></section>
+<section id="extinciones-masivas-the-big-five-1" class="slide level2 smaller">
+<h2>Extinciones masivas (The big five)</h2>
+<ul>
+<li class="fragment">Generalmente extinction de &gt; 75% de especies en un periodo geologico corto (menos de 2 millones de años).</li>
+<li class="fragment">Causas: cambios ambientales rapidos, impactos de meteoritos, actividad volcanica intensa, cambios en el nivel del mar, cambios climaticos extremos.</li>
+<li class="fragment">Ejemplos de grupos afectados: trilobites, braquiópodos, corales, ammonites, dinosaurios, mamíferos marinos.</li>
+<li class="fragment">Consecuencias: perdida de biodiversidad, cambios en la estructura de los ecosistemas, oportunidades para radiaciones adaptativas de linajes sobrevivientes.</li>
+<li class="fragment">La más famosa: Cretácico-Paleógeno (KT) hace 66 millones de años, que extinguió a los dinosaurios no avianos y permitió la diversificación de mamíferos y aves.</li>
+</ul>
+</section>
+<section id="extinción-masiva-6-actualidad" class="slide level2">
+<h2>Extinción masiva 6 (actualidad)</h2>
+
+<img data-src="10-assets/extinction-rate-future.png" class="r-stretch"></section>
+<section id="extinción-masiva-6-actualidad-1" class="slide level2 smaller">
+<h2>Extinción masiva 6 (actualidad)</h2>
+<ul>
+<li class="fragment">La tasa actual de extinción es alrededor de 1000 veces mayor que la tasa de fondo promedio.</li>
+<li class="fragment">Estimada alrededor de 100 especies por 1000 especies por 1000 años.</li>
+<li class="fragment">En otras palabras, <strong>alrededor del 10% de la diversidad por cada 1000 años</strong>.</li>
+<li class="fragment">La tasa en el futuro según modelos de extinción proyectada puede ser 10 veces mayor que la tasa actual.</li>
+<li class="fragment">Causas: actividad humana, destrucción de hábitat, cambio climático, contaminación, sobreexplotación de especies, introducción de especies invasoras.</li>
+</ul>
+</section>
+<section id="resumen" class="slide level2" data-background-color="#E8F5E9">
 <h2>Resumen</h2>
-<ol type="1">
-<li class="fragment">Secuencia first-last: partimos del registro fosil sin arbol.</li>
-<li class="fragment">Conteo de eventos + lineage-time: derivamos tasas de forma transparente.</li>
-<li class="fragment">Definimos formalmente <span class="math inline">\(\lambda\)</span>, <span class="math inline">\(\mu\)</span> y <span class="math inline">\(r\)</span>.</li>
-<li class="fragment">Con esas tasas, vemos trayectorias estocasticas distintas.</li>
-<li class="fragment">LTT: una capa de resumen, no el punto de partida conceptual.</li>
-</ol>
+<ul>
+<li class="fragment">La macroevolucion conecta cambios en poblaciones con patrones de diversidad, radiacion y extincion a gran escala.</li>
+<li class="fragment">Las tasas ayudan a describir esos procesos, pero no funcionan como horarios fijos.</li>
+<li class="fragment">El patron observado depende de historia real, muestreo, preservacion y escala temporal.</li>
+<li class="fragment">Entender macroevolucion nos ayuda a interpretar tanto la historia profunda de la vida como los cambios que observamos hoy.</li>
+</ul>
 
 
 </section></section>
@@ -523,190 +767,172 @@
       });
     </script>
     <script id="quarto-html-after-body" type="application/javascript">
-    window.document.addEventListener("DOMContentLoaded", function (event) {
-      const toggleBodyColorMode = (bsSheetEl) => {
-        const mode = bsSheetEl.getAttribute("data-mode");
-        const bodyEl = window.document.querySelector("body");
-        if (mode === "dark") {
-          bodyEl.classList.add("quarto-dark");
-          bodyEl.classList.remove("quarto-light");
-        } else {
-          bodyEl.classList.add("quarto-light");
-          bodyEl.classList.remove("quarto-dark");
-        }
-      }
-      const toggleBodyColorPrimary = () => {
-        const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-        if (bsSheetEl) {
-          toggleBodyColorMode(bsSheetEl);
-        }
-      }
-      toggleBodyColorPrimary();  
-      const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
-      tabsets.forEach(function(tabset) {
-        const tabby = new Tabby('#' + tabset.id);
-      });
-      const isCodeAnnotation = (el) => {
-        for (const clz of el.classList) {
-          if (clz.startsWith('code-annotation-')) {                     
-            return true;
-          }
-        }
-        return false;
-      }
-      const onCopySuccess = function(e) {
-        // button target
-        const button = e.trigger;
-        // don't keep focus
-        button.blur();
-        // flash "checked"
-        button.classList.add('code-copy-button-checked');
-        var currentTitle = button.getAttribute("title");
-        button.setAttribute("title", "Copiado");
-        let tooltip;
-        if (window.bootstrap) {
-          button.setAttribute("data-bs-toggle", "tooltip");
-          button.setAttribute("data-bs-placement", "left");
-          button.setAttribute("data-bs-title", "Copiado");
-          tooltip = new bootstrap.Tooltip(button, 
-            { trigger: "manual", 
-              customClass: "code-copy-button-tooltip",
-              offset: [0, -8]});
-          tooltip.show();    
-        }
-        setTimeout(function() {
-          if (tooltip) {
-            tooltip.hide();
-            button.removeAttribute("data-bs-title");
-            button.removeAttribute("data-bs-toggle");
-            button.removeAttribute("data-bs-placement");
-          }
-          button.setAttribute("title", currentTitle);
-          button.classList.remove('code-copy-button-checked');
-        }, 1000);
-        // clear code selection
-        e.clearSelection();
-      }
-      const getTextToCopy = function(trigger) {
-          const codeEl = trigger.previousElementSibling.cloneNode(true);
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
             }
           }
-          return codeEl.innerText;
-      }
-      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-        text: getTextToCopy
-      });
-      clipboard.on('success', onCopySuccess);
-      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-          text: getTextToCopy,
-          container: window.document.getElementById('quarto-embedded-source-code-modal')
-        });
-        clipboardModal.on('success', onCopySuccess);
-      }
-        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-        var mailtoRegex = new RegExp(/^mailto:/);
-          var filterRegex = new RegExp('/' + window.location.host + '/');
-        var isInternal = (href) => {
-            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          return false;
         }
-        // Inspect non-navigation links and adorn them if external
-     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-        for (var i=0; i<links.length; i++) {
-          const link = links[i];
-          if (!isInternal(link.href)) {
-            // undo the damage that might have been done by quarto-nav.js in the case of
-            // links that we want to consider external
-            if (link.dataset.originalHref !== undefined) {
-              link.href = link.dataset.originalHref;
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copiado");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copiado");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
             }
-          }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
         }
-      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-        const config = {
-          allowHTML: true,
-          maxWidth: 500,
-          delay: 100,
-          arrow: false,
-          appendTo: function(el) {
-              return el.closest('section.slide') || el.parentElement;
-          },
-          interactive: true,
-          interactiveBorder: 10,
-          theme: 'light-border',
-          placement: 'bottom-start',
-        };
-        if (contentFn) {
-          config.content = contentFn;
-        }
-        if (onTriggerFn) {
-          config.onTrigger = onTriggerFn;
-        }
-        if (onUntriggerFn) {
-          config.onUntrigger = onUntriggerFn;
-        }
-          config['offset'] = [0,0];
-          config['maxWidth'] = 700;
-        window.tippy(el, config); 
-      }
-      const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-      for (var i=0; i<noterefs.length; i++) {
-        const ref = noterefs[i];
-        tippyHover(ref, function() {
-          // use id or data attribute instead here
-          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-          try { href = new URL(href).hash; } catch {}
-          const id = href.replace(/^#\/?/, "");
-          const note = window.document.getElementById(id);
-          if (note) {
-            return note.innerHTML;
-          } else {
-            return "";
-          }
-        });
-      }
-      const findCites = (el) => {
-        const parentEl = el.parentElement;
-        if (parentEl) {
-          const cites = parentEl.dataset.cites;
-          if (cites) {
-            return {
-              el,
-              cites: cites.split(' ')
-            };
-          } else {
-            return findCites(el.parentElement)
-          }
-        } else {
-          return undefined;
-        }
-      };
-      var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-      for (var i=0; i<bibliorefs.length; i++) {
-        const ref = bibliorefs[i];
-        const citeInfo = findCites(ref);
-        if (citeInfo) {
-          tippyHover(citeInfo.el, function() {
-            var popup = window.document.createElement('div');
-            citeInfo.cites.forEach(function(cite) {
-              var citeDiv = window.document.createElement('div');
-              citeDiv.classList.add('hanging-indent');
-              citeDiv.classList.add('csl-entry');
-              var biblioDiv = window.document.getElementById('ref-' + cite);
-              if (biblioDiv) {
-                citeDiv.innerHTML = biblioDiv.innerHTML;
+        const getTextToCopy = function(trigger) {
+            const codeEl = trigger.previousElementSibling.cloneNode(true);
+            for (const childEl of codeEl.children) {
+              if (isCodeAnnotation(childEl)) {
+                childEl.remove();
               }
-              popup.appendChild(citeDiv);
-            });
-            return popup.innerHTML;
+            }
+            return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp('/' + window.location.host + '/');
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
           });
         }
-      }
-    });
-    </script>
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
     
 
 </body></html>
